@@ -124,10 +124,26 @@ static IMCContentLoader* _instance = nil;
     }
     
     
-
-    NSLog(@"Response: %@, len: %d", [[NSString alloc]initWithData:data encoding:NSUTF8StringEncoding], [data length]);
     
-
+    NSString* logStatement = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
+    if ([logStatement rangeOfString:@"Sign in"].location == NSNotFound)
+    {
+        
+    } else
+    {
+        dispatch_async(dispatch_get_main_queue(), ^{
+            UIAlertView* alert = [[UIAlertView alloc] initWithTitle:@"Username or Password incorrect." message:error.debugDescription delegate:nil cancelButtonTitle:@"Ok" otherButtonTitles:nil];
+            [alert show];
+        });
+        
+        NSLog(@"Username or Password incorrect.");
+        data = nil;
+       
+    }
+    
+    NSLog(@"Response:  %@  Length:  %d", logStatement, data.length);
+   
+    
     
     return data && ([[[NSString alloc]initWithData:data encoding:NSUTF8StringEncoding] rangeOfString:@"name=\"user[password]\""].length == 0);
 }
