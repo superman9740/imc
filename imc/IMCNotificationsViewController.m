@@ -39,7 +39,14 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
+    NSDate *date = [NSDate date];
+    NSDateFormatter *dateFormat = [[NSDateFormatter alloc]init];
+    [dateFormat setDateFormat:@"M/d/YY"];
+    NSString *dateString = [dateFormat stringFromDate:date];
+    _dateLabel.text = [NSString stringWithFormat:@"(as of %@)", dateString];
+    
+
+    
 }
 
 - (void)didReceiveMemoryWarning

@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "IMCUpdatesProvider.h"
+#import "globalDefines.h"
 
 @interface IMCNotificationsItemCell : UITableViewCell
 
@@ -24,6 +25,10 @@
     IBOutlet IMCNotificationsItemCell* tmpNotificationsCell;
     IMCUpdatesProvider* provider;
 }
+
+@property (nonatomic, strong) IBOutlet UILabel* dateLabel;
+@property (nonatomic, strong) IBOutlet UILabel* headerText;
+
 
 -(id) initWithUpdateProvider:(IMCUpdatesProvider*)p;
 -(IBAction)closePopup;
