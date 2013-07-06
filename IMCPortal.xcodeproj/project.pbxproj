@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C7E94821788BC8200510EF7 /* CopyLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C7E94811788BC8200510EF7 /* CopyLabel.m */; };
 		FF02FD2416ECA362007B887F /* IMCNotificationsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF02FD2216ECA362007B887F /* IMCNotificationsViewController.m */; };
 		FF02FD2516ECA362007B887F /* IMCNotificationsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF02FD2316ECA362007B887F /* IMCNotificationsViewController.xib */; };
 		FF02FD2916ECA381007B887F /* IMCContactsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF02FD2716ECA381007B887F /* IMCContactsViewController.m */; };
@@ -138,6 +139,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C7E94801788BC8200510EF7 /* CopyLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CopyLabel.h; sourceTree = "<group>"; };
+		3C7E94811788BC8200510EF7 /* CopyLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CopyLabel.m; sourceTree = "<group>"; };
 		5ECF0E411785DA0A006BE487 /* imc.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = imc.entitlements; sourceTree = "<group>"; };
 		FF02FD2116ECA362007B887F /* IMCNotificationsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMCNotificationsViewController.h; sourceTree = "<group>"; };
 		FF02FD2216ECA362007B887F /* IMCNotificationsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IMCNotificationsViewController.m; sourceTree = "<group>"; };
@@ -327,6 +330,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3C7E947F1788BC6D00510EF7 /* CustomClasses */ = {
+			isa = PBXGroup;
+			children = (
+				3C7E94801788BC8200510EF7 /* CopyLabel.h */,
+				3C7E94811788BC8200510EF7 /* CopyLabel.m */,
+			);
+			name = CustomClasses;
+			sourceTree = "<group>";
+		};
 		FF4A20BF16D2EFBE008514E4 = {
 			isa = PBXGroup;
 			children = (
@@ -366,6 +378,7 @@
 		FF4A20D116D2EFBE008514E4 /* imc */ = {
 			isa = PBXGroup;
 			children = (
+				3C7E947F1788BC6D00510EF7 /* CustomClasses */,
 				5ECF0E411785DA0A006BE487 /* imc.entitlements */,
 				FF9573FA16DFA6EA00AD4A3F /* ContentLoader */,
 				FF4A20F916D2F1FA008514E4 /* data */,
@@ -852,6 +865,7 @@
 				FFEF2B2F170EDA6A00F44EA2 /* IMCFadeBordersTableView.m in Sources */,
 				FFEF2B32170EDB5000F44EA2 /* IMCGradientImageView.m in Sources */,
 				FF7A9B60171383EA000D68D3 /* IMCBRowserViewController.m in Sources */,
+				3C7E94821788BC8200510EF7 /* CopyLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -952,15 +966,15 @@
 		FF4A20EF16D2EFBE008514E4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: lance campbell (MTL2283Y79)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: lance campbell (MTL2283Y79)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Ronald Dickson (C3829LN65T)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Ronald Dickson (C3829LN65T)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "imc/IMCPortal-Prefix.pch";
 				INFOPLIST_FILE = imc/info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = IMCPortal;
-				PROVISIONING_PROFILE = "";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				PROVISIONING_PROFILE = "4150BA47-5952-4B41-B53A-D377E520B4F4";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4150BA47-5952-4B41-B53A-D377E520B4F4";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
@@ -970,14 +984,14 @@
 		FF4A20F016D2EFBE008514E4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: lance campbell (MTL2283Y79)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Ronald Dickson (C3829LN65T)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: lance campbell (MTL2283Y79)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "imc/IMCPortal-Prefix.pch";
 				INFOPLIST_FILE = imc/info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = IMCPortal;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "2933C428-BF74-4B5D-AA3D-3A68D073C560";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;

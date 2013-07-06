@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "IMCImageItem.h"
+#import "CopyLabel.h"
 
 @interface IMCVideoItem : UIView {
     IMCAutoLoadableImageView* thumbnailImage;

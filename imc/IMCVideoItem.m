@@ -98,42 +98,91 @@
 }
 
 -(void) addLabelWithTitle:(NSString*)title andText:(NSString*)text {
-    NSString* labelText = [NSString stringWithFormat:@"%@ %@\n",title, text];
     
-    UILabel* thumbnailLabel = [[UILabel alloc] initWithFrame:CGRectZero];
+    if([title isEqualToString:@"Code:"])
+    {
     
+        NSString* labelText = [NSString stringWithFormat:@"%@ %@\n",title, text];
+        
+        CopyLabel* thumbnailLabel = [[CopyLabel alloc] initWithFrame:CGRectZero];
+        
+        
+        
+        
+        const CGFloat fontSize = 11;
+        UIFont *boldFont = [UIFont boldSystemFontOfSize:fontSize];
+        UIFont *regularFont = [UIFont systemFontOfSize:fontSize];
+        UIColor *foregroundColor = IMC_RED_COLOR;
+        
+        // Create the attributes
+        NSDictionary *attrs = [NSDictionary dictionaryWithObjectsAndKeys:
+                               boldFont, NSFontAttributeName,
+                               foregroundColor, NSForegroundColorAttributeName, nil];
+        NSDictionary *subAttrs = [NSDictionary dictionaryWithObjectsAndKeys:
+                                  regularFont, NSFontAttributeName,
+                                  [UIColor blackColor],NSForegroundColorAttributeName, nil];
+        const NSRange range = NSMakeRange([title length]+1,[text length]);
+        
+        
+        // Create the attributed string (text + attributes)
+        NSMutableAttributedString *attributedText =
+        [[NSMutableAttributedString alloc] initWithString:labelText
+                                               attributes:attrs];
+        [attributedText setAttributes:subAttrs range:range];
+        
+        // Set it in our UILabel and we are done!
+        [thumbnailLabel setAttributedText:attributedText];
+        
+        [thumbnailLabel setBackgroundColor:[UIColor clearColor]];
+        
+        [thumbnailLabel setTextAlignment:NSTextAlignmentCenter];
+        [self addSubview:thumbnailLabel];
+        [thumbnailLabels addObject:thumbnailLabel];
+        
+    }
+    else
+    {
     
+        NSString* labelText = [NSString stringWithFormat:@"%@ %@\n",title, text];
+        
+        UILabel* thumbnailLabel = [[UILabel alloc] initWithFrame:CGRectZero];
+        
+        
+        
+        
+        const CGFloat fontSize = 11;
+        UIFont *boldFont = [UIFont boldSystemFontOfSize:fontSize];
+        UIFont *regularFont = [UIFont systemFontOfSize:fontSize];
+        UIColor *foregroundColor = IMC_RED_COLOR;
+        
+        // Create the attributes
+        NSDictionary *attrs = [NSDictionary dictionaryWithObjectsAndKeys:
+                               boldFont, NSFontAttributeName,
+                               foregroundColor, NSForegroundColorAttributeName, nil];
+        NSDictionary *subAttrs = [NSDictionary dictionaryWithObjectsAndKeys:
+                                  regularFont, NSFontAttributeName,
+                                  [UIColor blackColor],NSForegroundColorAttributeName, nil];
+        const NSRange range = NSMakeRange([title length]+1,[text length]);
+        
+        
+        // Create the attributed string (text + attributes)
+        NSMutableAttributedString *attributedText =
+        [[NSMutableAttributedString alloc] initWithString:labelText
+                                               attributes:attrs];
+        [attributedText setAttributes:subAttrs range:range];
+        
+        // Set it in our UILabel and we are done!
+        [thumbnailLabel setAttributedText:attributedText];
+        
+        [thumbnailLabel setBackgroundColor:[UIColor clearColor]];
+        
+        [thumbnailLabel setTextAlignment:NSTextAlignmentCenter];
+        [thumbnailLabel becomeFirstResponder];
+        
+        [self addSubview:thumbnailLabel];
+        [thumbnailLabels addObject:thumbnailLabel];
+    }
     
-    
-    const CGFloat fontSize = 11;
-    UIFont *boldFont = [UIFont boldSystemFontOfSize:fontSize];
-    UIFont *regularFont = [UIFont systemFontOfSize:fontSize];
-    UIColor *foregroundColor = IMC_RED_COLOR;
-    
-    // Create the attributes
-    NSDictionary *attrs = [NSDictionary dictionaryWithObjectsAndKeys:
-                           boldFont, NSFontAttributeName,
-                           foregroundColor, NSForegroundColorAttributeName, nil];
-    NSDictionary *subAttrs = [NSDictionary dictionaryWithObjectsAndKeys:
-                              regularFont, NSFontAttributeName,
-                              [UIColor blackColor],NSForegroundColorAttributeName, nil];
-    const NSRange range = NSMakeRange([title length]+1,[text length]);
-    
-    
-    // Create the attributed string (text + attributes)
-    NSMutableAttributedString *attributedText =
-    [[NSMutableAttributedString alloc] initWithString:labelText
-                                           attributes:attrs];
-    [attributedText setAttributes:subAttrs range:range];
-    
-    // Set it in our UILabel and we are done!
-    [thumbnailLabel setAttributedText:attributedText];
-    
-    [thumbnailLabel setBackgroundColor:[UIColor clearColor]];
-
-    [thumbnailLabel setTextAlignment:NSTextAlignmentCenter];
-    [self addSubview:thumbnailLabel];
-    [thumbnailLabels addObject:thumbnailLabel];
 }
 
 
