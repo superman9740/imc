@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Marketing Asset Activation is best in class activation of our assets with communication that enhances our trademark in order to maximize our investment and drive business results.&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Maximize our investments with critical assets to enhance our trademark and leverage our association in a relevant and compelling way.
+
+Drive opportunistic availability of our brands in priority channels and provide a distinct competitive advantage with our consumers.
+
+Recruit youth via availability and connection.
+
+Create personal, meaningful connections between consumers, our brands and their Sports/Entertainment passions that are unique and special.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Trademark enhancement is best in class activation of our assets with sustaining communication that enhances our trademark in order to maximize our investment and drive business results
+
+&lt;a href="event:link|maa_guide_college" &gt;/ Marketing Asset Activation Guide&lt;/a&gt;
+&lt;a href="event:link|maa_guiding_principles" &gt;/ MAA Guiding Principles&lt;/a&gt;
+&lt;a href="event:link|maa_implementation_tools" &gt;/ MAA Implementation Tools&lt;/a&gt;
+&lt;a href="event:link|customer_sales_aid" &gt;/ Customer Sales Aid&lt;/a&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative customized elements utilizing pre-approved templates facilitate asset activation in-venue&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION CATEGORIES&lt;/textHeader&gt;
+&lt;textBody&gt;Marketing Asset Activation
+Marketing Assets
+Live Positively Merchandising
+Give It Back Merchandising&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE BRAND GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;BRAND GUIDELINES&lt;/textHeader&gt;
+&lt;textBody&gt;Priority Sparkling:  
+1) Coca-Cola   
+2) Coke Zero  
+3) Sprite  
+4) Diet Coke
+
+Priority Still for Colleges:  
+1) vitaminwater base  
+2) vitaminwater Zero 
+3) PowerAde ion 4  
+4) smartwater
+&lt;/textBody&gt;
+&lt;textNote&gt;* These priorities should be followed when activating sustaining elements. All appropriate promotional brands should be used to support national program efforts.&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--C-Store/Bookstore-->
+    <screen title="C-Store/Bookstore" id="CSB" group="Marketing Asset Activation">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/maa_c-store-bookstore.swf" />
+      </card>
+    </screen>
+    <!--Cafeteria-->
+    <screen title="Cafeteria" id="CAF" group="Marketing Asset Activation">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/maa_cafeteria.swf" />
+      </card>
+    </screen>
+    <!--Vending Bank-->
+    <screen title="Vending Bank" id="VEN" group="Marketing Asset Activation">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/maa_vending-bank.swf" />
+      </card>
+    </screen>
+    <!--Window Decal-->
+    <screen title="Window Decal" id="WND" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_window-decal.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Cards-->
+    <screen title="Counter Cards" id="CCS" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_counter-cards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cup Counter Card or Dangler-->
+    <screen title="Cup Counter Card or Dangler" id="CCC" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_cup-card_dangler.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Large Danglers-->
+    <screen title="Large Danglers" id="LAD" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_large-danglers.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Clings-->
+    <screen title="Static Clings" id="SCL" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_static-clings.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Floor Decal-->
+    <screen title="Floor Decal" id="FLD" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_floor-decal.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Directional Signage-->
+    <screen title="Directional Signage" id="DIR" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_directional-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Above Cooler Graphics-->
+    <screen title="Above Cooler Graphics" id="ACG" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_above-cooler-graphics.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Vending Ad Panel-->
+    <screen title="Vending Ad Panel" id="VAP" group="Marketing Assets">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/ma_vending-ad-panel.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Clings-->
+    <screen title="Static Clings" id="GSC" group="Give It Back Merchandising">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/gibm_static-clings.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Vending Snipes-->
+    <screen title="Vending Snipes" id="VSN" group="Give It Back Merchandising">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/gibm_vending-snipes.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycle Bin Merchandising-->
+    <screen title="Recycle Bin Merchandising" id="RBM" group="Give It Back Merchandising">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/retail-college/gibm_recyle-bin-merch.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_retail_college" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycling Bins-->
+    <screen title="Recycling Bins" id="RBS" group="Give It Back Merchandising">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_recycling-bins.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Recycling Bins:
+
+Coke Bins
+&lt;a href="event:link|coke-bins_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

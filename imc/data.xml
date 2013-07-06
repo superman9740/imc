@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <strings>
+    <title>IMC Creative Toolkits</title>
+    <dates>2010-2011</dates>
+    <copyright>2011 TCCC.  All rights reserved.</copyright>
+    <debug>true</debug>
+  </strings>
+  <strings>
+    <title>IMC Creative Toolkits</title>
+    <dates>2010-2011</dates>
+    <copyright>2011 TCCC.  All rights reserved.</copyright>
+    <debug>true</debug>
+  </strings>
+  <web>
+    <formURL>https://teams.coca-cola.com/sites/toolkit/Lists/emails/NewForm.aspx</formURL>
+    <source>/sites/toolkit/sitepages/sent.aspx</source>
+    <defaultSubject>Coca-Cola contact</defaultSubject>
+    <defaultMessage>From Coca-Cola...</defaultMessage>
+  </web>
+  <locations>
+    <media>media/</media>
+    <data>media/xml/</data>
+    <images>media/jpg/</images>
+    <thumbs>media/thumbs/</thumbs>
+    <video>media/flv/</video>
+    <audio>media/mp3/</audio>
+    <updates>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements%28%29?&amp;$select=Title,Body</updates>
+  </locations>
+  <links>
+    <link id="help_page" url="http://www.gilbertcreative.com/~dev/test_links/under_construction.html" />
+    <link id="contact_sheet" url="assets/_common/contact_sheet.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_baseball" url="assets/baseball/Guide_Zone_Strategy_Baseball.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_football" url="assets/football/Guide_Zone_Strategy_College-Football.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_basketball" url="assets/basketball/Guide_Zone_Strategy_College-Basketball.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_aquarium" url="assets/aquarium/Guide_Zone_Strategy_Aquarium.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_music" url="assets/music/Guide_Zone_Strategy_Music.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_theme-park" url="assets/theme-park/Guide_Zone_Strategy_Theme-Park.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_zoo" url="assets/zoo/Guide_Zone_Strategy_Zoo.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_hockey" url="assets/hockey/Guide_Zone_Strategy_Hockey.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_golf" url="assets/golf/Guide_Zone_Strategy_Golf.pdf" relative="true" />
+    <link id="in-venue_zone-strategy_nascar" url="assets/motorsports/Guide_Zone_Strategy_NASCAR.pdf" relative="true" />
+    <link id="maa_guide_college" url="assets/retail-college/Guide_Asset-Activation_College.pdf" relative="true" />
+    <link id="maa_guiding_principles" url="assets/_common/Guide_MAA_Principles.pdf" relative="true" />
+    <link id="maa_guiding_principles_hockey" url="assets/hockey/Guide_MAA_Principles_Hockey.pdf" relative="true" />
+    <link id="maa_implementation_tools" url="assets/_common/Guide_MAA_Implementation_Tools.pdf" relative="true" />
+    <link id="customer_sales_aid" url="assets/_common/Guide_Customer-Sales-Aid.pdf" relative="true" />
+    <link id="guide_asset_activation_celebration" url="assets/celebration/Guide_Asset-Activation_Celebration.pdf" relative="true" />
+    <link id="guide_activation_american_idol" url="assets/american_idol/AI_Activation_Guide.pdf" relative="true" />
+    <link id="fleet_design_system" url="assets/fleet/fleet_design-system.pdf" relative="true" />
+    <link id="fleet_system_trucks" url="assets/fleet/fleet-system_trucks.pdf" relative="true" />
+    <link id="fleet_system_vans_cars" url="assets/fleet/fleet-system_vans-cars.pdf" relative="true" />
+    <link id="broadcast_form" url="https://teams.coca-cola.com/sites/toolkit/order/broadcast_baseball" />
+    <link id="broadcast-baseball_form" url="https://teams.coca-cola.com/sites/toolkit/order/broadcast_baseball" />
+    <link id="broadcast-coaches_form" url="https://teams.coca-cola.com/sites/toolkit/order/broadcast_baseball" />
+    <link id="broadcast-excluding_form" url="https://teams.coca-cola.com/sites/toolkit/order/broadcast_baseball" />
+    <link id="non_broadcast_form" url="media/order/Form_Non-Broadcast_TV-Radio.pdf" />
+    <link id="non_broadcast_form_bottlers" url="media/order/Form_Non-Broadcast_TV-Radio_Bottlers.pdf" />
+    <link id="radio-network_form" url="https://teams.coca-cola.com/sites/toolkit/order/radio_network" />
+    <link id="radio-individuals_form" url="media/order/Form_Individual-Stations_Radio.pdf" />
+    <link id="radio-brief_form" url="media/order/Form_Radio-Brief.pdf" />
+    <link id="ooh-print-brief_form" url="media/order/Form_OOH-Brief_v1.pdf" />
+    <link id="internet_use_form_tv" url="media/order/Internet_TV.docx" />
+    <link id="internet_use_form_radio" url="media/order/Internet_Radio.docx" />
+    <link id="design_machine_site" url="http://www.coca-coladesignmachine.com/" />
+    <link id="design_machine_deep_baseball" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:ee618318-2dea-44f3-8ab1-9c08000a6590&amp;SortField=modified" />
+    <link id="design_machine_deep_basketball" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:5d2c5504-f31d-4b8f-8bea-a0a8008fa7fc&amp;SortField=modified" />
+    <link id="design_machine_deep_basketball_pro" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:9a3700c1-dc66-4202-9b09-a0a8008f8727&amp;SortField=modified" />
+    <link id="design_machine_deep_football" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:2f4e5318-fe10-4de3-8d8b-9dca016182e9&amp;SortField=modified" />
+    <link id="design_machine_deep_hockey" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:95e370ba-bc22-49e7-b3ef-9d1100f560cc&amp;SortField=modified" />
+    <link id="design_machine_deep_motorsports" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:87513c38-15cd-4d29-a75b-88dfe4f8f0fc&amp;SortField=modified" />
+    <link id="design_machine_deep_beaches" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:662b5e03-25f7-4fb2-9eba-9d3600f78018&amp;SortField=modified" />
+    <link id="design_machine_deep_ooh_partner_logo" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,c911e6f9-c635-4772-a029-e9b92ab4c3c1:e80086c4-a9d4-48d4-9846-fc7f6a1dc4dc&amp;SortField=modified" />
+    <link id="design_machine_deep_cr_hispanic" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:6dfeead5-21c1-4847-a937-9e0e0178f475,6f314255-c776-45de-b4ee-fb052b82a894:405bf905-82d2-462f-890d-a65aeaad3e6a&amp;SortField=modified" />
+    <link id="design_machine_deep_cr_aa" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:cec705f3-052e-406f-824e-9ded012ecbc8,6f314255-c776-45de-b4ee-fb052b82a894:405bf905-82d2-462f-890d-a65aeaad3e6a&amp;SortField=modified" />
+    <link id="design_machine_deep_retail_college" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:2304b585-9a55-4d6f-8783-9fd301667d24&amp;SortField=modified" />
+    <link id="design_machine_deep_holiday" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:8f82c1be-39d2-400a-9294-9f4b01664923&amp;SortField=modified" />
+    <link id="design_machine_deep_ski" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:ba0eeb04-dc39-4615-afcc-9fe4012b19e1&amp;SortField=modified" />
+    <link id="design_machine_deep_music" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:88296b1b-bcaa-4b18-8006-9df1016edb47&amp;SortField=modified" />
+    <link id="design_machine_deep_aquarium" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:b65c50c9-c84e-4131-943e-a12a00fd7fb5&amp;SortField=modified" />
+    <link id="design_machine_deep_fleet" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,be4e2fe7-0f21-45eb-ae58-4ae5868efd15:26e69836-e315-45ed-bbfc-974ad2bda8de&amp;SortField=modified" />
+    <link id="design_machine_deep_soccer" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=24fc3a25-bc4b-4866-8e98-c07d302b3d3f,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:e5a28ccf-9abe-4717-8e55-9fe401427c83&amp;SortField=modified" />
+    <link id="design_machine_deep_american_idol" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,7d73d51e-4602-4607-a8dc-0975e80cc93a:d508ec1b-ba90-4577-b04b-ab208fa6ab7c,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:03d11b3e-13d4-4c34-a748-a1500078f5c1&amp;SortField=modified" />
+    <link id="design_machine_guide" url="assets/_common/Guide_Design_Machine.pdf" relative="true" />
+    <link id="ko-signage_guide" url="assets/_common/Guide_KOSignage.pdf" relative="true" />
+    <link id="kwikee_client_site" url="http://cocacola.multiad.com/" />
+    <link id="dedica_site" url="http://www.dedicagroup.com/dedica_web/" />
+    <link id="work_a_ma_jig_site" url="https://app8.workamajig.com/default.aspx" />
+    <link id="spread_the_red_site" url="http://www.spreadthered.com/LogIn.aspx" />
+    <link id="look_of_success_site" url="http://www.cokemenuboards.com" />
+    <link id="weaver_media_site" url="http://www.weavermedia.us" />
+    <link id="finished-art_guide" url="assets/_common/Guide_Finished-Art.pdf" relative="true" />
+    <link id="finished-art_site" url="http://www.finishedart.com" />
+    <link id="finished-art-dashboard_site" url="http://dashboard.finishedart.com/" />
+    <link id="coke-bins_site" url="http://www.cokebins.com" />
+    <link id="howard-co_site" url="http://www.howardcompany.com/Howardcompany.htm" />
+    <link id="weaver-media_site" url="http://www.weavermedia.us/contactus.html" />
+    <link id="ko-signage_site" url="http://www.kosignage.com" />
+    <link id="coke-in-venue_site" url="http://www.cokeinvenue.com " />
+    <link id="coke-in-venue_guide" url="assets/_common/Guide_In_Venue_Signage.pdf" relative="true" />
+    <link id="coke-in-venue_deep" url="http://www.coca-coladesignmachine.com/live/Browse/Link.msp?DeepLink=00000000-0000-0000-0000-000000000000,c1bc57e5-d9b4-4e2a-bede-4959dc387c98:9d13e81f-dbda-4aee-b5ec-cc6398927c08,c911e6f9-c635-4772-a029-e9b92ab4c3c1:a7311944-7458-45cd-b7c7-c1ebbb14b8ce,be4e2fe7-0f21-45eb-ae58-4ae5868efd15:726d6a2a-a000-46ea-aa9c-2542c0327cee&amp;SortField=modified" />
+    <link id="ooh-cdn_template_guide" url="assets/ooh_cdn/Guide_OOH_CDN_Regional_Template_Process.pdf" relative="true" />
+    <link id="2B-design_site" url="http://www.2bdesignstudio.com/2B_Design/index.html" />
+    <link id="spotlight_site" url="http://www.spotlight.net/ccar" />
+    <link id="fitzgerald_site" url="http://www.fitzco.com/" />
+    <link id="dalb_site" url="http://www.dalb.com/" />
+    <link id="coke-catalog_site" url="https://www.cokecatalog.com/" />
+    <link id="mozes_site" url="http://www.mozes.com/" />
+    <link id="printroom_site" url="http://www.printroom.com/" />
+    <link id="cokecustom_site" url="http://www.cokecustom.com/catalog/" />
+    <link id="summit_site" url="www.coca-cola.summitmg.com" />
+    <link id="american_screen_art" url="http://www.AmericanScreenArt.com" />
+    <link id="lowen" url="http://www.lowencg.com" />
+    <link id="american-idol_style-guide" url="http://www.groupcse.com/coke/american_idol_style_guide_2012.pdf" />
+    <link id="pps_proxies" url="https://teamspaces.ko.com/kots/CCNACE/toolkits/default.aspx" />
+  </links>
+  <contacts>
+    <!--IMC Group-->
+    <contact id="imc1_contact" category="IMC Group Contact" name="Chelsea Etheridge" title="Content Operations Manager" group="Integrated Marketing Content Group" phone="(404) 676-3003" email="chetheridge@coca-cola.com" comments="" />
+    <!--CCNA Marketing Asset Activation-->
+    <!--NOTE: These contacts are not in order. Next contact should be called "ccna16_contact"-->
+    <contact id="ccna1_contact" category="CCNA Marketing Asset Activation" name="Kelly Lyemance" title="Contact" group="Activation Strategy Lead" phone="(404) 676-1812" email="klyemance@coca-cola.com " comments="" />
+    <contact id="ccna13_contact" category="CCNA Marketing Asset Activation" name="Marti Walsh" title="Contact" group="Pro Sports" phone="(404) 676-7961" email="mawalsh@coca-cola.com" comments="" />
+    <contact hidden="true" id="ccna2_contact" category="CCNA Marketing Asset Activation" name="Laura Pettus" title="Contact" group="Pro Sports" phone="(404) 676-0959" email="lapettus@coca-cola.com" comments="" />
+    <contact hidden="true" id="ccna11_contact" category="CCNA Marketing Asset Activation" name="Karen Denker" title="Contact" group="Golf, Theme Park, Zoo/Aquarium" phone="(404) 676-1501" email="kadenker@coca-cola.com" comments="" />
+    <contact id="ccna3_contact" category="CCNA Marketing Asset Activation" name="Bobbie Sampson" title="Contact" group="NASCAR" phone="(404) 676-4258" email="bsampson@coca-cola.com " comments="" />
+    <contact hidden="true" id="ccna4_contact" category="CCNA Marketing Asset Activation" name="Maureen Headrick" title="Contact" group="Music" phone="(404) 676-0148" email="mheadrick@coca-cola.com " comments=""></contact>
+    <contact id="ccna12_contact" category="CCNA Marketing Asset Activation" name="Jen Kanter" title="Contact" group="Music &amp; Entertainment" phone="(404) 676-0555" email="jkanter@coca-cola.com" comments="" />
+    <contact id="ccna5_contact" category="CCNA Marketing Asset Activation" name="Open" title="Contact" group="Colleges" phone="" email="" comments="" />
+    <contact hidden="true" id="ccna6_contact" category="CCNA Marketing Asset Activation" name="Jamiese Miller" title="Contact" group="Pro Sports" phone="(404) 676-1024" email="jamimiller@coca-cola.com" comments="" />
+    <contact id="ccna7_contact" category="CCNA Marketing Asset Activation" name="Diane Ward" title="Contact" group="Live Positively" phone="(404) 676-0433" email="dward@coca-cola.com " comments="" />
+    <contact hidden="true" id="ccna10_contact" category="CCNA Marketing Asset Activation" name="Mary Anne Biddiscombe" title="Contact" group="Coca-Cola Recycling" phone="(404) 395-7915" email="mbiddiscombe@coca-cola.com" comments="" />
+    <contact hidden="true" id="ccna8_contact" category="CCNA Marketing Asset Activation" name="Jeff Busch" title="Contact" group="Vending" phone="(404) 676-4604" email="jbusch@coca-cola.com" comments="" />
+    <contact hidden="true" id="ccna9_contact" category="CCNA Marketing Asset Activation" name="Stacey Owens" title="Contact" group="Marketing Asset Activation" phone="(404) 515-1611" email="staowens@coca-cola.com" comments="" />
+    <contact hidden="true" id="ccna14_contact" category="" name="Ellen Gutierrez" title="Contact" group="" phone="(404) 676-4931" email="ellgutierrez@coca-cola.com" comments="" />
+    <contact hidden="true" id="ccna15_contact" category="" name="Melanie Gates" title="Contact" group="Entertainment Marketing" phone="(404) 676-0148" email="megates@coca-cola.com" comments="Customer Program approvals &amp; ticket allocations" />
+    <contact hidden="true" id="ccna16_contact" category="" name="Jasmin Hodge" title="Contact" group="Entertainment Marketing" phone="(404) 676-3043" email="jashodge@coca-cola.com" comments="Contractual Rights, Day-to-Day Property Manager &amp; QSR Rights Negotiations, if interested" />
+    <contact hidden="true" id="ccna17_contact" category="" name="L. Turner" title="Contact" group="" phone="" email="liturner@coca-cola.com" comments="Hospitality Packages" />
+    <!--TV/Radio Ads (Broadcast & Non-Broadcast Use)-->
+    <contact id="gc1_contact" category="IMC TV/Radio Ads" name="Kenyatta Manning" title="Contact" group="Gilbert Creative" phone="(404) 515-1741" email="kemanning@coca-cola.com " comments="TV/Radio Ads (Broadcast &amp; Non-Broadcast Use)" />
+    <!--Cooler/Fountain-->
+    <contact id="Cooler/Fountain1_contact" category="Cooler/Fountain Contact" name="Dave Boggs" title="Contact" group="DALB" phone="(304) 725-0300" email="d.boggs@dalb.com " comments="Vend Fronts, Decals, Translites" />
+    <contact id="Cooler/Fountain2_contact" category="Cooler/Fountain Contact" name="Sabrina Ward" title="Contact" group="American Screen Art" phone="(865) 330-7318" email="sward@amercianscreenart.com " comments="Fountain" />
+    <!--Menu Boards-->
+    <contact id="weaver_contact" category="Menu Boards / 3M" name="Ben Weaver" title="Contact" group="Weaver Media" phone="(248) 669-6830" email="ben@weavermedia.us " comments="Menuboards/3M" />
+    <contact id="howard_contact" category="Menu Boards / 3M" name="Ron Zuehlsdorf" title="Contact" group="The Howard Company" phone="(262) 442-5879" email="ronz@howardcompany.com" comments="Menuboards/3M" />
+    <contact hidden="true" id="fitzgerald_contact" category="Menu Boards / 3M" name="Tom Fitzgerald" title="Contact" group="Fitzgerald Design" phone="(845) 564-6870" email="fitzgerald.design@verizon.net" comments="Creative Theme Parks / Zoos" />
+    <!--Merchandising Equipment-->
+    <contact id="irp_contact" category="Merchandising Equipment" name="Brent Storhoff" title="Contact" group="IRP" phone="(563)380-5832" email="brent@irpinc.com " comments="" />
+    <contact id="display-ind_contact" name="Rena Thomas" title="Contact" group="Display Industries" phone="(404) 350-4807" email="rthomas@displayindustries.com" comments="" />
+    <contact hidden="true" id="display-ind2_contact" name="Service" title="Contact" group="Display Industries" phone="(800) 241-9889" email="service@displayindustries.com" comments="" />
+    <contact id="pfi_contact" name="Dawn Bonin" title="Contact" group="PFI (Triple Coolers)" phone="(800) 325-6740" email="dawnbonin@pfinnovation.com" comments="" />
+    <!--In-Venue-->
+    <contact id="cinema-concepts_contact" category="In-Venue" name="Joey Tucker" title="Contact" group="Cinema Concepts" phone="(770) 956-7460" email="media@cinemaconcepts.com" comments="Submit orders for In Venue Video Signage" />
+    <contact id="beck-compression_contact" name="Catherine Perry" title="Contact" group="Beck Compression" phone="(404) 351-4340" email="cperry@beckcompression.com" comments="" />
+    <!--Finished Art-->
+    <contact id="finished-art1_contact" category="Finished Art" name="Tamara Wilkey" title="Project Management" group="Project Management" phone="(404) 355-7902" email="Tamara@finishedart.com" comments="Print Ad &amp; Web Banner Resizes" />
+    <contact id="finished-art2_contact" name="Daphne Brown&#xD;&#xA;" title="Project Management" group="Project Management" phone="(404) 355-7902" email="daphne@finishedart.com" comments="" />
+    <contact id="finished-art3_contact" name="Sharon Brimer" title="Contact" group="Finished Art" phone="(404) 355-7902" email="sharon@finishedart.com" comments="" />
+    <contact id="finished-art4_contact" name="Art Izzard" title="Technical Support" group="Technical Support" phone="(404) 355-7902" email="Art@finishedart.com" comments="" />
+    <contact id="finished-art-dashboard_contact" name="Web Orders" title="" group="Finished Art" phone="(404) 355-7902" email="weborders@finishedart.com" comments="For ordering custom-size creative" />
+    <contact hidden="true" id="finished-art-access_contact" name="Web Orders" title="" group="Finished Art" email="weborders@finishedart.com" comments="To set up first time user access" disabled="true" />
+    <!--ISCI Code Requests-->
+    <contact id="ccar_contact" category="CCAR &lt;font size = &quot;8&quot;&gt;(Creative Code Assignment Resource)&lt;/font&gt;" name="Heather Hearn" title="Contact" group="Spotlight Business Affairs (ISCI Code Requests)" phone="(312) 252-5887" email="heather@spotlight.net" comments="ISCI Code Requests for Radio Scripts" />
+    <!--Creative Agency Contact-->
+    <contact hidden="true" id="dedica_contact" category="Creative Agency Contact" name="Rebekah Futterer" title="Contact" group="Dedica Group" phone="(949) 387-2546 x112" email="rfutterer@dedicagroup.com " comments="" />
+    <contact hidden="true" id="2B-design_contact" category="Creative Agency Contact" name="Rhonda Lytle" title="Contact" group="2B Design" phone="(636) 527-4257" email="rlytle@2bdesignstudio.com" comments="" />
+    <contact hidden="true" id="2B-design2_contact" category="Creative Agency Contact" name="Laura Cook" title="Contact" group="2B Design" phone="(404) 222-9393" email="laura@2bdesignstudio.com " comments="" />
+    <contact hidden="true" id="ogilvy_contact" category="Creative Agency Contact" name="Chris Sparks" title="Contact" group="Ogilvy Action" phone="(678) 323-3153" email="chris.sparks@ogilvy.com" comments="Grassroots, Digital/Social Media" />
+    <contact hidden="true" id="insignia_contact" category="Creative Agency Contact" name="Insignia" title="Contact" group="Merchandise" phone="(800) 239-6442" email="cokecatalog@na.ko.com" comments="Merchandise" />
+    <contact hidden="true" id="mozes1_contact" category="Creative Agency Contact" name="Richard Raphael" title="Contact" group="Mozes (Mobile Engagement)" phone="" email="richard@mozes-inc.com" comments="Mobile Engagement" />
+    <contact hidden="true" id="mozes2_contact" category="Creative Agency Contact" name="Christopher Bendt" title="Contact" group="Mozes (Mobile Engagement)" phone="" email="chrisb@mozes-inc.com" comments="Mobile Engagement" />
+    <contact hidden="true" id="printroom_contact" category="Creative Agency Contact" name="Corporate Sales Team" title="Contact" group="Printroom" phone="(888) 868-4157 x7000" email="corpsales@printroom.com" comments="Digital Photo Program" />
+    <contact hidden="true" id="beeline_contact" category="Creative Agency Contact" name="Beeline Group" title="Contact" group="Beeline Group" phone="(800) 341-4136" email="beverage@legplatt.com" comments="Coca-Cola Countertop Tub" />
+    <contact hidden="true" id="vincent_contact" category="Creative Agency Contact" name="Jessica Haddock" title="Contact" group="Vincent Printing Co." phone="(800) 251-7262  ext 219" email="jessica@vincentprinting.com" comments="Truck Backs" />
+    <contact hidden="true" id="cse_contact" category="CSE" name="Lauren Forbes" title="Contact" group="CSE" phone="(770) 955-1300 " email="lforbes@groupcse.com" comments="POS release and customization" />
+    <contact hidden="true" id="ope_contact" category="OPE" name="Karen Daniels" title="Contact" group="CSE" phone="(404) 676-2877" email="kadaniels@coca-cola.com" comments="Premium orders" />
+    <!--Defaul/Users/drunkestpunk/Projects/imc/imc/IMCContentLoader.mt User (hidden, for program only)-->
+    <contact hidden="true" id="default_user" first_name="YOUR" last_name="NAME" office_phone="404.676.0000" mobile_phone="404.676.0000" email="YOU@coca-cola.com" />
+  </contacts>
+  <help>
+    <title>Welcome.</title>
+    <text>The Integrated Marketing Communications Content Portal is continually updated to provide you with the most current pre-approved advertising content in a highly functional yet user-friendly manner.  The creative toolkits found on the portal are designed to support the contractual commitments with our Marketing asset partners at the regional and local levels.  Our goal is to deliver the creative content necessary to provide strategic messaging to consumers, consistent visual identity, and a streamlined fulfillment process.  
+ 
+For additional information and to see a the Portal in use, please &lt;font color = '#CC0000'&gt;click on the tutorial&lt;/font&gt; at left to launch an online tutorial that will walk you through how the portal works.
+</text>
+    <image>media/assets/_common/help_image</image>
+    <video>media/assets/_common/help_video</video>
+    <link>tutorial/index.html</link>
+  </help>
+  <emails>
+    <email id="radio_scripts" to="" subject="Coca-Cola Radio Scripts" message="Here is the Radio Script:"></email>
+    <email id="dedica_email_contact" to="dedica_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="weaver_email_contact" to="weaver_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="howard_email_contact" to="howard_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="finished-art1_email_contact" to="finished-art1_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="finished-art2_email_contact" to="finished-art2_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="finished-art3_email_contact" to="finished-art3_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="finished-art-dashboard_email_contact" to="finished-art-dashboard_contact" from="default_user" subject="Custom-size Coca-Cola creative artwork" message="I would like to order custom-size Coca-Cola creative artwork."></email>
+    <email id="finished-art-access_email_contact" to="finished-art-access_contact" from="default_user" subject="First time user access" message="I would like to set up first time user access"></email>
+    <email id="fitzgerald_email_contact" to="fitzgerald_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="irp_email_contact" to="irp_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="display-ind_email_contact" to="display-ind_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="display-ind2_email_contact" to="display-ind2_contact" from="default_user" subject="Approved Coca-Cola Merchandise" message="I would like to order approved Coca-Cola merchandise."></email>
+    <email id="beck-compression_email_contact" to="beck-compression_contact" from="default_user" subject="Approved Coca-Cola Signage" message="I would like to order approved Coca-Cola signage."></email>
+    <email id="cinema-concepts_email_contact" to="cinema-concepts_contact" from="default_user" subject="Approved Coca-Cola In-Venue Video Signage" message="I would like to order approved Coca-Cola In-Venue video signage."></email>
+    <email id="2B-design_email_contact" to="2B-design_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="2B-design2_email_contact" to="2B-design2_contact" from="default_user" subject="Approved Coca-Cola Artwork" message="I would like to order approved Coca-Cola artwork."></email>
+    <email id="insignia_email_contact" to="insignia_contact" from="default_user" subject="Approved Coca-Cola Merchandise" message="I would like to order approved Coca-Cola merchandise."></email>
+    <email id="ccar_email_contact" to="ccar_contact" from="default_user" subject="ISCI Code Request" message="I would like to request an ISCI Code for a Radio Script."></email>
+    <email id="mozes1_email_contact" to="mozes1_contact" from="default_user" subject="Coca-Cola Mobile Engagement" message="I would like to order a Coca-Cola Mobile Engagement program."></email>
+    <email id="mozes2_email_contact" to="mozes2_contact" from="default_user" subject="Coca-Cola Mobile Engagement" message="I would like to order a Coca-Cola Mobile Engagement program."></email>
+    <email id="Cooler/Fountain1_email_contact" to="Cooler/Fountain1_contact" from="default_user" subject="Coca-Cola Cooler Header" message="I would like to order a Coca-Cola Cooler Header."></email>
+    <email id="printroom_email_contact" to="printroom_contact" from="default_user" subject="Digital Photo Program" message="I would like to set up a Printroom.com Digital Photo Program order."></email>
+    <email id="beeline_email_contact" to="beeline_contact" from="default_user" subject="Coca-Cola Countertop Tub" message="I would like to order a Coca-Cola Countertop Tub, item code 043206."></email>
+    <email id="vincent_email_contact" to="vincent_contact" from="default_user" subject="Truck Backs" message="I would like to order a Coca-Cola Truck Backs."></email>
+    <email id="cse_email_contact" to="cse_contact" from="default_user" subject="American Idol Cup Packaging" message="I would like to order American Idol Cup Packaging."></email>
+    <email id="ope_email_contact" to="ope_contact" from="default_user" subject="American Idol Enhanced POS" message="I would like to order American Idol Enhanced POS."></email>
+    <email id="ccna12_email_contact" to="ccna12_contact" from="default_user" subject="Customer Program Pathway" message="I would like to confirm details and negotiations."></email>
+    <email id="ccna14_email_contact" to="ccna14_contact" from="default_user" subject="Customer Program Pathway" message="I would like to confirm details and negotiations."></email>
+    <email id="ccna15_email_contact" to="ccna15_contact" from="default_user" subject="Customer Program Pathway" message="I would like to submit a final concept."></email>
+    <email id="ccna16_email_contact" to="ccna16_contact" from="default_user" subject="Foodservice Rights" message="I am interested in pursuing Foodservice rights for this season."></email>
+    <email id="ccna17_email_contact" to="ccna17_contact" from="default_user" subject="Hospitality Packages" message="I am interested in Hospitality Packages."></email>
+  </emails>
+  <menus level="menu" id="Home">
+    <layer level="category" id="Sports">
+      <layer level="toolkit" id="Soccer" image="sports_soccer" file="soccer"></layer>
+      <layer level="toolkit" id="Baseball" image="sports_baseball" file="baseball_pro_lead"></layer>
+      <layer level="interest" id="Basketball" image="sports_basketball">
+
+          <layer level="toolkit" id="College" file="basketball_college" image="sports_basketball" parent="" />
+          <layer level="toolkit" id="Pro" file="basketball_pro" image="sports_basketball" parent="" />
+
+      </layer>
+      <layer level="interest" id="Motor Sports" label="Motor&#xD;&#xA;Sports" image="sports_nascar">
+          <layer level="toolkit" id="NASCAR" image="sports_nascar" file="motorsports_nascar" parent="" />
+          <layer level="toolkit" id="NHRA" image="sports_nascar" file="motorsports_nhra" parent="" />
+          <layer level="toolkit" id="DRIFT" image="sports_nascar" file="motorsports_drift" parent="" />
+      </layer>
+      <layer level="toolkit" id="Football" image="sports_football" file="football"></layer>
+      <layer level="toolkit" id="Hockey" image="sports_hockey" file="hockey"></layer>
+      <layer level="toolkit" id="Golf" image="sports_golf" file="golf"></layer>
+      <layer level="toolkit" id="Celebration" file="celebration" image="sports_celebration"></layer>
+      <layer level="toolkit" id="Ski" image="sports_ski" file="ski"></layer>
+    </layer>
+    <layer level="category" id="Recreation">
+      <layer level="toolkit" id="Theme Parks" image="entertainment_theme-park" file="theme_parks" />
+      <layer level="toolkit" id="Music" image="entertainment_music" file="music" />
+      <layer level="toolkit" id="Aquarium" image="entertainment_aquarium" file="aquarium" />
+      <layer level="toolkit" id="Zoo" image="entertainment_zoo" file="zoo" />
+      <layer level="toolkit" id="Beaches &amp; Boardwalks" label="Beaches &amp; &#xD;&#xA;Boardwalks" image="entertainment_beach" file="beaches_boardwalks"></layer>
+    </layer>
+    <layer level="category" id="Programs">
+      <layer level="interest" id="Multi-Cultural" label="Multi-&#xD;&#xA;cultural" image="programs_hacm" file="multicultural">
+        <layer level="toolkit" id="Hispanic - Convenience Retail" file="cr_hispanic" image="programs_hacm" parent="NONE" />
+        <layer level="toolkit" id="Hispanic - Large Store" file="ls_hispanic" image="programs_hacm" parent="NONE" />
+        <layer level="toolkit" id="AA - Convenience Retail" file="cr_aa" image="programs_hacm" parent="NONE" />
+        <layer level="toolkit" id="AA - Large Store" file="ls_aa" image="programs_hacm" parent="NONE" />
+      </layer>
+      <layer level="toolkit" id="American Idol" image="programs_americanidol" file="american_idol" disabled="true"></layer>
+      <layer level="toolkit" id="Summer" image="programs_summer" file="summer" disabled="true"></layer>
+      <layer level="toolkit" id="Big Game" image="programs_biggame" file="big_game" disabled="true"></layer>
+      <layer level="toolkit" id="NCAA" image="programs_ncaa" file="ncaa" disabled="true"></layer>
+      <layer level="toolkit" id="Fall Football" image="sports_football" label="Fall&#xD;&#xA;Football" file="football_fall" disabled="true"></layer>
+      <layer level="toolkit" id="Live Positively" image="programs_lp" label="Live&#xD;&#xA;Positively" file="live_positively" disabled="true"></layer>
+      <layer level="toolkit" id="Holiday" image="programs_holiday" file="holiday_2012" disabled="true" />
+    </layer>
+    <layer level="category" id="Other">
+      <layer level="toolkit" id="College Retail" image="sustaining_pos" file="retail_college" />
+      <layer level="toolkit" id="OOH &amp; CDN" image="sustaining_ooh" file="ooh_cdn"></layer>
+      <layer level="toolkit" id="Radio Scripts" image="sustaining_radio" label="Radio&#xD;&#xA;Scripts" file="radio_scripts" />
+      <layer level="toolkit" id="Fleet" image="sustaining_fleet" file="fleet"></layer>
+      <layer level="toolkit" id="Foodservice &amp; On-Premise" label="Foodservice&#xD;&#xA;&amp; On-Premise" image="sustaining_foodservice" file="fsop" disabled="true"></layer>
+    </layer>
+    <layer level="Contact" id="Contact us">
+      <layer level="Contact" id="Contact list">
+        <text>&lt;font color = '#CC0000'&gt;/ &lt;/font&gt;&lt;a href="event:contacts|contacts" &gt;Contact List&lt;/a&gt;</text>
+      </layer>
+    </layer>
+    <layer level="Help" id="Help">
+      <layer level="Helplink" id="Help Link">
+        <text>&lt;font color = '#CC0000'&gt;/ &lt;/font&gt;&lt;a href="event:help|help" &gt;Help&lt;/a&gt;</text>
+      </layer>
+    </layer>
+  </menus>
+</config>

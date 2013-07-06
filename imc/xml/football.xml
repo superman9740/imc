@@ -1,0 +1,1266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;This Creative Toolkit contains all approved creative assets that can be utilized to support professional and College/University football events to fulfill media commitments as part of TCCC contractual agreements.  It is categorized by lead brand and support brand, segmented by medium, and contains complete information pertaining to each asset, including where to obtain, usage dates, and key contacts.&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative assets developed to generate Brand awareness and drive volume during football events.&lt;/textBody&gt;
+&lt;textHeader&gt;MEDIUMS&lt;/textHeader&gt;
+&lt;textBody&gt;Program Ads
+TV ads
+Radio ads
+Radio Scripts (English/Spanish)
+TV Sponsorship Billboards&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Trademark enhancement is best in class activation of our assets with sustaining communication that enhances our trademark in order to maximize our investment and drive business results
+
+&lt;a href="event:link|in-venue_zone-strategy_football" &gt;/ In-Venue Zone Strategy&lt;/a&gt;
+&lt;a href="event:link|maa_guiding_principles" &gt;/ MAA Guiding Principles&lt;/a&gt;
+&lt;a href="event:link|maa_implementation_tools" &gt;/ MAA Implementation Tools&lt;/a&gt;
+&lt;a href="event:link|customer_sales_aid" &gt;/ Customer Sales Aid&lt;/a&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative customized elements utilizing pre-approved templates facilitate asset activation in-venue&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION ZONES&lt;/textHeader&gt;
+&lt;textBody&gt;Zone 1 – Concession
+Zone 2 – Concourse/Stadium
+Zone 3 – Entrance/Parking Lot
+Live Positively Messaging&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE BRAND GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;BRAND GUIDELINES&lt;/textHeader&gt;
+&lt;textBody&gt;Priority Sparkling:  
+1) Coca-Cola   
+2) Coke Zero  
+3) Sprite  
+4) Diet Coke
+
+Priority Still for Colleges:  
+1) vitaminwater base  
+2) vitaminwater Zero 
+3) PowerAde ion 4  
+4) smartwater
+&lt;/textBody&gt;
+&lt;textNote&gt;* These priorities should be followed when activating sustaining elements. All appropriate promotional brands should be used to support national program efforts.&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--MEDIA ELEMENTS-->
+    <!--Program Ads-->
+    <screen title="Program Ads" id="PRA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="image" title="To The Victor Customizable" file="media/assets/football/program-ad_victor-cust.jpg" />
+        <item kind="image" title="To The Victor Non-Customizable" file="media/assets/football/program-ad_victor-non-cust.jpg" />
+        <item kind="image" title="First And Everything Customizable" file="media/assets/football/program-ad_first-cust.jpg" />
+        <item kind="image" title="First And Everything Non-Customizable" file="media/assets/football/program-ad_first-non-cust.jpg" />
+        <item kind="image" title="Generic Customizable" file="media/assets/_common/program-ad_gen-cust.jpg" />
+        <item kind="image" title="Generic Non-Customizable" file="media/assets/_common/program-ad_gen-non-cust.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order through Design Machine:
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+To locate ads, click on BROWSE on the home page and then select ‘Local Program Ads’ under the PROGRAM or VIS tab.
+
+Sizes currently available: 
+&lt;li&gt;8.5” x 11”&lt;/li&gt;
+&lt;li&gt;5.5” x 8.5”&lt;/li&gt;
+&lt;li&gt;7” x 10”&lt;/li&gt;
+
+Customize with the following text options:
+&lt;li&gt;Proud partner of the&lt;/li&gt;
+&lt;li&gt;Proud sponsor of the&lt;/li&gt;
+&lt;li&gt;Proud supporter of the&lt;/li&gt;
+&lt;li&gt;Official soft drink of the&lt;/li&gt;
+ 
+Team name and logo can also be added.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Television Ads-->
+    <screen title="TV Ads" id="TVA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="2012 Coke Zero Local TV All Sports " code="KOCZT230067 / KOCZT230067H" length=":30" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/_common/KOCZT230067H.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These TV ads can be used to run during live games or when broadcast on individual stations and can be used until creative changes.  These ads can also run in non-broadcast venues (In-Venue, In-Store, In-Restaurant, Kiosks, Tradeshows, In-Flight, Cinema, Internal/External meetings) and Internet.
+ 
+NOTE: For Non-Broadcast, TV ads should be used when both video and audio capabilities are available.  &lt;a href="event:crosslink|VJT" &gt;In-Venue Video Signage&lt;/a&gt; should be used when audio is not available.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|broadcast_form" &gt;/ Broadcast Use&lt;/a&gt;
+&lt;a href="event:link|non_broadcast_form" &gt;/ Non-Broadcast Use&lt;/a&gt;
+&lt;a href="event:link|internet_use_form_tv" &gt;/ Internet Use&lt;/a&gt;
+
+Limited to 1 copy of each spot per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department is fully responsible for any talent fees, licensing fees, or other charges incurred as a result of any use outside the permitted scope or time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Sponsorship Billboards-->
+    <screen title="Sponsorship Billboards" id="SBB" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Coke Zero EE Animated Billboard_v2" code="KOCZB200001" length=":05" copy="KOCZB200002 - “Coca-Cola Zero.  Real Coke Taste and Zero Calories”" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/_common/KOCZB200001.flv" thumbnail="media/assets/_common/KOCZB200001_thumbnail.jpg">
+          <copy id="ENG_PA_KOCZB200002">
+            <text>Coke Zero EE Animated Billboard_v2 Script
+
+The :05 Live Read Copy for KOCZB200002 is: “Coca-Cola Zero.  Real Coke Taste and Zero Calories.”</text>
+          </copy>
+        </item>
+        <item kind="video" title="Coke Zero EE Animated Billboard_v2 HD" code="KOCZB200001H" length=":05" copy="true" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/_common/KOCZB200001.flv" thumbnail="media/assets/_common/KOCZB200001_thumbnail.jpg">
+          <copy id="ENG_PA_KOCZB200002">
+            <text>Coke Zero EE Animated Billboard_v2 Script
+
+The :05 Live Read Copy for KOCZB200002 is: “Coca-Cola Zero.  Real Coke Taste and Zero Calories.”</text>
+          </copy>
+        </item>
+        <item kind="video" title="Coke Zero EE Static Billboard_v2" code="KOCZB210003" length=":10" copy="true" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/_common/KOCZB210003.flv" thumbnail="media/assets/_common/KOCZB210003_thumbnail.jpg">
+          <copy id="ENG_PA_KOCZB210004">
+            <text>Coke Zero EE Static Billboard_v2 Script
+
+The :10 Live Read Copy for KOCZB210004 is: “There’s no such thing as too much to ask. With real Coke taste and zero calories you can enjoy everything.  So here’s to enjoying everything, brought to you by Coca-Cola Zero.”</text>
+          </copy>
+        </item>
+        <item kind="video" title="Coke Zero EE Static Billboard_v2 HD" code="KOCZB210003H" length=":10" copy="true" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/_common/KOCZB210003.flv" thumbnail="media/assets/_common/KOCZB210003_thumbnail.jpg">
+          <copy id="ENG_PA_KOCZB210004">
+            <text>Coke Zero EE Static Billboard_v2 Script
+
+The :10 Live Read Copy for KOCZB210004 is: “There’s no such thing as too much to ask. With real Coke taste and zero calories you can enjoy everything.  So here’s to enjoying everything, brought to you by Coca-Cola Zero.”</text>
+          </copy>
+        </item>
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These TV Billboards are approved to run on live broadcasts during games.   Scripts are not to be recorded, but only to be used as live reads.
+
+Rotation should be equal depending on number of spots chosen to run.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|broadcast_form" &gt;/ Billboards for Broadcast&lt;/a&gt;
+
+Limited to 1 copy of each spot per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department is fully responsible for any talent fees, licensing fees, or other charges incurred as a result of any use outside the permitted scope or time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Ads-->
+    <screen title="Radio Ads" id="RAA" group="Media Elements" approved="APPROVED FOR LIVE READS ONLY">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="audio" title="AND Changes Everything" code="KOCZR162739" length=":60" exp_broadcast="7/23/2013" exp_in_venue="7/23/2013" exp_internet="7/23/2013" file="media/assets/football/KOCZR162739.mp3" />
+        <item kind="audio" title="AND Changes Everything" code="KOCZR132741" length=":30" exp_broadcast="7/23/2013" exp_in_venue="7/23/2013" exp_internet="7/23/2013" file="media/assets/football/KOCZR132741.mp3" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These Radio Ads are approved for broadcast, non-broadcast/industrial, 
+and internet/streaming use.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for Radio spots:
+
+&lt;a href="event:link|radio-individuals_form" &gt;/ Radio - Individual Stations&lt;/a&gt; (broadcast from individual stations)
+
+&lt;a href="event:link|radio-network_form" &gt;/ Radio - Network&lt;/a&gt; (broadcast from single location to multiple stations)
+
+&lt;a href="event:link|non_broadcast_form" &gt;/ Radio - Non-Broadcast Use&lt;/a&gt; (for non-broadcast only - (In-Venue, In-Store, Internal/External meetings, Tradeshows)
+
+&lt;a href="event:link|internet_use_form_radio" &gt;/ Radio - Internet Use&lt;/a&gt; (internet/streaming)</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department is fully responsible for any talent fees, licensing fees, or other charges incurred as a result of any use outside the permitted scope or time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Script Templates-->
+    <screen title="Radio Script Templates" id="RST" group="Media Elements">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <item kind="script" id="KOCZY130047" code="KOCZY130047 - REVISED " language="English" length=":30" group="Customer Sell-In">
+          <text>AVO:  It’s football season. Time for TV shouting, fight song singing, chest-bump bumping and other culturally accepted forms of football tomfoolery. Whether you’re a die-hard, or don’t know a first down from a touchdown, this season Coke Zero will help you take your football fandom to the next level.  Before your next gameday watch-a-thon, head over to your neighborhood {{[RETAILER]}}. And pick up a {{[PACKAGE]}} of Coke Zero for {{[PRICE]}}. Here’s to football. Coke Zero and {{[RETAILER]}}: Enjoy the football. Enjoy the fandom.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY120046" code="KOCZY120046 - REVISED" language="English" length=":20">
+          <text>AVO:  It’s football season.  Time for TV shouting, fight song singing, chest-bump bumping and other culturally accepted forms of football tomfoolery.  Before your next gameday watch-a-thon, get to your local {{[RETAILER]}}. And pick up a {{[PACKAGE]}} of Coke Zero for {{[PRICE]}}.  Coke Zero and {{[RETAILER]}}. Enjoy the football. Enjoy the fandom. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY120026" code="KOCZY120026" language="English" length=":15">
+          <text>AVO: This season, Coke Zero is helping you take your football fandom to the next level. Before your next gameday watch-a-thon, get to your local {{[RETAILER]}}. And pick up a {{[PACKAGE]}} of Coke Zero for {{[PRICE]}}. Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZS110006" code="KOCZS110006" language="English" length=":10" group="Radio Billboards">
+          <text>AVO: This season, Coke Zero is helping you take your football fandom to the next level. We're talking high fives, chest bumps, and the occasional all-business man-hug. Brought to you by Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZS110007" code="KOCZS110007" language="English" length=":05">
+          <text>AVO: Football related chest bumps, high fives and trash talk, brought to you by Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY130048" code="KOCZY130048 - Revised" language="English" length=":30" group="Customer Giveaway Template">
+          <text>AVO:  This football season, Coke Zero, {{[Retailer]}} and {{[station]}} are helping you take your football fandom to the next level.  Every day from {{[date]}} to {{[date]}}, {{[station]}} will give away {{[prize/tickets]}}.  {{[insert how to participate, i.e., call in text to win, etc]}}.  And be sure to visit your local {{[retailer]}} and stock your cooler with a {{[PACKAGE]}} of Coke Zero for {{[PRICE]}}.  Coke Zero. Enjoy Everything.  (Legal copy to be read faster and provided by station).</text>
+        </item>
+        <item kind="script" id="KOCZY150049" code="KOCZY150049" language="English" length=":15" group="Customer Giveaway Template">
+          <text>AVO:  This season, Coke Zero, {{[Retailer]}} and {{[station]}} are helping you take your football fandom to the next level. {{[insert how to participate, i.e., call in text to win, etc]}}. Coke Zero. Enjoy Everything.  (Legal copy to be read faster and provided by station).</text>
+        </item>
+        <item kind="script" id="KOCZY130050" code="KOCZY130050" language="English" length=":30" group="Asset/Partner Sweeps with Station Tie-In (2011 Fall Football)">
+          <text>AVO:  It’s football season. Time for TV shouting, fight song singing, chest-bump bumping and other culturally accepted forms of football tomfoolery. This season, real Coke taste and zero calories can help take your football fandom to the next level. Coke Zero, official partner of {{[ASSET/PARTNER]}}, could send you to {{[PRIZE]}}.  For details visit {{[STATION WEBSITE]}}.  Coke Zero.  Enjoy Everything.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}. </text>
+        </item>
+        <item kind="script" id="KOCZY130051" code="KOCZY130051" language="English" length=":30" group="Asset/Partner with Coke Zero Mention Only (2011 Fall Football)">
+          <text>AVO:  This football season, Coke Zero is helping you take your football fandom to the next level. So head over to {{[PARTNER NAME]}}.  {{[PARTNER TO PROVIDE 2 LINES OF CALL OUT COPY]}}.  Grab some friends, some refreshing Coke Zero and let the chest-bumping and TV shouting begin.  Head out to {{[PARTNER NAME]}} today.   For more information, visit {{[PARTNER WEBSITE]}}.  Coke Zero. Enjoy Everything. </text>
+        </item>
+        <item kind="script" id="KOCZY130052" code="KOCZY120052 " language="English" length=":20" group="Asset/Partner with Coke Zero Mention Only (2011 Fall Football)">
+          <text>AVO:  This football season, Coke Zero is helping you take your football fandom to the next level. So head over to {{[PARTNER NAME]}}.  Grab some friends, some refreshing Coke Zero and head out to {{[PARTNER NAME]}} and grab a Coke Zero today.   For more information, visit {{[PARTNER WEBSITE]}}.  Coke Zero. Enjoy Everything. </text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <item kind="script" id="KOCZY130054" code="KOCZY130054 - REVISED" language="Spanish" length=":30" group="Customer Sell-In">
+          <text>LOC: Es temporada de fútbol Americano. Es el momento de gritar frente al televisor, de las batallas de canciones entre las hinchadas, de los choques de pecho y de todas esas celebraciones únicas que hacen parte de la cultura del fútbol Americano.  Aunque usted sea un duro de matar del fútbol Americano o no sepa distinguir un primer intento de un touchdown, esta temporada Coca-Cola Zero hará que su fanatismo por el fútbol Americano pase al siguiente nivel.  Antes de su próxima maratón de partidos por televisión, diríjase al {{[RETAILER]}} de su vecindario y tome un {{[PACKAGE]}} de Coca-Cola Zero por {{[PRICE]}}. Brindemos por el fútbol Americano. Coca-Cola Zero y {{[RETAILER]}}: Disfrute del fútbol Americano. Disfrute del fanatismo.  Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY120053" code="KOCZY120053 - REVISED" language="Spanish" length=":20">
+          <text>LOC: Es temporada de fútbol Americano. Es momento de gritar frente al televisor, de las batallas de canciones entre las hinchadas, de los choques de pecho y todas esas celebraciones únicas que hacen parte de la cultura del fútbol Americano.  Antes de su próxima maratón de partidos por televisión, diríjase a su {{[RETAILER]}} local y tome un {{[PACKAGE]}} de Coca-Cola Zero por {{[PRICE]}}. Coca-Cola Zero y {{[RETAILER]}}. Disfrute del fútbol Americano. Disfrute del fanatismo.  Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY150020" code="KOCZY150020" language="Spanish" length=":15">
+          <text>LOC: Esta temporada Coca - Cola Zero lleva tu fanatismo por el fútbol americano a otro nivel.  Antes de tu próximo maratón de partidos no olvides pasar por {{[RETAILER]}} de tu vecindario y lleva {{[PACKAGE]}} de Coca Zero por solo {{[PRICE]}}.  Coca-Cola Zero.  Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY110021" code="KOCZY110021" language="Spanish" length=":10" group="Radio Billboards">
+          <text>LOC: Esta temporada Coca - Cola Zero te ayuda a llevar tu fanatismo por el fútbol americano a otro nivel. Hablamos de  esos choques de manos, choques de pechos y esos  espontáneos abrazos con los amigos del trabajo.  Presentado por Coca Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY100022" code="KOCZY100022" language="Spanish" length=":05">
+          <text>LOC: Todos los choques de pecho, los choques de cinco y los comentarios sarcásticos sobre el rival de fútbol llegan hasta sus hogares por cortesía de Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY130055" code="KOCZY130055 - REVISED" language="Spanish" length=":30" group="Customer Giveaway Template">
+          <text>LOC:  Esta temporada de fútbol Americano, Coca-Cola Zero, {{[local store name]}} y {{[station]}} llevaran su fanatismo por el fútbol Americano al siguiente nivel. Todos los días, del {{[date]}} al {{[date]}}, {{[station]}} entregará {{[prize/tickets]}}. {{[insert how to participate, i.e., call in text to win, etc]}}. Asegúrese de visitar el {{[store name]}} local y de llenar su nevera portátil con un {{[PACKAGE]}} de Coca-Cola Zero por {{[PRICE]}}.   Coca-Cola Zero. Puedes tenerlo todo. (Legal Copy to be read Faster and provided by station).</text>
+        </item>
+        <item kind="script" id="KOCZY150056" code="KOCZY150056" language="Spanish" length=":15" group="Customer Giveaway Template">
+          <text>LOC: Esta temporada de futbol Americano, Coke Zero, {{[Retailer]}} y {{[station]}} llevaran su fanatismo por el futbol Americano al siguiente nivel. {{[insert how to participate, i.e., call in text to win, etc]}}. Coca-Cola Zero. Puedes tenerlo todo.  (Legal copy to be read faster and provided by station).</text>
+        </item>
+        <item kind="script" id="KOCZY130057" code="KOCZY130057" language="Spanish" length=":30" group="Asset/Partner Sweeps with Station Tie-In (2011 Fall Football)">
+          <text>AVO:  Es temporada de fútbol Americano. Es el momento de gritar frente al televisor, de las batallas de canciones entre las hinchadas, de los choques de pecho y de todas esas celebraciones únicas que hacen parte de la cultura del fútbol Americano. Esta temporada, el sabor real de  Coca-Cola y Zero calorias harán que su fanatismo por el fútbol Americano pase al siguiente nivel.  Coca-Cola Zero socio oficial de {{[ASSET/PARTNER]}}, podria llevarlo al {{[PRIZE]}}. Para mayor informacion visite  {{[STATION WEBSITE]}}. Coca-Cola Zero. Puedes tenerlo todo.   (Legal copy to be read faster and provided by station). No compra necesaria. Residencia y otra restricciones aplican. Valido hasta {{[XX-XX-XXXX]}}.  Consulte la regalas del juego en {{[xxxxxxxx.com]}}. </text>
+        </item>
+        <item kind="script" id="KOCZY130058" code="KOCZY130058" language="Spanish" length=":30" group="Asset/Partner with Coke Zero Mention Only (2011 Fall Football)">
+          <text>AVO: Esta temporada de fútbol Americano, Coca-Cola Zero llevara su fanatismo por el futbol Americano al siguiente nivel. Dirijase a {{[PARTNER NAME]}}.  {{[PARTNER TO PROVIDE 2 LINES OF CALL OUT COPY]}}.  Recoja algunos amigos, unas  refrescantes Coca-Cola Zero y hagan un fuerte choque de pecho mientras celebran frente al TV.  Dirijase a  {{[PARTNER NAME]}} hoy mismo. Para mayor informacion visite {{[PARTNER WEBSITE]}}.  Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY120059" code="KOCZY120059" language="Spanish" length=":20" group="Asset/Partner with Coke Zero Mention Only (2011 Fall Football)">
+          <text>AVO: Esta temporada de fútbol Americano, Coca-Cola Zero llevara su fanatismo por el futbol Americano al siguiente nivel. Asi que dirijase a  {{[PARTNER NAME]}} Recoja algunos amigos, unas refrescantes Coca-Cola Zero . Dirijase a  {{[PARTNER NAME]}} hoy mismo por su Coca-Cola Zero.  Para mayor informacion visite {{[PARTNER WEBSITE]}}.  Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions 
+made to the provided scripts, other than where indicated by [BRACKETS], 
+must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Remote Events, Van Hits, Copy Points-->
+    <screen title="Remote Events &amp; Van Hits" id="REV" group="Media Elements">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="USAGE DATES: 7/1/2011 – 2/5/2012">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways - No Special Offer-->
+        <item kind="script" id="ENG_AVO_day-of_no-special_30" code="AVO" language="English" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways - No Special Offer">
+          <text>AVO: Football season is all about tailgating, watch-parties, and the occasional chest bump.  This season Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your football fandom to the next level.  Join us at {{[retailer’s]}} grand opening {{[address]}}, {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}.  While you’re there, you can stock your cooler with Coke Zero ---the only drink with real Coke taste and zero calories.  See you {{[day]}} from {{[time]}} at {{[Retailer]}}.  {{[Station]}} and Coke Zero, invite you to Enjoy the Football.  Enjoy the Fandom.  Enjoy Everything. </text>
+        </item>
+        <item kind="script" id="ENG_AVO_day-of_no-special_15" code="AVO" language="English" length=":15">
+          <text>AVO: This football season, Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your football fandom to the next level.  Join us at {{[retailer’s]}} grand opening {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}.  See you at {{[retailer]}} {{[day]}} from {{[time to time]}}.  Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_day-of_no-special_10" code="AVO" language="English" length=":10">
+          <text>AVO: Coke Zero and {{[station]}} will be at {{[retailer's]}} grand opening, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us and take your football fandom to the next level.  Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_day-of_no-special_60" code="Copy Points" language="English" length=":60">
+          <text>COPY POINTS FOR LIVE READ CUT-INS
+
+- We’re at {{[retailer]}} grand opening {{[address]}} today from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}} during {{[retailer’s]}} Grand Opening.  Coke Zero. Enjoy Everything.
+
+- This season, Coke Zero and {{[station]}} are helping you take your football fandom to the next level.
+
+- Be sure to get to your local {{[retailer]}}, and stock up on Coke Zero--- the only drink with real Coke taste and Zero Calories.  Coke Zero.  Enjoy Everything.
+
+- Stock up on Coke Zero -- the only drink with real Coke taste and zero calories.
+
+- Stock your cooler with ice-cold Coke Zero.
+
+- Coke Zero. Enjoy the football. Enjoy the fandom. Enjoy Everything.
+
+- Coke Zero. Enjoy Everything. </text>
+        </item>
+        <!--* At Retailer Featuring Asset Giveaways and Special Offer Pricing-->
+        <item kind="script" id="ENG_AVO_at-retailer_special-offer_30" code="AVO" language="English" length=":30" subgroup="At Retailer Featuring Asset Giveaways and Special Offer Pricing">
+          <text>AVO: Football season is all about tailgating, watch-parties and the occasional chest bump.  This year, Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your football fandom to another level.  Join us at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}.   While you’re there, stock your cooler with ice cold Coke Zero {{[package]}} for {{[price]}}. Coke Zero, the only drink with real Coke taste and zero calories.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}.  {{[Station]}} and Coke Zero invite you to Enjoy the football.  Enjoy the fandom. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-retailer_special-offer_15" code="AVO" language="English" length=":15">
+          <text>AVO: This football season, Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your football fandom to the next level.  Join us at {{[retailer]}}, {{[address]}} {{[day]}}, {{[date]}} at {{[time]}}. While you’re there, enter for a chance to win {{[asset]}} at {{[retailer]}} {{[day]}}, and stock up on Coke Zero {{[package]}} {{[price]}}.  Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-retailer_special-offer_10" code="AVO" language="English" length=":10">
+          <text>AVO: Coke Zero and {{[station]}} will be at {{[retailer’s]}}  grand opening {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us and take your football fandom to the next level. Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-retailer_special-offer_60" code="Copy Points" language="English" length=":60">
+          <text>COPY POINTS FOR LIVE READ CUT-INS
+
+- We’re at {{[retailer]}}, {{[address]}} today from {{[time to time]}}. Stop by and enter for a chance to win [asset] at {{[retailer]}} and stock up on {{[product]}} {{[price]}}.  Coke Zero. Enjoy Everything.
+
+- This season, Coke Zero and {{[station]}} are helping you take your football fandom to the next level.
+
+- Be sure to get to your local {{[retailer]}} and stock up on Coke Zero --- the only drink with real Coke taste and Zero Calories.  Coke Zero.  Enjoy Everything.
+
+- Stock up on Coke Zero -- the only drink with real Coke taste and zero calories.
+
+- Stock your cooler with ice-cold Coke Zero.
+
+- Coke Zero. Enjoy the football. Enjoy the fandom. Enjoy Everything.
+
+- Coke Zero. Enjoy Everything. 
+</text>
+        </item>
+        <!--* At Event Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="ENG_AVO_at-event_no-special-offer_30" code="AVO" language="English" length=":30" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>AVO: Football season is all about tailgating, watch-parties and the occasional chest bump.  This year Coke Zero and {{[station]}}  are helping you take your football fandom to the next level.  Join us at {{[event]}}, {{[location]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}. While you’re there, enjoy an ice-cold Coke Zero – the only drink with real Coke taste and zero calories.  See you {{[day]}} from {{[time to time]}}.  {{[Station]}} and Coke Zero invite you to  Enjoy the football.  Enjoy the fandom. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-event_no-special-offer_15" code="AVO" language="English" length=":15">
+          <text>AVO: This football season, Coke Zero, and {{[station]}} are helping you take your football fandom to the next level.  Join us at {{[event]}}, {{[location]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Enter for a chance to win {{[asset]}} from {{[station location]}} and while you’re there, stock your cooler with Coke Zero. 
+ Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-event_no-special-offer_10" code="AVO" language="English" length=":10">
+          <text>AVO: Coke Zero and {{[station]}} will be at {{[event]}}, {{[location]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us at {{[event]}} and take your football fandom to the next level. Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-event_no-special-offer_60" code="Copy Points" language="English" length=":60">
+          <text>COPY POINTS FOR LIVE READ CUT-INS
+
+- We’re at {{[event]}}, {{[location]}} today from {{[time]}} to {{[time]}}. Stop by and enter for a chance to win {{[asset]}}. Coke Zero.  Enjoy Everything.
+
+- This season, Coke Zero and {{[station]}} are helping you take your football fandom to the next level.
+
+- Be sure to get to your local {{[retailer]}} and stock up on Coke Zero --- the only drink with real Coke taste and Zero Calories.  Coke Zero.  Enjoy Everything.
+
+- Stock up on Coke Zero -- the only drink with real Coke taste and zero calories.
+
+- Stock your cooler with ice-cold Coke Zero.
+
+- Coke Zero. Enjoy the football. Enjoy the fandom. Enjoy Everything.
+
+- Coke Zero. Enjoy Everything. 
+</text>
+        </item>
+        <!--* No Giveaways - No Special Offer-->
+        <item kind="script" id="ENG_AVO_no-give_no-special-offer_30" code="AVO" language="English" length=":30" subgroup="No Giveaways - No Special Offer">
+          <text>AVO: Football season is all about tailgating, watch-parties and the occasional chest bump.  This season Coca-Cola and {{[station]}}  are helping you take your football fandom to the next level. Join Coke Zero, and {{[station]}} at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time]}} to {{[time]}}.  And while you’re there be sure to stock your cooler with Coke Zero --- the only drink with real Coke taste and zero calories.  See you {{[day]}}, {{[date]}} from {{[time]}} to {{[time]}} at {{[Retailer]}}.  Coke Zero, {{[Station]}}, and {{[retailer]}} invite you to Enjoy the football.  Enjoy the fandom.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_no-give_no-special-offer_15" code="AVO" language="English" length=":15">
+          <text>AVO: This season, Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your football fandom to the next level.  Join us at {{[retailer]}} {{[address]}}, {{[day]}} {{[date]}} from {{[time ]}} to {{[time]}}.   And while you’re there stock your cooler with ice-cold Coke Zero.  Coke Zero Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_no-give_no-special-offer_10" code="AVO" language="English" length=":10">
+          <text>AVO: {{[Station]}} and Coke Zero will be at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us and take your football fandom to the next level. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_no-give_no-special-offer_60" code="Copy Points" language="English" length=":60">
+          <text>COPY POINTS FOR LIVE READ CUT-INS
+
+- We’re at {{[retailer]}},  {{[address]}} today from {{[time]}} to {{[time]}}. Come join us.  Coke Zero. Enjoy Everything.
+
+- This season, Coke Zero and {{[station]}} are helping you take your football fandom to the next level.
+
+- Stock up on Coke Zero -- the only drink with real Coke taste and zero calories.
+
+- Stock your cooler with ice-cold Coke Zero.
+
+- Coke Zero. Enjoy the football. Enjoy the fandom. Enjoy Everything.
+
+- Coke Zero. Enjoy Everything. 
+</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="ENG_AVO_featuring_no-special-offer_15" code="AVO" language="English" length=":15" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>AVO: Coke Zero and {{[station promotion team]}} are helping take your football fandom to the next level. Join us at {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} from {{[time]}} where the first {{[x]}} listeners can score {{[asset/prize]}}. Coke Zero. Enjoy the football.  Enjoy the fandom. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_featuring_no-special-offer_10" code="AVO" language="English" length=":10">
+          <text>AVO: {{[Station promotion team]}} and Coke Zero will be at {{[location]}} {{[day or today]}} at {{[time]}} where the first {{[x]}} listeners can score {{[asset/prize]}} Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_featuring_no-special-offer_60" code="Copy Points" language="English" length=":60">
+          <text>COPY POINTS FOR USE IN VAN HITS PROMOS
+
+- This season, Coke Zero and {{[station]}} are helping you take your football fandom to the next level.
+
+- Stock up on Coke Zero -- the only drink with real Coke taste and zero calories.
+
+- Stock your cooler with ice-cold Coke Zero.
+
+- Coke Zero. Enjoy the football. Enjoy the fandom. Enjoy Everything.
+
+- Coke Zero. Enjoy Everything. 
+</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="USAGE DATES: 7/1/2011 – 2/5/2012">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways - No Special Offer-->
+        <item kind="script" id="SPA_AVO_day-of_no-special-offer_30" code="AVO" language="Spanish" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways - No Special Offer">
+          <text>AVO: La temporada de fútbol Americano se trata de reuniones al aire libre con maleteros abiertos, de juntarse con amigos a ver los partidos y del ocasional choque de pecho. Esta temporada, Coca-Cola Zero, {{[station]}} y {{[retailer]}} llevaran su fanatismo por el fútbol al siguiente nivel. Acompáñenos en la gran inauguración de {{[retailer]}}, {{[address]}}, el {{[day]}} {{[date]}} de {{[time a time]}} podra ganar {{[asset]}}. Mientras esté allí puede llenar su nevera portátil con Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías. Lo esperamos el {{[day]}} desde las {{[time]}} en {{[station]}}. {{[Station]}} y Coca-Cola Zero. Disfrute del fútbol. Disfrute del fanatismo. 
+Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_day-of_no-special-offer_15" code="AVO" language="Spanish" length=":15">
+          <text>AVO: Esta temporada de fútbol Amerciano, Coca-Cola Zero, {{[station]}} y {{[retailer]}} llevaran su fanatismo por el fútbol al siguiente nivel. Acompáñenos en la inauguración de {{[retailer]}}, {{[address]}}, el {{[day]}} {{[date]}} de {{[time a time.]}} Podra ganar {{[asset]}} en {{[retailer]}} el {{[day]}} de {{[time a time]}}. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_day-of_no-special-offer_10" code="AVO" language="Spanish" length=":10">
+          <text>AVO: {{[Station]}} y Coca-Cola Zero estarán en la gran inauguración de {{[retailer]}} en {{[address]}}, el {{[day]}} {{[date]}} de {{[time a time]}}. Acompáñenos y lleve su fanatismo por el fútbol Americano al siguiente nivel. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_day-of_no-special-offer_60" code="Copy Points" language="Spanish" length=":60">
+          <text>ARGUMENTOS DE VENTA PARA PUBLICIDADES LEÍDAS EN VIVO
+
+- Hoy estaremos en la gran inauguración de  {{[retailer]}} en {{[address]}} de {{[time a time]}}. Visítenos y participe, podrá ganar {{[asset]}} durante este gran evento. Coca-Cola Zero. Puedes tenerlo todo.
+
+- Esta temporada de futbol Americano, Coca-Cola Zero y {{[station]}} llevaran su fanatismo por el fútbol al siguiente nivel.
+
+- Asegúrese de pasar por {{[retailer]}}, y llevar Coca-Cola Zero ... la única bebida con el sabor real de Coca-Cola y cero calorías. Coca-Cola Zero. Puedes tenerlo todo.
+
+- Disfrute Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías.
+Llene su nevera portátil de Coca-Cola Zero bien helada.
+
+- Coca-Cola Zero. Disfrute del fútbol Americano. Disfrute del fanatismo. Disfrútelo todo.
+
+- Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <!--* At Retailer Featuring Asset Giveaways and Special Offer Pricing-->
+        <item kind="script" id="SPA_AVO_at-retailer_special-offer_30" code="AVO" language="Spanish" length=":30" subgroup="At Retailer Featuring Asset Giveaways and Special Offer Pricing">
+          <text>AVO: La temporada de fútbol Americano se trata de reuniones al aire libre con maleteros abiertos, de juntarse con amigos a ver los partidos y del ocasional choque de pecho. Este año Coca-Cola Zero, {{[station]}} y {{[retailer]}} llevaran su fanatismo por el fútbol al siguiente nivel.  Acompáñenos en {{[retailer]}}, {{[address]}}, el {{[day]}} {{[date]}} de {{[time a time]}}. Visítenos y participe para ganar {{[asset]}} en {{[retailer]}} y llene su nevera portátil con {{[package]}} de Coca-Cola Zero bien helada por {{[price]}}. Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías. Lo esperamos el {{[day]}} de {{[time a time]}} en {{[retailer]}}. {{[Station]}} y Coca-Cola Zero. Disfrute del fútbol. Disfrute del fanatismo. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_at-retailer_special-offer_15" code="AVO" language="Spanish" length=":15">
+          <text>AVO: Esta temporada de fútbol Americano, Coca-Cola Zero, {{[station]}} y {{[retailer]}} llevaran su fanatismo por el fútbol al siguiente nivel. Acompáñenos en {{[retailer]}}, {{[address]}}, el {{[day]}} {{[date]}} a las {{[time]}}. Podrá ganar {{[asset]}} en {{[retailer]}} el {{[day]}} y abastecerse de {{[package]}} de Coca-Cola Zero a {{[price]}}. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_at-retailer_special-offer_10" code="AVO" language="Spanish" length=":10">
+          <text>AVO: {{[Station]}} y Coca-Cola Zero estarán en la gran inauguración de {{[retailer]}} en {{[address]}}, el {{[day]}} {{[date]}} de {{[time a time]}}. Acompáñenos y lleve su fanatismo por el fútbol Americano al siguiente nivel.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_at-retailer_special-offer_60" code="Copy Points" language="Spanish" length=":60">
+          <text>ARGUMENTOS DE VENTA PARA PUBLICIDADES LEÍDAS EN VIVO
+
+- Hoy estaremos en {{[retailer]}}, {{[address]}}, de {{[time]}} a {{[time]}}. Visítenos y participe para ganar {{[asset]}} en {{[retailer]}} y abastézcase de {{[product]}} por {{[price]}}. Coca-Cola Zero. Puedes tenerlo todo.
+
+- Esta temporada, Coca-Cola Zero y {{[station]}} llevaran su fanatismo por el fútbol americano al siguiente nivel.
+
+- Disfruta Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías.
+
+- Llene su nevera portátil de Coca-Cola Zero bien helada.
+
+- Coca-Cola Zero. Disfrute del fútbol Americano. Disfrute del fanatismo. 
+
+- Coca-Cola Zero. Puedes tenerlo todo. </text>
+        </item>
+        <!--* At Event Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPA_AVO_at-event_no-special-offer_30" code="AVO" language="Spanish" length=":30" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>AVO: La temporada de fútbol  americano se trata de reuniones al aire libre con maleteros abiertos, de juntarse con amigos a ver los partidos y del ocasional choque de pecho.  Este año, Coca-Cola Zero y {{[station]}} llevaran su fanatismo por el fútbol al siguiente nivel.  Acompáñenos en {{[event]}} en {{[location]}}, el {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}  y participe, podra ganar {{[asset]}}.  Mientras tanto, disfrute de una Coca-Cola Zero bien helada... la única bebida con el sabor real de Coca-Cola y cero calorías.  Lo esperamos el {{[day]}} de {{[time]}} a {{[time]}}.  {{[Station]}}  y Coca-Cola Zero . Disfrute del fútbol.  Disfrute del fanatismo. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_at-event_no-special-offer_15" code="AVO" language="Spanish" length=":15">
+          <text>AVO: Esta temporada, Coca-Cola Zero y {{[station]}}  llevaran su fanatismo por el fútbol americano al siguiente nivel. Acompáñenos en {{[event]}}, en {{[location]}}, el {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}. Participe, podra ganar {{[asset]}} de {{[station location]}} y mientras tanto, llene su nevera portátil con Coca-Cola Zero.  Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_at-event_no-special-offer_10" code="AVO" language="Spanish" length=":10">
+          <text>AVO: Coca-Cola Zero y {{[station]}} estarán en {{[event]}} en {{[location]}}, el {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}. Acompáñenos en {{[event]}} y lleve su fanatismo por el fútbol americano al siguiente nivel. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-event_no-special-offer_60" code="Copy Points" language="Spanish" length=":60">
+          <text>DÍA DE ARGUMENTOS DE VENTA PARA PUBLICIDADES LEÍDAS EN VIVO
+
+- Hoy estaremos en {{[retailer]}}, {{[address]}}, de {{[time]}} a {{[time]}}. Acompáñenos. Coca-Cola Zero. Puedes tenerlo todo.
+
+- Esta temporada, Coca-Cola Zero y {{[station]}} llevaran su fanatismo por el fútbol Americano al siguiente nivel.
+
+- Disfruta de Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías.
+
+- Llene su nevera portátil de Coca-Cola Zero bien helada.
+
+- Coca-Cola Zero. Disfrute del fútbol Americano. Disfrute del fanatismo. 
+
+- Coca-Cola Zero. Puedes tenerlo todo. </text>
+        </item>
+        <!--* No Giveaways - No Special Offer-->
+        <item kind="script" id="SPA_AVO_no-give_no-special-offer_30" code="AVO" language="Spanish" length=":30" subgroup="No Giveaways - No Special Offer">
+          <text>AVO: La temporada de fútbol americano se trata de reuniones al aire libre con maleteros abiertos, de juntarse con amigos a ver los partidos y del ocasional choque de pecho. Esta temporada, Coca-Cola y {{[station]}} llevaran su fanatismo por el fútbol al siguiente nivel. Súmese a Coca-Cola Zero y {{[station]}} en {{[retailer]}}, {{[address]}}, el {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}. Y mientras tanto, asegúrese de llenar su nevera portátil con Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías. Lo esperamos el {{[day]}} {{[date]}} de {{[time]}} a {{[time]}} en {{[retailer]}}. Coca-Cola Zero, {{[station]}} y {{[retailer]}}. Disfrute del fútbol.  Disfrute del fanatismo.  Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_no-give_no-special-offer_15" code="AVO" language="Spanish" length=":15">
+          <text>AVO: Esta temporada, Coca-Cola Zero, {{[station]}} y {{[retailer]}} llevaran su fanatismo por el fútbol americano al siguiente nivel.  Acompáñenos en {{[retailer]}}, {{[address]}}, el {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}. Y mientras tanto, llene su nevera portátil con Coca-Cola Zero bien helada. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_no-give_no-special-offer_10" code="AVO" language="Spanish" length=":10">
+          <text>AVO: {{[Station]}} y Coca-Cola Zero estarán en {{[retailer]}}, {{[address]}}, el {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}.  Acompáñenos y lleve su fanatismo por el fútbol americano al siguiente nivel. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_no-give_no-special-offer_60" code="Copy Points" language="Spanish" length=":60">
+          <text>ARGUMENTOS DE VENTA PARA PUBLICIDADES LEÍDAS EN VIVO
+
+- Hoy estaremos en {{[retailer]}}, {{[address]}}, de {{[time]}} a {{[time]}}.  Acompáñenos.  Coca-Cola Zero.  Puedes tenerlo todo.
+
+- Esta temporada, Coca-Cola Zero y {{[station]}} llevaran su fanatismo por el fútbol americano al siguiente nivel.
+
+- Disfruta de Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías.
+
+- Llene su nevera portátil de Coca-Cola Zero bien helada.
+
+- Coca-Cola Zero.  Disfrute del fútbol americano. Disfrute del fanatismo. 
+
+- Coca-Cola Zero.  Puedes tenerlo todo. </text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPA_AVO_featuring_no-special-offer_15" code="AVO" language="Spanish" length=":15" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>AVO:  Coca-Cola Zero y {{[station promotion team]}} llevaran su fanatismo por el fútbol americano al siguiente nivel.  Acompáñenos en {{[retailer]}}, {{[location]}}, el {{[day]}} {{[date]}} a las {{[time]}} donde los primeros {{[x]}} oyentes que nos visiten podrán ganar {{[asset/prize]}}. Coca-Cola Zero. Disfrute del fútbol. Disfrute del fanatismo. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_featuring_no-special-offer_10" code="AVO" language="Spanish" length=":10">
+          <text>AVO:  {{[Station promotion team]}} y Coca-Cola Zero estarán en {{[location]}} el {{[day or today]}} a las {{[time]}}, donde los primeros  {{[x]}} oyentes que nos visiten podran ganar {{[asset/prize]}} de Coca-Cola Zero. Coca-Cola Zero. Puedes tenerlos todo.</text>
+        </item>
+        <item kind="script" id="SPA_AVO_featuring_no-special-offer_60" code="Copy Points" language="Spanish" length=":60">
+          <text>HOY ESTAREMOS EN {{[RETAILER]}}, {{[ADDRESS]}}, DE {{[TIME]}} A {{[TIME]}}. ACOMPÁÑENOS. COCA-COLA ZERO. PUEDES TENERLO TODO.
+
+- Esta temporada, Coca-Cola Zero y {{[station]}} llevaran su fanatismo por el fútbol Americano al siguiente nivel.
+
+- Disfruta de Coca-Cola Zero... la única bebida con el sabor real de Coca-Cola y cero calorías.
+
+- Llene su nevera portátil de Coca-Cola Zero bien helada.
+
+- Coca-Cola Zero. Disfrute del fútbol Americano. Disfrute del fanatismo. 
+
+- Coca-Cola Zero. Puedes tenerlo todo. </text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;&lt;textBody&gt;
+Please use only templates and copy points 
+provided by The Coca-Cola Company.  Please 
+contact your station rep specific to this 
+event for exact giveaway/package/pricing.
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Web Banners-->
+    <screen title="Web Banners" id="WBG" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Static Banners" sizes="- 160x600: Generic: “Taste What The Future Tastes Like”, “Taste Tomorrow Today”; Sponsor Banners w/ CZ Bottle: “Proud Partner With”, “Official Soft Drink Of”&#xD;&#xA;&#xD;&#xA;- 300x250: Generic: “Taste What The Future Tastes Like”, “Taste Tomorrow Today”; Sponsor Banners w/ CZ Bottle: “Proud Partner With”, “Official Soft Drink Of”&#xD;&#xA;&#xD;&#xA;- 728x90:   Generic: “Taste What The Future Tastes Like”, “Taste Tomorrow Today”; Sponsor Banners w/ CZ Bottle: “Proud Partner With”, “Official Soft Drink Of”" file="media/assets/_common/Coke_Zero_Static-Banner.flv" />
+        <item kind="video" title="Flash Banners (with backup .jpgs - CZ Only in 160x600 &amp; 300x250)" sizes="- 160x600: Sponsor Banners w/ Twitter CTAs: “Follow us on Twitter” (CZ Only), “Proud Partner With” (CZ+Sponsor), “Official Soft Drink Of” (CZ+Sponsor) &#xD;&#xA;&#xD;&#xA;- 300x250: Sponsor Banners w/ Twitter CTA: “Follow us on Twitter” (CZ Only), “Proud Partner With” (CZ+Sponsor), “Official Soft Drink Of” (CZ+Sponsor) &#xD;&#xA;&#xD;&#xA;- 728x90:   Sponsor Banners w/ Twitter CTA: “Proud Partner With” (CZ+Sponsor), “Official Soft Drink Of” (CZ+Sponsor)" file="media/assets/_common/Coke_Zero_Flash-Banner.flv" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Coke Zero Custom Web Banners are available for partner logo customization.  If a custom size creative is needed, login to the Online Ordering Tool.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--IN-VENUE ELEMENTS-->
+    <!--Menu Boards-->
+    <screen title="Menu Boards" id="MEN" group="In-Venue Elements" zone="1">
+      <card title="MENU BOARDS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_menu-board.swf" />
+      </card>
+      <card title="ADDITIONAL OPTIONS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_menu-board_additional.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+For additional information on the suppliers, click the SUPPLIERS tab.</text>
+        </item>
+      </card>
+      <card title="SUPPLIERS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;THE HOWARD COMPANY&lt;/textHeader&gt;
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 6 main menu boards (sizes &amp; types) and illuminated boards along with numerous specialty/custom boards for unique applications and locations.  Variations include: &lt;i&gt;with/without panel header, with/without acrylic cover, with digital LCD display&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;All menu boards use the same size strips and numbers although colors and font styles can be changed. Menu items and numbers are all separate&lt;/li&gt;
+&lt;li&gt;Magnets can be ordered &lt;a href="event:link|look_of_success_site" &gt;online&lt;/a&gt;.  All strips and numbers are direct printed on magnetic material&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as banners and adhesive graphics (floor and wall)&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;WEAVER MEDIA&lt;/textHeader&gt;
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 10 main menu boards including illuminated boards&lt;/li&gt;
+&lt;li&gt;All menu boards use magnetic strips (one strip that included menu items and prices)&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as adhesive graphics (floor and wall), concession stand graphics, banners&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards - Printed Piece-->
+    <screen title="Menu Boards - Printed Piece" id="PMB" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_menu-board_printed.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards Inserts-->
+    <screen title="Menu Boards Inserts" id="MBI" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_menu-board_inserts.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cups-->
+    <screen title="Cups" id="CUP" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_cups.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;
+
+Obtain approved cups and/or templates as listed below:
+
+&lt;li&gt;PRIORITY #1  - Approved Red Coca-Cola Iconic Cups are available at the                 &lt;a href="event:link|coke-catalog_site" &gt;Coke Catalog&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;PRIORITY #2 – Approved Compostable &amp; Environmentally Sustainable Cups can be found at &lt;a href="event:link|spread_the_red_site" &gt;Spread the Red&lt;/a&gt;&lt;textNote&gt;  (* Search Key Words “Green cupware” - To be used ONLY in venues that have a composting program)&lt;/textNote&gt;&lt;/li&gt;
+&lt;li&gt;PRIORITY #3 - Approved Asset Specific Cup Templates can be ordered and customized by Finished Art. Contact Daphne Brown via &lt;a href="event:email|finished-art2_email_contact" &gt;email&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;PRIORITY #4 – Approved artwork for Partner can be ordered by Finished Art.  Contact Daphne Brown via &lt;a href="event:email|finished-art2_email_contact" &gt;email&lt;/a&gt;.&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Static-->
+    <screen title="Fountain Backs, Static" id="FBS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_fountain_static.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Digital-->
+    <screen title="Fountain Backs, Digital" id="FBD" group="In-Venue Elements" zone="1">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Coke Zero Food + Cup “FOOTBALL”" length=":30" file="media/assets/football/Coke_Zero_Football_30.flv" />
+        <item kind="video" title="Coke Zero Food + Cup “FOOTBALL”" length=":15" file="media/assets/football/Coke_Zero_Football_15.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative can be used for arenas that have digital fountain backs at concession.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Currently two Coca-Cola generic designs are available.  Templates have already been created and are shown here. 
+
+Coke In-Venue
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ User Guide&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+To order a customized Digital Fountain Back, you will need to fill out the order form on the Coke In-Venue website.  Note that there is a charge for orders. 
+
+Coke In-Venue
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ User Guide&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Cards-->
+    <screen title="Counter Cards" id="CCS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_counter-cards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Crew Uniforms / Hawking Trays-->
+    <screen title="Crew Uniforms / Hawking Trays" id="CUH" group="In-Venue Elements" zone="1">
+      <card title="CREW UNIFORMS" kind="image_right">
+        <item kind="image" file="media/assets/_common/concession_uniforms.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;CREW UNIFORMS&lt;/textHeader&gt;
+&lt;textBody&gt;For brand-specific items:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="HAWKING TRAYS" kind="image_right">
+        <item kind="image" file="media/assets/_common/concession_hawking-tray.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;HAWKING TRAYS&lt;/textHeader&gt;
+&lt;textBody&gt;Refer to the Merchandising Idea Book or go to:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Concession Signage-->
+    <screen title="Exterior Concession Signage" id="ECS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concession_exterior-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Mobile Merchandising Equipment-->
+    <screen title="Mobile Merchandising Equipment" id="MME" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_mobile-messaging.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layout for Mobile Merchandising Equipment.
+
+To Produce:
+
+IRP
+&lt;a href="event:email|irp_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Barrel Coolers-->
+    <screen title="Barrel Coolers" id="BCS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_barrel_coolers.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+
+To Produce:
+
+Display Industries
+&lt;a href="event:email|display-ind_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycling Bins-->
+    <screen title="Recycling Bins" id="RBS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_recycling-bins.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Recycling Bins:
+
+Coke Bins
+&lt;a href="event:link|coke-bins_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Concourse Signage-->
+    <screen title="Concourse Signage" id="COS" group="In-Venue Elements" zone="2">
+      <card title="COKE ZERO - SUSTAINING" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concourse_signage_koz_sustaining.swf" />
+      </card>
+      <card title="COKE ZERO - LOGO CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concourse_signage_koz_custom.swf" />
+      </card>
+      <card title="COKE ZERO - EXTENSIVE CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concourse_signage_koz_extensive.swf" />
+      </card>
+      <card title="COCA-COLA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concourse_signage_ko.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Directional Signage-->
+    <screen title="Directional Signage" id="DIS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/concourse_directional-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Public Announcements-->
+    <screen title="Public Announcements" id="PAN" group="In-Venue Elements" zone="2">
+      <card title="PUBLIC ANNOUNCEMENTS" kind="scripts" approved="TO BE READ DURING LIVE GAMES ON PA SYSTEMS">
+        <item kind="script" id="ENG_PA_05_generic" code="PA - Generic" language="English" length=":05">
+          <text>- Want a taste of everything? Drink Coke Zero, with real Coke taste AND zero calories.
+
+- Share your team’s victory but not your Coke Zero. Enjoy that for yourself.</text>
+        </item>
+        <item kind="script" id="ENG_PA_05_generic_cust" code="PA - Generic Customizable" language="English" length=":05">
+          <text>Share (team)’s victory but not your Coke Zero. Enjoy that for yourself.</text>
+        </item>
+        <item kind="script" id="ENG_PA_05_Football" code="PA - Football" language="English" length=":05">
+          <text>- Drinking a cold Coke Zero is like finding your taste buds wide open in the end zone.  
+
+- Every sip of Coke Zero gets you closer to the End Zone of Enjoyment. </text>
+        </item>
+        <item kind="script" id="ENG_PA_10_Football" code="PA - Football" language="English" length=":10">
+          <text>- If you haven’t gotten an excessive celebration penalty, then you haven’t popped open an ice cold Coke Zero lately. Coke Zero, Enjoy Everything.
+
+- With real Coke taste AND zero calories, every sip of Coke Zero gets you one step closer to the End Zone of Enjoyment.
+
+- Downing a Coke Zero is a taste touchdown—real Coke taste and zero calories finding your taste buds wide open in the end zone. </text>
+        </item>
+        <item kind="script" id="ENG_PA_10_Football_cust" code="PA - Football Customizable" language="English" length=":10">
+          <text>- Drinking a cold Coke Zero is like (team name) finding your taste buds wide open in the end zone, then seeing yourself on the highlight reel that night.
+
+- Hey (losing team) fans, if we can make a drink with real Coke taste AND zero calories, you can still make a comeback. Coke Zero, it’s liquid proof you can have it all. </text>
+        </item>
+        <item kind="script" id="ENG_PA_15_Football" code="PA - Football" language="English" length=":15">
+          <text>- If you haven’t gotten an excessive celebration penalty lately, then you haven’t popped open an ice cold Coke Zero lately. It’s liquid proof you can have it all. Coke Zero, Enjoy Everything. 
+
+- Drinking an ice cold Coke Zero is like finding your taste buds wide open in the end zone, scoring an extra point for enjoyment, then watching yourself on the highlight reel that night. Coke Zero, Enjoy Everything. 
+
+- This football season, enjoy more of the game with Coke Zero. Real Coke taste and zero calories is the perfect pre-game, in-game and post-game celebration. Celebrate your fandom with liquid proof you can have it all. And enjoy everything. </text>
+        </item>
+        <item kind="script" id="ENG_PA_15_Football_cust" code="PA - Football Customizable" language="English" length=":15">
+          <text>- Drinking a cold Coke Zero is like (team name) finding your taste buds wide open in the end zone, scoring an extra point for enjoyment, then watching yourself on the highlight reel that night. Coke Zero, Enjoy Everything. 
+
+- Hey, (team name). This football season, enjoy more of the game with Coke Zero. Real Coke taste and zero calories is the perfect pre-game, in-game and post-game celebration. Celebrate your fandom with liquid proof you can have it all. 
+
+- Hey (losing team) fans, don’t worry. If we can make a drink with real Coke taste AND zero calories, you can still make a comeback. Coke Zero, it’s liquid proof you can have it all, and Enjoy Everything. </text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Signage Order Instructions-->
+    <screen title="Static Signage Order Instructions" id="STS" group="In-Venue Elements" zone="2">
+      <card title="SUPPLIERS / ORDER INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;STATIC SIGNAGE ORDER INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+This creative is approved to be used In-Venue on Static  Vinyl and digital boards (LED back-lit/non back-lit, Dioramas, Rotational signs, Pillars, Stand-alone, Signs, Scoreboards).
+
+&lt;li&gt;All Brand graphics and artwork for Static signage used in stadiums, arena and other venues can be accessed &lt;a href="event:link|ko-signage_site" &gt;online&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;This site provides the user with the ability to browse, view and download the currently available signage graphics.  The brand signage graphics have been created in a wide variety of proportions and styles.  Add them to your shopping cart for bulk down-loading and for forwarding to business partners or vendors&lt;/li&gt;
+&lt;li&gt;The digital files are saved in an EPS format and will require the end user to have a software program that can work with this file format&lt;/li&gt;
+&lt;li&gt;All designs adhere to the graphic standards set and approved by CCNA.  By accessing this site, the user agrees to its terms of use&lt;/li&gt;
+&lt;li&gt;There is no cost to the user for existing graphics/artwork.  If a user requires a non-standard size, contact Catherine Perry to discuss alternative options.  Please note in such cases there may be a cost associated with the order, if so a quote will be provided and budget must be in place before the order can be filled&lt;/li&gt;&lt;/textBody&gt;
+&lt;a href="event:link|ko-signage_guide" &gt;/ KO Signage User Guide&lt;/a&gt;
+
+&lt;a href="event:email|beck-compression_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Video Signage - Jumbo-Tron-->
+    <screen title="Video Signage - Jumbo-Tron" id="VJT" group="In-Venue Elements" zone="2">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="2012 Coke Zero Football" code="KOCZT250073 / KOCZT250073H" length=":15" sizes="68x40, 80x80, 112x352, 120x72, 144x32,144x224, 160x165, 192x112, 208x160, 272x224, 372x112, 384x224, 400x582, 480x720, 552x288, 600x800, 640x480, 720x480, 720x486, 768x432, 800x600, 1310x460, 1920x1440" file="media/assets/football/KOCZT250073.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative is approved to use In-Venue on video screens.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Sizes have already been created and are listed below each design; they are available for download on the Cinema Concepts website.  Should you require a non-standard size, you will need to fill out an order form.  Note that there is a charge for customized sizes.
+
+&lt;textBody&gt;Submit orders for In Venue Video Signage via &lt;a href="event:email|cinema-concepts_email_contact" &gt;email&lt;/a&gt; or 770.956.7460.
+
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ cokeinvenue.com User Guide&lt;/a&gt; 
+
+The website link will bring you into the signage site.  Once in the site you can view all of the available graphics for Jumbo-Trons and fascia rings.  Click on the image and Windows Media Player will display the animation. The order form is available in both Word and PDF formats; the PDF allows you to submit the order form directly.
+
+All requests should include the following information:
+
+&lt;li&gt;Type of Venue:  In Arena, In Concession, Vending, In-Store, In Restaurant&lt;/li&gt;
+&lt;li&gt;Video Type:  Jumbotron, Fascia, Video Menu Board, and u-Vending Video&lt;/li&gt;
+&lt;li&gt;Creative Code (found on site under creative visual)&lt;/li&gt;
+&lt;li&gt;Brand&lt;/li&gt;
+&lt;li&gt;Format:  .avi, .mov, .swf&lt;/li&gt;
+&lt;li&gt;Size in pixels (width and height)&lt;/li&gt;
+&lt;li&gt;Method of Delivery:  FTP Download or Overnight shipment (DVD or Digital Beta Tape)&lt;/li&gt;
+
+There is a $250 charge per size for orders filled within 4 business days.  
+For rush orders additional fees, as listed on the form, will apply.
+
+Billing information for CCNA requestors as well as CCE/Field Managers and Customers is explained on the order form.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Video Signage - Fascia-->
+    <screen title="Video Signage - Fascia" id="VSF" group="In-Venue Elements" zone="2">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="2012 Coke Zero Local Fasica Video HD" code="KOCZV250001" length=":15" sizes="144x32, 144x48, 192x24, 192x27, 208x24, 208x48, 231x32, 272x40, 272x48, 288x64, 368x40, 528x36, 528x40, 608x32, 704x40, 704x48, 960x32, 976x40, 1000x48, 1136x416, 1344x32, 1408x44, 1456x32, 1456x48, 1536x44, 1536x360, 1584x40, 1728x32, 1728x112, 1792x72, 1888x48, 2028x64, 2048x48, 2064x48, 2076x48, 2272x64, 2432x48, 2656x48, 2816x72, 2880x36, 3072x36, 3328x48, 3456x64, 3456x96, 3680x40, 3712x48, 3744x32, 3840x180, 4155x24, 4160x180, 4992x24, 5120x180, 5472x24, 8864x24, 8912x24, 11184x32, 11232x27, 11520x27, 12528x32, 12560x32, 13120x32, 14335x40, 14368x40, 14848x40, 15984x32, 21664x48" file="media/assets/_common/KOCZV250001H.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative is approved to use In-Venue on video screens.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Sizes have already been created and are listed below each design; they are available for download on the Cinema Concepts website.  Should you require a non-standard size, you will need to fill out an order form.  Note that there is a charge for customized sizes.
+
+&lt;textBody&gt;Submit orders for In Venue Video Signage via &lt;a href="event:email|cinema-concepts_email_contact" &gt;email&lt;/a&gt; or 770.956.7460.
+
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ cokeinvenue.com User Guide&lt;/a&gt; 
+
+The website link will bring you into the signage site.  Once in the site you can view all of the available graphics for Jumbo-Trons and fascia rings.  Click on the image and Windows Media Player will display the animation. The order form is available in both Word and PDF formats; the PDF allows you to submit the order form directly.
+
+All requests should include the following information:
+
+&lt;li&gt;Type of Venue:  In Arena, In Concession, Vending, In-Store, In Restaurant&lt;/li&gt;
+&lt;li&gt;Video Type:  Jumbotron, Fascia, Video Menu Board, and u-Vending Video&lt;/li&gt;
+&lt;li&gt;Creative Code (found on site under creative visual)&lt;/li&gt;
+&lt;li&gt;Brand&lt;/li&gt;
+&lt;li&gt;Format:  .avi, .mov, .swf&lt;/li&gt;
+&lt;li&gt;Size in pixels (width and height)&lt;/li&gt;
+&lt;li&gt;Method of Delivery:  FTP Download or Overnight shipment (DVD or Digital Beta Tape)&lt;/li&gt;
+
+There is a $250 charge per size for orders filled within 4 business days.  
+For rush orders additional fees, as listed on the form, will apply.
+
+Billing information for CCNA requestors as well as CCE/Field Managers and Customers is explained on the order form.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Dasher-board Elements-->
+    <screen title="Dasher-board Elements" id="DBE" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/dasherboard_KOZ.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+or 
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Include in your email:
+ 
+&lt;li&gt;Size needed&lt;/li&gt;
+&lt;li&gt;File Format needed&lt;/li&gt;
+&lt;li&gt;Ship to information&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Logo Elements-->
+    <screen title="Logo Elements" id="LOE" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/logo-elements.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+or 
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Include in your email:
+
+&lt;li&gt;Size needed&lt;/li&gt;
+&lt;li&gt;File Format needed&lt;/li&gt;
+&lt;li&gt;Ship to information&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--T-Shirts-->
+    <screen title="T-Shirts" id="TSH" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/t-shirts.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+or 
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Include in your email:
+
+&lt;li&gt;Size needed&lt;/li&gt;
+&lt;li&gt;File Format needed&lt;/li&gt;
+&lt;li&gt;Ship to information&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Rally Towels-->
+    <screen title="Rally Towels" id="RAL" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/rally-towels.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+or 
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Include in your email:
+
+&lt;li&gt;Size needed&lt;/li&gt;
+&lt;li&gt;File Format needed&lt;/li&gt;
+&lt;li&gt;Ship to information&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Signage-->
+    <screen title="Exterior Signage" id="ESI" group="In-Venue Elements" zone="3">
+      <card title="COKE ZERO - SUSTAINING" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/exterior-signage_koz_sustaining.swf" />
+      </card>
+      <card title="COKE ZERO - LOGO CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/exterior-signage_koz_custom.swf" />
+      </card>
+      <card title="COKE ZERO - EXTENSIVE CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/exterior-signage_koz_extensive.swf" />
+      </card>
+      <card title="COCA-COLA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/exterior-signage_ko.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--RETAIL ELEMENTS-->
+    <!--POS-->
+    <screen title="POS" id="RET" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/football/retail-elements.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--POS - AACM-->
+    <screen title="POS – AACM" id="AAC" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements - AACM" file="media/assets/football/retail-elements_AACM.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For use in Historically Black Colleges and Universities (HBCUs) retail activations.
+
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Truck Backs-->
+    <screen title="Truck Backs" id="TRU" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements - Truck Backs" file="media/assets/football/retail-elements_truck-backs.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_football" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OVERVIEW&lt;/textHeader&gt;
+&lt;textBody&gt;The OOH/CDN toolkit contains default creative as well as a series of templates for 
+co-branded OOH printed (Vinyl) boards or CDN (digital) boards.  
+ 
+The templates contain pre-approved Coca-Cola creative imagery as well as 
+approved headlines.  There are designated areas for the inclusion of partner logos and/or images.  
+ 
+The partner templates also have versions to allow for Directional signage/text placement as well as Photo Examples that demonstrate best practices in terms of image type and quality for use with the templates. 
+ 
+Each template contains versions in the following sizes: 
+
+CDN: 
+&lt;li&gt;Digital Bulletin&lt;/li&gt;
+&lt;li&gt;Digital Poster&lt;/li&gt;
+&lt;li&gt;Digital Shelter&lt;/li&gt;
+
+OOH: 
+&lt;li&gt;Outdoor Poster&lt;/li&gt;
+&lt;li&gt;Vertical Kiosk&lt;/li&gt;
+&lt;li&gt;Bulletin&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="PROCESS &amp; GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Drive traffic to partners and increase purchase of Coca-Cola at partner locations
+
+&lt;a href="event:link|ooh-cdn_template_guide" &gt;/ OOH &amp; CDN Regional Template Process and Guidelines&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Image Guidelines-->
+    <screen title="Image Guidelines" id="IMG">
+      <card title="DO'S" kind="image_full">
+        <item kind="image" title="DO'S" file="media/assets/ooh_cdn/guidelines_dos.swf" />
+      </card>
+      <card title="DONT'S" kind="image_full">
+        <item kind="image" title="DONT'S" file="media/assets/ooh_cdn/guidelines_donts.swf" />
+      </card>
+    </screen>
+    <!--DEFAULT CREATIVE-->
+    <!--Iconic Bottles-->
+    <screen title="Iconic Bottles" id="ICO" group="Default Creative">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Iconic Bottles" file="media/assets/ooh_cdn/default_iconic-bottles.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+No customization allowed on default creative.
+
+CDN specs:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl specs:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi</text>
+        </item>
+      </card>
+    </screen>
+    <!--Red Iconic-->
+    <screen title="Red Iconic" id="RIC" group="Default Creative">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Red Iconic" file="media/assets/ooh_cdn/default_iconic-red.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+No customization allowed on default creative.
+
+CDN specs:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl specs:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi</text>
+        </item>
+      </card>
+    </screen>
+    <!--Red Iconic Coke & Food-->
+    <screen title="Red Iconic Coke &amp; Food" id="RIF" group="Default Creative">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Red Iconic Coke &amp; Food" file="media/assets/ooh_cdn/default_iconic-red-yum.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+No customization allowed on default creative.
+
+CDN specs:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl specs:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi</text>
+        </item>
+      </card>
+    </screen>
+    <!--PARTNER TEMPLATES-->
+    <!--Theme Parks-->
+    <screen title="Theme Parks" id="THM" group="Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/theme_roller-coaster_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/theme_roller-coaster_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/theme_roller-coaster_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Food Service-->
+    <screen title="Food Service" id="FOO" group="Partner Templates">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Food Service - Previews" file="media/assets/ooh_cdn/food_preview-image.swf" />
+      </card>
+      <card title="IMAGE/DIRECTIONAL" kind="image_full">
+        <item kind="image" title="Food Service - Previews" file="media/assets/ooh_cdn/food_preview-image-dir.swf" />
+      </card>
+      <card title="IMAGE/BANNER" kind="image_full">
+        <item kind="image" title="Food Service - Previews" file="media/assets/ooh_cdn/food_preview-banner.swf" />
+      </card>
+      <card title="IMAGE/BANNER/DIRECTIONAL" kind="image_full">
+        <item kind="image" title="Food Service - Previews" file="media/assets/ooh_cdn/food_preview-banner-dir.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Food Service - Previews" file="media/assets/ooh_cdn/food_photo-examples.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Sports - Golf-->
+    <screen title="Sports - Golf" id="GLF" group="Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/sports_golf_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/sports_golf_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/sports_golf_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Sports - General-->
+    <screen title="Sports - General" id="GEN" group="Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/sports_general_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/sports_general_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/sports_general_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Entertainment-->
+    <screen title="Entertainment" id="ENT" group="Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/entertainment_theater_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/entertainment_theater_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/entertainment_theater_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Holiday-->
+    <screen title="Holiday" id="HOL" group="Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/holiday_santa_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/holiday_santa_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/holiday_santa_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--DELI Partner Templates-->
+    <!--Lunch-->
+    <screen title="Lunch" id="LUN" group="Deli Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_lunch_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_lunch_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_lunch_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Refresh-->
+    <screen title="Refresh" id="REF" group="Deli Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_refresh_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_refresh_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_refresh_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Partners-->
+    <screen title="Partners" id="PAR" group="Deli Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_partners_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_partners_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/deli_partners_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--SNACK Partner Templates-->
+    <!--Delicious-->
+    <screen title="Delicious" id="DLS" group="Snack Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_delicious_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_delicious_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_delicious_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Delightful Pair -->
+    <screen title="Delightful Pair " id="DLP" group="Snack Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_delightful_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_delightful_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_delightful_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Good to Go-->
+    <screen title="Good to Go" id="GTG" group="Snack Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_good_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_good_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_good_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Partners in Joy-->
+    <screen title="Partners in Joy" id="PIJ" group="Snack Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_partners_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_partners_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_partners_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Snack/Snack Time Refreshed-->
+    <screen title="Snack/Snack Time Refreshed" id="SST" group="Snack Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_refreshed_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_refreshed_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_refreshed_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Snack. Sip. Smile.-->
+    <screen title="Snack. Sip. Smile." id="SSS" group="Snack Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_sip-smile_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_sip-smile_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_sip-smile_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--Treat Your Taste Buds-->
+    <screen title="Treat Your Taste Buds" id="TTB" group="Snack Partner Templates">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_taste-buds_preview.swf" />
+      </card>
+      <card title="DIRECTIONAL PREVIEW" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_taste-buds_directional.swf" />
+      </card>
+      <card title="LAYOUT WITH PHOTO EXAMPLE" kind="image_full">
+        <item kind="image" title="Roller Coaster" file="media/assets/ooh_cdn/snacks_taste-buds_example.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+For customization and to order artwork, contact:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+&lt;textHeader&gt;DETAILS&lt;/textHeader&gt;
+CDN Images need to be:
+• Digital Bulletin 700 pixels x 400 pixels
+• Digital Poster 648 pixels x 648 pixels
+• Digital Shelter 1080 pixels x 954 pixels
+ 
+Vinyl Images need to be:
+• Outdoor Poster 23"x5" @300dpi
+• Vertical Kiosk 12.5"x8" @300dpi
+• Bulletin 12.5"x6" @300dpi
+ 
+All logos must be vector art files (PDF, Adobe Illustrator)</text>
+        </item>
+      </card>
+    </screen>
+    <!--PARTNER LOGO ONLY-->
+    <!--Sustaining-->
+    <screen title="Sustaining" id="SUS" group="Partner Logo Only">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Iconic Bottles" file="media/assets/ooh_cdn/partner-logo_sustaining.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Template access via Design Machine:
+&lt;a href="event:link|design_machine_deep_ooh_partner_logo" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available: 
+&lt;li&gt;14 x 48&lt;/li&gt;
+&lt;li&gt;30-sheet&lt;/li&gt;
+&lt;li&gt;Vertical Kiosk&lt;/li&gt;&lt;/textBody&gt;
+
+Note:  Templates are only able to be customized with a partner logo.</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;To customize with a customer logo or if a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Looking Glass Campaign-->
+    <screen title="Looking Glass Campaign" id="LGC" group="Partner Logo Only">
+      <card title="PREVIEW" kind="image_full">
+        <item kind="image" title="Iconic Bottles" file="media/assets/ooh_cdn/partner-logo_looking-glass.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Template access via Design Machine:
+&lt;a href="event:link|design_machine_deep_ooh_partner_logo" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available: 
+&lt;li&gt;14 x 48&lt;/li&gt;
+&lt;li&gt;30-sheet&lt;/li&gt;
+&lt;li&gt;Vertical Kiosk&lt;/li&gt;&lt;/textBody&gt;
+
+Note:  Templates are only able to be customized with a partner logo.</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;To customize with a customer logo or if a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Marketing Asset Activation is best in class activation of our assets with communication that enhances our trademark in order to maximize our investment and drive business results.&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVES&lt;/textHeader&gt;
+&lt;textBody&gt;Maximize our investments with critical assets to enhance our trademark and leverage our association in a relevant and compelling way.
+
+Drive opportunistic availability of our brands in priority channels and provide a distinct competitive advantage with our consumers.
+
+Recruit youth via availability and connection.
+
+Create personal, meaningful connections between consumers, our brands and their Sports/Entertainment passions that are unique and special
+events.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Trademark enhancement is best in class activation of our assets with sustaining communication that enhances our trademark in order to maximize our investment and drive business results
+
+&lt;a href="event:link|in-venue_zone-strategy_theme-park" &gt;/ In-Venue Zone Strategy&lt;/a&gt;
+&lt;a href="event:link|maa_guiding_principles" &gt;/ MAA Guiding Principles&lt;/a&gt;
+&lt;a href="event:link|maa_implementation_tools" &gt;/ MAA Implementation Tools&lt;/a&gt;
+&lt;a href="event:link|customer_sales_aid" &gt;/ Customer Sales Aid&lt;/a&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative customized elements utilizing pre-approved templates facilitate asset activation in-venue&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION ZONES&lt;/textHeader&gt;
+&lt;textBody&gt;Zone 1 –  Concession
+Zone 2 –  Concourse/Stadium
+Zone 3 –  Entrance/Parking Lot&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE BRAND GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;BRAND GUIDELINES&lt;/textHeader&gt;
+&lt;textBody&gt;Priority Sparkling:  
+1) Coca-Cola   
+2) Coke Zero  
+3) Sprite  
+4) Diet Coke
+
+Priority Still for Colleges:  
+1) vitaminwater base  
+2) vitaminwater Zero 
+3) PowerAde ion 4  
+4) smartwater
+&lt;/textBody&gt;
+&lt;textNote&gt;* These priorities should be followed when activating sustaining elements. All appropriate promotional brands should be used to support national program efforts.&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards-->
+    <screen title="Menu Boards" id="MEN" group="In-Venue Elements" zone="1">
+      <card title="MEDIA: EXAMPLE 1" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concession_menu-board_1.swf" />
+      </card>
+      <card title="MEDIA: EXAMPLE 2" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concession_menu-board_2.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To develop custom boards for your asset:
+
+Dedica Group
+&lt;a href="event:link|dedica_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|dedica_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+To get Approved Artwork:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+For additional information on the suppliers, click the SUPPLIERS tab.</text>
+        </item>
+      </card>
+      <card title="SUPPLIERS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;THE HOWARD COMPANY&lt;/textHeader&gt;
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 6 main menu boards (sizes &amp; types) and illuminated boards along with numerous specialty/custom boards for unique applications and locations.  Variations include: &lt;i&gt;with/without panel header, with/without acrylic cover, with digital LCD display&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;All menu boards use the same size strips and numbers although colors and font styles can be changed. Menu items and numbers are all separate&lt;/li&gt;
+&lt;li&gt;Magnets can be ordered &lt;a href="event:link|look_of_success_site" &gt;online&lt;/a&gt;.  All strips and numbers are direct printed on magnetic material&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as banners and adhesive graphics (floor and wall)&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;WEAVER MEDIA&lt;/textHeader&gt;
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 10 main menu boards including illuminated boards&lt;/li&gt;
+&lt;li&gt;All menu boards use magnetic strips (one strip that included menu items and prices)&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as adhesive graphics (floor and wall), concession stand graphics, banners&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Pre-Sell Boards-->
+    <screen title="Pre-Sell Boards" id="PSB" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concession_pre-sell-boards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To develop custom boards for your asset:
+
+Dedica Group
+&lt;a href="event:link|dedica_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|dedica_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cups-->
+    <screen title="Cups" id="CUP" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concession_cups.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Visuals are reference only
+
+To get Approved Artwork:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;textNote&gt; * Search Key Words “Green cupware”&lt;/textNote&gt;
+
+Dedica Group
+&lt;a href="event:link|dedica_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|dedica_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Static-->
+    <screen title="Fountain Backs, Static" id="FBS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concession_fountain_static.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Cards-->
+    <screen title="Counter Cards" id="CCS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concession_counter-cards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Crew Uniforms / Hawking Trays-->
+    <screen title="Crew Uniforms / Hawking Trays" id="CUH" group="In-Venue Elements" zone="1">
+      <card title="CREW UNIFORMS" kind="image_left">
+        <item kind="image" file="media/assets/_common/concession_uniforms.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;CREW UNIFORMS&lt;/textHeader&gt;
+&lt;textBody&gt;For brand-specific items:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="HAWKING TRAYS" kind="image_right">
+        <item kind="image" file="media/assets/_common/concession_hawking-tray.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;HAWKING TRAYS&lt;/textHeader&gt;
+&lt;textBody&gt;Refer to the Merchandising Idea Book or go to:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Concession Signage-->
+    <screen title="Exterior Concession Signage" id="ECS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concession_exterior-signage.swf" />
+        <card title="ORDER" kind="text_only">
+          <item kind="text">
+            <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+          </item>
+        </card>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Mobile Merchandising Equipment-->
+    <screen title="Mobile Merchandising Equipment" id="MME" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_mobile-messaging_ice.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;
+
+
+To Produce:
+
+IRP
+&lt;a href="event:email|irp_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Barrel Coolers-->
+    <screen title="Barrel Coolers" id="BCS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_barrel_coolers.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+
+To Produce:
+
+Display Industries
+&lt;a href="event:email|display-ind_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycling Bins-->
+    <screen title="Recycling Bins" id="RBS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_recycling-bins.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Recycling Bins:
+
+Coke Bins
+&lt;a href="event:link|coke-bins_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Concourse Signage-->
+    <screen title="Concourse Signage" id="COS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concourse_signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;
+
+The Howard Company  (3M Adhesive Wraps)
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Weaver Media  (3M Adhesive Wraps)
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Pole Banners-->
+    <screen title="Pole Banners" id="POB" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/concourse_pole-banners.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;
+
+The Howard Company  (3M Adhesive Wraps)
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Weaver Media  (3M Adhesive Wraps)
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Signage-->
+    <screen title="Exterior Signage" id="ESI" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/theme-park/exterior-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Banners-->
+    <screen title="Exterior Banners" id="EBA" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Banners" file="media/assets/theme-park/exterior-signage_banners.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Retail Elements-->
+    <screen title="Retail Elements" id="RET" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/theme-park/retail-elements.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;
+
+
+Sizes currently available: 
+
+Pole sign: 18” x 24”
+Case Card: 11” x 17”</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

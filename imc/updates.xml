@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<feed xml:base="https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Announcements</title>
+  <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements</id>
+  <updated>2013-02-05T15:23:21Z</updated>
+  <link rel="self" title="Announcements" href="Announcements" />
+  <entry m:etag="W/&quot;3&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(13)</id>
+    <title type="text">WELCOME TO THE IMC CONTENT PORTAL</title>
+    <updated>2012-11-02T08:34:28-04:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(13)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>WELCOME TO THE IMC CONTENT PORTAL</d:Title>
+        <d:Body>For more information, click the "Help" button from the Main Page.</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(15)</id>
+    <title type="text">Holiday Toolkit Update</title>
+    <updated>2012-11-29T15:37:13-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(15)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>Holiday Toolkit Update</d:Title>
+        <d:Body xml:space="preserve">Please be advised that radio spots as well as TV spots (for Non-Broadcast use) have been added to the Holiday Toolkit on the IMC Content Portal.  Thank you.  </d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(16)</id>
+    <title type="text">Truck Back Template Toolkit</title>
+    <updated>2012-12-14T17:44:31-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(16)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>Truck Back Template Toolkit</d:Title>
+        <d:Body xml:space="preserve">Please be advised that truck back templates are now available via the IMC Content Portal.  The Truck Back Toolkit can be found under the FLEET category.  &#xD;
+&#xD;
+Please note, that the Logo Only templates are being uploaded to Design Machine.  If you have an immediate need, please contact Finished Art to customize with a partner logo.  The logo only templates should be available on DM in approximately 2 weeks.&#xD;
+&#xD;
+Thank you. &#xD;
+</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(17)</id>
+    <title type="text">Ski Toolkit is Live</title>
+    <updated>2012-12-17T15:36:39-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(17)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>Ski Toolkit is Live</d:Title>
+        <d:Body xml:space="preserve">Please be advised that the Ski/Winter Sports toolkit is now available via the IMC Content Portal under the Sports category. &#xD;
+&#xD;
+Please note, creative files are currently being posted to Design Machine, but may not be live until after the new year.  If creative is needed immediately, please contact Finished Art to order.  &#xD;
+&#xD;
+Thank you. </d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(18)</id>
+    <title type="text">Updated Music Toolkit </title>
+    <updated>2012-12-19T12:41:48-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(18)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title xml:space="preserve">Updated Music Toolkit </d:Title>
+        <d:Body xml:space="preserve">Please be advised that an updated Music toolkit is now available via the IMC Content Portal.   &#xD;
+&#xD;
+While a majority of the creative is available on Design Machine, there are a few elements that are still in process of being posted.  If those elements are needed before they are live on Design Machine, please contact Finished Art to order.  &#xD;
+&#xD;
+Thank you.&#xD;
+&#xD;
+</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(19)</id>
+    <title type="text">Aquarium Toolkit</title>
+    <updated>2013-01-11T10:07:38-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(19)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>Aquarium Toolkit</d:Title>
+        <d:Body xml:space="preserve"> &#xD;
+Please be advised that an updated Aquarium toolkit is now available via the IMC Content Portal. &#xD;
+&#xD;
+https://teams.coca-cola.com/sites/toolkit/portal/index.html  &#xD;
+&#xD;
+Thank you.&#xD;
+</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(20)</id>
+    <title type="text">Baseball Toolkit Updates</title>
+    <updated>2013-01-18T17:45:50-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(20)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>Baseball Toolkit Updates</d:Title>
+        <d:Body>Please be advised that the Baseball toolkit has been updated with new Retail POS elements.  You can access the toolkit via the IMC Content Portal.  &#xD;
+https://teams.coca-cola.com/sites/toolkit/portal/index.html &#xD;
+&#xD;
+The new POS creative can currently be ordered through Finished Art and will also be available at 2B Design on 1/25.   The templates will be made available on Design Machine, but exact timing is TBD.  We will provide an update on Design Machine timing as soon as it is available.&#xD;
+&#xD;
+Thank you.</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(21)</id>
+    <title type="text">Soccer Toolkit</title>
+    <updated>2013-01-22T17:36:48-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(21)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>Soccer Toolkit</d:Title>
+        <d:Body xml:space="preserve">&#xD;
+Please be advised that the Soccer toolkit is now available via the IMC Content Portal under the Sports category.   https://teams.coca-cola.com/sites/toolkit/portal/index.html &#xD;
+&#xD;
+Please note, creative files are currently being posted to Design Machine and should be available by 2/1.  If creative is needed immediately, please contact Finished Art to order. &#xD;
+&#xD;
+Thank you. &#xD;
+</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(22)</id>
+    <title type="text">Updated Basketball Toolkit</title>
+    <updated>2013-01-25T17:57:03-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(22)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>Updated Basketball Toolkit</d:Title>
+        <d:Body xml:space="preserve">&#xD;
+Please be advised that updated Sprite Basketball creative is now available in the Pro Basketball toolkit on the IMC Content Portal.  https://teams.coca-cola.com/sites/toolkit/portal/index.html &#xD;
+&#xD;
+Please note that while the files are being uploaded to Design Machine, creative can be ordered through Finished Art.   &#xD;
+&#xD;
+Thank you. &#xD;
+</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;1&quot;">
+    <id>https://teams.coca-cola.com/sites/toolkit/_vti_bin/ListData.svc/Announcements(23)</id>
+    <title type="text">Zoo and American Idol Toolkits Added </title>
+    <updated>2013-01-31T16:35:22-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="AnnouncementsItem" href="Announcements(23)" />
+    <category term="Microsoft.SharePoint.DataService.AnnouncementsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title xml:space="preserve">Zoo and American Idol Toolkits Added </d:Title>
+        <d:Body xml:space="preserve">&#xD;
+Please be advised that an updated Zoo toolkit, as well as the 2013 American Idol Program toolkit are now available on the IMC Content Portal.  &#xD;
+&#xD;
+https://teams.coca-cola.com/sites/toolkit/portal/index.html&#xD;
+&#xD;
+Thank you. &#xD;
+</d:Body>
+      </m:properties>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,1657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;The Creative Toolkit contains approved assets that can be utilized to support college &amp; professional baseball events to fulfill contractual commitments with Sports Teams.  This toolkit is segmented by medium, and contains complete information pertaining to each asset, including where to obtain, usage dates, and key contacts.&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative assets developed to generate Brand awareness and drive volume during Baseball events&lt;/textBody&gt;
+&lt;textHeader&gt;MEDIUMS&lt;/textHeader&gt;
+&lt;textBody&gt;Program Ads
+TV ads
+Radio ads
+Radio Scripts (English/Spanish)
+TV Sponsorship Billboards
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Trademark enhancement is best in class activation of our assets with sustaining communication that enhances our trademark in order to maximize our investment and drive business results
+
+&lt;a href="event:link|in-venue_zone-strategy_baseball" &gt;/ In-Venue Zone Strategy&lt;/a&gt;
+&lt;a href="event:link|maa_guiding_principles" &gt;/ MAA Guiding Principles&lt;/a&gt;
+&lt;a href="event:link|maa_implementation_tools" &gt;/ MAA Implementation Tools&lt;/a&gt;
+&lt;a href="event:link|customer_sales_aid" &gt;/ Customer Sales Aid&lt;/a&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative customized elements utilizing pre approved templates facilitate asset activation in-venue&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION ZONES&lt;/textHeader&gt;
+&lt;textBody&gt;Zone 1 –  Concession
+Zone 2 –  Concourse/Stadium
+Zone 3 –  Entrance/Parking Lot
+Live Positively Messaging&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE BRAND GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;BRAND GUIDELINES&lt;/textHeader&gt;
+&lt;textBody&gt;Priority Sparkling:  Coca-Cola   
+
+Priority Still for Colleges:  PowerAde ion 4
+&lt;/textBody&gt;
+&lt;textNote&gt;* These priorities should be followed when activating sustaining elements. All appropriate promotional brands should be used to support national program efforts.&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Program Ads-->
+    <screen title="Program Ads" id="PRA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="image" title="Peanuts" file="media/assets/baseball/program-ad_peanuts.jpg" />
+        <item kind="image" title="Double Header" file="media/assets/baseball/program-ad_double.jpg" />
+        <item kind="image" title="Reliever" file="media/assets/baseball/program-ad_reliever.jpg" />
+        <item kind="image" title="You're Out" file="media/assets/baseball/program-ad_out.jpg" />
+        <item kind="image" title="Instant Replay" file="media/assets/baseball/program-ad_replay.jpg" />
+        <item kind="image" title="Bubbles" file="media/assets/baseball/program-ad_bubbles.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Template access via Design Machine:
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available: 
+&lt;li&gt;8.5” x 11”&lt;/li&gt;
+&lt;li&gt;5.5” x 8.5”&lt;/li&gt;
+&lt;li&gt;7” x 10”&lt;/li&gt;
+
+Customize with the following text options:
+&lt;li&gt;Proud partner of the&lt;/li&gt;
+&lt;li&gt;Proud sponsor of the&lt;/li&gt;
+&lt;li&gt;Proud supporter of the&lt;/li&gt;
+&lt;li&gt;Official soft drink of the&lt;/li&gt;
+ 
+Team name and logo can also be added:
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Television Ads-->
+    <screen title="TV Ads" id="TVA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Finals" code="KOCLT932682" length=":30" exp_broadcast="12/25/2013" exp_in_venue="12/25/2013" exp_internet="12/25/2013" file="media/assets/_common/KOCLT932682.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These TV ads can be used to run during live games or when broadcast on individual stations and can be used until creative changes.  These ads can also run in non-broadcast venues (In-Venue, In-Store, In-Restaurant, Kiosks, Tradeshows, In-Flight, Cinema, Internal/External meetings) and Internet.
+ 
+NOTE: For Non-Broadcast, TV ads should be used when both video and audio capabilities are available.  &lt;a href="event:crosslink|VJT" &gt;In-Venue Video Signage&lt;/a&gt; should be used when audio is not available.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|broadcast-baseball_form" &gt;/ Broadcast Use&lt;/a&gt;
+&lt;a href="event:link|non_broadcast_form" &gt;/ Non-Broadcast Use&lt;/a&gt;
+&lt;a href="event:link|internet_use_form_tv" &gt;/ Internet Use&lt;/a&gt;
+
+Limited to 1 copy of each spot per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department 
+is fully responsible for any talent fees, licensing fees, or other charges 
+incurred as a result of any use outside the permitted scope or time period 
+set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Sponsorship Billboards-->
+    <screen title="Sponsorship Billboards" id="SBB" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Open Happiness Static BB" code="KOCLT901273" length=":05" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/_common/KOCLT901273.flv" thumbnail="media/assets/_common/KOCLT901273_thumbnail.jpg">
+          <copy id="KOCLT901273_SB" kind="script" code="KOCLT901273_SB">
+            <text>KO Classic NCAA BB Live Read Script
+
+(This copy is generic and can be used for any sport)
+
+The :05 Live Read Copy for KOCLT901637 is: “Open a Coke and Enjoy the game.”</text>
+          </copy>
+        </item>
+        <item kind="video" title="Open Happiness Animated BB&#x9;" code="KOCLT901274" length=":05" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/_common/KOCLT901274.flv" thumbnail="media/assets/_common/KOCLT901274_thumbnail.jpg">
+          <copy id="KOCLT901274_SB" kind="script" code="KOCLT901274_SB">
+            <text>KO Classic NCAA BB Live Read Script
+
+(This copy is generic and can be used for any sport)
+
+The :05 Live Read Copy for KOCLT901637 is: “Open a Coke and Enjoy the game.”</text>
+          </copy>
+        </item>
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These TV Billboards are approved to run on live broadcasts during games.   Scripts are not to be recorded, but only to be used as live reads.
+
+Rotation should be equal depending on number of spots chosen to run.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|broadcast-baseball_form" &gt;/ Billboards for Broadcast&lt;/a&gt;
+
+Limited to 1 copy of each spot per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department is fully responsible for any talent fees, licensing fees, or other charges incurred as a result of any use outside the permitted scope or time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Ads-->
+    <screen title="Radio Ads" id="RAA" group="Media Elements" approved="APPROVED FOR LIVE READS ONLY">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="audio" title="Dedication" code="KOCLR033060" length=":30" exp_broadcast="1/14/2013" exp_in_venue="1/14/2013" exp_internet="1/2/2013" file="media/assets/_common/KOCLR033060.mp3" />
+        <item kind="audio" title="Get Well" code="KOCLR932920" length=":30" exp_broadcast="11/14/2013" exp_in_venue="9/14/2012" exp_internet="N/A" file="media/assets/baseball/KOCLR932920.mp3" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These Radio Ads are approved for broadcast, non-broadcast/industrial, 
+and internet/streaming use.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for Radio spots:
+
+&lt;a href="event:link|radio-individuals_form" &gt;/ Radio - Individual Stations&lt;/a&gt; (broadcast from individual stations)
+
+&lt;a href="event:link|radio-network_form" &gt;/ Radio - Network&lt;/a&gt; (broadcast from single location to multiple stations)
+
+&lt;a href="event:link|non_broadcast_form" &gt;/ Radio - Non-Broadcast Use&lt;/a&gt; (for non-broadcast only - (In-Venue, In-Store, Internal/External meetings, Tradeshows)
+
+&lt;a href="event:link|internet_use_form_radio" &gt;/ Radio - Internet Use&lt;/a&gt; (internet/streaming)</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge 
+that your department is fully responsible for any 
+talent fees, licensing fees, or other charges incurred 
+as a result of any use outside the permitted scope or 
+time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Script Templates-->
+    <screen title="Radio Script Templates" id="RST" group="Media Elements">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <item id="KOCLY260095" kind="script" code="KOCLY260095" language="English" length=":60">
+          <text>VO: There are a few special things that make a baseball game a “baseball game.” The way the air smells when popcorn and hot dogs mix with the smell of freshly cut grass. The crack of the bat, followed by the eruption of thousands of cheers. And this guy...  
+
+COKE GUY: Coca-Cola. Get your ice-cold Coca-Cola here! Ice-cold Coca-Cola… (fades out)  
+
+VO: Because how often does someone announce that, hey, they’ve got ice-cold Coca-Cola for you? Where’s a Coke? There’s a Coke. With that guy saying, “Get your ice-cold Coca-Cola here.” Where else does this happen? (Whispers) Nowhere! The Coke Guy’s the best. How did he know that after sitting under the summer sun and eating a hot dog, that, yes, I would love a frosty Coke? How’d he know about the fifth-inning “refresh” I invented, where I make it a point to get a Coke to drink with my popcorn? And, hey, know what else goes with popcorn besides Coke? Nothing. And this guy knows it. That’s why he was invented. So thanks for the Coke, Coke Guy. You make baseball games “baseball games.” You and {{[INSERT TEAM NAME]}} down there on the field. Playing baseball.</text>
+        </item>
+        <item id="KOCLY230096" kind="script" code="KOCLY230096" language="English" length=":30">
+          <text>VO: There are a few special things that make a baseball game, a “baseball game.” The way the air smells when popcorn and hot dogs mix with the smell of freshly cut grass. The crack of the bat, followed by the eruption of thousands of cheers. And this guy...  
+ 
+COKE GUY: Coca-Cola. Get your ice-cold Coca-Cola here! Ice-cold Coca-Cola…(fades out)  
+ 
+VO: Because where else does someone announce that, hey, they’ve got an ice-cold Coca-Cola for you? (Whispers) Nowhere! So thanks for the Coke, Coke Guy. You make baseball games “baseball games.” You and {{[INSERT TEAM NAME]}} down there on the field, of course. Playing baseball.</text>
+        </item>
+        <item id="KOCLY220097" kind="script" code="KOCLY220097" language="English" length=":20">
+          <text>VO: There are a few special things that make a baseball game a “baseball game.” Like this guy:  
+
+COKE GUY: Coca-Cola. Get your ice-cold Coca-Cola here! Ice-cold Coca-Cola…(fades out)  
+
+VO: Because where else does someone announce that, hey, they’ve got an ice-cold Coca-Cola for you? (Whispers) Nowhere!  
+
+So thanks for the Coke, Coke Guy. You make baseball games “baseball games.” You and 
+{{[INSERT TEAM NAME]}}, of course.</text>
+        </item>
+        <item id="KOCLY250098" kind="script" code="KOCLY250098" language="English" length=":15">
+          <text>VO: Nothing says baseball like this guy...  
+ 
+COKE GUY: Coca-Cola. Get your ice-cold Coca-Cola here! Ice-cold Coca-Cola…(fades out)  
+ 
+VO: Because where else does someone announce that, hey, they’ve got an ice-cold Coca-Cola for you? (Whispers) Nowhere! So thanks for the Coke, Coke Guy. You make baseball games “baseball games.” You and {{[INSERT TEAM NAME]}}, of course. COKE GUY: Coca-Cola. Get your ice-cold Coca-Cola here! Ice-cold Coca-Cola…(fades out)  </text>
+        </item>
+        <item id="KOCLY210099" kind="script" code="KOCLY210099" language="English" length=":10">
+          <text>VO: Nothing says baseball like this guy...  
+ 
+COKE GUY: Coca-Cola. Get your ice-cold Coca-Cola here! Ice-cold Coca-Cola…(fades out)  
+ 
+VO: Thanks for the Coke, Coke Guy. Go {{[INSERT TEAM NAME]}}. </text>
+        </item>
+        <item id="KOCLY200100" kind="script" code="KOCLY200100" language="English" length=":05">
+          <text>COKE GUY: Coca-Cola. Get your ice-cold Coca-Cola here! Ice-cold Coca-Cola…(fades out)  
+
+VO:  Thanks for the Coke, Coke Guy. Go {{[INSERT TEAM NAME]}}.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <item id="KOCLY260101" kind="script" code="KOCLY260101" language="Spanish" length=":60">
+          <text>VO: Existen detalles especiales que hacen de un partido de béisbol un “verdadero partido de béisbol”. El aroma del aire cuando el olor de las palomitas de maíz y de los hot dog se mezcla con el del césped recién cortado. El ruido del bateo seguido del estallido de miles de voces alentando. Y este hombre...  
+ 
+VENDEDOR DE COCA-COLA: Coca-Cola. ¡Compre una Coca-Cola bien helada aquí! Coca-Cola bien helada… (fades out)  
+ 
+VO: Porque... seamos sinceros ¿con qué frecuencia alguien le ofrece una Coca-Cola bien helada? ¿Dónde venden Coca-Cola? Allí venden Coca-Cola. Ese hombre que dice: “Compre una Coca-Cola bien helada aquí”. ¿En qué otro lugar sucede esto? (Whispers) ¡En ninguno! El vendedor de Coca-Cola es lo mejor. ¿Cómo supo que después de sentarme bajo el sol del verano y comer un hot dog me encantaría disfrutar de una Coca-Cola helada? ¿Cómo supo del “refresco” de la quinta entrada que inventé: conseguir una Coca-Cola para beber con mis palomitas de maíz? ¿Saben qué otra cosa va bien con las palomitas además de una Coca-Cola? Nada. Y este hombre lo sabe. Por eso lo inventaron. Gracias por la Coca-Cola, vendedor de Coca-Cola. Haces que los partidos de béisbol sean “verdaderos partidos de béisbol”. Tú y {{[INSERT TEAM NAME]}} allí en el campo. Jugando béisbol.</text>
+        </item>
+        <item id="KOCLY230102" kind="script" code="KOCLY230102" language="Spanish" length=":30">
+          <text>VO: Existen detalles especiales que hacen de un partido de béisbol un “verdadero partido de béisbol”. El aroma del aire cuando el olor de las palomitas de maíz y de los hot dog se mezcla con el del césped recién cortado. El ruido del bateo seguido del estallido de miles de voces alentando. Y este hombre...  
+ 
+VENDEDOR DE COCA-COLA: Coca-Cola. ¡Compre una Coca-Cola bien helada aquí! Coca-Cola bien helada... (fades out)  </text>
+        </item>
+        <item id="KOCLY220103" kind="script" code="KOCLY220103" language="Spanish" length=":20">
+          <text>VO: Existen detalles especiales que hacen de un partido de béisbol un “verdadero partido de béisbol”. Como este hombre...  
+ 
+VENDEDOR DE COCA-COLA: Coca-Cola. ¡Compre una Coca-Cola bien helada aquí! Coca-Cola bien helada... (fades out)  
+ 
+VO: Porque... seamos sinceros ¿en qué otro lugar alguien le ofrecen una Coca-Cola bien helada? (Whispers) ¡En ninguno! Gracias por la Coca-Cola, vendedor de Coca-Cola. Haces que los partidos de béisbol sean “verdaderos partidos de béisbol”. Tú y {{[INSERT TEAM NAME]}}, por supuesto.</text>
+        </item>
+        <item id="KOCLY250104" kind="script" code="KOCLY250104" language="Spanish" length=":15">
+          <text>VO: No existe algo que nos recuerde más al béisbol que este hombre...  
+ 
+VENDEDOR DE COCA-COLA: Coca-Cola. ¡Compre una Coca-Cola bien helada aquí! Coca-Cola bien helada... (fades out)  
+ 
+VO: Porque... seamos sinceros ¿en qué otro lugar le ofrecen una Coca-Cola bien helada? (Whispers) ¡En ninguno! Gracias por la Coca-Cola, vendedor de Coca-Cola. Haces que los partidos de béisbol sean “verdaderos partidos de béisbol”. Tú y {{[INSERT TEAM NAME]}}, por supuesto.</text>
+        </item>
+        <item id="KOCLY210105" kind="script" code="KOCLY210105" language="Spanish" length=":10">
+          <text>VO: No existe algo que nos recuerde más al béisbol que este hombre...  
+ 
+VENDEDOR DE COCA-COLA: Coca-Cola. ¡Compre una Coca-Cola bien helada aquí! Coca-Cola bien helada... (fades out)  
+ 
+VO: Gracias por la Coca-Cola, vendedor de Coca-Cola. Arriba los {{[INSERT TEAM NAME]}}.</text>
+        </item>
+        <item id="KOCLY200106" kind="script" code="KOCLY200106" language="Spanish" length=":05">
+          <text>VENDEDOR DE COCA-COLA: Coca-Cola. ¡Compre una Coca-Cola bien helada aquí! Coca-Cola bien helada... (fades out)  
+ 
+VO: Gracias por la Coca-Cola, vendedor de Coca-Cola. Arriba los {{[INSERT TEAM NAME]}}.</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions 
+made to the provided scripts, other than where indicated by [BRACKETS], 
+must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards - Magnetic Inserts-->
+    <screen title="Menu Boards - Magnetic Inserts" id="MEN" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/concession_menu-board.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Menu board layout.
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;
+
+For printing and installation, contact:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+OR
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+For additional information on the suppliers, click the SUPPLIERS tab.</text>
+        </item>
+      </card>
+      <card title="SUPPLIERS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;THE HOWARD COMPANY&lt;/textHeader&gt;
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 6 main menu boards (sizes &amp; types) and illuminated boards along with numerous specialty/custom boards for unique applications and locations.  Variations include: &lt;i&gt;with/without panel header, with/without acrylic cover, with digital LCD display&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;All menu boards use the same size strips and numbers although colors and font styles can be changed. Menu items and numbers are all separate&lt;/li&gt;
+&lt;li&gt;Magnets can be ordered &lt;a href="event:link|look_of_success_site" &gt;online&lt;/a&gt;.  All strips and numbers are direct printed on magnetic material&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as banners and adhesive graphics (floor and wall)&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;WEAVER MEDIA&lt;/textHeader&gt;
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 10 main menu boards including illuminated boards&lt;/li&gt;
+&lt;li&gt;All menu boards use magnetic strips (one strip that included menu items and prices)&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as adhesive graphics (floor and wall), concession stand graphics, banners&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards - Printed Piece-->
+    <screen title="Menu Boards - Printed Piece" id="MPP" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/concession_menu-board-printed.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cups-->
+    <screen title="Cups" id="CUP" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/concession_cups.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Visuals are reference only.
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+
+&lt;li&gt;It is the requestor's responsibility to ensure logos are partner approved&lt;/li&gt;
+
+
+Obtain approved cups and/or templates as listed below:
+
+&lt;li&gt;PRIORITY #1  - Approved Red Coca-Cola Iconic Cups are available at the                 &lt;a href="event:link|coke-catalog_site" &gt;Coke Catalog&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;PRIORITY #2 – Approved Compostable &amp; Environmentally Sustainable Cups can be found at &lt;a href="event:link|spread_the_red_site" &gt;Spread the Red&lt;/a&gt;. To be used ONLY in venues that have a composting program.&lt;textNote&gt;  (* Search Key Words “Green cupware”)&lt;/textNote&gt;&lt;/li&gt;
+&lt;li&gt;PRIORITY #3 - Approved Asset Specific Cup Templates can be ordered and customized by Finished Art. Contact Daphne Brown via &lt;a href="event:email|finished-art2_email_contact" &gt;email&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;PRIORITY #4 – Approved artwork for Partner can be ordered by Finished Art.  Contact Daphne Brown via &lt;a href="event:email|finished-art2_email_contact" &gt;email&lt;/a&gt;.&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Static-->
+    <screen title="Fountain Backs, Static" id="FBS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/concession_fountain_static.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Digital-->
+    <screen title="Fountain Backs, Digital" id="FBD" group="In-Venue Elements" zone="1">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Coca-Cola Food + Cup &quot;Generic&quot;" length=":30" file="media/assets/_common/ko_generic_30.flv" thumbnail="media/assets/_common/ko_generic_30_thumbnail.jpg" />
+        <item kind="video" title="Coca-Cola Food + Cup &quot;Generic&quot;" length=":15" file="media/assets/_common/ko_generic_15.flv" thumbnail="media/assets/_common/ko_generic_15_thumbnail.jpg" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative can be used for arenas that have digital fountain backs at concession.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Currently two Coca-Cola generic designs are available.  Templates have already been created and are shown here. 
+
+Coke In-Venue
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ User Guide&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+To order a customized Digital Fountain Back, you will need to fill out the order form on the Coke In-Venue website.  Note that there is a charge for orders. 
+
+Coke In-Venue
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Cards-->
+    <screen title="Counter Cards" id="CCS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/concession_counter-cards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Crew Uniforms / Hawking Trays-->
+    <screen title="Crew Uniforms / Hawking Trays" id="CUH" group="In-Venue Elements" zone="1">
+      <card title="CREW UNIFORMS" kind="image_left">
+        <item kind="image" file="media/assets/_common/concession_uniforms.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;CREW UNIFORMS&lt;/textHeader&gt;
+&lt;textBody&gt;For brand-specific items:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="HAWKING TRAYS" kind="image_right">
+        <item kind="image" file="media/assets/_common/concession_hawking-tray.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;HAWKING TRAYS&lt;/textHeader&gt;
+&lt;textBody&gt;Refer to the Merchandising Idea Book or go to:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Concession Signage-->
+    <screen title="Exterior Concession Signage" id="ECS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/concession_exterior-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Condiment Stand Signage-->
+    <screen title="Condiment Stand Signage" id="CSS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/in-venue_condiment-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Mobile Merchandising Equipment-->
+    <screen title="Mobile Merchandising Equipment" id="MME" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_mobile-messaging.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts for Mobile Merchandising Equipment.
+
+To Produce:
+
+IRP
+Contact Brent Storhoff
+(563) 380-5832
+&lt;a href="event:email|irp_email_contact" &gt;/ email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Barrel Coolers-->
+    <screen title="Barrel Coolers" id="BCS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_barrel_coolers.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order approved layouts:
+
+Finished Art
+Daphne Brown
+(404) 355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;
+
+
+To Produce:
+
+Display Industries
+Contact Rena Thomas 
+(404) 350-4807
+&lt;a href="event:email|display-ind_email_contact" &gt;/ Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycling Bins-->
+    <screen title="Recycling Bins" id="RBS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_recycling-bins.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Recycling Bins:
+
+Coke Bins
+&lt;a href="event:link|coke-bins_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Concourse Signage-->
+    <screen title="Concourse Signage" id="COS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/concourse_signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Directional Signage-->
+    <screen title="Directional Signage" id="DIS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_directional-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;
+
+
+For printing and installation of 3M Adhesive Wraps:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+OR
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Public Announcements-->
+    <screen title="Public Announcements" id="PAN" group="In-Venue Elements" zone="2">
+      <card title="PUBLIC ANNOUNCEMENTS" kind="scripts" approved="TO BE READ DURING LIVE GAMES ON PA SYSTEMS">
+        <item kind="script" id="ENG_PA_10_baseball" code="PA" language="English" length=":10">
+          <text>Baseball is summer's game.  Coke is summer's drink.  Therefore Coke is Baseball's drink.  How's that for refreshing, uplifting, delicious logic?  Coca-Cola.  Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_PA_05_baseball" code="PA" language="English" length=":05">
+          <text>Just a reminder to keep your eye on the ball and your hand on a delicious, ice-cold, and totally refreshing Coke.  Coca-Cola.  Open Happiness.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Video Signage - Jumbo-Tron-->
+    <screen title="Video Signage - Jumbo-Tron" id="VJT" group="In-Venue Elements" zone="2">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Coca-Cola Red/White Iconic In-Venue Jumbotron" code="KOCLV952530" length=":15" sizes="68x40, 80x80, 120x72, 144x224, 192x112, 208x160, 372x112, 384x224, 400x582, 600x800, 624x360, 640x480, 720x480, 720x486, 768x432" file="media/assets/_common/KOCLV952530.flv" />
+        <item kind="video" title="Coca-Cola Red/White Iconic Baseball In-Venue Jumbotron" code="KOCLV952534" length=":15" sizes="608x368, 720x486 " file="media/assets/baseball/KOCLV952534.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative is approved to use In-Venue on video screens.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Sizes have already been created which are listed below each design and are available for download on the Cinema Concepts website.  Should you require a different size you will need to fill out an order form.  Note there is a charge for customized sizes.
+
+&lt;textBody&gt;Submit orders for In Venue Video Signage via &lt;a href="event:email|cinema-concepts_email_contact" &gt;email&lt;/a&gt; or 770.956.7460.
+
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ cokeinvenue.com User Guide&lt;/a&gt; 
+
+The website link will bring you into the signage site.  Once in the site you can view all of the available graphics for Jumbo-Trons and fascia rings.  Click on the image and Windows Media Play will display the animation. There are two order forms in Word and PDF formats.  The PDF allows you to directly submit the order form.
+
+All requests should include the following information:
+
+&lt;li&gt;Type of Venue:  In Arena, In Concession, Vending, In-Store, In Restaurant&lt;/li&gt;
+&lt;li&gt;Video Type:  Jumbotron, Fascia, Video Menu Board, and u-Vending Video&lt;/li&gt;
+&lt;li&gt;Creative Code (found on site under creative visual)&lt;/li&gt;
+&lt;li&gt;Brand&lt;/li&gt;
+&lt;li&gt;Format:  .avi, .mov, .swf&lt;/li&gt;
+&lt;li&gt;Size in pixels (width and height)&lt;/li&gt;
+&lt;li&gt;Method of Delivery:  FTP Download or Overnight shipment (DVD or Digital Beta Tape)&lt;/li&gt;
+
+There is a $250 charge per size for orders filled within 4 business days.  
+For rush orders additional fees, as listed on the form, will apply.
+
+Billing information for CCNA requestors as well as CCE/Field Managers and Customers is explained on the order form.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Video Signage - Fascia-->
+    <screen title="Video Signage - Fascia" id="VSF" group="In-Venue Elements" zone="2">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Coca-Cola Red/White Iconic In-Venue Fascia" code="KOCLV952529" length=":15" sizes="1000x48, 11184x32, 1136x416, 11232x27, 11520x27, 12528x32, 12560x32, 13120x32, 1344x32, 1408x44, 144x32, 144x48, 1456x32, 1456x48, 1536x360, 1536x44, 1584x40, 15984x32, 1728x112, 1728x32, 1888x48, 192x24, 192x27, 2028x64, 2064x48, 2076x48, 208x24, 2272x64, 2432x48, 231x32, 2656x48, 272x40, 288x64, 3328x48, 3456x64, 3456x96, 3680x40, 3712x48, 3744x32, 3840x180, 4992x24, 528x36, 528x40, 608x32, 5472x24, 704x48, 704x40, 960x32, 976x40" file="media/assets/_common/KOCLV952529.flv" />
+        <item kind="video" title="Coca-Cola Red/White Iconic Baseball In-Venue Fascia" code="KOCLV952533" length=":15" sizes="272x40, 528x40, 704x40, 1136x416, 1888x48, 2076x48, 2432x48, 14368x40, 14848x40" file="media/assets/baseball/KOCLV952533.flv" />
+        <item kind="video" title="Coca-Cola GIB In-Venue Fascia" code="KOLPT051120" length=":15" sizes="1000x48, 11184x32, 1136x416, 11232x27, 11520x27, 12528x32, 12560x32, 13120x32, 1344x32, 1408x44, 144x32, 144x48, 1456x32, 1456x48, 1536x360, 1536x44, 1584x40, 15984x32, 1728x112, 1728x32, 1888x48, 192x24, 192x27, 2028x64, 2064x48, 2076x48, 208x24, 2272x64, 2432x48, 231x32, 2656x48, 272x40, 288x64, 3328x48, 3456x64, 3456x96, 3680x40, 3712x48, 3744x32, 3840x180, 4992x24, 528x36, 528x40, 608x32, 5472x24, 704x48, 704x40, 960x32, 976x40" file="media/assets/_common/KOLPT051120.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative is approved to use In-Venue on video screens.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Currently three Coca-Cola designs are available.  Sizes have already been created and are listed below each design and are available for download on the Cinema Concepts website.  Should you require a different size you will need to fill out an order form.  Note there is a charge for customized sizes.
+
+&lt;textBody&gt;Submit orders for In Venue Video Signage via &lt;a href="event:email|cinema-concepts_email_contact" &gt;email&lt;/a&gt; or 770.956.7460.
+
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ cokeinvenue.com User Guide&lt;/a&gt; 
+
+The website link will bring you into the signage site.  Once in the site you can view all of the available graphics for Jumbo-Trons and fascia rings.  Click on the image and Windows Media Play will display the animation. There are two order forms in word and pdf formats.  The pdf allows you to directly submit the order form.
+
+All requests should include the following information:
+
+&lt;li&gt;Type of Venue:  In Arena, In Concession, Vending, In-Store, In Restaurant&lt;/li&gt;
+&lt;li&gt;Video Type:  Jumbotron, Fascia, Video Menu Board, and u-Vending Video&lt;/li&gt;
+&lt;li&gt;Creative Code (found on site under creative visual)&lt;/li&gt;
+&lt;li&gt;Brand&lt;/li&gt;
+&lt;li&gt;Format:  .avi, .mov, .swf&lt;/li&gt;
+&lt;li&gt;Size in pixels (width and height)&lt;/li&gt;
+&lt;li&gt;Method of Delivery:  FTP Download or Overnight shipment (DVD or Digital Beta Tape)&lt;/li&gt;
+
+There is a $250 charge, per size for orders filled within 4 business days.  
+For rush orders additional fees, listed on the form, will apply.
+
+Billing information for CCNA requestors as well as CCE/Field Managers, and Customers is explained on the order form.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Dasher-board Elements-->
+    <screen title="Dasher-board Elements" id="DBE" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/dasherboard_KO.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+These layouts can also be used for dormas and static LED backlit signage.
+ 
+Approved layouts can be obtained:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Logo Elements-->
+    <screen title="Logo Elements" id="LOE" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/logo-elements.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Logo Elements can be used for programs, ticket backs, and pocket schedules.
+ 
+Approved layouts can be obtained:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--In-Venue Texting Overview-->
+    <screen title="In-Venue Texting Overview" id="IVT" group="In-Venue Elements" zone="2">
+      <card title="MOBILE ENGAGEMENT - PROGRAM DETAILS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PROGRAM DETAILS&lt;/textHeader&gt;
+&lt;textBody&gt;Concept:
+
+&lt;li&gt;Connect with MLB fans through branded mobile interaction that delivers entertainment and VIP experiences. Leverage digital screen assets to promote and develop repeatable activation with minimal ongoing support using existing venue or brand personnel for prize fulfillment&lt;/li&gt;
+
+
+What Works Best:
+
+&lt;li&gt;Multiple Mobile Tactics at an Event&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Most compelling tactics: Text-to-Win and Text-to-Screen&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Jumbotron Promotion&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Supported by announcer talking points&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Reinforce by LED and banner signage&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Timing of Call to Action&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;When fans are in their seat before event and during breaks&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Maximum Frequency and Screen Time&lt;/li&gt;
+
+&lt;li&gt;Quality of Prizes &lt;/li&gt;
+&lt;li&gt;&lt;second&gt;VIP or unique experiences&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Autographed premiums&lt;/second&gt;&lt;/li&gt; 
+&lt;li&gt;Jumbotron Reveal of Winners&lt;/li&gt;
+
+
+Required Assets:
+
+&lt;li&gt;Please refer to the subsequent slides for more detail and the Required Assets graph for a full listing of the in-venue assets needed to activate each mobile program&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Instant Text-to-Win Program-->
+    <screen title="Instant Text-to-Win Program" id="TTW" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_instant-text-to-win.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Mozes
+&lt;a href="event:link|mozes_site" &gt;/ Website&lt;/a&gt;
+
+
+To localize your creative:
+
+Christopher Bendt
+&lt;a href="event:email|mozes2_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="MOBILE ENGAGEMENT - PROGRAM DETAILS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PROGRAM DETAILS&lt;/textHeader&gt;
+&lt;textBody&gt;What it is:
+
+A Text-to-Win program shown once for 30-60 seconds and supported by animated Jumbotron and LED displays and announcer talking points. All screens designs are approved by legal and ready for in-venue use after customizations for keyword, prizes and team logo by Mozes.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="PRICING OPTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PRICING OPTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;Discounts below are for a commitment to multiple game activation packages for a single team and venue.
+
+PRICING (based on games activated per team):
+
+&lt;li&gt;Option 1: Instant Text-to-Win and Text-to-Screen&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $8,700&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,500/game ($17,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,350/game ($23,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 2: Extended Text-to-Win and Text-to-Screen (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $9,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,380/game ($23,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 3: Instant and Extended Text-to-Win&lt;/li&gt;&lt;li&gt;
+&lt;second&gt;One Game: $9,800&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,280/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 4: Instant Text-to-Win and Interactive Game&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,500/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,900/game ($19,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,450/game ($24,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 5: Extended Text-to-Win and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,800/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,960/game ($19,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,480/game ($24,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 6: All three tactics - Instant and Extended Text-to-Win, Text-to-Screen (Full and Ticker) and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $12,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $4,560/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,880/game ($28,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="REQUIRED ASSETS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_required-assets.swf" />
+      </card>
+      <card title="IN-VENUE ANNOUNCER SCRIPTS" kind="scripts" approved="APPROVED BY CCNA BRAND AND LEGAL APPROVAL">
+        <item id="ENG_PA_30-instant-text-to-win" kind="script" code="Instant Text-to-Win" language="English" length=":30">
+          <text>Calling all you {{[insert baseball team]}} fans. Got a refreshing Coca-Cola in one hand and a cell phone in the other?  Make the most of them. Coke is going to give {{[number of winners]}} lucky fan(s) {{[insert prize]}} right now. Just text {{[insert keyword]}} to the number 66937 to enter for your chance to win. Again text {{[insert keyword]}} to the number 66937 for your chance to win {{[insert prize]}} right now. And watch your phone to see if you've won. Brought to you by Coca-Cola. Open Happiness. 
+
+No purchase necessary. Open to legal residents of the 50 U.S. states and D.C. Must be 18 or older to participate. Message and data rates may apply. </text>
+        </item>
+        <item id="ENG_PA_20-instant-text-to-win" kind="script" code="Instant Text-to-Win" language="English" length=":20">
+          <text>Hey {{[insert baseball team]}} fans. Got a refreshing Coca-Cola in one hand and a cell phone in the other? Make the most of them. Coke is giving {{[number of winners]}} lucky fan(s) {{[insert prize]}} right now. Just text {{[insert keyword]}} to the number 66937 to enter for your chance to win. Again text {{[insert keyword]}} to the number 66937 for your chance to win {{[insert prize]}}. And watch your phone. Coca-Cola Open Happiness. 
+
+No purchase necessary. Open to legal residents of the 50 U.S. states and D.C. Must be 18 or older to participate. Message and data rates may apply. </text>
+        </item>
+        <item id="ENG_PA_15-instant-text-to-win" kind="script" code="Instant Text-to-Win" language="English" length=":15">
+          <text>Got a refreshing Coca-Cola and a cell phone? Coke is giving {{[number of winners]}} lucky fan(s) {{[insert prize]}} right now. Just text {{[insert keyword]}} to the number 66937 to enter for your chance to win. And watch your phone. Coca-Cola Open Happiness.
+No purchase necessary. Open to legal residents of the 50 U.S. states and D.C. Must be 18 or older to participate. 
+
+Message and data rates may apply. </text>
+        </item>
+      </card>
+    </screen>
+    <!--Extended Text-to-Win Program-->
+    <screen title="Extended Text-to-Win Program" id="ETW" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_extended-text-to-win.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Mozes
+&lt;a href="event:link|mozes_site" &gt;/ Website&lt;/a&gt;
+
+
+To localize your creative:
+
+Christopher Bendt
+&lt;a href="event:email|mozes2_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="MOBILE ENGAGEMENT - PROGRAM DETAILS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PROGRAM DETAILS&lt;/textHeader&gt;
+&lt;textBody&gt;What it is:
+
+A Text-to-Win program shown throughout the game and supported by 30-60 second animated Jumbotron and LED displays and announcer talking points. All screens designs are approved by legal and ready for in-venue use after customizations for keyword, prizes and team logo by Mozes.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="PRICING OPTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PRICING OPTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;Discounts below are for a commitment to multiple game activation packages for a single team and venue.
+
+PRICING (based on games activated per team):
+
+&lt;li&gt;Option 1: Instant Text-to-Win and Text-to-Screen&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $8,700&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,500/game ($17,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,350/game ($23,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 2: Extended Text-to-Win and Text-to-Screen (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $9,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,380/game ($23,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 3: Instant and Extended Text-to-Win&lt;/li&gt;&lt;li&gt;
+&lt;second&gt;One Game: $9,800&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,280/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 4: Instant Text-to-Win and Interactive Game&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,500/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,900/game ($19,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,450/game ($24,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 5: Extended Text-to-Win and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,800/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,960/game ($19,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,480/game ($24,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 6: All three tactics - Instant and Extended Text-to-Win, Text-to-Screen (Full and Ticker) and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $12,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $4,560/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,880/game ($28,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="REQUIRED ASSETS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_required-assets.swf" />
+      </card>
+      <card title="IN-VENUE ANNOUNCER SCRIPTS" kind="scripts" approved="APPROVED BY CCNA BRAND AND LEGAL APPROVAL">
+        <item id="ENG_PA_30-extended-text-to-win" kind="script" code="Extended Text-to-Win" language="English" length=":30">
+          <text>Got a refreshing Coca-Cola in one hand and a cell phone in the other? Make the most of them. Coca-Cola is giving {{[number of winners]}} lucky fan(s) {{[insert prize]}} after the game. In a few moments, get your phone ready to text. When we say, text the word {{[insert keyword]}} to the number 66937 to enter for your chance to win. Again text {{[insert keyword]}} to the number 66937 for your chance to win {{[insert prize]}}. And watch your phone to see if you won. Brought to you by Coca-Cola. Open Happiness. 
+
+No purchase necessary. Open to legal residents of the 50 U.S. states and D.C. You must be 18 years of age or older to participate.  Message and data rates may apply. </text>
+        </item>
+        <item id="ENG_PA_20-extended-text-to-win" kind="script" code="Extended Text-to-Win" language="English" length=":20">
+          <text>Got a refreshing Coca-Cola in one hand and a cell phone in the other? Make the most of them. Coca-Cola is giving {{[number of winners]}} lucky fan(s) {{[insert prize]}} after the game. In a few moments, text the word {{[insert keyword]}} to the number 66937 from your phone to enter for your chance to win. Again text {{[insert keyword]}} to the number 66937 to win {{[insert prize]}}. And keep watching to see if you won. Coca-Cola. Open Happiness. 
+
+No purchase necessary. Open to legal residents of the 50 U.S. states and D.C. You must be 18 years of age or older to participate.  Message and data rates may apply. </text>
+        </item>
+        <item id="ENG_PA_15-extended-text-to-win" kind="script" code="Extended Text-to-Win" language="English" length=":15">
+          <text>Got a refreshing Coca-Cola and a cell phone? Coca-Cola is giving {{[number of winners]}} lucky fan(s) {{[insert prize]}} after the game. In a few moments, text {{[insert keyword]}} to the number 66937 from your phone to enter for your chance to win. And keep watching your phone. Coca-Cola. Open Happiness. 
+
+No purchase necessary. Open to legal residents of the 50 U.S. states and D.C. You must be 18 years of age or older to participate.  Message and data rates may apply. </text>
+        </item>
+      </card>
+    </screen>
+    <!--Text-to-Screen Program-->
+    <screen title="Text-to-Screen Program" id="TTS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_text-to-screen.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Mozes
+&lt;a href="event:link|mozes_site" &gt;/ Website&lt;/a&gt;
+
+
+To localize your creative:
+
+Christopher Bendt
+&lt;a href="event:email|mozes2_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="MOBILE ENGAGEMENT - PROGRAM DETAILS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PROGRAM DETAILS&lt;/textHeader&gt;
+&lt;textBody&gt;What it is:
+
+Interactive animated Jumbotron displays to showcase fan comments sent in via text message. Run multiple times pre and during game. Fan content is moderated remotely before being shown onscreen. All screens designs are approved by legal and ready for in-venue use after customizations for keyword and team logo by Mozes.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="PRICING OPTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PRICING OPTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;Discounts below are for a commitment to multiple game activation packages for a single team and venue.
+
+PRICING (based on games activated per team):
+
+&lt;li&gt;Option 1: Instant Text-to-Win and Text-to-Screen&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $8,700&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,500/game ($17,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,350/game ($23,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 2: Extended Text-to-Win and Text-to-Screen (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $9,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,380/game ($23,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 3: Instant and Extended Text-to-Win&lt;/li&gt;&lt;li&gt;
+&lt;second&gt;One Game: $9,800&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,280/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 4: Instant Text-to-Win and Interactive Game&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,500/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,900/game ($19,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,450/game ($24,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 5: Extended Text-to-Win and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,800/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,960/game ($19,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,480/game ($24,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 6: All three tactics - Instant and Extended Text-to-Win, Text-to-Screen (Full and Ticker) and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $12,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $4,560/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,880/game ($28,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="REQUIRED ASSETS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_required-assets.swf" />
+      </card>
+      <card title="IN-VENUE ANNOUNCER SCRIPTS" kind="scripts" approved="APPROVED BY CCNA BRAND AND LEGAL APPROVAL">
+        <item id="ENG_PA_30-extended-text-to-screen" kind="script" code="Extended Text-to-Screen" language="English" length=":30">
+          <text>What could be better than enjoying this game with a delicious, refreshing Coke in your hands? How about you and everybody here seeing your words on the Jumbotron? In a moment Coca-Cola is going to give you the chance. Just  text the word {{[insert keyword]}} then your comments to the number 66937. Again, just text {{[insert keyword]}} then whatever's on your mind to the number 66937. And just like that, your words could be appearing on the Coca-Cola Text-to-Screen. Coca-Cola. Open Happiness. 
+
+Message and data rates may apply.</text>
+        </item>
+        <item id="ENG_PA_20-extended-text-to-screen" kind="script" code="Extended Text-to-Screen" language="English" length=":20">
+          <text>What's better than this game and a delicious, refreshing Coke in your hands? How about seeing your words on the Jumbotron? In a moment Coca-Cola will give you the chance. Text the word {{[insert keyword]}} then your comments to the number 66937. Again, just text {{[insert keyword]}} then your comments to the number 66937. Text us whatever's on your mind, why you think {{[insert baseball team name]}} will win, some secret you only want a few thousand people to know. And thanks to everyone for their thoughts in the Coca-Cola Text-to-Screen. Coca-Cola. Open Happiness.  
+
+Message and data rates may apply.</text>
+        </item>
+        <item id="ENG_PA_15-extended-text-to-screen" kind="script" code="Extended Text-to-Screen" language="English" length=":15">
+          <text>What's better than this game and a refreshing Coke to enjoy it with? How about seeing your words on the Jumbotron? In a moment Coca-Cola wants you to text  {{[insert keyword]}} then whatever you want to say to the number 66937. Coca-Cola. Open Happiness.  
+
+Message and data rates may apply.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Interactive Game - Live Voting-->
+    <screen title="Interactive Game - Live Voting" id="IGL" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_interactive-game-A.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Mozes
+&lt;a href="event:link|mozes_site" &gt;/ Website&lt;/a&gt;
+
+
+To localize your creative:
+
+Christopher Bendt
+&lt;a href="event:email|mozes2_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="MOBILE ENGAGEMENT - PROGRAM DETAILS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PROGRAM DETAILS&lt;/textHeader&gt;
+
+&lt;textHeader&gt;LIVE VOTING&lt;/textHeader&gt;
+&lt;textBody&gt;What it is: Interactive animated Jumbotron displays live votes texted in by fans. As votes come in, the percentages are updated in real-time to represent who is winning. Run pre or during game for 30-60 seconds at a time. All screen designs and questions are approved by legal and ready for in-venue use after customization of keyword by Mozes.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="PRICING OPTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PRICING OPTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;Discounts below are for a commitment to multiple game activation packages for a single team and venue.
+
+PRICING (based on games activated per team):
+
+&lt;li&gt;Option 1: Instant Text-to-Win and Text-to-Screen&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $8,700&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,500/game ($17,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,350/game ($23,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 2: Extended Text-to-Win and Text-to-Screen (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $9,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,380/game ($23,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 3: Instant and Extended Text-to-Win&lt;/li&gt;&lt;li&gt;
+&lt;second&gt;One Game: $9,800&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,280/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 4: Instant Text-to-Win and Interactive Game&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,500/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,900/game ($19,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,450/game ($24,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 5: Extended Text-to-Win and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,800/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,960/game ($19,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,480/game ($24,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 6: All three tactics - Instant and Extended Text-to-Win, Text-to-Screen (Full and Ticker) and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $12,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $4,560/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,880/game ($28,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="REQUIRED ASSETS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_required-assets.swf" />
+      </card>
+      <card title="IN-VENUE ANNOUNCER SCRIPTS" kind="scripts" approved="APPROVED BY CCNA BRAND AND LEGAL APPROVAL">
+        <item id="ENG_PA_30-interactive-game" kind="script" code="Interactive Game - Live Voting" language="English" length=":30">
+          <text>Calling all you {{[insert baseball team]}} fans. Got an ice-cold Coke in one hand and a cell phone in the other? Want to make your opinion count?  Then Vote Live. Keep watching for “Coca-Cola Live Vote” on the Jumbotron and text your vote to the number 66937. Again, text your vote to 66937 and keep watching the Jumbotron for the tally. Brought to you by Coca-Cola. Open Happiness.  Message and data rates may apply. </text>
+        </item>
+        <item id="ENG_PA_20-interactive-game" kind="script" code="Interactive Game - Live Voting" language="English" length=":20">
+          <text>Calling all you {{[insert baseball team]}} fans. Got a Coke in one hand and a cell phone in the other? Vote Live. Keep watching for “Coca-Cola Live Vote” on the Jumbotron and text your vote to the number 66937. That's number 66937 and keeping watching to see the tally. Brought to you by Coca-Cola. Open Happiness. Message and data rates may apply. </text>
+        </item>
+        <item id="ENG_PA_15-interactive-game" kind="script" code="Interactive Game - Live Voting" language="English" length=":15">
+          <text>Got a Coke in one hand and a cell phone in the other? Vote Live. Keep watching for “Coca-Cola Live Vote” on the Jumbotron and text your vote to 66937 and keep watching for the tally. Brought to you by Coca-Cola. Open Happiness. Message and data rates may apply.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Interactive Game - Guess It-->
+    <screen title="Interactive Game - Guess It" id="IGG" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_interactive-game-B.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Mozes
+&lt;a href="event:link|mozes_site" &gt;/ Website&lt;/a&gt;
+
+
+To localize your creative:
+
+Christopher Bendt
+&lt;a href="event:email|mozes2_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="MOBILE ENGAGEMENT - PROGRAM DETAILS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PROGRAM DETAILS&lt;/textHeader&gt;
+
+&lt;textHeader&gt;GUESS IT&lt;/textHeader&gt;
+&lt;textBody&gt;What it is: Animated Jumbotron displays present a question and 4 possible answers for fans to guess which one is correct. Fans text in their answer and get a correct/non-correct message. Run pre or during game for 30-60 seconds at a time. All screen designs, questions and answers are approved by legal and ready for in-venue use after customization of keywords by Mozes.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="PRICING OPTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PRICING OPTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;Discounts below are for a commitment to multiple game activation packages for a single team and venue.
+
+PRICING (based on games activated per team):
+
+&lt;li&gt;Option 1: Instant Text-to-Win and Text-to-Screen&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $8,700&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,500/game ($17,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,350/game ($23,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 2: Extended Text-to-Win and Text-to-Screen (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $9,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,380/game ($23,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 3: Instant and Extended Text-to-Win&lt;/li&gt;&lt;li&gt;
+&lt;second&gt;One Game: $9,800&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,560/game ($17,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,280/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 4: Instant Text-to-Win and Interactive Game&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,500/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,900/game ($19,500 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,450/game ($24,500 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 5: Extended Text-to-Win and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $11,800/game&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $3,960/game ($19,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,480/game ($24,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Option 6: All three tactics - Instant and Extended Text-to-Win, Text-to-Screen (Full and Ticker) and Interactive Game (RECOMMENDED)&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;One Game: $12,000&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Five Games: $4,560/game ($22,800 commitment)&lt;/second&gt;&lt;/li&gt;&lt;li&gt;&lt;second&gt;Ten Games: $2,880/game ($28,800 commitment)&lt;/second&gt;&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="REQUIRED ASSETS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/mobile_required-assets.swf" />
+      </card>
+      <card title="IN-VENUE ANNOUNCER SCRIPTS" kind="scripts" approved="APPROVED BY CCNA BRAND AND LEGAL APPROVAL">
+        <item id="ENG_PA_30-interactive-guess" kind="script" code="Interactive Game - Guess It" language="English" length=":30">
+          <text>This game is anybody's guess. Well, if you like to guess, keep watching for the “Coca-Cola Guess It” question on the Jumbotron and text your guess to 66937. Once again, text number 66937. Be sure to keep watching and the Jumbotron will show you if you're right. Brought to you by Coca-Cola. Open Happiness. Message and data rates may apply.</text>
+        </item>
+        <item id="ENG_PA_20-interactive-guess" kind="script" code="Interactive Game - Guess It" language="English" length=":20">
+          <text>This game's anybody's guess. Well, if you like to guess, keep watching for the “Coca-Cola Guess It” question on the Jumbotron and text your guess to 66937. And keep watching to find out if you're right. Brought to you by Coca-Cola. Open Happiness. Message and data rates may apply.</text>
+        </item>
+        <item id="ENG_PA_15-interactive-guess" kind="script" code="Interactive Game - Guess It" language="English" length=":15">
+          <text>This game's anybody's guess. If you like to guess, watch for the “Coca-Cola Guess It” question on the Jumbotron and text your guess to 66937. And keep watching to see if you're right. Brought to you by Coca-Cola. Open Happiness. Message and data rates may apply.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Signage-->
+    <screen title="Exterior Signage" id="ESI" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/baseball/exterior-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Banners-->
+    <screen title="Exterior Banners" id="EBA" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Banners" file="media/assets/baseball/exterior-signage_banners.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--RETAIL ELEMENTS-->
+    <!--POS: Order Process for Templates-->
+    <screen title="POS: Order Process for Templates" id="POS" group="Retail Elements">
+      <card title="ORDER PROCESS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;POS: Order Process for Templates&lt;/textHeader&gt;
+&lt;textBody&gt;Baseball POS is available for order through Design Machine, if image customization is not needed.
+
+Layouts for ‘white space’ are included on the Design Machine templates for the addition of program/offer details and partner logos.
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS
+
+&lt;li&gt;Finished Art/2B Design will bill you directly for all art fees incurred.&lt;/li&gt;
+
+&lt;li&gt;Region is responsible for verifying copy, securing legal and partner approvals for all custom elements.&lt;/li&gt;
+
+&lt;textNote&gt;Please note:  Legal approval can take up to 5 business days.&lt;/textNote&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Image Library-->
+    <screen title="Image Library" id="IMG" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_image-library.swf" />
+      </card>
+    </screen>
+    <!--‘Opening Day’ / ‘First Pitch’-->
+    <screen title="‘Opening Day’ / ‘First Pitch’" id="OPN" group="Retail Elements">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_opening-day_image.swf" />
+      </card>
+      <card title="WHITE SPACE LAYOUTS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_opening-day_white-space.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates for white space customization only:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+
+Available Elements:  
+&lt;li&gt;Prism&lt;/li&gt;
+&lt;li&gt;Pole Sign&lt;/li&gt;
+&lt;li&gt;Static Cling&lt;/li&gt;
+&lt;li&gt;Case Card&lt;/li&gt;
+&lt;li&gt;Shelf Talker&lt;/li&gt;
+&lt;li&gt;Neck Ringer&lt;/li&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fly Ball: Sweepstakes/Promo-->
+    <screen title="Fly Ball: Sweepstakes/Promo" id="FLY" group="Retail Elements">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_fly-ball_image.swf" />
+      </card>
+      <card title="WHITE SPACE LAYOUTS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_fly-ball_white-space.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates for white space customization only:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+
+Available Elements:  
+&lt;li&gt;Prism&lt;/li&gt;
+&lt;li&gt;Pole Sign&lt;/li&gt;
+&lt;li&gt;Static Cling&lt;/li&gt;
+&lt;li&gt;Case Card&lt;/li&gt;
+&lt;li&gt;Shelf Talker&lt;/li&gt;
+&lt;li&gt;Neck Ringer&lt;/li&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Ballpark Snack - Buy/Get-->
+    <screen title="Ballpark Snack - Buy/Get" id="BSN" group="Retail Elements">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_ballpark-snack_image.swf" />
+      </card>
+      <card title="WHITE SPACE - GENERIC" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_ballpark-snack_generic_white-space.swf" />
+      </card>
+      <card title="WHITE SPACE - PREMIUM" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_ballpark-snack_premium_white-space.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates for white space customization only:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+
+Available Elements:  
+&lt;li&gt;Prism&lt;/li&gt;
+&lt;li&gt;Pole Sign&lt;/li&gt;
+&lt;li&gt;Static Cling&lt;/li&gt;
+&lt;li&gt;Case Card&lt;/li&gt;
+&lt;li&gt;Shelf Talker&lt;/li&gt;
+&lt;li&gt;Neck Ringer&lt;/li&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recapping the Play: Bundle-->
+    <screen title="Recapping the Play: Bundle" id="REC" group="Retail Elements">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_recapping-play_image.swf" />
+      </card>
+      <card title="WHITE SPACE LAYOUTS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_recapping-play_white-space.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates for white space customization only:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+
+Available Elements:  
+&lt;li&gt;Prism&lt;/li&gt;
+&lt;li&gt;Pole Sign&lt;/li&gt;
+&lt;li&gt;Static Cling&lt;/li&gt;
+&lt;li&gt;Case Card&lt;/li&gt;
+&lt;li&gt;Shelf Talker&lt;/li&gt;
+&lt;li&gt;Neck Ringer&lt;/li&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Player / Promo-->
+    <screen title="Player / Promo" id="PLA" group="Retail Elements">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_player-promo_image.swf" />
+      </card>
+      <card title="WHITE SPACE LAYOUTS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_player-promo_white-space.swf" />
+      </card>
+      <card title="ORDER / CUSTOMIZE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING AND CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+Available Elements:  
+&lt;li&gt;Standee&lt;/li&gt;
+&lt;li&gt;Pole Sign&lt;/li&gt;
+&lt;li&gt;Static Cling&lt;/li&gt;
+
+
+Player Photography requirements:
+Player should be in full uniform, holding product (glass bottle) in his right hand with glove on left hand.   
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Still Life: Grass-->
+    <screen title="Still Life: Grass" id="GRA" group="Retail Elements">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_still-grass_image.swf" />
+      </card>
+      <card title="WHITE SPACE LAYOUTS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_still-grass_white-space.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates for white space customization only:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+
+Available Elements:  
+&lt;li&gt;Prism&lt;/li&gt;
+&lt;li&gt;Pole Sign&lt;/li&gt;
+&lt;li&gt;Static Cling&lt;/li&gt;
+&lt;li&gt;Case Card&lt;/li&gt;
+&lt;li&gt;Shelf Talker&lt;/li&gt;
+&lt;li&gt;Neck Ringer&lt;/li&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Still Life: Dugout-->
+    <screen title="Still Life: Dugout" id="DUG" group="Retail Elements">
+      <card title="IMAGE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_still-dugout_image.swf" />
+      </card>
+      <card title="WHITE SPACE LAYOUTS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_still-dugout_white-space.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates for white space customization only:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+
+Available Elements:  
+&lt;li&gt;Prism&lt;/li&gt;
+&lt;li&gt;Pole Sign&lt;/li&gt;
+&lt;li&gt;Static Cling&lt;/li&gt;
+&lt;li&gt;Case Card&lt;/li&gt;
+&lt;li&gt;Shelf Talker&lt;/li&gt;
+&lt;li&gt;Neck Ringer&lt;/li&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for customization of images:
+&lt;li&gt;$95 per image&lt;/li&gt;
+&lt;li&gt;$50 for each revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+For image customization:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;
+
+-OR-
+
+2B Design
+Rhonda Lytle // 636-527-4257
+&lt;a href="event:email|2B-design_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+Laura Cook // 404-222-9393 
+&lt;a href="event:email|2B-design2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Base Wrap-->
+    <screen title="Base Wrap" id="BSW" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_base-wrap.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+Include in your email:
+ 
+&lt;li&gt;Size needed&lt;/li&gt;
+&lt;li&gt;File Format needed&lt;/li&gt;
+&lt;li&gt;Ship to information&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Retail Elements - Floor Graphic-->
+    <screen title="Retail Elements - Floor Graphic" id="RFG" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail-elements_floor-graphic.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get approved Floor Graphic Customizable Templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Truck Backs-->
+    <screen title="Truck Backs" id="TRU" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/baseball/retail_truck-backs.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To Get Approved Artwork for Logo Only Customization:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_baseball" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for Customization of Logo &amp; Custom Copy Template:
+
+&lt;li&gt;$95 per truck back layout (Requestor will receive back from Finished Art a customized layout that has been approved by IMC)&lt;/li&gt;
+
+&lt;li&gt;$50 for each copy and/or logo revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+When logo and supportive copy are required, please contact Finished Art to order and customize template within the approved ‘white space’:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

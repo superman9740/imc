@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--OVERVIEW-->
+    <!--Overview-->
+    <screen title="Overview" id="OVW" group="Overview">
+      <card title="OBJECTIVE &amp; APPROACH" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Increase in-store presence with culturally relevant messaging and merchandising&lt;/li&gt;
+
+&lt;li&gt;Provide Front Line Sales Organization with execution guidelines and approved creative for targeted Multicultural Retail Outlets&lt;/li&gt;
+
+
+&lt;textHeader&gt;APPROACH&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Sustaining Messaging across all Multicultural Outlets&lt;/li&gt;
+
+&lt;li&gt;Culturally Relevant Consumer Messaging&lt;/li&gt;
+
+&lt;li&gt;Right Brand and Package Assortment&lt;/li&gt;
+
+&lt;li&gt;High Traffic Areas&lt;/li&gt;
+
+&lt;li&gt;Optimize Investment Per Store&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ACTIVATION OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Execution guidelines and approved creative that can be utilized in targeted Hispanic CR outlets. This toolkit is divided by Activation Zone, and contains complete information pertaining to where to obtain each piece of POS and merchandising equipment.&lt;/textBody&gt;
+
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Drive sales with Hispanic CR Shoppers by creating a culturally relevant in-store shopping environment that leverages language, food and beverage preferences, and cultural passion points to improve in-store engagement and enhance personal connection to our brands.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="CR STRATEGIC PRIORITIES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CR STRATEGIC PRIORITIES&lt;/textHeader&gt;
+
+&lt;textBody&gt;Leverage Channel Strongholds to Grow with Core Shoppers
+
+&lt;li&gt;Execute OBPPC and Trade Letter Activity&lt;/li&gt;
+
+&lt;li&gt;Own the Morning&lt;/li&gt;
+
+&lt;li&gt;Capture PM Snack&lt;/li&gt;
+
+&lt;li&gt;Leverage Multicultural Strengths&lt;/li&gt;
+
+
+Grow Channel Consideration Across More Core Shopper Occasions
+
+&lt;li&gt;Offer Segmented FC Solutions, including Multicultural&lt;/li&gt;
+
+&lt;li&gt;Broaden Dispensed Footprint&lt;/li&gt;
+
+&lt;li&gt;Build the Lunch &amp; Dinner Occasions with Beverages&lt;/li&gt;
+
+
+Be the #1 Destination for Teens/Young Adults
+
+&lt;li&gt;Drive Transactions with Recruitment Pkg/Pricing&lt;/li&gt;
+
+&lt;li&gt;“Treat” them to Moments of Happiness&lt;/li&gt;
+
+&lt;li&gt;Connect via Passion Points and Digital Marketing&lt;/li&gt;
+
+
+Create the Craving and Inventive to convert Gas &amp; Go Shoppers
+
+&lt;li&gt;Create New Thirst Occasions&lt;/li&gt;
+
+&lt;li&gt;Activate Impulse Zone&lt;/li&gt;
+
+&lt;li&gt;Leverage Appeal of Gas Rewards Program&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="SUPPORTING DOCUMENT" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;SUPPORTING DOCUMENT&lt;/textHeader&gt;
+&lt;textBody&gt;2013 Hispanic CR Selling Story Deck
+
+Coke Channel
+&lt;a href="event:link|Hispanic_CR_Selling-Story" &gt;/ PDF&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--LOS Floorplan-->
+    <screen title="LOS Floorplan" id="LOS" group="Overview">
+      <card title="LOS FLOORPLAN" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/overview_los-floorplan.swf" />
+      </card>
+    </screen>
+    <!--RED Priorities-->
+    <screen title="RED Priorities" id="RED" group="Overview">
+      <card title="RED PRIORITIES" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/overview_red-priorities.swf" />
+      </card>
+    </screen>
+    <!--One-Page Snapshot-->
+    <screen title="One-Page Snapshot" id="OPS" group="Overview">
+      <card title="One-Page Snapshot" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/overview_snapshot.swf" />
+      </card>
+    </screen>
+    <!--Imported Beverage Guidelines-->
+    <screen title="Imported Beverage Guidelines" id="IBG" group="Overview">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/overview_imported-bev-guidelines.swf" />
+      </card>
+      <card title="GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;IMPORTED BEVERAGE GUIDELINES&lt;/textHeader&gt;
+Merchandise Imported Beverage based on space availability 
+in the following order of priority:
+
+1. Cold Vault
+&lt;li&gt;Imported Beverage Door with Jarritos and/or other Imported Glass Bottle soft drinks&lt;/li&gt;
+&lt;li&gt;Leverage portfolio to secure full shelf&lt;/li&gt;
+&lt;li&gt;Do not place with 20oz SSD&lt;/li&gt;
+
+2. Impulse Zone 
+&lt;li&gt;Secure an additional barrel cooler or countertop tub&lt;/li&gt;
+
+3. Food Service (if outlet has a café)
+&lt;li&gt;Secure an additional or larger FEM&lt;/li&gt; 
+&lt;li&gt;If larger FEM, include 1 shelf of Coke de Mexico&lt;/li&gt;
+&lt;li&gt;If additional cooler, include 1 shelf each of Coke, Fanta, and Sprite de Mexico&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Calendars-->
+    <screen title="Calendars" id="CAL" group="Overview">
+      <card title="COLD VAULT" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/overview_cal_cold-vault.swf" />
+      </card>
+      <card title="ZONES" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/overview_cal_zones.swf" />
+      </card>
+    </screen>
+    <!--COLD VAULT-->
+    <!--Execution Overview-->
+    <screen title="Execution Overview" id="EXO" group="Cold Vault">
+      <card title="EXECUTION OVERVIEW" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_execution-overview.swf" />
+      </card>
+    </screen>
+    <!--Coca-Cola Channel Strips-->
+    <screen title="Coca-Cola Channel Strips" id="CCS" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_channel-strips_ko.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+All channel strips except for 12.5oz are double-sided
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Additional Channel Strips-->
+    <screen title="Additional Channel Strips" id="ACS" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_channel-strips.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+&lt;li&gt;Flavors channel strip is double sided&lt;/li&gt;
+
+&lt;li&gt;“Hecho en Mexico” stamp can be removed from Imported Beverage channel strips&lt;/li&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – Sustaining SSD-->
+    <screen title="Static Cling – Sustaining SSD" id="SSD" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_ssd.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – Isotonics Sustaining-->
+    <screen title="Static Cling – Isotonics Sustaining" id="ISO" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_isotonics.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – Isotonics Promotional-->
+    <screen title="Static Cling – Isotonics Promotional" id="ISP" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_iso-promo.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;
+&lt;li&gt;Additional packaging (to include Powerade Zero)&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – Imported Beverage-->
+    <screen title="Static Cling – Imported Beverage" id="ISB" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_imported-bev.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Removable “Hecho en Mexico” stamp&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – Flavors-->
+    <screen title="Static Cling – Flavors" id="FLA" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_flavors.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;
+&lt;li&gt;English or Spanish-led bilingual copy&lt;/li&gt;
+
+Fanta Zero-led version also available on Design Machine.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – Coca-Cola Zero-->
+    <screen title="Static Cling – Coca-Cola Zero" id="CCZ" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_koz.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+For use in markets needing messaging with a Zero Calorie solution.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – Juice-->
+    <screen title="Static Cling – Juice" id="JUI" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_juice.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Packaging&lt;/li&gt;
+&lt;li&gt;Customer logo upload&lt;/li&gt;
+&lt;li&gt;English or Spanish-led bilingual copy&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling – vitaminwater-->
+    <screen title="Static Cling – vitaminwater" id="VIT" group="Cold Vault">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/cold-vault_static-cling_vitaminwater.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;
+&lt;li&gt;Pricing&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--OUTDOOR-->
+    <!--Execution Overview-->
+    <screen title="Execution Overview" id="EOV" group="OUTDOOR">
+      <card title="EXECUTION OVERVIEW" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/outdoor_execution-overview.swf" />
+      </card>
+    </screen>
+    <!--Pole Sign-->
+    <screen title="Pole Sign" id="POL" group="OUTDOOR">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/outdoor_pole-sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Push/Pull-->
+    <screen title="Push/Pull" id="PPL" group="OUTDOOR">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/outdoor_push-pull.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Pump Topper-->
+    <screen title="Pump Topper" id="PUM" group="OUTDOOR">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/outdoor_pump-topper.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Bumper Shroud-->
+    <screen title="Bumper Shroud" id="BUM" group="OUTDOOR">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/outdoor_bumper-shroud.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Window Cling-->
+    <screen title="Window Cling" id="WIN" group="OUTDOOR">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/outdoor_window-cling.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+&lt;li&gt;Entry Pack POS can be customized with customer logo upload&lt;/li&gt;
+
+&lt;li&gt;USE KOZ piece only in markets requiring a Zero Calorie solution&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--FOOD SERVICE ZONE-->
+    <!--Counter Card – Coke with Food-->
+    <screen title="Counter Card – Coke with Food" id="CWF" group="FOOD SERVICE ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/fs-zone_counter_coke-w-food.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Pricing&lt;/li&gt;
+&lt;li&gt;Brand (diet colas)&lt;/li&gt;
+&lt;li&gt;Bundling&lt;/li&gt;
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Card – Imported Beverage-->
+    <screen title="Counter Card – Imported Beverage" id="CIB" group="FOOD SERVICE ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/fs-zone_counter_imported-bev.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;
+&lt;li&gt;Removable “Hecho en Mexico” stamp&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Card – MM Juice-->
+    <screen title="Counter Card – MM Juice" id="CMM" group="FOOD SERVICE ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/fs-zone_counter_mm-juice.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Pricing&lt;/li&gt;
+&lt;li&gt;Product&lt;/li&gt;
+&lt;li&gt;Bundling&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Card – Fountain-->
+    <screen title="Counter Card – Fountain" id="CCF" group="FOOD SERVICE ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/fs-zone_counter_fountain.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--SNACK AISLE-->
+    <!--T-Dangler, Shelf Talker-->
+    <screen title="T-Dangler, Shelf Talker" id="TDA" group="SNACK AISLE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/snack-aisle_t-dangler.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Pricing&lt;/li&gt;
+&lt;li&gt;Packaging&lt;/li&gt;
+&lt;li&gt;Bundling&lt;/li&gt;
+&lt;li&gt;Customer logo upload&lt;/li&gt;
+&lt;li&gt;Brand (diet colas)&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Shelf  Talker & Tearpad-->
+    <screen title="Shelf  Talker &amp; Tearpad" id="STT" group="SNACK AISLE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/snack-aisle_shelf-talker_tearpad.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Pricing&lt;/li&gt;
+&lt;li&gt;Packaging&lt;/li&gt;
+&lt;li&gt;Bundling&lt;/li&gt;&lt;/textBody&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--IMPULSE ZONE-->
+    <!--Execution Overview-->
+    <screen title="Execution Overview" id="EXV" group="IMPULSE ZONE">
+      <card title="EXECUTION OVERVIEW" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/impulse-zone_execution-overview.swf" />
+      </card>
+    </screen>
+    <!--Coke Curve Knockdown Ice Cooler-->
+    <screen title="Coke Curve Knockdown Ice Cooler" id="CCK" group="IMPULSE ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/impulse-zone_coke-curve-knockdown.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To Produce:
+
+Display Industries
+(800) 241-9889
+&lt;a href="event:email|display-ind2_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;
+
+Item code: 05FPKOCURVE12</text>
+        </item>
+      </card>
+    </screen>
+    <!--Countertop Tub-->
+    <screen title="Countertop Tub" id="TUB" group="IMPULSE ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/impulse-zone_countertop-tub.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To Produce:
+
+Beeline Group
+(800) 341-4136
+&lt;a href="event:email|beeline_email_contact" &gt;/ Email&lt;/a&gt;
+
+Item code: 043206&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--IMMINENT ZONE-->
+    <!--Execution Overview-->
+    <screen title="Execution Overview" id="EXE" group="IMMINENT ZONE">
+      <card title="EXECUTION OVERVIEW" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/imminent-zone_execution-overview.swf" />
+      </card>
+    </screen>
+    <!--Pole Sign/Shelf Talker - Sustaining-->
+    <screen title="Pole Sign/Shelf Talker - 12pk Sust." id="PSS" group="IMMINENT ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/imminent-zone_pole-sign_shelf-talker_sus.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Pricing&lt;/li&gt;
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Shelf Talker - 2L Sustaining-->
+    <screen title="Shelf Talker - 2L Sustaining" id="STS" group="IMMINENT ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/imminent-zone_pole-sign_shelf-talker_2L-sus.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Pricing&lt;/li&gt;
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Shelf Talker – In/Out Messaging-->
+    <screen title="Shelf Talker – In/Out Messaging" id="SIO" group="IMMINENT ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/imminent-zone_pole-sign_in-out_1-5L.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_cr_aa" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Pole Sign – In/Out Messaging-->
+    <screen title="Pole Sign – In/Out Messaging" id="PSI" group="IMMINENT ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/imminent-zone_pole-sign_in-out_6pk.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Obtain pre-approved templates:
+
+Coke Catalog
+&lt;a href="event:link|coke-catalog_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Customize by:
+&lt;li&gt;Customer logo upload&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Pole Sign/Shelf-Talker – Promotional-->
+    <screen title="Pole Sign/Shelf-Talker - Promo" id="PSP" group="IMMINENT ZONE">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/cr_hispanic/imminent-zone_pole-sign_shelf-talker_promo.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Prior to promotional period, standard layouts can be ordered 
+via &lt;a href="event:link|coke-catalog_site" &gt;Coke Catalog&lt;/a&gt;.
+
+Approved layouts can be customized via Design Machine 
+after Coke Catalog Order deadline:
+&lt;a href="event:link|design_machine_deep_cr_hispanic" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Creative will vary by season.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="MEDIA OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;The Creative Toolkit contains all approved creative assets that can be 
+utilized to support Coca-Cola 600 NASCAR and other races throughout 
+the 2012 season&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative assets developed to generate Brand awareness and drive volume for NASCAR events&lt;/textBody&gt;
+&lt;textHeader&gt;MEDIUMS&lt;/textHeader&gt;
+&lt;textBody&gt;Program Ads
+TV ads
+Radio ads
+Radio Scripts (English/Spanish)
+TV Sponsorship Billboards
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Trademark enhancement is best in class activation of our assets with sustaining communication that enhances our trademark in order to maximize our investment and drive business results
+
+&lt;a href="event:link|in-venue_zone-strategy_nascar" &gt;/ In-Venue Zone Strategy&lt;/a&gt;
+&lt;a href="event:link|maa_guiding_principles" &gt;/ MAA Guiding Principles&lt;/a&gt;
+&lt;a href="event:link|maa_implementation_tools" &gt;/ MAA Implementation Tools&lt;/a&gt;
+&lt;a href="event:link|customer_sales_aid" &gt;/ Customer Sales Aid&lt;/a&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative customized elements utilizing pre-approved templates facilitate asset activation in-venue&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION ZONES&lt;/textHeader&gt;
+&lt;textBody&gt;Zone 1 –  Concession
+Zone 2 –  Track &amp; Concourse
+Zone 3 –  Entrance/Parking Lot&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE BRAND GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;BRAND GUIDELINES&lt;/textHeader&gt;
+&lt;textBody&gt;Priority Sparkling*:
+1) Coca-Cola   
+2) Coke Zero  
+3) Sprite  
+4) Diet Coke 
+
+Priority Still*: 
+1) Dasani  
+2) PowerAde ion 4  
+3) NOS  
+4) vitaminwater
+&lt;/textBody&gt;
+&lt;textNote&gt;* These priorities should be followed when activating sustaining elements. All appropriate promotional brands should be used to support national program efforts.&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Program Ads-->
+    <screen title="Program Ads" id="PRA" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/motorsports/program-ads.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Template access via Design Machine:
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available: 
+&lt;li&gt;8.5” x 11”&lt;/li&gt;
+&lt;li&gt;5.5” x 8.5”&lt;/li&gt;
+&lt;li&gt;7” x 10”&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Television Ads-->
+    <screen title="TV Ads" id="TVA" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/motorsports/tv-ads.swf" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These TV ads can be used to run during live games or when broadcast on individual stations and can be used until creative changes.  These ads can also run in non-broadcast venues (In-Venue, In-Store, In-Restaurant, Kiosks, Tradeshows, In-Flight, Cinema, Internal/External meetings) and Internet.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|broadcast_form" &gt;/ Broadcast Use&lt;/a&gt;
+&lt;a href="event:link|non_broadcast_form" &gt;/ Non-Broadcast Use&lt;/a&gt;
+&lt;a href="event:link|internet_use_form_tv" &gt;/ Internet Use&lt;/a&gt;
+
+Limited to 1 copy of each spot per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department is fully responsible for any talent fees, licensing fees, or other charges incurred as a result of any use outside the permitted scope or time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Ads-->
+    <screen title="Radio Ads" id="RAA" group="Media Elements" approved="APPROVED FOR LIVE READS ONLY">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="audio" title="NASCART" code="KOCLR133708" length=":30" exp_broadcast="1/19/2013" exp_in_venue="1/19/2013" exp_internet="1/19/2013" file="media/assets/motorsports/KOCLR133708.mp3" />
+        <item kind="audio" title="NASCART w/Generic Tag" code="KOCLR163704" length=":60" exp_broadcast="1/19/2013" exp_in_venue="1/19/2013" exp_internet="1/19/2013" file="media/assets/motorsports/KOCLR163704.mp3" />
+        <item kind="audio" title="SUPERSTITION" code="KOCLR133707" length=":30" exp_broadcast="1/12/2013" exp_in_venue="1/12/2013" exp_internet="1/12/2013" file="media/assets/motorsports/KOCLR133707.mp3" />
+        <item kind="audio" title="SUPERSTITION" code="KOCLR163803" length=":60" exp_broadcast="1/12/2013" exp_in_venue="1/12/2013" exp_internet="1/12/2013" file="media/assets/motorsports/KOCLR163803.mp3" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These Radio Ads are approved for broadcast, non-broadcast/industrial, 
+and internet/streaming use.  Rotation should be equal depending on number of spots chosen to run.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for Radio spots:
+
+&lt;a href="event:link|radio-individuals_form" &gt;/ Radio - Individual Stations&lt;/a&gt; (broadcast from individual stations)
+
+&lt;a href="event:link|radio-network_form" &gt;/ Radio - Network&lt;/a&gt; (broadcast from single location to multiple stations)
+
+&lt;a href="event:link|non_broadcast_form" &gt;/ Radio - Non-Broadcast Use&lt;/a&gt; (for non-broadcast only - (In-Venue, In-Store, Internal/External meetings, Tradeshows)
+
+&lt;a href="event:link|internet_use_form_radio" &gt;/ Radio - Internet Use&lt;/a&gt; (internet/streaming)</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department is fully responsible for any talent fees, licensing fees, or other charges incurred as a result of any use outside the permitted scope or time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Script Templates-->
+    <screen title="Radio Script Templates" id="RST" group="Media Elements">
+      <card title="SCRIPTS" kind="scripts" approved="APPROVED SCRIPTS">
+        <item kind="script" id="KOCLY220127" code="KOCLY220127 - Concept 1: NASCAR TRAIN" language="English" length=":20" group="Retailer Only">
+          <text>AVO:  NASCAR drivers train like crazy to prepare them for race day -- the pressure, the heat, the g forces. But what about NASCAR fans? How will you get through those hairpin turns and screaming straightaways? Lucky for you there’s refreshing ice-cold Coca-Cola. So stop by {{[RETAILER]}} and pick some up. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220128" code="KOCLY220128 - Concept 2: NASCAR SCREAM" language="English" length=":20">
+          <text>AVO:  Ever been to a NASCAR race? Those engines really scream. Then again, as a NASCAR fan, you probably scream, too. Even just sitting at your TV. So before the race, make sure you’re at peak performance and stop by {{[RETAILER]}} for plenty of refreshing ice-cold Coca-Cola. Pop the top and enjoy the race. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220129" code="KOCLY220129 - Concept 1: NASCAR TRAIN" language="English" length=":20" group="Retailer and Package">
+          <text>AVO:  NASCAR drivers train like crazy to prepare them for race day -- the pressure, the heat, the g forces. But what about NASCAR fans? How will you get through those hairpin turns and screaming straightaways? Lucky for you there’s refreshing ice-cold Coca-Cola.  So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220130" code="KOCLY220130 - Concept 2: NASCAR SCREAM" language="English" length=":20">
+          <text>AVO:  Ever been to a NASCAR race? Those engines really scream. Then again, as a NASCAR fan, you probably scream, too. Even just sitting at your tv. So before the race, make sure you’re at peak performance and stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} of refreshing ice-cold Coca-Cola. Pop the top and enjoy the race. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220131" code="KOCLY220131 - Concept 1: NASCAR TRAIN" language="English" length=":20" group="Retailer, Package, and Price">
+          <text>AVO:  NASCAR drivers train like crazy to prepare them for race day -- the pressure, the heat, the g’s. But what about NASCAR fans? How will you get through those hairpin turns and screaming straightaways? Lucky for you there’s refreshing ice-cold Coca-Cola.  So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} for just {{[PRICE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220132" code="KOCLY220132 - Concept 2: NASCAR SCREAM" language="English" length=":20">
+          <text>AVO:  Ever been to a NASCAR race? Those engines really scream. Then again, as a NASCAR fan, you probably scream, too. Just sitting at your tv. So before the race, Coca-Cola wants to make sure you’re at peak performance. Stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} of refreshing ice-cold Coke for just {{[PRICE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220133" code="KOCLY220133 - Concept 1: NASCAR TRAIN" language="English" length=":20" group="Generic Retailer">
+          <text>AVO:  NASCAR drivers train like crazy to prepare them for race day -- the pressure, the heat, the g’s. But what about NASCAR fans? How will you get through those hairpin turns and screaming straightaways? Lucky for you there’s refreshing ice-cold Coca-Cola. So stop by your nearest store and pick some up. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220134" code="KOCLY220134 - Concept 2: NASCAR SCREAM" language="English" length=":20">
+          <text>AVO:  Ever been to a NASCAR race? Those engines really scream. Then again, as a NASCAR fan, you probably scream, too. Even just sitting at your tv. So before the race, make sure you’re at peak performance and stop by your nearest store and pick up plenty of refreshing ice-cold Coca-Cola. Pop the top and enjoy the race. Coca-Cola. Open happiness.</text>
+        </item>
+      </card>
+      <card title="LIVE READ SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <item kind="script" id="KOCLY230135" code="KOCLY230135 - Concept 1: NASCAR THIRSTY" language="English" length=":30" group="Retailer Only">
+          <text>AVO: Temperatures in a NASCAR driver’s cockpit can reach upwards of 120 degrees. Thirsty business to be sure. And while temperatures in a NASCAR fan’s living room rarely exceed 75 degrees, emotions can run even hotter than a redlining engine. Equally thirsty business. So stop by {{[RETAILER]}} so you can have plenty of refreshing ice-cold Coca-Cola on hand. And come race day, make sure you reach for it. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250136" code="KOCLY250136 - Concept 1: NASCAR THIRSTY" language="English" length=":15">
+          <text>AVO: Temperatures in a NASCAR driver’s car can reach 120 degrees. Temperatures in a NASCAR fan’s living room rarely go above 75, but emotions can run even hotter. So pick up plenty of refreshing Coca-Cola at {{[RETAILER]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230137" code="KOCLY230137 - Concept 2: NASCAR HAPPINESS" language="English" length=":30">
+          <text>AVO:  When it comes to NASCAR, happiness is opening up your 750 horsepower engine full-throttle as you fly down a straightaway.  A moment so great that just watching it delivers an adrenalin surge. Coca-Cola reminds you that in moments like this, grabbing a refreshing ice-cold Coke is just the thing to get peak performance from your experience as a NASCAR fan. So stop by {{[RETAILER]}} and pick some up. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250138" code="KOCLY250138 - Concept 2: NASCAR HAPPINESS" language="English" length=":15">
+          <text>AVO:  Happiness is opening up a 750 horsepower NASCAR engine down a straightaway.  Or even just watching it. Especially with a refreshing Coca-Cola in your hand. So stop by {{[RETAILER]}} and pick some up. Coca-Cola. Open happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY230139" code="KOCLY230139 - Concept 1: NASCAR THIRSTY" language="English" length=":30" group="Retailer and Package">
+          <text>AVO: Temperatures in a NASCAR driver’s cockpit can reach upwards of 120 degrees. Thirsty business to be sure. And while temperatures in a NASCAR fan’s living room rarely exceed 75 degrees, emotions can run even hotter than a redlining engine. Equally thirsty business. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} of refreshing ice-cold Coca-Cola. And come race day, make sure you reach for it. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250140" code="KOCLY250140 - Concept 1: NASCAR THIRSTY" language="English" length=":15">
+          <text>AVO: Temperatures in a NASCAR driver’s car reach 120 degrees. Temperatures in a NASCAR fan’s living room rarely go above 75, but emotions can run even hotter. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} of refreshing Coca-Cola. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230141" code="KOCLY230141 - Concept 2: NASCAR HAPPINESS" language="English" length=":30">
+          <text>AVO:  When it comes to NASCAR, happiness is opening up your 750 horsepower engine full-throttle as you fly down a straightaway.  A moment so great that just watching it delivers an adrenalin surge. Coca-Cola reminds you that in moments like this, grabbing a refreshing ice-cold Coke is just the thing to get peak performance from your experience as a NASCAR fan. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}}. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250142" code="KOCLY250142 - Concept 2: NASCAR HAPPINESS" language="English" length=":15">
+          <text>AVO:  Happiness is opening up a 750 horsepower NASCAR engine down a straightaway.  Or just watching it. Especially with a refreshing Coca-Cola in your hand. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230143" code="KOCLY230143 - Concept 1: NASCAR THIRSTY" language="English" length=":30" group="Retailer, Package, and Price">
+          <text>AVO: Temperatures in a NASCAR driver’s cockpit can reach upwards of 120 degrees. Thirsty business to be sure. And while temperatures in a NASCAR fan’s living room rarely exceed 75 degrees, emotions can run even hotter than a redlining engine. Equally thirsty business. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} of refreshing ice-cold Coca-Cola for just {{[PRICE]}}. And come race day, make sure you reach for it. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250144" code="KOCLY250144 - Concept 1: NASCAR THIRSTY" language="English" length=":15">
+          <text>AVO: Temperatures in a NASCAR driver’s car reach 120 degrees. Emotions in a NASCAR fan’s living room can make it feel even hotter. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} of refreshing Coca-Cola for just {{[PRICE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230145" code="KOCLY230145 - Concept 2: NASCAR HAPPINESS" language="English" length=":30">
+          <text>AVO:  When it comes to NASCAR, happiness is opening up your 750 horsepower engine full-throttle as you fly down a straightaway.  A moment so great that just watching it delivers an adrenalin surge. Coca-Cola reminds you that in moments like this, grabbing a refreshing ice-cold Coke is just the thing to get peak performance from your experience as a NASCAR fan. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} for just {{[PRICE]}}. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250146" code="KOCLY250146 - Concept 2: NASCAR HAPPINESS" language="English" length=":15">
+          <text>AVO: Happiness is opening up a 750 horsepower NASCAR engine down a straightaway.  Or just watching it. With a refreshing Coca-Cola in your hand. So stop by {{[RETAILER]}} and pick up a {{[PACKAGE]}} for just {{[PRICE]}}. Coca-Cola. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230147" code="KOCLY230147 - Concept 1: NASCAR THIRSTY" language="English" length=":30" group="Generic Retailer">
+          <text>AVO: Temperatures in a NASCAR driver’s cockpit can reach upwards of 120 degrees. Thirsty business to be sure. And while temperatures in a NASCAR fan’s living room rarely exceed 75 degrees, emotions can run even hotter than a redlining engine. Equally thirsty business indeed. So stop by your nearest store and pick up plenty of refreshing ice-cold Coca-Cola. And come race day, make sure you reach for it. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250148" code="KOCLY250148 - Concept 1: NASCAR THIRSTY" language="English" length=":15">
+          <text>AVO: Temperatures in a NASCAR driver’s car reach 120 degrees. Emotions in a NASCAR fan’s living room can make it feel even hotter. So stop by your nearest store and pick up plenty of refreshing Coca-Cola.  Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230149" code="KOCLY230149 - Concept 2: NASCAR HAPPINESS" language="English" length=":30">
+          <text>AVO:  When it comes to NASCAR, happiness is opening up your 750 horsepower engine full-throttle as you fly down a straightaway.  A moment so great that just watching it delivers an adrenalin surge. Coca-Cola reminds you that in moments like this, grabbing a refreshing ice-cold Coke is just the thing to get peak performance from your experience as a NASCAR fan. So stop by your nearest store and pick up some up. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250150" code="KOCLY250150 - Concept 2: NASCAR HAPPINESS" language="English" length=":15">
+          <text>AVO:  Happiness is opening up a 750 horsepower NASCAR engine down a straightaway.  Or just watching it. With a refreshing Coca-Cola in your hand. So stop by your nearest store and pick some up.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210151" code="KOCLY210151" language="English" length=":10" group="Brought to you by Billboards">
+          <text>AVO:  Screaming engines. Screaming fans. NASCAR is everything racing should be. Brought to you by ice-cold refreshing Coca-Cola. Open happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY200152" code="KOCLY200152" language="English" length=":05">
+          <text>AVO:  NASCAR is everything racing should be. Brought to you by Coca-Cola. Open happiness.</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions 
+made to the provided scripts, other than where indicated by [BRACKETS], 
+must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--OOH – Printed/Vinyl-->
+    <screen title="OOH – Printed/Vinyl" id="OOH" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/ooh_group.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Template access via Design Machine:
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available: 
+&lt;li&gt;14" x 48"&lt;/li&gt;
+&lt;li&gt;30-sheet&lt;/li&gt;
+&lt;li&gt;Vertical Kiosk&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the 
+&lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--CDN – Digital OOH-->
+    <screen title="CDN – Digital OOH" id="CDN" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/cdn_group.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING/CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Creative available via Finished Art.
+
+Sizes currently available: 
+&lt;li&gt;1296x648&lt;/li&gt;
+&lt;li&gt;1400x400&lt;/li&gt;
+&lt;li&gt;1080x920&lt;/li&gt;
+
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards-->
+    <screen title="Menu Boards" id="MEN" group="In-Venue Elements" zone="1">
+      <card title="MEDIA: EXAMPLE 1" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concession_menu-board.swf" />
+      </card>
+      <card title="MEDIA: EXAMPLE 2" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concession_menu-board_2.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+For additional information on the suppliers, click the SUPPLIERS tab.</text>
+        </item>
+      </card>
+      <card title="SUPPLIERS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;THE HOWARD COMPANY&lt;/textHeader&gt;
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 6 main menu boards (sizes &amp; types) and illuminated boards along with numerous specialty/custom boards for unique applications and locations.  Variations include: &lt;i&gt;with/without panel header, with/without acrylic cover, with digital LCD display&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;All menu boards use the same size strips and numbers although colors and font styles can be changed. Menu items and numbers are all separate&lt;/li&gt;
+&lt;li&gt;Magnets can be ordered &lt;a href="event:link|look_of_success_site" &gt;online&lt;/a&gt;.  All strips and numbers are direct printed on magnetic material&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as banners and adhesive graphics (floor and wall)&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;WEAVER MEDIA&lt;/textHeader&gt;
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 10 main menu boards including illuminated boards&lt;/li&gt;
+&lt;li&gt;All menu boards use magnetic strips (one strip that included menu items and prices)&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as adhesive graphics (floor and wall), concession stand graphics, banners&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Static-->
+    <screen title="Fountain Backs, Static" id="FBS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concession_fountain_static.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Cards-->
+    <screen title="Counter Cards" id="CCS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concession_counter-cards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Crew Uniforms / Hawking Trays-->
+    <screen title="Crew Uniforms / Hawking Trays" id="CUH" group="In-Venue Elements" zone="1">
+      <card title="CREW UNIFORMS" kind="image_right">
+        <item kind="image" file="media/assets/motorsports/concession_uniforms.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;CREW UNIFORMS&lt;/textHeader&gt;
+&lt;textBody&gt;To order:
+
+Summit
+&lt;a href="event:link|summit_site" &gt;/ Website&lt;/a&gt;
+
+First time users must register.  
+
+&lt;textNote&gt;Type "NASCAR" in the search box to find 
+the items shown here.&lt;/textNote&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="HAWKING TRAYS" kind="image_right">
+        <item kind="image" file="media/assets/_common/concession_hawking-tray.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;HAWKING TRAYS&lt;/textHeader&gt;
+&lt;textBody&gt;To order:
+
+Summit
+&lt;a href="event:link|summit_site" &gt;/ Website&lt;/a&gt;
+
+First time users must register.  
+
+&lt;textNote&gt;Type "NASCAR" in the search box to find 
+the items shown here.&lt;/textNote&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Concession Signage-->
+    <screen title="Exterior Concession Signage" id="ECS" group="In-Venue Elements" zone="1">
+      <card title="20 OZ BOTTLE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concession_exterior-signage.swf" />
+      </card>
+      <card title="FOUNTAIN CUP" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concession_exterior-signage_cups.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Track Side Signage-->
+    <screen title="Track Side Signage" id="TSS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concourse_track-side.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Food Banners-->
+    <screen title="Food Banners" id="FOO" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concourse_food-banners.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Portfolio & Coke with Food Banners-->
+    <screen title="Portfolio &amp; Coke with Food Banners" id="PCF" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concourse_portfolio.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+
+This element is recommended for long-term/contractual signage.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Horizontal Signage-->
+    <screen title="Horizontal Signage" id="HOZ" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concourse_horizontal-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+
+This element is recommended for long-term/contractual signage.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Vertical Banners-->
+    <screen title="Vertical Banners" id="VER" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concourse_vertical-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+
+This element is recommended for long-term/contractual signage.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Column Decal/Sticker-->
+    <screen title="Column Decal/Sticker" id="CDS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concourse_column-decal.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+
+This element is recommended for long-term/contractual signage.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Directional Signage-->
+    <screen title="Directional Signage" id="DIR" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/motorsports/concourse_directional-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+
+This element is recommended for long-term/contractual signage.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Barrel Coolers-->
+    <screen title="Barrel Coolers" id="BCS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_barrel_coolers.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+
+To Produce:
+
+Display Industries
+&lt;a href="event:email|display-ind_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycling Bins-->
+    <screen title="Recycling Bins" id="RBS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_recycling-bins.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Recycling Bins:
+
+Coke Bins
+&lt;a href="event:link|coke-bins_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Large Format Horizontal Banners-->
+    <screen title="Large Format Horizontal Banners" id="LFH" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/motorsports/entrance_large-horizontal.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Large Format Vertical Banners-->
+    <screen title="Large Format Vertical Banners" id="LFV" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/motorsports/entrance_large-vertical.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Welcome Sign-->
+    <screen title="Welcome Sign" id="WEL" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/motorsports/entrance_welcome-sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Retail Elements-->
+    <screen title="Retail Elements" id="RET" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/motorsports/retail-elements.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;
+
+Retail Activation Elements
+&lt;a href="event:link|TBD" &gt;/ Guide&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Truck Backs-->
+    <screen title="Truck Backs" id="TRU" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/motorsports/truck-backs.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_motorsports" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

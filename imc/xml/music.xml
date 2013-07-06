@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Marketing Asset Activation is best in class activation of our assets with communication that enhances our trademark in order to maximize our investment and drive business results.&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVES&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Maximize our investments with critical assets to enhance our trademark and leverage our association in a relevant and compelling way&lt;/li&gt;
+
+&lt;li&gt;Drive opportunistic availability of our brands in priority channels and provide a distinct competitive advantage with our consumers&lt;/li&gt;
+
+&lt;li&gt;Recruit youth via availability and connection&lt;/li&gt;
+
+&lt;li&gt;Create personal, meaningful connections between consumers, our brands and their Sports/Entertainment passions that are unique and special&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Trademark enhancement is best in class activation of our assets with sustaining communication that enhances our trademark in order to maximize our investment and drive business results
+
+&lt;a href="event:link|in-venue_zone-strategy_music" &gt;/ In-Venue Zone Strategy&lt;/a&gt;
+&lt;a href="event:link|maa_guiding_principles" &gt;/ MAA Guiding Principles&lt;/a&gt;
+&lt;a href="event:link|maa_implementation_tools" &gt;/ MAA Implementation Tools&lt;/a&gt;
+&lt;a href="event:link|customer_sales_aid" &gt;/ Customer Sales Aid&lt;/a&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative customized elements utilizing pre-approved templates facilitate asset activation in-venue&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION ZONES&lt;/textHeader&gt;
+&lt;textBody&gt;Zone 1 –  Concession
+Zone 2 –  Concourse/Stadium
+Zone 3 –  Entrance/Parking Lot&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="IN-VENUE BRAND GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;BRAND GUIDELINES&lt;/textHeader&gt;
+&lt;textBody&gt;Priority Sparkling:  
+Coca-Cola   
+
+&lt;textNote&gt;* These priorities should be followed when activating sustaining elements. All appropriate promotional brands should be used to support national program efforts.&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards-->
+    <screen title="Menu Boards" id="MEN" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concession_menu-board.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+For additional information on the suppliers, click the SUPPLIERS tab.</text>
+        </item>
+      </card>
+      <card title="SUPPLIERS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;THE HOWARD COMPANY&lt;/textHeader&gt;
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 6 main menu boards (sizes &amp; types) and illuminated boards along with numerous specialty/custom boards for unique applications and locations.  Variations include: &lt;i&gt;with/without panel header, with/without acrylic cover, with digital LCD display&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;All menu boards use the same size strips and numbers although colors and font styles can be changed. Menu items and numbers are all separate&lt;/li&gt;
+&lt;li&gt;Magnets can be ordered &lt;a href="event:link|look_of_success_site" &gt;online&lt;/a&gt;.  All strips and numbers are direct printed on magnetic material&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as banners and adhesive graphics (floor and wall)&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;WEAVER MEDIA&lt;/textHeader&gt;
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 10 main menu boards including illuminated boards&lt;/li&gt;
+&lt;li&gt;All menu boards use magnetic strips (one strip that included menu items and prices)&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as adhesive graphics (floor and wall), concession stand graphics, banners&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cups-->
+    <screen title="Cups" id="CUP" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concession_cups.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain approved cups and/or templates as listed below:
+
+&lt;li&gt;PRIORITY #1  - Approved Red Coca-Cola Iconic Cups are available at the                 &lt;a href="event:link|coke-catalog_site" &gt;Coke Catalog&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;PRIORITY #2 – Approved Compostable &amp; Environmentally Sustainable Cups can be found at &lt;a href="event:link|spread_the_red_site" &gt;Spread the Red&lt;/a&gt;&lt;textNote&gt;  (* Search Key Words “Green cupware” - To be used ONLY in venues that have a composting program)&lt;/textNote&gt;&lt;/li&gt;
+&lt;li&gt;PRIORITY #3 - Approved artwork for Partner can be ordered via Finished Art. Contact Daphne Brown via &lt;a href="event:email|finished-art2_email_contact" &gt;email&lt;/a&gt;.&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Static-->
+    <screen title="Fountain Backs, Static" id="FBS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concession_fountain_static.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Cards-->
+    <screen title="Counter Cards" id="CCS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concession_counter-cards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Concession Signage-->
+    <screen title="Exterior Concession Signage" id="ECS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/exterior-concession-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Crew Uniforms / Hawking Trays-->
+    <screen title="Crew Uniforms / Hawking Trays" id="CUH" group="In-Venue Elements" zone="1">
+      <card title="CREW UNIFORMS" kind="image_left">
+        <item kind="image" file="media/assets/_common/concession_uniforms.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;CREW UNIFORMS&lt;/textHeader&gt;
+&lt;textBody&gt;For brand-specific items:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="HAWKING TRAYS" kind="image_right">
+        <item kind="image" file="media/assets/_common/concession_hawking-tray.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;HAWKING TRAYS&lt;/textHeader&gt;
+&lt;textBody&gt;Refer to the Merchandising Idea Book or go to:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Custom Crew T-Shirt-->
+    <screen title="Custom Crew T-Shirt" id="CRW" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concession_crew-t-shirt.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+or 
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Custom T-Shirt-->
+    <screen title="Custom T-Shirt" id="CTS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concession_custom-t-shirt.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+or 
+
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Concourse Vertical Signage-->
+    <screen title="Concourse Vertical Signage" id="CVS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concourse_vertical-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Concourse Horizontal Banners-->
+    <screen title="Concourse Horizontal Banners" id="CHB" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concourse_horizontal-banner.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Concourse Vertical Banners-->
+    <screen title="Concourse Vertical Banners" id="CVB" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/concourse_vertical-banner.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Video Signage - Jumbo-Tron-->
+    <screen title="Video Signage - Jumbo-Tron" id="VJT" group="In-Venue Elements" zone="2">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Coca-Cola Red/White Iconic In-Venue Jumbotron" code="KOCLV952530" length=":15" sizes="68x40, 80x80, 120x72, 144x224, 192x112, 208x160, 372x112, 384x224, 400x582, 600x800, 624x360, 640x480, 720x480, 720x486, 768x432" file="media/assets/_common/KOCLV952530.flv" />
+        <item kind="video" title="Coca-Cola &quot;Red/White Iconic&quot; Music In-Venue Jumbotron " code="KOCLV052857" length=":15" sizes="68x40, 80x80, 112x35, 120x72, 144x32, 144x224, 160x165, 192x112, 208x160, 272x224, 372x112, 384x224, 400x582, 480x720, 552x288, 600x800, 640x480, 720x480, 720x486, 768x432, 1310x460, 1920x1440, 1920x1080" file="media/assets/music/KOCLV052857.flv" />
+        <item kind="video" title="Coca-Cola GIB In-Venue Jumbotron" code="KOCLPT051119 " length=":15" file="media/assets/_common/KOCLPT051119.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative is approved to use In-Venue on video screens.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Currently three Coca-Cola designs are available.  Sizes have already been created and are listed below each design and are available for download on the Cinema Concepts website.  Should you require a different size you will need to fill out an order form.  Note there is a charge for customized sizes.
+
+&lt;textBody&gt;Submit orders for In Venue Video Signage via &lt;a href="event:email|cinema-concepts_email_contact" &gt;email&lt;/a&gt; or 770.956.7460.
+
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ cokeinvenue.com User Guide&lt;/a&gt; 
+
+The website link will bring you into the signage site.  Once in the site you can view all of the available graphics for Jumbo-Trons and fascia rings.  Click on the image and Windows Media Play will display the animation. There are two order forms in word and pdf formats.  The pdf allows you to directly submit the order form.
+
+All requests should include the following information:
+
+&lt;li&gt;Type of Venue:  In Arena, In Concession, Vending, In-Store, In Restaurant&lt;/li&gt;
+&lt;li&gt;Video Type:  Jumbotron, Fascia, Video Menu Board, and u-Vending Video&lt;/li&gt;
+&lt;li&gt;Creative Code (found on site under creative visual)&lt;/li&gt;
+&lt;li&gt;Brand&lt;/li&gt;
+&lt;li&gt;Format:  .avi, .mov, .swf&lt;/li&gt;
+&lt;li&gt;Size in pixels (width and height)&lt;/li&gt;
+&lt;li&gt;Method of Delivery:  FTP Download or Overnight shipment (DVD or Digital Beta Tape)&lt;/li&gt;
+
+There is a $250 charge, per size for orders filled within 4 business days.  
+For rush orders additional fees, listed on the form, will apply.
+
+Billing information for CCNA requestors as well as CCE/Field Managers, and Customers is explained on the order form.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Mobile Merchandising Equipment-->
+    <screen title="Mobile Merchandising Equipment" id="MME" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_mobile-messaging.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layout for Mobile Merchandising Equipment.
+
+To Produce:
+
+IRP
+&lt;a href="event:email|irp_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Barrel Coolers-->
+    <screen title="Barrel Coolers" id="BCS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_barrel_coolers.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Approved Layouts:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+
+To Produce:
+
+Display Industries
+&lt;a href="event:email|display-ind_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycling Bins-->
+    <screen title="Recycling Bins" id="RBS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_recycling-bins.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Recycling Bins:
+
+Coke Bins
+&lt;a href="event:link|coke-bins_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--RETAIL ELEMENTS-->
+    <!--Pole Signs-->
+    <screen title="Pole Signs" id="POL" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/retail-elements_pole-signs.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Clings-->
+    <screen title="Static Clings" id="STC" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/retail-elements_static-clings.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Door Decal-->
+    <screen title="Door Decal" id="DOO" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/retail-elements_door-decal.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Venue/Ticket Promos-->
+    <screen title="Venue/Ticket Promos" id="VEN" group="Retail Elements">
+      <card title="MEDIA 1" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/retail-elements_venue-ticket-1.swf" />
+      </card>
+      <card title="MEDIA 2" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/music/retail-elements_venue-ticket-2.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_music" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

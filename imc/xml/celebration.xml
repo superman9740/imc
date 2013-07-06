@@ -1,0 +1,1338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--<<<COCA-COLA>>>-->
+    <!--Strategy & Overview-->
+    <screen title="Strategy &amp; Overview" id="OVW">
+      <card title="CELEBRATION STRATEGY " kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT CONSTITUTES A “CELEBRATION”?&lt;/textHeader&gt;
+&lt;textBody&gt;Major international, national, milestone anniversaries or significant and unique achievements with positive customer or community impact&lt;/textBody&gt;
+&lt;textHeader&gt;CELEBRATION BRAND BY PASSION&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Coca-Cola:  Baseball, NASCAR&lt;/li&gt;
+
+&lt;li&gt;Coke Zero: College &amp; Pro Football, College Basketball, College &amp; Pro Hockey&lt;/li&gt;
+
+&lt;li&gt;Sprite:  NBA Basketball&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;CELEBRATION INCLUDES&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Local teams winning a significant national achievement in a sporting event (i.e. winning the World Series)&lt;/li&gt;
+
+&lt;li&gt;Significant, unique achievements by individuals (Lance Armstrong winning a Tour de France)&lt;/li&gt;
+
+&lt;li&gt;BCS Champions&lt;/li&gt;
+
+&lt;li&gt;NASCAR Season Winner&lt;/li&gt;
+
+&lt;li&gt;Centennial Anniversary&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;CELEBRATION DOES NOT INCLUDE&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Opening of a new stadium&lt;/li&gt;
+
+&lt;li&gt;Commemorate a new athlete to a team&lt;/li&gt;
+
+&lt;li&gt;Individual NASCAR race winner&lt;/li&gt;
+
+&lt;li&gt;Annual festivals&lt;/li&gt;
+
+&lt;li&gt;Customer business milestones&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="DO’S &amp; DON’TS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;DO'S&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Leverage our Marketing Assets and their significant achievement to connect to our consumers through their passions&lt;/li&gt;
+
+&lt;li&gt;Leverage your local insights about the asset and the locale to maximize the brand connection with the asset&lt;/li&gt;
+
+&lt;li&gt;Consider ALL the ways to activate the celebration, like approved packaging elements, POS templates, print ads and/or approved licensed merchandise&lt;/li&gt;
+
+&lt;li&gt;Activate packaging and POS elements within 7 days of “celebratory” event for optimal results in the marketplace&lt;/li&gt;
+
+&lt;li&gt;Follow current packaging approval process&lt;/li&gt;
+
+&lt;li&gt;Review with your Region Asset Manager prior to customer sell-in&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;DON’TS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Activate for annual, non-significant milestones, if unsure of what qualifies, please consult your Region Asset Manager for guidance&lt;/li&gt;
+
+&lt;li&gt;Just consider packaging as the only elements of activation&lt;/li&gt;
+
+&lt;li&gt;Create a composite logo (“lock-up”)&lt;/li&gt;
+
+&lt;li&gt;Make packaging available at Retail in anticipation of winning&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ACTIVATION OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Best in class activation of our assets with communication that enhances our trademark in order to maximize our investment and drive business results&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Create personal, meaningful connections between consumers and our brands through the celebration of their passions for our Marketing Assets in order to drive Sparkling Business&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="MAT SUPPORTING DOCUMENTS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;Trademark enhancement is best in class activation of our assets with sustaining communication that enhances our trademark in order to maximize our investment and drive business results
+
+&lt;a href="event:link|guide_asset_activation_celebration" &gt;/ Marketing Asset Activation Guide&lt;/a&gt;
+&lt;a href="event:link|maa_guiding_principles" &gt;/ MAA Guiding Principles&lt;/a&gt;
+&lt;a href="event:link|maa_implementation_tools" &gt;/ MAA Implementation Tools&lt;/a&gt;
+&lt;a href="event:link|customer_sales_aid" &gt;/ Customer Sales Aid&lt;/a&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative customized elements utilizing pre approved templates facilitate asset activation in-venue&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION CATEGORIES&lt;/textHeader&gt;
+&lt;textBody&gt;Packaging
+POS
+Advertising
+Merchandise
+Grass Roots &amp; Social Media
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--PACKAGING-->
+    <!--Overview-->
+    <screen title="Overview" id="POV" group="Packaging" kit_group="COCA-COLA">
+      <card title="PACKAGING" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OVERVIEW&lt;/textHeader&gt;
+&lt;textBody&gt;Packaging forms available for use:
+
+&lt;li&gt;12oz Can Body&lt;/li&gt;
+
+&lt;li&gt;16oz Can Body&lt;/li&gt;
+
+&lt;li&gt;20oz Bottle Label&lt;/li&gt;
+
+&lt;li&gt;8oz 6-Pack Carrier&lt;/li&gt;
+
+&lt;li&gt;Fridgepack Wrap&lt;/li&gt;
+
+&lt;li&gt;24-Pack Wrap&lt;/li&gt;
+
+&lt;li&gt;32oz Cup&lt;/li&gt;
+
+&lt;textNote&gt;NOTE: Any other package form not listed above should NOT be utilized&lt;/textNote&gt;
+
+8oz Contour Bottle Guidelines:
+
+&lt;li&gt;As a key icon of brand Coca-Cola, the 8oz contour bottle should remain clear of properties, retailers or other event activation.  The extremely limited label area should be dedicated to communicate Coca-Cola brand and the required legalese&lt;/li&gt;
+
+&lt;li&gt;Exceptions to this 8oz contour guideline may be granted if the package is to be used only for internal/constituent distribution (i.e. non-retail).  Must utilize current 8oz bottle charter process to gain approval&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--12oz Can-->
+    <screen title="12oz Can" id="TOC" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Packaging_12oz_Can.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--16oz Can-->
+    <screen title="16oz Can" id="SOC" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Packaging_16oz_Can.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--20oz Bottle-->
+    <screen title="20oz Bottle" id="TOB" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Packaging_20oz_Bottle.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--8oz 6-Pack Carrier-->
+    <screen title="8oz 6-Pack Carrier" id="EOS" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Packaging_8oz_6-Pack_Carrier.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fridgepack-->
+    <screen title="Fridgepack" id="FRP" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Packaging_Fridgepack.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--24-Pack-->
+    <screen title="24-Pack" id="TFP" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Packaging_24-Pack.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--32oz Cup-->
+    <screen title="32oz Cup" id="TTO" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Packaging_32oz_Cup.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--POINT OF SALE-->
+    <!--Pole Sign-->
+    <screen title="Pole Sign" id="POL" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Point-of-Sale_Pole-Sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Case Card-->
+    <screen title="Case Card" id="CAS" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Point-of-Sale_Case-Card.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Vertical Street Banner-->
+    <screen title="Vertical Street Banner" id="VSB" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Point-of-Sale_Vertical-Street-Banner.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Horizontal Banner-->
+    <screen title="Horizontal Banner" id="HZB" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Point-of-Sale_Horizontal-Banner.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Floor Graphic-->
+    <screen title="Floor Graphic" id="FLG" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Point-of-Sale_Floor-Graphic.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--ADVERTISING-->
+    <!--Print Ads-->
+    <screen title="Print Ads" id="PAD" group="Advertising">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Advertising_Print-Ads.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Script Templates-->
+    <screen title="Radio Script Templates" id="RST" group="Advertising">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <item id="ENG_RS_15_w-Retailer-A" kind="script" code="with Retailer A" language="English" length=":15">
+          <text>Join Coca-Cola in congratulating {{[event title]}}. Nothing goes with celebrations better than an ice cold Coca-Cola. So, stop by your local {{[retailer]}}, grab some friends and make a toast to {{[event title]}}! You did it! Enjoy! Coca-Cola. Open happiness.</text>
+        </item>
+        <item id="ENG_RS_15_w-Retailer-B" kind="script" code="with Retailer B" language="English" length=":15">
+          <text>Coca-Cola celebrates {{[event title]}}. Wow! Victory sure tastes good. Just like the taste of an ice cold Coca-Cola. Ahhh! So, grab a coke at your local {{[retailer]}}, get together with friends and taste the moment. Coca-Cola. Open happiness.</text>
+        </item>
+        <item id="ENG_RS_15_wo-Retailer-A" kind="script" code="without Retailer A" language="English" length=":15">
+          <text>Join Coca-Cola in congratulating {{[event title]}}. Come together with friends and share some happiness as you celebrate this sensational triumph.  Raise your glass and taste the moment. Congratulations {{[event title]}}! Coca-Cola. Open happiness.</text>
+        </item>
+        <item id="ENG_RS_15_wo-Retailer-B" kind="script" code="without Retailer B" language="English" length=":15">
+          <text>All you fans! Here’s one more chance to celebrate your team, your champs! Coca-Cola invites you to taste the moment and congratulate {{[event title]}}! Grab an ice cold Coca-Cola, lift it high in the air and toast to {{[event title]}}. Ahhh. Coca-Cola. Open happiness.</text>
+        </item>
+        <item id="ENG_RS_30_w-Retailer" kind="script" code="with Retailer" language="English" length=":30">
+          <text>Hey fans! Get excited, put your glasses together and join Coca-Cola in celebrating {{[event title]}}. Ahhh! There’s no better way to celebrate than with an ice cold Coke in your hand! Coca-Cola reminds us to stop and enjoy life’s simple pleasures – so, pick up some Coca-Cola at your local {{[retailer]}}, get together with friends and taste the moment as you celebrate the {{[event title]}}! Coca-Cola. Open happiness.</text>
+        </item>
+        <item id="ENG_RS_30_wo-Retailer" kind="script" code="without Retailer" language="English" length=":30">
+          <text>Hey fans! Get excited, put your glasses together and join Coca-Cola in celebrating {{[event title]}}. Ahhh! There’s no better way to celebrate than with an ice cold Coke in your hand! Coca-Cola reminds us to stop and enjoy life’s simple pleasures – so, grab some Coca-Cola, get together with friends and taste the moment as you celebrate the {{[event title]}}! Here, here! Coca-Cola. Open happiness.</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions 
+made to the provided scripts, other than where indicated by [BRACKETS], 
+must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Truck Back-->
+    <screen title="Truck Back" id="TRU" group="Advertising">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Advertising_Truck-Back.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--OOH Sign-->
+    <screen title="OOH Sign" id="OOH" group="Advertising">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Advertising_OOH-Sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--MERCHANDISE-->
+    <!--White T-Shirt-->
+    <screen title="White T-Shirt" id="WTS" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_White-T-Shirt.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;
+
+
+For Local Printing:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cap-->
+    <screen title="Cap" id="CAP" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Cap.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Latex Balloon-->
+    <screen title="Latex Balloon" id="LAB" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Latex-Balloon.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Round Sticker-->
+    <screen title="Round Sticker" id="ROS" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Round-Sticker.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Beads-->
+    <screen title="Beads" id="BDS" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Beads.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Spirit Towel-->
+    <screen title="Spirit Towel" id="SPT" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Spirit-Towel.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Foam Sport Ball-->
+    <screen title="Foam Sport Ball" id="FSB" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Foam-Sport-Ball.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fleece Blanket-->
+    <screen title="Fleece Blanket" id="FLB" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Fleece-Blanket.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Car Magnet-->
+    <screen title="Car Magnet" id="CAR" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Car-Magnet.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Wilson Autograph Ball-->
+    <screen title="Wilson Autograph Ball" id="WIL" group="Merchandise">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Merchandise_Wilson-Autograph-Ball.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Insignia
+Log on to EBP system or
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Click on the “Celebration Activation” category&lt;/li&gt;
+&lt;li&gt;Contact Insignia with inquiries // 1-800-239-6442&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--GRASS ROOTS & SOCIAL MEDIA-->
+    <!--Large Store Activation-->
+    <screen title="Large Store Activation" id="LSA" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_Large-Store-Activation.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CONCEPT&lt;/textHeader&gt;
+&lt;textBody&gt;Secure lobby displays in large retail stores with Celebration elements to attract fans and drive impulse purchases at retail&lt;/textBody&gt;
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Order Celebration-themed POS and merchandise to create a Celebration zone within large-format retail stores (i.e. flag, banner, floor graphic, pole sign/stanchion, etc…)&lt;/li&gt;
+
+&lt;li&gt;Order Celebration-themed packaging&lt;/li&gt;
+
+&lt;li&gt;Work with key accounts/customer management to gain customer commitment/approval:&lt;/li&gt;
+
+&lt;li&gt;&lt;second&gt;Promotional packaging authorization for in-store promotion&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Display quantities/volume forecast (e.g., pallet display per store with the projected volume per store at 1-10 pallets)&lt;/second&gt;&lt;/li&gt;
+&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION THOUGHT STARTERS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Merchandise special Celebration-themed packaging with core ad packages to create a fan destination in-stores&lt;/li&gt;
+
+&lt;li&gt;Create a near-pack offer (i.e., get a free Celebration t-shirt when you buy (4)12-packs of Coca-Cola brands)&lt;/li&gt;
+
+&lt;li&gt;Floor-graphic placement in front of brand Coca-Cola in the beverage aisle&lt;/li&gt;
+
+&lt;li&gt;Create in-store excitement with signed elements and a register-to-win entry form tear pad and entry box (get coaches to sign the pole sign as a raffle prize)&lt;/li&gt;
+
+&lt;li&gt;Secure a radio remote from the retail store and brand the remote with Celebration banners and merchandise&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Small Store Activation-->
+    <screen title="Small Store Activation" id="SSA" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_Small-Store-Activation.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Secure incremental inventory and sales in small stores with Celebration elements to attract fans and drive impulse purchases&lt;/textBody&gt;
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Order Celebration-themed POS and merchandise to create a Celebration area in-store (i.e., car magnet, balloons, banner, etc…)&lt;/li&gt;
+
+&lt;li&gt;Place Coca-Cola identified barrel coolers filled with commemorative IC product in small stores&lt;/li&gt;&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION THOUGHT STARTERS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Place an incremental barrel cooler with Celebration package product and promote multiple purchase with price offer (2 for $2.00 20oz., etc…)&lt;/li&gt;
+
+&lt;li&gt;Offer a Celebration themed merchandise “gift” with purchase&lt;/li&gt;
+
+&lt;li&gt;Put a Celebration frequency card program in place and offer Celebration-themed merchandise for 10 punches/visits&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Food Service Activation-->
+    <screen title="Food Service Activation" id="FSA" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_Food-Service-Activation.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Secure incremental inventory and sales in small stores with Celebration elements to attract fans and drive impulse purchases&lt;/textBody&gt;
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Order Celebration-themed POS and merchandise to create a Celebration area in-store (i.e., car magnet, balloons, banner, etc…)&lt;/li&gt;
+
+&lt;li&gt;Place Coca-Cola identified barrel coolers filled with commemorative IC product in small stores&lt;/li&gt;&lt;/textBody&gt;
+&lt;textHeader&gt;ACTIVATION THOUGHT STARTERS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Place an incremental barrel cooler with Celebration package product and promote multiple purchase with price offer (2 for $2.00 20oz., etc…)&lt;/li&gt;
+
+&lt;li&gt;Offer a Celebration themed merchandise “gift” with purchase&lt;/li&gt;
+
+&lt;li&gt;Put a Celebration frequency card program in place and offer Celebration-themed merchandise for 10 punches/visits&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Design Machine (Approved Templates)
+&lt;a href="event:link|design_machine_site" &gt;/ Website&lt;/a&gt;
+
+Kwikee  (Extensive Customization)
+&lt;a href="event:link|kwikee_client_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Post-Game Celebration-->
+    <screen title="Post-Game Celebration" id="PGC" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_Post-Game-Celebration.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CONCEPT&lt;/textHeader&gt;
+&lt;textBody&gt;Coca-Cola helps celebrate the team victory immediately following the win at the venue&lt;/textBody&gt;
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Venue activation plan is developed&lt;/li&gt;
+
+&lt;li&gt;&lt;second&gt;12 cases of commemorative packaging are on-site at the venue in preparation for post-game celebration with the team&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Divide the cases between locker room and media room&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Ice down commemorative product in Coca-Cola ID barrels in advance to have waiting for the team&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Put contingency plan in place to remove and destroy in-place product in case of loss, prior to the team entering the locker room&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--PR: Create Event – Special Delivery-->
+    <screen title="PR Event: Special Delivery" id="SPD" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_PR-Event-Special-Delivery.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CONCEPT&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Local bottler or campus ambassador “delivers” cold Coca-Cola to the outside, to local influencers such as:&lt;/li&gt;
+
+&lt;li&gt;&lt;second&gt;Radio DJs&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Campus Administration/Team Administration&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;City/State Officials and legislators&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Coach/Team&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Sorority/Fraternity&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Band&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Pep Rally Attendees&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Key Retailers (HQ)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Lines for Events/Venues (e.g. Zoo, Aquarium, Concerts, etc…)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Parade route attendees/officials&lt;/second&gt;&lt;/li&gt;
+
+&lt;textHeader&gt;SPECIAL DELIVERY “ADD-ON”:&lt;/textHeader&gt;
+&lt;li&gt;Coca-Cola bottler uses a route/bulk delivery vehicle that has Celebration truck back graphics applied to the vehicle to “deliver”  the team/coach/select players to the local influencers in the community&lt;/li&gt;
+
+&lt;li&gt;They exit the truck with ice cold Coca-Cola (Celebration packaging recommended) in hand and “deliver” cold Coca-Cola to the influencers&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--PR: Create Event – Celebration Toast-->
+    <screen title="PR Event: Celebration Toast" id="CEL" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_PR-Event-Celebration-Toast.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CONCEPT&lt;/textHeader&gt;
+&lt;textBody&gt;Create a special moment with Coca-Cola as a central part of a congratulatory toast as a part of the Celebration event.  Create a memorable PR moment as the Coca-Cola bottler or representative officially “toasts” victory with the coach/official representative from the stage/podium at a local event by lifting a cold Coca-Cola in celebration of the team/event.&lt;/textBody&gt;
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Place commemorative cans or generic 8-oz glass bottles on the podium/stage to brand celebratory press conferences or events (i.e. parades, coach’s interviews, city celebration, etc…&lt;/li&gt;
+
+&lt;li&gt;Brand the stage/podium of the event with Celebration banner, Celebration commemorative can displays, and Celebration premiums&lt;/li&gt;
+
+&lt;li&gt;Fill a Coca-Cola ID cooler with cold Coca-Cola Celebration cans or 8-oz glass bottles&lt;/li&gt;
+
+&lt;li&gt;Distribute product to all officials on the stage or team to share in the toast&lt;/li&gt;&lt;/textBody&gt;
+&lt;textHeader&gt;SPECIAL DELIVERY “ADD-ON”&lt;/textHeader&gt;
+&lt;textBody&gt;Coca-Cola bottler uses a route/bulk delivery vehicle that has Celebration truck back graphics applied to the vehicle to “deliver”  the team/coach/select players to the pep rally or celebration. The “delivered” guests will exit the truck and head to the event with an ice cold Coca-Cola (Celebration packaging recommended) in hand.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--PR: Create Event – Radio Remote-->
+    <screen title="PR Event: Radio Remote" id="REM" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_PR-Event-Radio-Remote.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CONCEPT&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Host a radio remote with a local station at the event&lt;/li&gt;
+
+&lt;li&gt;Supply prize giveaways to engage listeners and promote the celebration&lt;/li&gt;
+
+&lt;li&gt;Recommended radio prizes can include the following:&lt;/li&gt;
+
+&lt;li&gt;&lt;second&gt;Celebration identified Coca-Cola product&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Celebration T-shirts&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Celebration site handouts (see list on Celebration merchandise)&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Celebration coolers&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;&lt;second&gt;Signed Celebration memorabilia, etc…&lt;/second&gt;&lt;/li&gt;
+&lt;li&gt;Brand the radio event with Celebration banners, Celebration balloons, barrel coolers, etc…&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;SPECIAL DELIVERY “ADD-ON”&lt;/textHeader&gt;
+&lt;textBody&gt;Coca-Cola bottler uses a route/bulk delivery vehicle that has Celebration truck back graphics applied to the vehicle to “deliver”  the team/coach/select players to the pep rally or celebration. The “delivered” guests will exit the truck and head to the event with an ice cold Coca-Cola (Celebration packaging recommended) in hand.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--PR: Digital Photo Program-->
+    <screen title="PR: Digital Photo Program" id="DPP" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_PR-Digital-Photo-Program.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To set up a Digital Photo Program order:
+
+Printroom Corporate Sales Team
+(888) 868-4157, extension 7000
+&lt;a href="event:email|printroom_email_contact" &gt;/ email&lt;/a&gt;
+
+
+&lt;textHeader&gt;CONCEPT&lt;/textHeader&gt;
+&lt;textBody&gt;Add value to local events with fun, celebration-themed digital photo program.  Event fan photography branded with Coca-Cola “Celebrates” graphics is a great way for fans to keep the magic a live with a commemorative free photo offer.
+&lt;/textBody&gt;
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Event attendees/fans have their picture made and receive a download card from the photographer with a unique number and web address to a site where they can download their picture with a Celebration digital picture frame.  After the event, fans go online and choose their photos from galleries posted on your website or upload their own digital images&lt;/li&gt;
+
+&lt;li&gt;Special Offer:  Each fan will receive a FREE 8x10 downloadable picture in a Coca-Cola Celebration Themed frame. Fans will have a permanent reminder of the Coca-Cola Celebration event they attended&lt;/li&gt;
+
+&lt;li&gt;Plus, fans can create, order and purchase additional photos and specialty items such as mouse pads, calendars, framed prints and greeting cards to remember the special event hosted by Coca-Cola&lt;/li&gt;
+
+&lt;li&gt;See sample programs &lt;a href="event:link|printroom_site" &gt;online&lt;/a&gt;&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;HOW TO ORDER AND EXECUTE LOCALLY&lt;/textHeader&gt;
+&lt;textBody&gt;Contact:
+
+Printroom Corporate Sales Team
+(888) 868-4157, extension 7000
+&lt;a href="event:email|printroom_email_contact" &gt;/ email&lt;/a&gt;
+
+OR
+
+Hao Liu (Business Development Manager)
+(408) 642-0923
+
+Allow 3 weeks prior notice. 
+
+Provide Printroom with the following information:
+&lt;ol&gt;&lt;li&gt;Date&lt;/li&gt;
+&lt;li&gt;Time&lt;/li&gt;
+&lt;li&gt;Location&lt;/li&gt;
+&lt;li&gt;Attendance number of event&lt;/li&gt;
+&lt;li&gt;On-site contact at the event&lt;/li&gt;
+&lt;li&gt;Special instructions, if applicable (anything outside of normal set-up)&lt;/li&gt;&lt;/ol&gt;&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="PRICING" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PRICING&lt;/textHeader&gt;  (based on event size)
+&lt;ol&gt;&lt;li&gt;Less than 1,000 people / free image download = minimal charge of $1,000 and maximum charge of $2,000 (1 photographer recommended up to 8 hours)&lt;/li&gt; 
+
+&lt;li&gt;1,000 – 2,000 people / free image download  = minimal charge of $2,000 and maximum charge of $4,000 (2 photographers recommended up to 8 hours)&lt;/li&gt;
+
+&lt;li&gt;2,000 – 5,000 people / free image download = minimal charge of $3,000 and maximum charge of $5,000 (4 photographers recommended up to 8 hours)&lt;/li&gt;  
+
+&lt;li&gt;5,000 – 10,000 people / free image download = minimal charge of $6,000 and maximum charge of $10,000 (6 photographers recommended up to  hours)
+&lt;/li&gt;&lt;/ol&gt;&lt;/a&gt;
+&lt;textNote&gt;NOTE: Region is responsible for photographer fees associated with this program.&lt;/textNote&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Web Page Banner Ad-->
+    <screen title="Web Page Banner Ad" id="WPB" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_Web-Page-Banner-Ad.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;WebPage Banner Ad with Animation (Coca-Cola Fireworks) that can be uploaded to a host website for consumers/"fans" to view.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Smartphone Wallpaper-->
+    <screen title="Smartphone Wallpaper" id="SPW" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_Smartphone-Wallpaper.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;Wallpaper/background for smartphones that can be downloaded from a host website to a fan phone.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Facebook Icon-->
+    <screen title="Facebook Icon" id="FBI" group="Grass Roots &amp; Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/Grass-Roots_Facebook-Icon.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Embedded image of the Coca-Cola celebrates visual that&lt;/li&gt;
+
+&lt;li&gt;Can be downloaded from a host website to fan Facebook pages and shared within personal social networks&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Celebration icon file is shared with host web administrator to upload as a downloadable image from the host website&lt;/li&gt;
+
+&lt;li&gt;Fans visiting the host website can click on the icon and download the image to their facebook page to display as a profile picture or to share among personal networks&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--<<<COKE ZERO>>>-->
+    <!--PRIMARY SPORTS VISUALS-->
+    <!--Overview-->
+    <screen title="Overview" id="OVR" group="Primary Sports Visuals" kit_group="COKE ZERO">
+      <card title="CELEBRATION OBJECTIVES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OVERVIEW&lt;/textHeader&gt;
+&lt;textBody&gt;Congratulate the current season’s NFL, NCAA Basketball, NCAA Football and 
+NHL champions
+
+&lt;li&gt;The Coke Zero target is an avid sports fan, and the celebration of the winning team in one Coke Zero’s partner leagues is an important aspect of the fan ritual&lt;/li&gt;
+
+&lt;li&gt;Coke Zero will join the fans in expressing support for the winning team by congratulating them via messaging on marketing materials&lt;/li&gt;
+
+
+Provide local markets with tools to bring the celebratory message to life
+
+&lt;li&gt;The markets of the winning teams will leverage the assets and guidance outlined in this document to activate their local celebratory programming&lt;/li&gt;
+
+
+Provide guidelines for the appropriate creation and use of the assets
+
+&lt;li&gt;To ensure consistency in the development and application of the toolkit, this VIS will outline how to communicate and how not to communicate the congratulatory message&lt;/li&gt;</text>
+        </item>
+      </card>
+      <card title="SPORTS COMMUNICATION GUIDELINES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;NCAA BASKETBALL&lt;/textHeader&gt;
+&lt;li&gt;Permitted to use the league name and championship name in designs (Final Four)&lt;/li&gt;
+
+&lt;li&gt;Permitted to use the name and logo of winning team if a Coca-Cola team&lt;/li&gt;
+
+&lt;textHeader&gt;NCAA FOOTBALL&lt;/textHeader&gt;
+&lt;li&gt;Permitted to use the league name but not permitted to use the championship name (BCS) so should use National Champions&lt;/li&gt;
+
+&lt;li&gt;Permitted to use the name and logo of winning team if a Coca-Cola team&lt;/li&gt;
+
+&lt;textHeader&gt;NHL/NFL&lt;/textHeader&gt;
+&lt;li&gt;Permitted to use the league name but not the championship name in designs (Stanley Cup, Superbowl) so need to use World Champions&lt;/li&gt;
+
+&lt;li&gt;Permitted to use the name and logo of winning team if a Coca-Cola team&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Sports Icons-->
+    <screen title="Sports Icons" id="SIC" group="Primary Sports Visuals">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Primary-Sports-Visuals.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--PACKAGING-->
+    <!--Overview-->
+    <screen title="Overview" id="POV" group="Packaging">
+      <card title="PACKAGING" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OVERVIEW&lt;/textHeader&gt;
+&lt;textBody&gt;Packaging forms available for use:
+
+&lt;li&gt;12oz Can Body&lt;/li&gt;
+
+&lt;li&gt;20oz Bottle Label&lt;/li&gt;
+
+&lt;li&gt;Fridgepack Wrap&lt;/li&gt;
+
+&lt;li&gt;32oz Cup&lt;/li&gt;
+
+&lt;textNote&gt;NOTE: Any other package form not listed above should NOT be utilized&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--12oz Can: 2-Color Logo-->
+    <screen title="12oz Can: 2-Color Logo" id="TOT" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Packaging_12oz_Can_2color.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--12oz Can: 1-Color Logo-->
+    <screen title="12oz Can: 1-Color Logo" id="TOO" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Packaging_12oz_Can_1color.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--20oz Bottle-->
+    <screen title="20oz Bottle" id="TOB" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Packaging_20oz_Bottle.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fridgepack-->
+    <screen title="Fridgepack" id="FRP" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Packaging_Fridgepack.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--32oz Cup-->
+    <screen title="32oz Cup" id="TTO" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Packaging_32oz_Cup.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--POINT OF SALE-->
+    <!--Pole Sign-->
+    <screen title="Pole Sign" id="POL" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Point-of-Sale_Pole-Sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Case Card-->
+    <screen title="Case Card" id="CAS" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Point-of-Sale_Case-Card.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Horizontal Banner-->
+    <screen title="Horizontal Banner" id="HZB" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Point-of-Sale_Horizontal-Banner.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--ADDITIONAL ELEMENTS-->
+    <!--T-Shirt-->
+    <screen title="T-Shirt" id="TSH" group="Additional Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Merchandise_White-T-Shirt.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Print Ad-->
+    <screen title="Print Ad" id="PAD" group="Additional Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Advertising_Print-Ads.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Web Page Banner Ad-->
+    <screen title="Web Page Banner Ad" id="WPB" group="Additional Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Grass-Roots_Web-Page-Banner-Ad.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;WebPage Banner Ad with Animation (Coca-Cola Fireworks) that can be uploaded to a host website for consumers/"fans" to view.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Smartphone Wallpaper-->
+    <screen title="Smartphone Wallpaper" id="SPW" group="Additional Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Grass-Roots_Smartphone-Wallpaper.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;Wallpaper/background for smartphones that can be downloaded from a host website to a fan phone.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Facebook Icon-->
+    <screen title="Facebook Icon" id="FBI" group="Additional Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/koz/Grass-Roots_Facebook-Icon.swf" />
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Embedded image of the Coca-Cola celebrates visual that&lt;/li&gt;
+
+&lt;li&gt;Can be downloaded from a host website to fan Facebook pages and shared within personal social networks&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Celebration icon file is shared with host web administrator to upload as a downloadable image from the host website&lt;/li&gt;
+
+&lt;li&gt;Fans visiting the host website can click on the icon and download the image to their facebook page to display as a profile picture or to share among personal networks&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--<<<SPRITE>>>-->
+    <!--Overview-->
+    <screen title="Overview" id="OVR" kit_group="SPRITE">
+      <card title="PROGRAM OBJECTIVES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OVERVIEW&lt;/textHeader&gt;
+&lt;textBody&gt;Congratulate the current season’s NBA Basketball champions
+
+Provide local markets with tools to bring the celebratory message to life
+
+&lt;li&gt;The markets of the winning teams will leverage the assets and guidance outlined in this document to activate their local celebratory programming&lt;/li&gt;
+
+Provide guidelines for the appropriate creation and use of the assets
+
+&lt;li&gt;To ensure consistency in the development and application of the toolkit, this VIS will outline how to communicate and how not to communicate the congratulatory message&lt;/li&gt;&lt;/textBody&gt;
+</text>
+        </item>
+      </card>
+    </screen>
+    <!--PACKAGING-->
+    <!--Overview-->
+    <screen title="Overview" id="POV" group="Packaging">
+      <card title="PACKAGING" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;OVERVIEW&lt;/textHeader&gt;
+&lt;textBody&gt;Packaging forms available for use:
+
+&lt;li&gt;12oz Can Body&lt;/li&gt;
+
+&lt;li&gt;20oz Bottle Label&lt;/li&gt;
+
+&lt;li&gt;Fridgepack Wrap&lt;/li&gt;
+
+&lt;textNote&gt;NOTE: Any other package form not listed above should NOT be utilized&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--12oz Can-->
+    <screen title="12oz Can" id="TOC" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/sprite/Packaging_12oz_Can_2color.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--20oz Bottle-->
+    <screen title="20oz Bottle" id="TOB" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/sprite/Packaging_20oz_Bottle.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fridgepack-->
+    <screen title="Fridgepack" id="FRP" group="Packaging">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/sprite/Packaging_Fridgepack.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--POINT OF SALE-->
+    <!--Pole Sign-->
+    <screen title="Pole Sign" id="POL" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/sprite/Point-of-Sale_Pole-Sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Case Card-->
+    <screen title="Case Card" id="CAS" group="Point of Sale">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/celebration/sprite/Point-of-Sale_Case-Card.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

@@ -1,0 +1,1219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;This Creative Toolkit contains approved assets that can be utilized to fulfill media commitments as part of TCCC  &lt;bold&gt;contractual&lt;/bold&gt; agreements with asset partners.  It is segmented by medium, and contains complete information pertaining to each asset; including where to obtain, usage dates, and key contacts.&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative assets developed to generate Brand awareness and drive volume during the Holiday season.&lt;/textBody&gt;
+&lt;textHeader&gt;BRANDS&lt;/textHeader&gt;
+&lt;textBody&gt;Lead Brand: Coca-Cola&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--MEDIA ELEMENTS-->
+    <!--Program Ads-->
+    <screen title="Program Ads" id="PRA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="image" title="Together We Can Help -&#xD;&#xA;Customizable" file="media/assets/holiday/program-ad_together.jpg" />
+        <item kind="image" title="Collect Them Both -&#xD;&#xA;Customizable" file="media/assets/holiday/program-ad_collect.jpg" />
+        <item kind="image" title="Thumbprint -&#xD;&#xA;Non-Customizable&#xD;&#xA;&lt;textNote&gt;(Available in Spanish)&lt;/textNote&gt;" file="media/assets/holiday/program-ad_thumbprint.jpg" />
+        <item kind="image" title="Claws -&#xD;&#xA;Non-Customizable" file="media/assets/holiday/program-ad_claws.jpg" />
+        <item kind="image" title="Sense -&#xD;&#xA;Non-Customizable&#xD;&#xA;&lt;textNote&gt;(Available in Spanish)&lt;/textNote&gt;" file="media/assets/holiday/program-ad_sense.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Customize with Customer logo.
+
+Order through Design Machine:
+&lt;a href="event:link|design_machine_deep_holiday" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available: 
+&lt;li&gt;8.5” x 11”&lt;/li&gt;
+&lt;li&gt;5.5” x 8.5”&lt;/li&gt;
+&lt;li&gt;7” x 10”&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--OOH / CDN: Holiday-->
+    <screen title="OOH / CDN: Holiday" id="HOL" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/holiday.swf" />
+      </card>
+      <card title="ORDER OOH" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING OOH (Printed/Vinyl)&lt;/textHeader&gt;
+&lt;textBody&gt;Review/Order through:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_holiday" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available on Design Machine: 
+&lt;li&gt;14 x 48&lt;/li&gt;
+&lt;li&gt;30 sheet&lt;/li&gt;
+&lt;li&gt;8 sheet&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER CDN" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZE / ORDER CDN&lt;/textHeader&gt;
+&lt;textBody&gt;For customization and to order artwork:
+
+Finished Art
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Available in 3 standard sizes: 
+&lt;li&gt;Digital Bulletin&lt;/li&gt;
+&lt;li&gt;Digital Poster&lt;/li&gt;
+&lt;li&gt;Digital Shelter&lt;/li&gt;&lt;/textBody&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--OOH: Arctic Home (Printed/Vinyl)-->
+    <screen title="OOH: Arctic Home (Printed/Vinyl)" id="OOH" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/arctic-home_ooh.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Review/Order through:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_holiday" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available on Design Machine: 
+&lt;li&gt;14 x 48&lt;/li&gt;
+&lt;li&gt;30 sheet&lt;/li&gt;
+&lt;li&gt;8 sheet&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--CDN: Arctic Home-->
+    <screen title="CDN: Arctic Home" id="CDN" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/arctic-home_cdn.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZE / ORDER CDN&lt;/textHeader&gt;
+&lt;textBody&gt;For customization and to order artwork:
+
+Finished Art
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Available in 3 standard sizes: 
+&lt;li&gt;Digital Bulletin&lt;/li&gt;
+&lt;li&gt;Digital Poster&lt;/li&gt;
+&lt;li&gt;Digital Shelter&lt;/li&gt;&lt;/textBody&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Television Ads-->
+    <screen title="TV Ads (Non-Broadcast Use)" id="TVA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="&quot;Home&quot; 2012 English w/o MFF End Card SD/HD" code="KOLPT230019 / KOLPT230019H" length=":30" exp_broadcast="N/A" exp_in_venue="06/13/2013" exp_internet="06/13/2013" file="media/assets/holiday/KOLPT230019H.flv" />
+        <item kind="video" title="“Sense” 2012 English w/o MFF End Card SD/HD" code="KOLPT230025 / KOLPT230025H" length=":30" exp_broadcast="N/A" exp_in_venue="6/4/2014" exp_internet="2/20/2013" file="media/assets/holiday/KOLPT230025H.flv" />
+        <item kind="video" title="“Snow Globe – Piano – Something in the Air” SD/HD" code="KOCLT230253 / KOCLT230253H" length=":30" exp_broadcast="N/A" exp_in_venue="2/20/2013" exp_internet="12/27/2012" file="media/assets/holiday/KOCLT230253H.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+Ads can only run in non-broadcast venues (In-Venue, In-Store, In-Restaurant, Kiosks, Tradeshows, In-Flight, Cinema, Internal/External meetings) and Internet at no additional costs.
+
+NOTE: For Non-Broadcast, TV ads should be used when both video and audio capabilities are available. </text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|non_broadcast_form_bottlers" &gt;/ Non-Broadcast Use&lt;/a&gt;
+&lt;a href="event:link|internet_use_form_tv" &gt;/ Internet Use&lt;/a&gt;
+
+Limited to 1 copy of each spot per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department 
+is fully responsible for any talent fees, licensing fees, or other charges 
+incurred as a result of any use outside the permitted scope or time period 
+set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Ads-->
+    <screen title="Radio Ads" id="RAA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="audio" title="Santa Sip Stealer" code="KOCLR063588" length=":60" exp_broadcast="7/23/2014" exp_in_venue="7/23/2014" exp_internet="1/4/2013" file="media/assets/holiday/KOCLR063588.mp3" />
+        <item kind="audio" title="Santa Sip Stealer" code="KOCLR033587" length=":30" exp_broadcast="7/23/2014" exp_in_venue="7/23/2014" exp_internet="1/4/2013" file="media/assets/holiday/KOCLR033587.mp3" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These Radio Ads are approved for broadcast, non-broadcast/industrial, 
+and internet/streaming use.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for Radio spots:
+
+&lt;a href="event:link|radio-individuals_form" &gt;/ Radio - Individual Stations&lt;/a&gt; (broadcast from individual stations)
+
+&lt;a href="event:link|radio-network_form" &gt;/ Radio - Network&lt;/a&gt; (broadcast from single location to multiple stations)
+
+&lt;a href="event:link|non_broadcast_form" &gt;/ Radio - Non-Broadcast Use&lt;/a&gt; (for non-broadcast only - (In-Venue, In-Store, Internal/External meetings, Tradeshows)
+
+&lt;a href="event:link|internet_use_form_radio" &gt;/ Radio - Internet Use&lt;/a&gt; (internet/streaming)</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge 
+that your department is fully responsible for any 
+talent fees, licensing fees, or other charges incurred 
+as a result of any use outside the permitted scope or 
+time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--RADIO SCRIPTS-->
+    <!--Arctic Home Customer Sell-In-->
+    <screen title="Arctic Home Customer Sell-In" id="AHC" group="Radio Script Templates">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY&#xD;&#xA;USE DATES: 11/1/12 - 12-25-12">
+        <!--Arctic Home Customer Sell-In Live Read Templates-->
+        <!--* Local Radio Generic Retailer-->
+        <item kind="script" id="KOCLY230189" code="KOCLY230189" language="English" length=":30" group="Arctic Home Customer Sell-In Live Read Templates" subgroup="Local Radio Generic Retailer">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coca-Cola has created special edition Arctic Home polar bear cans.  Join us in our efforts and stop by your favorite store, look for the limited edition cans and learn how to make a donation. Together we can help protect the polar bear. Visit ArcticHome.com for more information.</text>
+        </item>
+        <!--* Local Radio Retailer Only-->
+        <item kind="script" id="KOCLY230190" code="KOCLY230190" language="English" length=":30" subgroup="Local Radio Retailer Only">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coca-Cola has created special edition Arctic Home polar bear cans.  Join us in this Arctic Home initiative and stop by your neighborhood {{[RETAILER]}}.  Look for specially marked Coca-Cola packages and special edition Coca-Cola Arctic Home polar bear cans to learn how to make a donation. Together we can help protect the polar bear. Visit ArcticHome.com for more information.</text>
+        </item>
+        <item kind="script" id="KOCLY220191" code="KOCLY220191" language="English" length=":20" subgroup="Local Radio Retailer Only">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coca-Cola has created special edition Arctic Home polar bear cans.  Join us in this initiative. Stop by your neighborhood {{[RETAILER]}} and look for the special edition cans to learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <item kind="script" id="KOCLY250192" code="KOCLY250192" language="English" length=":15" subgroup="Local Radio Retailer Only">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans. So stop by {{[RETAILER]}}, look for the special edition cans and learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <!--* Retailer and Package / Non-Can-->
+        <item kind="script" id="KOCLY230193" code="KOCLY230193" language="English" length=":30" subgroup="Retailer and Package / Non-Can">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. With your help, we can raise awareness and support for this effort. So join us in our efforts and stop by your neighborhood {{[RETAILER]}}, look for the specially marked Coca-Cola {{[PROMO SIZE]}} and learn how to make a donation. Together we can help protect the polar bear. Visit ArcticHome.com for more information.</text>
+        </item>
+        <item kind="script" id="KOCLY220194" code="KOCLY220194" language="English" length=":20">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. With your help, we can raise awareness and support for this effort. So join us in our effort and stop by your neighborhood {{[RETAILER]}}, look for the specially marked Coca-Cola {{[PROMO SIZE]}} and learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <item kind="script" id="KOCLY250195" code="KOCLY250195" language="English" length=":15">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. With your help, we can raise awareness and support for this effort. Join us in this initiative and stop by {{[RETAILER]}}, look for the specially marked Coca-Cola {{[PROMO SIZE]}} and learn how to make a donation.</text>
+        </item>
+        <!--* Retailer and Package / Can-->
+        <item kind="script" id="KOCLY230196" code="KOCLY230196" language="English" length=":30" subgroup="Retailer and Package / Can">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coca-Cola has created special edition Arctic Home polar bear cans.  Join us in this initiative. Stop by your neighborhood {{[RETAILER]}} and look for the special edition Coca-Cola {{[PROMO SIZE]}} to learn how to make a donation. Together we can help protect the polar bear. Visit ArcticHome.com for more information.</text>
+        </item>
+        <item kind="script" id="KOCLY220197" code="KOCLY220197" language="English" length=":20">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans.  Join us in this initiative. Stop by your neighborhood {{[RETAILER]}} and look for the special edition Coca-Cola {{[PROMO SIZE]}} to learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <item kind="script" id="KOCLY250198" code="KOCLY250198" language="English" length=":15">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans.  So stop by {{[RETAILER]}} , look for the special edition Coca-Cola {{[PROMO SIZE]}} and learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <!--* Retailer, Package and Price / Non-Can-->
+        <item kind="script" id="KOCLY230199" code="KOCLY230199" language="English" length=":30" subgroup="Retailer, Package and Price / Non-Can">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. With your help, we can raise awareness and support for this effort. So join us in this initiative and stop by your neighborhood {{[RETAILER]}}, look for the specially marked Coca-Cola {{[PROMO SIZE]}} for just {{[PRICE]}} and learn how to make a donation. Together we can help protect the polar bear. Visit ArcticHome.com for more information.</text>
+        </item>
+        <item kind="script" id="KOCLY220200" code="KOCLY220200" language="English" length=":20">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. With your help, we can raise awareness and support for this effort. So join us in this initiative and stop by {{[RETAILER]}}, look for the specially marked Coca-Cola {{[PROMO SIZE]}} for just {{[PRICE]}} and learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <item kind="script" id="KOCLY250201" code="KOCLY250201" language="English" length=":15">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. With your help, we can raise awareness and support for this effort. Join us in this initiative. Stop by {{[RETAILER]}} and look for the specially marked Coca-Cola {{[PROMO SIZE]}} for just {{[PRICE]}} to learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <!--* Retailer, Package and Price / Can-->
+        <item kind="script" id="KOCLY230202" code="KOCLY230202" language="English" length=":30" subgroup="Retailer, Package and Price / Can">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coca-Cola has created special edition Arctic Home polar bear cans.  Join us in this Arctic Home initiative. Stop by your neighborhood {{[RETAILER]}} and look for the special edition {{[PACKAGE SIZE]}} for just {{[PRICE]}} to learn how to make a donation. Together we can help protect the polar bear. Visit ArcticHome.com for more information.</text>
+        </item>
+        <item kind="script" id="KOCLY220203" code="KOCLY220203" language="English" length=":20">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coca-Cola has created special edition Arctic Home polar bear cans.  Join us in this Arctic Home initiative. Stop by {{[RETAILER]}} and look for the special edition {{[PACKAGE SIZE]}} for just {{[PRICE]}} to learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <item kind="script" id="KOCLY250204" code="KOCLY250204" language="English" length=":15">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans.   So stop by {{[RETAILER]}} , look for the special edition {{[PACKAGE SIZE]}} for just {{[PRICE]}} to learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <!--* Retailer and Offer / Promo-->
+        <item kind="script" id="KOCLY230205" code="KOCLY230205" language="English" length=":30" subgroup="Retailer and Offer / Promo">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coca-Cola has created special edition Arctic Home polar bear cans.  Join us in this Arctic Home initiative. Stop by your neighborhood {{[RETAILER]}} to {{[OFFER/PROMO]}} to learn how to make a donation. Together we can help protect the polar bear. Visit ArcticHome.com for more information.</text>
+        </item>
+        <item kind="script" id="KOCLY220206" code="KOCLY220206" language="English" length=":20">
+          <text>This holiday season, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans.  Join us in this Arctic Home initiative. Stop by your neighborhood {{[RETAILER]}} to {{[OFFER/PROMO]}} to learn how to make a donation. Together we can help protect the polar bear.</text>
+        </item>
+        <item kind="script" id="KOCLY250207" code="KOCLY250207" language="English" length=":15">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans.  So stop by {{[RETAILER]}} to {{[OFFER/PROMO]}}. Together we can help protect the polar bear.</text>
+        </item>
+        <!--* Brought to You By-->
+        <item kind="script" id="KOCLY210208" code="KOCLY210208" language="English" length=":10" subgroup="Brought to You By">
+          <text>This holiday season, help protect the polar bear. Pick up the special edition Coca-Cola polar bear cans and learn how to make a donation. Brought to you by Coca-Cola Arctic Home.</text>
+        </item>
+        <item kind="script" id="KOCLY200209" code="KOCLY200209" language="English" length=":05">
+          <text>Pick up the special edition Coca-Cola cans. Brought to you by Coca-Cola Arctic Home.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY&#xD;&#xA;USE DATES: 11/1/12 - 12-25-12">
+        <!--Arctic Home Customer Sell-In Live Read Templates-->
+        <!--* Local Radio Generic Retailer-->
+        <item kind="script" id="KOCLS230199" code="KOCLS230199" language="Spanish" length=":30" group="Arctic Home Customer Sell-In Live Read Templates" subgroup="Local Radio Generic Retailer">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para crear conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a nuestro esfuerzo, ve a tu tienda favorita y busca las latas de esta edición limitada para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares. Visita ArcticHome.com para más información.</text>
+        </item>
+        <!--* Local Radio Retailer Only-->
+        <item kind="script" id="KOCLS230200" code="KOCLS230200" language="Spanish" length=":30" subgroup="Local Radio Retailer Only">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a esta causa, ve a tu {{[RETAILER]}} más cercano y busca los paquetes especialmente marcados de Coca-Cola y la edición limitada del oso polar del ártico para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares. Visita ArcticHome.com para más información.</text>
+        </item>
+        <item kind="script" id="KOCLS220201" code="KOCLS220201" language="Spanish" length=":20" subgroup="Local Radio Retailer Only">
+          <text>En esta Navidad Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a esta causa, ve a tu {{[RETAILER]}} más cercano y busca las latas de esta edición limitada para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares.</text>
+        </item>
+        <item kind="script" id="KOCLS250202" code="KOCLS250202" language="Spanish" length=":15" subgroup="Local Radio Retailer Only">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Ve a tu {{[RETAILER]}} más cercano y busca las latas de esta edición limitada para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares.</text>
+        </item>
+        <!--* Retailer and Package / Non-Can-->
+        <item kind="script" id="KOCLS230203" code="KOCLS230203" language="Spanish" length=":30" subgroup="Retailer and Package / Non-Can">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Con tu ayuda, podemos generar conciencia y apoyo a esta causa. Para unirte a nuestros esfuerzos, ve a tu {{[RETAILER]}} más cercano y busca {{[PROMO SIZE]}} de Coca-Cola especialmente marcado para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares. Visita ArcticHome.com para más información.</text>
+        </item>
+        <item kind="script" id="KOCLS220204" code="KOCLS220204" language="Spanish" length=":20">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Con tu ayuda, podemos generar conciencia y apoyo a esta causa. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano y busca {{[PROMO SIZE]}} de Coca-Cola especialmente marcado para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares.</text>
+        </item>
+        <item kind="script" id="KOCLS250205" code="KOCLS250205" language="Spanish" length=":15">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Con tu ayuda, podemos generar conciencia y apoyo a esta causa. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano y busca {{[PROMO SIZE]}} de Coca-Cola especialmente marcado para conocer cómo hacer una donación.</text>
+        </item>
+        <!--* Retailer and Package / Can-->
+        <item kind="script" id="KOCLS230206" code="KOCLS230206" language="Spanish" length=":30" subgroup="Retailer and Package / Can">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano y busca la edición especial de Coca-Cola de {{[PROMO SIZE]}} para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares. Visita ArcticHome.com para más información.</text>
+        </item>
+        <item kind="script" id="KOCLS220207" code="KOCLS220207" language="Spanish" length=":20">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a esta causa, ve a tu {{[RETAILER]}} más cercano y busca la edición especial de Coca-Cola de {{[PROMO SIZE]}} para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares.</text>
+        </item>
+        <item kind="script" id="KOCLS250208" code="KOCLS250208" language="Spanish" length=":15">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Acércate a tu {{[RETAILER]}} más cercano y busca la edición especial de Coca-Cola de {{[PROMO SIZE]}} para conocer cómo hacer una donación. Juntos podemos ayudar a proteger a los osos polares.</text>
+        </item>
+        <!--* Retailer, Package and Price / Non-Can-->
+        <item kind="script" id="KOCLS230209" code="KOCLS230209" language="Spanish" length=":30" subgroup="Retailer, Package and Price / Non-Can">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Con tu ayuda, podemos generar conciencia y apoyo a esta causa. Para unirte a nuestros esfuerzos, ve a tu {{[RETAILER]}} más cercano y busca {{[PROMO SIZE]}} de Coca-Cola especialmente marcado para enterarte cómo hacer una donación a sólo {{[PRICE]}} para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares. Visita ArcticHome.com para más información.</text>
+        </item>
+        <item kind="script" id="KOCLS220210" code="KOCLS220210" language="Spanish" length=":20">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Con tu ayuda, podemos generar conciencia y apoyo a esta causa. Para unirte a nuestros esfuerzos, ve a tu {{[RETAILER]}} más cercano y busca las Coca-Colas con la edición especial de {{[PROMO SIZE]}} a sólo {{[PRICE]}} para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares.</text>
+        </item>
+        <item kind="script" id="KOCLS250211" code="KOCLS250211" language="Spanish" length=":15">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Con tu ayuda, podemos generar conciencia y apoyo a esta causa. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano y busca {{[PROMO SIZE]}} de Coca-Cola especialmente marcado para conocer cómo hacer una donación a sólo {{[PRICE]}} para enterarte cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares.</text>
+        </item>
+        <!--* Retailer, Package and Price / Can-->
+        <item kind="script" id="KOCLS230212" code="KOCLS230212" language="Spanish" length=":30" subgroup="Retailer, Package and Price / Can">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano y busca la edición especial de Coca-Cola de {{[PROMO SIZE]}} a sólo {{[PRICE]}} para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares. Visita ArcticHome.com para más información.</text>
+        </item>
+        <item kind="script" id="KOCLS220213" code="KOCLS220213" language="Spanish" length=":20">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano y busca la edición especial de Coca-Cola de {{[PROMO SIZE]}} a sólo {{[PRICE]}} para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares.</text>
+        </item>
+        <item kind="script" id="KOCLS250214" code="KOCLS250214" language="Spanish" length=":15">
+          <text>Esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Ve a tu {{[RETAILER]}} más cercano y busca la edición especial de Coca-Cola de {{[PROMO SIZE]}} a sólo {{[PRICE]}} para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares.</text>
+        </item>
+        <!--* Retailer and Offer / Promo-->
+        <item kind="script" id="KOCLS230215" code="KOCLS230215" language="Spanish" length=":30" subgroup="Retailer and Offer / Promo">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano para {{[OFFER/PROMO]}} y para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares. Visita ArcticHome.com para más información.</text>
+        </item>
+        <item kind="script" id="KOCLS220216" code="KOCLS220216" language="Spanish" length=":20">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Para unirte a nuestro esfuerzo, ve a tu {{[RETAILER]}} más cercano para {{[OFFER/PROMO]}} y para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares.</text>
+        </item>
+        <item kind="script" id="KOCLS250217" code="KOCLS250217" language="Spanish" length=":15">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del ártico. Acércate a {{[RETAILER]}} para {{[OFFER/PROMO]}}. Juntos podremos ayudar a proteger a los osos polares.</text>
+        </item>
+        <!--* Brought to You By-->
+        <item kind="script" id="KOCLS210218" code="KOCLS210218" language="Spanish" length=":10" subgroup="Brought to You By">
+          <text>En esta Navidad, puedes ayudar a proteger a los osos polares. Lleva las latas de Coca-Cola con la edición limitada del oso polar para conocer cómo hacer una donación. Una iniciativa de Coca-Cola Arctic Home.</text>
+        </item>
+        <item kind="script" id="KOCLS200219" code="KOCLS200219" language="Spanish" length=":05">
+          <text>Lleva las latas de Coca-Cola con la edición limitada del oso polar. Una iniciativa de Coca-Cola Arctic Home.</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval. 
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Arctic Home Van Hits and Remotes-->
+    <screen title="Arctic Home Van Hits and Remotes" id="AHV" group="Radio Script Templates">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="TEMPLATES AND COPY POINTS&#xD;&#xA;USE DATES: 11/1/12 - 12-25-12">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLY230211" code="KOCLY230211" language="English" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans. Stop by {{[RETAILER]}}’s grand opening {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} and check it out. While you’re there, join in the initiative, look for the special edition Arctic Home polar bear cans to learn how to make a donation. See you {{[DAY]}} from {{[TIME]}} to {{[TIME]}} at {{[RETAILER]}} with Coca-Cola and {{[STATION]}}. Together we can help protect the polar bear. And don’t forget to enter for a chance to win {{[ASSET]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY250212" code="KOCLY250212" language="English" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear Stop by {{[RETAILER]}}’s grand opening {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} to learn how to make a donation.  And while you’re there, enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY210213" code="KOCLY210213" language="English" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>{{[STATION]}} and Coca-Cola will be at {{[RETAILER]}}’s grand opening {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}}. Come on down and join us.</text>
+        </item>
+        <item kind="script" id="KOCLY260210" code="KOCLY260210 - Copy Points" language="English" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* We’re at {{[RETAILER]}}’s grand opening {{[ADDRESS]}} today from {{[TIME]}} to {{[TIME]}}. Stop by and enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}. **
+
+* This holiday season, Coca-Cola and World Wildlife Fund are inviting you to join in Year 2 of their Arctic Home effort to help protect the polar bear
+
+* Coca-Cola is raising funds to help protect the polar bear. Coca-Cola will match each donation made to WWF up to $1 million. Donations must be made by February 15, 2013. **
+
+* Coca-Cola has created special edition Arctic Home polar bear cans to raise awareness to help protect the polar bear’s Arctic habitat. **
+
+* To join in the initiative be sure to look for the special edition Arctic Home polar bear cans to learn how to make a donation to help protect the polar bear. **
+
+* You can also join in by texting BEAR to 357357 or visiting ArcticHome.com, where you can donate to WWF and help protect the polar bear. **
+
+* Visit ArcticHome.com for more information. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing-->
+        <item kind="script" id="KOCLY230215" code="KOCLY230215" language="English" length=":30" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans.  Stop by {{[RETAILER]}} {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} and check it out. While you’re there, join in the Arctic Home initiative and look for the special edition Coca-Cola {{[PROMO SIZE]}} for just {{[PRICE]}} to learn how to make a donation. See you {{[DAY]}} from {{[TIME]}} to {{[TIME]}} at {{[RETAILER]}}, with Coca-Cola and {{[STATION]}}. And don’t forget to enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY250216" code="KOCLY250216" language="English" length=":15" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear’s Arctic habitat. Stop by {{[RETAILER]}} {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} to look for the special edition Coca-Cola {{[PROMO SIZE]}} for just {{[PRICE]}} and learn how to make a donation. And while you’re there, enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY210217" code="KOCLY210217" language="English" length=":10" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>{{[STATION]}} and Coca-Cola will be at {{[RETAILER]}} {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}}. Come on down and join us.</text>
+        </item>
+        <item kind="script" id="KOCLY260214" code="KOCLY260214 - Copy Points" language="English" length=":60" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>* We’re at {{[RETAILER]}}, {{[ADDRESS]}} today from {{[TIME]}} to {{[TIME]}}. Stop by and stock up on {{[PRODUCT]}} for just {{[PRICE]}}. And don’t forget to enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}. **
+
+* This holiday season, Coca-Cola and World Wildlife Fund are inviting you to join in Year 2 of their Arctic Home effort to help protect the polar bear. **
+
+* Coca-Cola is raising funds to help protect the polar bear. Coca-Cola will match each donation made to WWF up to $1 million. Donations must be made by February 15, 2013. **
+
+* Coca-Cola has created special edition Arctic Home polar bear cans to raise awareness and support to help protect the polar bear’s Arctic habitat. **
+
+* To join in the initiative be sure to look for the special edition Arctic Home polar bear cans to learn how to make a donation to help protect the polar bear. **
+
+* You can also join in by texting BEAR to 357357 or visiting ArcticHome.com, where you can donate to WWF and help protect the polar bear. **
+
+* Visit ArcticHome.com for more information. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Event Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLY230219" code="KOCLY230219" language="English" length=":30" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans.  Stop by {{[RETAILER]}}’s grand opening {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} and check it out. While you’re there, join in the initiative and look for the special edition Arctic Home polar bear cans to learn how to make a donation. See you at {{[EVENT]}}, {{[DAY]}} from {{[TIME]}} to {{[TIME]}} with Coca-Cola and {{[STATION]}}. Together we can help protect the polar bear. Don’t forget to enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY250220" code="KOCLY250220" language="English" length=":15" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. Stop by {{[RETAILER]}}’s grand opening {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} to learn how to make a donation. And while you’re there, enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}.  {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY210221" code="KOCLY210221" language="English" length=":10" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>{{[STATION]}} and Coca-Cola will be at {{[EVENT]}} at {{[LOCATION]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}}. Come on down and join us.</text>
+        </item>
+        <item kind="script" id="KOCLY260218" code="KOCLY260218 - Copy Points" language="English" length=":60" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>* We’re at {{[EVENT]}}, {{[LOCATION]}} today from {{[TIME]}} to {{[TIME]}}. Stop by and enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.
+
+* This holiday season, Coca-Cola and World Wildlife Fund are inviting you to join in Year 2 of their Arctic Home effort to help protect the polar bear. **
+
+* Coca-Cola is raising funds to help protect the polar bear. Coca-Cola will match each donation made to WWF up to $1 million. Donations must be made by February 15, 2013. **
+
+* Coca-Cola has created special edition Arctic Home polar bear cans to raise awareness and support to help protect the polar bear’s Arctic habitat. **
+
+* To join in the initiative be sure to look for the special edition Arctic Home polar bear cans to learn how to make a donation to help protect the polar bear. **
+
+* You can also join in by texting BEAR to 357357 or visiting ArcticHome.com, where you can donate to WWF and help protect the polar bear. **
+
+* Visit ArcticHome.com for more information. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLY230223" code="KOCLY230223" language="English" length=":30" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. To raise awareness and support for this effort, Coke has created special edition Arctic Home polar bear cans. Stop by {{[RETAILER]}}’s grand opening {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} and check it out. While you’re there, join in the initiative and look for the special edition Arctic Home polar bear cans to learn how to make a donation. Together we can help protect the polar bear. And don’t forget to enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY250224" code="KOCLY250224" language="English" length=":15">
+          <text>This holiday, Coca-Cola is once again partnering with World Wildlife Fund to help protect the polar bear. Stop by {{[RETAILER]}}’s grand opening {{[ADDRESS]}} {{[DAY]}} {{[DATE]}} from {{[TIME]}} to {{[TIME]}} to learn how to make a donation. And while you’re there, enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY210225" code="KOCLY210225" language="English" length=":10">
+          <text>{{[STATION]}} and Coca-Cola will be at {{[RETAILER]}}, {{[ADDRESS]}}, {{[DAY]}} {{[DATE]}} {{[TIME]}} to {{[TIME]}}. Come on down and join us.</text>
+        </item>
+        <item kind="script" id="KOCLY260222" code="KOCLY260222 - Copy Points" language="English" length=":60">
+          <text>* We’re at {{[RETAILER]}}, {{[ADDRESS]}} today from {{[TIME]}} to {{[TIME]}}. Stop by and enter for a chance to win {{[ASSET]}} from {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}. **
+
+* This holiday season, Coca-Cola and World Wildlife Fund are inviting you to join in Year 2 of their Arctic Home effort to help protect the polar bear. **
+
+* Coca-Cola is raising funds to help protect the polar bear. Coca-Cola will match each donation made to WWF up to $1 million. Donations must be made by February 15, 2013. **
+
+* Coca-Cola has created special edition Arctic Home polar bear cans to raise awareness and support to help protect the polar bear’s Arctic habitat. **
+
+* To join in the initiative be sure to look for the special edition Arctic Home polar bear cans to learn how to make a donation to help protect the polar bear. **
+
+* You can also join in by texting BEAR to 357357 or visiting ArcticHome.com, where you can donate to WWF and help protect the polar bear. **
+
+* Visit ArcticHome.com for more information. **
+</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="TEMPLATES AND COPY POINTS&#xD;&#xA;USE DATES: 11/1/12 - 12-25-12">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLS230221" code="KOCLS230221" language="Spanish" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico. Acércate a la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}, para obtener más información. Una vez allí, únete a la iniciativa y busca la edición especial de latas con el oso polar del Ártico para conocer cómo hacer una donación. Te esperamos el día {{[DAY]}} de {{[TIME]}} a {{[TIME]}} en {{[RETAILER]}} con Coca-Cola y {{[STATION]}}. Juntos podemos ayudar a proteger a los osos polares. Y no olvides participar port u oportunidad de ganar {{[ASSET]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLS250222" code="KOCLS250222" language="Spanish" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Acércate a la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}} para conocer cómo hacer una donación. Una vez allí, participa por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER].</text>
+        </item>
+        <item kind="script" id="KOCLS210223" code="KOCLS210223" language="Spanish" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>{{[STATION]}} y Coca-Cola estarán presentes en la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}. Acércate y únete a nosotros.</text>
+        </item>
+        <item kind="script" id="KOCLS260220" code="KOCLS260220 - Copy Points" language="Spanish" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* Estaremos hoy en la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, de {{[TIME]}} a {{[TIME]}}. Ven a participar; puedes ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}. **
+
+* En esta Navidad, Coca-Cola y “World Wildlife Fund” te invitan a participar en el segundo año de la iniciativa destinada a proteger el hábitat de los osos polares del Ártico. **
+
+* Coca-Cola está recaudando fondos para ayudar a proteger a los osos polares. Por cada donación que se haga, Coca-Cola aportará un monto equivalente a WWF, hasta un máximo de $1 millón. Las donaciones deben realizarse hasta el 15 de febrero de 2013. **
+
+* Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico para concientizar y ayudar a proteger su hábitat en el ártico. **
+
+* Para unirte a esta iniciativa, busca la edición especial de latas con el oso polar del Ártico y conoce cómo hacer una donación para ayudar a proteger a los osos polares. **
+
+* También puedes enviar un mensaje de texto con la palabra BEAR al 357357 o visitar ArcticHome.com, donde podrás realizar una donación a WWF y ayudar a proteger a los osos polares. **
+
+* Visita ArcticHome.com para más información. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing-->
+        <item kind="script" id="KOCLS230225" code="KOCLS230225" language="Spanish" length=":30" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico. Acércate a {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}} para obtener más información. Una vez allí, únete a la iniciativa Arctic Home y busca la edición especial de latas de Coca-Cola de {{[PROMO SIZE]}} por sólo {{[PRICE]}} para conocer cómo hacer una donación. Te esperamos el día {{[DAY]}} de {{[TIME]}} a {{[TIME]}} en {{[RETAILER]}} con Coca-Cola y {{[STATION]}}. Y no olvides participar por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLS250226" code="KOCLS250226" language="Spanish" length=":15" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>En esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger el hábitat de los osos polares. Acércate a {{[RETAILER]}}, en {{[ADDRESS]}} , el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}} y busca la edición especial de Coca-Cola {{[PROMO SIZE]}} por sólo {{[PRICE]}} para conocer cómo hacer una donación. Y mientras estés allí, participa por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLS210227" code="KOCLS210227" language="Spanish" length=":10" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>{{[STATION]}} y Coca-Cola estarán presentes en {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}. Acércate y únete a nosotros.</text>
+        </item>
+        <item kind="script" id="KOCLS260224" code="KOCLS260224 - Copy Points" language="Spanish" length=":60" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>* Hoy estamos en la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, de {{[TIME]}} a {{[TIME]}}. Ven y lleva {{[PRODUCT]}} a sólo {{[PRICE]}}. Y no olvides participar por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}. **
+
+* En esta Navidad, Coca-Cola y “World Wildlife Fund” te invitan a participar en el segundo año de la iniciativa destinada a proteger el hábitat de los osos polares del Ártico. **
+
+* Coca-Cola está recaudando fondos para ayudar a proteger a los osos polares. Por cada donación que se haga, Coca-Cola aportará un monto equivalente a WWF, hasta un máximo de $1 millón. Las donaciones deben realizarse hasta el 15 de febrero de 2013. **
+
+* Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico para crear conciencia y ayudar a proteger el hábitat de los osos polares del Ártico. **
+
+* Para unirte a esta iniciativa, y busca la edición especial de latas con el oso polar del Ártico y conoce cómo hacer una donación para ayudar a proteger a los osos polares. **
+
+* También puedes enviar un mensaje de texto con la palabra BEAR al 357357 o visitar ArcticHome.com, donde podrás realizar una donación a WWF y ayudar a proteger a los osos polares. **
+
+* Visita ArcticHome.com para más información. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Event Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLS230229" code="KOCLS230229" language="Spanish" length=":30" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>Esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico. Acércate a la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}, para obtener más información. Una vez allí, únete a la iniciativa y busca la edición especial de latas con del oso polar para conocer cómo hacer una donación. Te esperamos en {{[EVENT]}}, el día {{[DAY]}} de {{[TIME]}} a {{[TIME]}} con Coca-Cola y {{[STATION]}}. Juntos podemos ayudar a proteger a los osos polares. No olvides participar por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLS250230" code="KOCLS250230" language="Spanish" length=":15" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>Esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Acércate a la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}, para conocer cómo hacer una donación. Y mientras estés allí, participa por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLS210231" code="KOCLS210231" language="Spanish" length=":10" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>{{[STATION]}} y Coca-Cola estarán en {{[EVENT]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}. Acércate y únete a nosotros.</text>
+        </item>
+        <item kind="script" id="KOCLS260228" code="KOCLS260228 - Copy Points" language="Spanish" length=":60" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>* Hoy estamos en {{[EVENT]}}, en {{[LOCATION]}}, de {{[TIME]}} a {{[TIME]}}. Acércate y participa por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}. **
+
+* En esta Navidad, Coca-Cola y “World Wildlife Fund” te invitan a participar en el segundo año de la iniciativa destinada a proteger el hábitat de los osos polares del Ártico. **
+
+* Coca-Cola está recaudando fondos para ayudar a proteger a los osos polares. Por cada donación que se haga, Coca-Cola aportará un monto equivalente a WWF, hasta un máximo de $1 millón. Las donaciones deben realizarse hasta el 15 de febrero de 2013. **
+
+* Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico para crear conciencia y ayudar a proteger el hábitat de los osos polares del Ártico. **
+
+* Para unirte a esta iniciativa, busca la edición especial de latas con del oso polar y conoce cómo hacer una donación para ayudar a proteger a los osos polares. **
+
+* También puedes enviar un mensaje de texto con la palabra BEAR al 357357 o visitar ArcticHome.com, donde podrás realizar una donación a WWF y ayudar a proteger a los osos polares. **
+
+* Visita ArcticHome.com para más información. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLS230233" code="KOCLS230233" language="Spanish" length=":30" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>Esta Navidad, Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger a los osos polares. Para generar conciencia y apoyo a esta causa, Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico. Acércate a {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}} para obtener más información. Una vez allí, únete a la iniciativa y busca la edición especial de latas del oso polar para conocer cómo hacer una donación. Juntos podremos ayudar a proteger a los osos polares. Y no olvides participar por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLS250234" code="KOCLS250234" language="Spanish" length=":15">
+          <text>Es época de Navidad, y Coca-Cola se asocia una vez más con “World Wildlife Fund” para ayudar a proteger al oso polar. Acércate a la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}, para conocer cómo hacer una donación. Y mientras estés allí, participa para adquirir una posibilidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}.</text>
+        </item>
+        <item kind="script" id="KOCLS210235" code="KOCLS210235" language="Spanish" length=":10">
+          <text>{{[STATION]}} y Coca-Cola estarán presentes en {{[RETAILER]}}, en {{[ADDRESS]}}, el día {{[DAY]}} {{[DATE]}} de {{[TIME]}} a {{[TIME]}}. Acércate y únete a nosotros.</text>
+        </item>
+        <item kind="script" id="KOCLS260232" code="KOCLS260232 - Copy Points" language="Spanish" length=":60">
+          <text>* Hoy estamos en la inauguración de {{[RETAILER]}}, en {{[ADDRESS]}}, de {{[TIME]}} a {{[TIME]}}. Acércate y participa por tu oportunidad de ganar {{[ASSET]}} de {{[IDENTIFY STATION AND/OR RETAILER]}}. {{[LEGAL/DISCLOSURE/RULES COPY TO BE PROVIDED BY STATIONS, RETAILERS OR INITIATIVE OWNER]}}. **
+
+* Esta Navidad, Coca-Cola y “World Wildlife Fund” te invitan a participar en el segundo año de la iniciativa destinada a proteger el hábitat de los osos polares del Ártico. **
+
+* Coca-Cola está recaudando fondos para ayudar a proteger al oso polar. Por cada donación que se haga, Coca-Cola aportará un monto equivalente a WWF, hasta un máximo de $1 millón. Las donaciones deben realizarse hasta el 15 de febrero de 2013. **
+
+* Coca-Cola ha creado una edición limitada de latas con el oso polar del Ártico para crear conciencia y ayudar a proteger el hábitat de los osos polares del Ártico. **
+
+* Para unirte a esta iniciativa, busca las la edición especial de latas con del oso polar y conoce cómo hacer una donación para ayudar a proteger a los osos polares. **
+
+* También puedes enviar un mensaje de texto con la palabra BEAR al 357357 o visitar ArcticHome.com, donde podrás realizar una donación a WWF y ayudar a proteger a los osos polares. **
+
+* Visita ArcticHome.com para más información. **
+</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates and copy points provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  Please contact your station rep specific to this event for exact giveaway/package/pricing.
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Holiday / Sip Stealer-->
+    <screen title="Holiday / Sip Stealer" id="HSS" group="Radio Script Templates">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="USE DATES: 11/1/12 - 12-25-12">
+        <!--Holiday / Sip Stealer Customer Sell-In-->
+        <!--* Local Radio Retailer Only-->
+        <item kind="script" id="KOCLY230227" code="KOCLY230227" language="English" length=":30" group="Holiday / Sip Stealer Customer Sell-In" subgroup="Local Radio Retailer Only">
+          <text>You can almost feel it in the air. Like a party and everyone’s invited. Happiness is what holidays are all about. So as you’re running around shopping, cooking, decorating – all the big things you do to make your family happy – remember to enjoy a little thing you all can share right now. Stop by your nearby {{[RETAILER]}} and pick up some Coca-Cola. Open it and watch the faces in your house light up. What better way to decorate for the holidays? Coca- Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220226" code="KOCLY220226" language="English" length=":20">
+          <text>Helping Santa? Aren’t you thoughtful? Then again, stopping by your local {{[RETAILER]}} and picking up some delicious Coca-Cola for you and your family is more thoughtful still. So thoughtful, in fact, that it just may rocket you to the top of The Nice List. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250228" code="KOCLY250228" language="English" length=":15">
+          <text>Happiness is  what holidays are all about. So as you’re shopping, cooking, doing the big things that make your family happy – do a little thing. Stop by your nearest {{[RETAILER]}} and pick up some Coca-Cola. And watch the faces in your house light up. Coca- Cola. Open Happiness. </text>
+        </item>
+        <!--* Retailer and Package-->
+        <item kind="script" id="KOCLY230230" code="KOCLY230230" language="English" length=":30" subgroup="Retailer and Package">
+          <text>You can almost feel it in the air. Like a party and everyone’s invited. Happiness is what holidays are all about. So as you’re running around shopping, cooking, decorating – all the big things you do to make your family happy – remember to enjoy a little thing you all can share right now. Stop by your nearby {{[RETAILER]}} and pick up a  {{[PACKAGE]}} of Coca-Cola. And watch the faces in your house light up. What better way to decorate for the holidays? Coca- Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220229" code="KOCLY220229" language="English" length=":20">
+          <text>Helping Santa? Aren’t you thoughtful? Stopping by your local {{[RETAILER]}} and picking up a {{[PACKAGE]}} of delicious Coca-Cola for your family is more thoughtful still. So thoughtful it just may rocket you to the top of The Nice List. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250231" code="KOCLY250231" language="English" length=":15">
+          <text>Happiness is what holidays are all about. So as you’re shopping, cooking, doing the big things that make your family happy – do a little  thing. Stop by your nearest {{[RETAILER]}} and pick up a  {{[PACKAGE]}} of Coca-Cola. And watch the faces in your house light up. Coca- Cola. Open Happiness.</text>
+        </item>
+        <!--* Retailer, Package and Price-->
+        <item kind="script" id="KOCLY230233" code="KOCLY230233" language="English" length=":30" subgroup="Retailer, Package and Price">
+          <text>You can almost feel it in the air. Like a party and everyone’s invited. Happiness is what holidays are all about. So as you’re running around shopping, cooking, decorating – all the big things you do to make your family happy – remember to enjoy a little thing right now. Stop by your nearby {{[RETAILER]}} and pick up a  {{[PACKAGE]}} of Coca-Cola for just {{[PRICE]}}. And watch the faces in your house light up. What better way to decorate for the holidays? Coca- Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220232" code="KOCLY220232" language="English" length=":20">
+          <text>Helping Santa? Aren’t you thoughtful? Stopping by your local {{[RETAILER]}} and picking up a {{[PACKAGE]}} of refreshing Coca-Cola for {{[PRICE]}} for that family of yours is more thoughtful still. So thoughtful it just may rocket you to the top of The Nice List. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250234" code="KOCLY250234" language="English" length=":15">
+          <text>Happiness is what holidays are all about. So as you’re doing all the big things that make your family happy – do a little  thing. Stop by your nearest {{[RETAILER]}} and pick up a  {{[PACKAGE]}} of Coca-Cola for just {{[PRICE]}}. And watch the faces in your house light up. Coca- Cola. Open Happiness.</text>
+        </item>
+        <!--* Generic Retailer-->
+        <item kind="script" id="KOCLY230236" code="KOCLY230236" language="English" length=":30" subgroup="Generic Retailer">
+          <text>You can almost feel it in the air. Like a party and everyone’s invited. Happiness is what holidays are all about. So as you’re running around shopping, cooking, decorating – all the big things you do to make your family happy – remember to enjoy a little  thing right now. Stop by your nearest  store and pick up plenty of refreshing Coca-Cola. And watch the faces in your house light up. What better way to decorate for the holidays? Coca- Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220235" code="KOCLY220235" language="English" length=":20">
+          <text>Helping Santa? Aren’t you thoughtful? Then again, stopping by your nearby convenience store and picking up some refreshing Coca-Cola for that family of yours is more thoughtful still. So thoughtful it just may rocket you to the top of The Nice List. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250237" code="KOCLY250237" language="English" length=":15">
+          <text>Happiness is what holidays are all about. So as you’re shopping, cooking, doing all the big things to make your family happy, do a little  thing. Stop by your nearest store and pick up refreshing Coke. And watch the faces in your house light up. Coca- Cola. Open Happiness.</text>
+        </item>
+        <!--* Brought to You By-->
+        <item kind="script" id="KOCLY210238" code="KOCLY210238" language="English" length=":10" subgroup="Brought to You By">
+          <text>Happiness is what the holidays are all about. Enjoy them with plenty of Coca-Cola and watch your family’s faces light up. Brought to you by Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY200239" code="KOCLY200239" language="English" length=":05">
+          <text>Happiness is what holidays are all about. So share a Coke. Brought to you by Coca-Cola. Open Happiness.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="USE DATES: 11/1/12 - 12-25-12">
+        <!--Holiday / Sip Stealer Customer Sell-In-->
+        <!--* Local Radio Retailer Only-->
+        <item kind="script" id="KOCLS230237" code="KOCLS230237" language="Spanish" length=":30" group="Holiday / Sip Stealer Customer Sell-In" subgroup="Local Radio Retailer Only">
+          <text>Casi puedes sentirlo en el aire. Como una fiesta donde todos están invitados. ¡Sí! Se acercan las fiestas y la felicidad está aquí. Así que mientras corres por todas partes, haciendo las compras, cocinando, decorando y encargándote de todo para hacer feliz a tu familia, también recuerda disfrutar las pequeñas cosas que puedes compartir ahora mismo.  Ve al {{[RETAILER]}} más cercano y lleva Coca-Cola. Destápala y haz sonreír a tu familia. ¡Qué mejor forma de decorar las fiestas! Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS220236" code="KOCLS220236" language="Spanish" length=":20">
+          <text>¿Estás ayudando a Santa? ¡Qué amable de tu parte! Entonces no esperes más, pasa por {{[RETAILER]}} y llévale a tu familia una deliciosa Coca-Cola para compartir. ¡Demuéstrales que siempre piensas en ellos! Este acto de amabilidad te puede llevar a encabezar la lista de favoritos de Santa.  Coca-Cola. Destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="KOCLS250238" code="KOCLS250238" language="Spanish" length=":15">
+          <text>La felicidad es la esencia de las fiestas. Así que mientras corres por todas partes, haciendo las compras, cocinando, y encargándote de todo para hacer feliz a tu familia, no te olvides de un gran detalle. Ve al {{[RETAILER]}} más cercano, lleva Coca-Cola y haz sonreír a tu familia. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <!--* Retailer and Package-->
+        <item kind="script" id="KOCLS230240" code="KOCLS230240" language="Spanish" length=":30" subgroup="Retailer and Package">
+          <text>Casi puedes sentirlo en el aire. Como una fiesta donde todos están invitados. ¡Sí! Se acercan las fiestas y la felicidad está aquí. Así que mientras corres por todas partes, haciendo las compras, cocinando, decorando y encargándote de todo para hacer feliz a tu familia, también recuerda disfrutar las pequeñas cosas que puedes compartir ahora mismo.  Ve al {{[RETAILER]}} más cercano, lleva un {{[PACKAGE]}} de Coca-Cola y haz sonreír a tu familia. ¡Qué mejor forma de decorar las fiestas! Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS220239" code="KOCLS220239" language="Spanish" length=":20">
+          <text>¿Estas ayudando a Santa? ¡Qué amable! Entonces no esperes más, pasa por {{[RETAILER]}} y lleva un {{[PACKAGE]}} de deliciosa Coca-Cola para tu familia. Este acto de amabilidad te puede llevar a encabezar la lista de favoritos de Santa. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250241" code="KOCLS250241" language="Spanish" length=":15">
+          <text>La felicidad es la esencia de las fiestas. Así que mientras corres por todas partes, haciendo las compras, cocinando, y encargándote de todo para hacer feliz a tu familia, no te olvides de un gran detalle. Ve al {{[RETAILER]}} más cercano, lleva un {{[PACKAGE]}} de Coca-Cola y haz sonreír a tu familia.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <!--* Retailer, Package and Price-->
+        <item kind="script" id="KOCLS230243" code="KOCLS230243" language="Spanish" length=":30" subgroup="Retailer, Package and Price">
+          <text>Casi puedes sentirlo en el aire. Como una fiesta donde todos están invitados. ¡Sí! Se acercan las fiestas y la felicidad está aquí. Así que mientras corres por todas partes, haciendo las compras, cocinando, decorando y encargándote de todo para hacer feliz a tu familia, también recuerda disfrutar las pequeñas cosas que puedes compartir ahora mismo.  Ve al {{[RETAILER]}} más cercano, lleva un {{[PACKAGE]}} de Coca-Cola por sólo {{[PRICE]}} y haz sonreír a tu familia. ¡Qué mejor forma de decorar las fiestas! Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS220242" code="KOCLS220242" language="Spanish" length=":20">
+          <text>¿Estás ayudando a Santa? ¡Qué amable de tu parte! Entonces no esperes más, pasa por {{[RETAILER]}} y llévale a tu familia un {{[PACKAGE]}} de deliciosa Coca-Cola para compartir a sólo {{[PRICE]}}. ¡Demuéstrales que siempre piensas en ellos! Este acto de amabilidad te puede llevar a encabezar la lista de favoritos de Santa. Coca-Cola. Destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="KOCLS250244" code="KOCLS250244" language="Spanish" length=":15">
+          <text>La felicidad es la esencia de las fiestas. Así que mientras te encargas de todo para hacer feliz a tu familia, no te olvides de un gran detalle. Ve al {{[RETAILER]}} más cercano, lleva un {{[PACKAGE]}} de Coca-Cola por sólo {{[PRICE]}} y haz sonreír a tu familia. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <!--* Generic Retailer-->
+        <item kind="script" id="KOCLS230246" code="KOCLS230246" language="Spanish" length=":30" subgroup="Generic Retailer">
+          <text>Casi puedes sentirlo en el aire. Como una fiesta donde todos están invitados. ¡Sí! Se acercan las fiestas y la felicidad está aquí. Así que mientras corres por todas partes, haciendo las compras, cocinando, decorando y encargándote de todo para hacer feliz a tu familia, también recuerda disfrutar las pequeñas cosas que puedes compartir ahora mismo.  Pasa por la tienda más cercana, lleva Coca-Cola y haz sonreír a tu familia. ¡Qué mejor forma de decorar las fiestas! Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS220245" code="KOCLS220245" language="Spanish" length=":20">
+          <text>¿Estás ayudando a Santa? ¡Qué amable! Entonces no esperes más, pasa por la tienda más cercana y lleva una refrescante Coca-Cola para compartir en familia. Este acto de amabilidad te puede llevar a encabezar la lista de favoritos de Santa. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250247" code="KOCLS250247" language="Spanish" length=":15">
+          <text>La felicidad es la esencia de las fiestas. Así que mientras te encargas de hacer las compras, cocinar y de todo para hacer feliz a tu familia, no te olvides de un gran detalle. Ve a la tienda más cercana, lleva Coca-Cola y haz sonreír a tu familia. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <!--* Brought to You By-->
+        <item kind="script" id="KOCLS210248" code="KOCLS210248" language="Spanish" length=":10" subgroup="Brought to You By">
+          <text>La felicidad es la esencia de las fiestas. Disfrútalas con Coca-Cola y haz sonreír a tu familia.  Llega a ti por cortesía de Coca-Cola. Destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="KOCLS200249" code="KOCLS200249" language="Spanish" length=":05">
+          <text>La felicidad es la esencia de las fiestas. Comparte una Coca-Cola y destapa la felicidad. </text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Holiday Van Hits / Remote Events-->
+    <screen title="Holiday Van Hits / Remote Events" id="HVR" group="Radio Script Templates">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="USE DATES: 11/1/12 - 12-25-12">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLY230241" code="KOCLY230241" language="English" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>You can almost feel the holiday spirit in the air. Like a party and everyone’s invited. Happiness is what holidays are all about.  Coca-Cola, {{[station]}} and {{[retailer]}} are inviting you to ring in the season at the retailer]}} grand opening {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Where you can enter for a chance to win {{[asset]}} at {{[retailer]}}.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}, with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250242" code="KOCLY250242" language="English" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Happiness is what holidays are all about.  Coca-Cola, {{[station]}} and {{[retailer]}} invite you to ring in the season at {{[retailer]}} grand opening {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Where you can enter to win {{[asset]}} at {{[retailer]}}.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}, with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210243" code="KOCLY210243" language="English" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola, {{[station]}} and {{[retailer]}} invite you to the {{[retailer]}} grand opening {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} where you can enter to win {{[asset]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY260240" code="KOCLY260240 - Copy Points Only" language="English" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* Today, Coca-Cola and {{[station]}} are at the grand opening of {{[retailer]}} at {{[address]}} from {{[time to time]}} . Stop by and enter for a chance to win {{[asset]}}. Coca-Cola. Open Happiness. **
+
+* Since happiness is what holidays are all about, be sure to stock up on plenty of refreshing Coca-Cola. **
+
+* Bring home plenty of Coca-Cola for the holidays and watch your family’s faces light up. **
+
+* Cooking, shopping, decorating – whatever big things you’re doing to make your family happy this holiday be sure to do a little thing and pick up plenty of Coca-Cola. **
+
+* Be sure to get to your local {{[retailer]}} for plenty of Coca-Cola to make this holiday season truly bright. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing-->
+        <item kind="script" id="KOCLY230245" code="KOCLY230245" language="English" length=":30" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>Happiness is what the holidays are all about.  To help you ring them in, Coca-Cola, {{[station]}} and {{[retailer]}} invite you to {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Where you can enter to win {{[asset]}} and pick up some Coke for just {{[price]}}. So join us for the festivities on {{[day]}} from {{[time to time]}} at {{[retailer]}}, with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250246" code="KOCLY250246" language="English" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>Happiness and holidays go together.  So Coca-Cola, {{[station]}} and {{[retailer]}} invite you to {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Enter to win {{[asset]}} and pick up some Coke for just {{[price]}}. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210247" code="KOCLY210247" language="English" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>Join Coca-Cola, {{[station]}} and {{[retailer]}} at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter to win {{[asset]}} and grab Coke for just {{[price]}}. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY260244" code="KOCLY260244 - Copy Points Only" language="English" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>* Today, Coca-Cola, {{[station]}} and {{[retailer]}} invite you to {{[retailer]}}, {{[address]}} from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}}. And be sure to pick up Coke for just {{[price]}}. Coca-Cola. Open Happiness. **
+
+* Since happiness is what holidays are all about, be sure to stock up on plenty of refreshing Coca-Cola. **
+
+* Bring home plenty of Coca-Cola for the holidays and watch your family’s faces light up. **
+
+* Be sure to get to your local {{[retailer]}} for plenty of Coca-Cola to make this holiday season truly bright. **
+
+* Cooking, shopping, decorating – whatever big things you’re doing to make your family happy this holiday be sure to do a little thing and pick up plenty of Coca-Cola. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLY230249" code="KOCLY230249" language="English" length=":30" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Happiness is what the holidays are all about. To help you ring them in, Coca-Cola and {{[station]}} invite you to {{[event]}} at {{[location]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Where you can enter to win {{[asset]}}.  Join us for the festivities at {{[Event]}}, {{[day]}} from {{[time to time]}} with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250250" code="KOCLY250250" language="English" length=":15" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Happiness is what holidays are all about. Coca-Cola and {{[station]}} invite you to {{[event]}} at {{[location]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Where you can enter to win {{[asset]}}.  See you at {{[Event]}}, {{[day]}} from {{[time to time]}} with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210251" code="KOCLY210251" language="English" length=":10" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Join Coca-Cola and {{[station]}} at {{[event]}} at {{[location]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter to win {{[asset]}}. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY260248" code="KOCLY260248 - Copy Points Only" language="English" length=":60" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>* Today, Coca-Cola and {{[station]}} invite you to {{[event]}}, at {{[location]}} from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}}. Coca-Cola. Open Happiness. **
+
+* Since happiness is what holidays are all about, be sure to stock up on plenty of refreshing Coca-Cola. **
+
+* Bring home plenty of Coca-Cola for the holidays and watch your family’s faces light up. **
+
+* Be sure to get to your local {{[retailer]}} for plenty of Coca-Cola to make this holiday season truly bright. **
+
+* Cooking, shopping, decorating – whatever big things you’re doing to make your family happy this holiday be sure to do a little thing and pick up plenty of Coca-Cola. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing-->
+        <item kind="script" id="KOCLY230253" code="KOCLY230253" language="English" length=":30" group="Van Hits Promotions" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>You can almost feel the holiday spirit in the air. Like a party and everyone’s invited. Happiness is what holidays are all about.  Coca-Cola and {{[retailer]}} invite you to ring in the season at {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Where you can enter to prizes at {{[retailer]}} and pick up some Coke for {{[price]}}.   See you {{[day]}} from {{[time to time]}} at {{[retailer]}}, with Coca-Cola.  Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY250254" code="KOCLY250254" language="English" length=":15" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>Happiness and holidays go together. Coca-Cola and {{[retailer]}} invite you to {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} for prizes and to pick up Coke for just {{[price]}}.  So see you there. Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210255" code="KOCLY210255" language="English" length=":10" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>Coca-Cola invites you to {{[retailer]}} {{[address]}} from {{[time to time]}} to win prizes and to pick up Coca-Cola for just {{[price]}}.  Coca-Cola.  Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY260252" code="KOCLY260252 - Copy Points Only" language="English" length=":60" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>* Today, Coca-Cola invites you to {{[retailer]}}, at {{[location]}} from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}}. And be sure to pick up delicious Coca-Cola for just {{[price]}}, Coca-Cola. Open Happiness. **
+
+* Since happiness is what holidays are all about, be sure to stock up on plenty of refreshing Coca-Cola. **
+
+* Bring home plenty of Coca-Cola for the holidays and watch your family’s faces light up. **
+
+* Be sure to get to your local {{[retailer]}} for plenty of Coca-Cola to make this holiday season truly bright. **
+
+* Cooking, shopping, decorating – whatever big things you’re doing to make your family happy this holiday be sure to do a little thing and pick up plenty of Coca-Cola. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLY230257" code="KOCLY230257" language="English" length=":30" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>You can almost feel the holiday spirit in the air. Like a party and everyone’s invited. Happiness is what holidays are all about.  Coca-Cola and {{[retailer]}} invite you to ring in the season at {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  Where you can enter to win some terrific prizes from {{[retailer]}}.   See you {{[day]}} from {{[time to time]}} at {{[retailer]}}, with Coca-Cola.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250258" code="KOCLY250258" language="English" length=":15">
+          <text>Happiness and holidays go together. Coca-Cola and {{[retailer]}} invite you to {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} where you can enter to win great prizes.  So see you there. Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY210259" code="KOCLY210259" language="English" length=":10">
+          <text>Coca-Cola invites you to {{[retailer]}} {{[address]}} from {{[time to time]}} to enter to win some great prizes.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY260256" code="KOCLY260256 - Copy Points Only" language="English" length=":60">
+          <text>* Today, Coca-Cola invites you to {{[retailer]}}, at {{[location]}} from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}}. Coca-Cola. Open Happiness. **
+
+* Since happiness is what holidays are all about, be sure to stock up on plenty of refreshing Coca-Cola. **
+
+* Bring home plenty of Coca-Cola for the holidays and watch your family’s faces light up. **
+
+* Be sure to get to your local {{[retailer]}} for plenty of Coca-Cola to make this holiday season truly bright. **
+
+* Cooking, shopping, decorating – whatever big things you’re doing to make your family happy this holiday be sure to do a little thing and pick up plenty of Coca-Cola. **</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="USE DATES: 11/1/12 - 12-25-12">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLS230251" code="KOCLS230251" language="Spanish" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Casi puedes sentir el espíritu navideño en el aire. Como una fiesta donde todos están invitados. La felicidad es la esencia de las fiestas. Coca-Cola, {{[station]}} y {{[retailer]}} te invitan a celebrar la llegada de la Navidad en la gran inauguración de {{[retailer]}}, en {{[address]}}, el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}}. Donde podrás participar por la oportunidad de ganar {{[asset]}} en {{[retailer]}}. Nos vemos el {{[day]}} desde {{[time]}} hasta {{[time]}} en {{[retailer]}}, con Coca-Cola y {{[Station]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250252" code="KOCLS250252" language="Spanish" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>La felicidad es la esencia de las fiestas. Coca-Cola, {{[station]}} y {{[retailer]}} te invitan a celebrar la llegada de la Navidad en la gran inauguración de {{[retailer]}}, en {{[address]}}, el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[ time]}}. Donde podrás participar por la oportunidad de ganar {{[asset]}} en {{[retailer]}}. Nos vemos el {{[day]}} desde {{[time]}} hasta {{[time]}} en {{[retailer]}}, con Coca-Cola y {{[Station]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS210253" code="KOCLS210253" language="Spanish" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola, {{[station]}} y {{[retailer]}} te invitan a celebrar la llegada de la Navidad en la gran inauguración de {{[retailer]}}, en {{[address]}}, el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}}. Donde podrás participar por la oportunidad de ganar {{[asset]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS260250" code="KOCLS260250 - Copy Points Only" language="Spanish" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* Hoy, Coca-Cola y {{[station]}} están en la gran inauguración de {{[retailer]}} en {{[address]}} desde {{[time]}} hasta {{[time]}} .  Ven a participar y podrías ganar {{[asset]}}. Coca-Cola. Destapa la felicidad.  **
+
+* La felicidad es la esencia de las fiestas, así que asegúrate de comprar suficiente refrescante Coca-Cola.  **
+
+* Lleva a casa suficiente Coca-Cola para que disfrutes en grande estas Navidades y hacer sonreír a tu familia.  **
+
+* Mientras corres por todas partes, cocinando, comprando, decorando y encargándote de todo para hacer feliz a tu familia, no te olvides de un gran detalle: ¡llevar Coca-Cola para compartirla con toda tu familia!  **
+
+* Asegúrate de pasar por tu {{[retailer]}} más cercano y llevar Coca-Cola para celebrar estas fiestas con alegría.  **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing-->
+        <item kind="script" id="KOCLS230255" code="KOCLS230255" language="Spanish" length=":30" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>La felicidad es la esencia de las fiestas. Para ayudarte a celebrar la llegada de la Navidad, Coca-Cola, {{[station]}} y {{[retailer]}} te invitan a {{[retailer]}}, en {{[address]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}}. Donde podrás participar por la oportunidad de ganar {{[asset]}} y llevar Coca-Cola por sólo {{[price]}}. Celebremos juntos estas fiestas el {{[day]}} desde {{[time]}} hasta {{[time]}} en {{[retailer]}}, con Coca-Cola y {{[Station]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250256" code="KOCLS250256" language="Spanish" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>La felicidad y las fiestas van juntas. Por eso, Coca-Cola, {{[station]}} y {{[retailer]}} te invitan a {{[retailer]}}, en {{[address]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}}. Participa por tu oportunidad de ganar {{[asset]}} y lleva Coca-Cola por sólo {{[price]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS210257" code="KOCLS210257" language="Spanish" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>Únete a Coca-Cola, {{[station]}} y {{[retailer]}} en {{[retailer]}}, {{[address]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}}, participa por tu oportunidad de ganar {{[asset]}} y lleva Coca-Cola por sólo {{[price]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS260254" code="KOCLS260254 - Copy Points Only" language="Spanish" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways AND Special Offer Pricing">
+          <text>* Hoy, Coca-Cola, {{[station]}} y {{[retailer]}} te invitan a {{[retailer]}}, en {{[address]}} desde {{[time]}} hasta {{[time]}}. Ven y participa por tu oportunidad de ganar {{[asset]}}. Y asegúrate de llevar Coca-Cola por sólo {{[price]}}. Coca-Cola. Destapa la felicidad. **
+
+* La felicidad es la esencia de las fiestas, así que asegúrate de comprar suficiente refrescante Coca-Cola. **
+
+* Lleva a casa suficiente Coca-Cola para que disfrutes en grande estas Navidades y hacer sonreír a tu familia. **
+
+* Mientras corres por todas partes, cocinando, comprando, decorando y encargándote de todo para hacer feliz a tu familia, no te olvides de un gran detalle: ¡llevar Coca-Cola para compartirla con toda tu familia! **
+
+* Asegúrate de pasar por tu {{[retailer]}} más cercano y llevar Coca-Cola para celebrar estas fiestas con alegría. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLS230259" code="KOCLS230259" language="Spanish" length=":30" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>La felicidad es la esencia de las fiestas. Para ayudarte a celebrar su llegada, Coca-Cola y {{[station]}} te invitan a {{[event]}}, en {{[location]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}}. Donde podrás participar por la oportunidad de ganar {{[asset]}}.  Celebremos juntos estas fiestas en {{[event]}}, {{[date]}} desde {{[time]}} hasta {{[time]}} con Coca-Cola y {{[Station]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250260" code="KOCLS250260" language="Spanish" length=":15" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>La felicidad es la esencia de las fiestas. Coca-Cola y {{[station]}} te invitan a {{[event]}}, en {{[location]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}}. Donde podrás participar por la oportunidad de ganar {{[asset]}}.  Nos vemos en {{[Event]}}, {{[day]}} desde {{[time]}} hasta {{[time]}} con Coca-Cola y {{[Station]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS210261" code="KOCLS210261" language="Spanish" length=":10" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Únete a Coca-Cola, {{[station]}} en {{[event]}} en {{[location]}}, el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}} y participa por tu oportunidad de ganar {{[asset]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS260258" code="KOCLS260258 - Copy Points Only" language="Spanish" length=":60" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>* Hoy, Coca-Cola y {{[station]}} te invitan a {{[event]}}, en {{[location]}} desde {{[time]}} hasta {{[time]}}. Ven y participa por tu oportunidad de ganar {{[asset]}}. Coca-Cola. Destapa la felicidad. ** 
+
+* La felicidad es la esencia de las fiestas, así que asegúrate de comprar suficiente refrescante Coca-Cola. **
+
+* Lleva a casa suficiente Coca-Cola para que disfrutes en grande estas Navidades y hacer sonreír a tu familia. **
+
+* Mientras corres por todas partes, cocinando, comprando, decorando y encargándote de todo para hacer feliz a tu familia, no te olvides de un gran detalle: ¡llevar Coca-Cola para compartirla con toda tu familia! **
+
+* Asegúrate de pasar por tu {{[retailer]}} más cercano y llevar Coca-Cola para celebrar estas fiestas con alegría. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing-->
+        <item kind="script" id="KOCLS230263" code="KOCLS230263" language="Spanish" length=":30" group="Van Hits Promotions" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>Casi puedes sentir el espíritu navideño en el aire. Como una fiesta donde todos están invitados. La felicidad es la esencia de las fiestas. Coca-Cola y {{[retailer]}} te invitan a {{[retailer]}}, en {{[address]}}, el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}} para participar por premios y llevar Coca-Cola por sólo {{[precio]}}. Nos vemos el {{[day]}} desde {{[time]}} hasta {{[time]}} en {{[retailer]}}, con Coca-Cola. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250264" code="KOCLS250264" language="Spanish" length=":15" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>La felicidad y las fiestas van juntas. Por eso, Coca-Cola y {{[retailer]}} te invitan a {{[retailer]}}, en {{[address]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}} para participar por premios y llevar Coca-Cola por sólo {{[precio]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS210265" code="KOCLS210265" language="Spanish" length=":10" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>Coca-Cola te invita a {{[retailer]}}, en {{[address]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}} para participar por premios y llevar  Coca-Cola por sólo {{[precio]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS260262" code="KOCLS260262 - Copy Points Only" language="Spanish" length=":60" subgroup="At Retailer Featuring Asset Giveaways AND Day of Special Offer Pricing">
+          <text>* Hoy, Coca-Cola te invita a {{[retailer]}}, en {{[location]}} desde {{[time]}} hasta {{[time]}}. Ven y participa por tu oportunidad de ganar {{[asset]}}. Y asegúrate de llevar Coca-Cola por sólo {{[price]}}. Coca-Cola. Destapa la felicidad. **
+
+* La felicidad es la esencia de las fiestas, así que asegúrate de comprar suficiente refrescante Coca-Cola. **
+
+* Lleva a casa suficiente Coca-Cola para que disfrutes en grande estas Navidades y hacer sonreír a tu familia. **
+
+* Mientras corres por todas partes, cocinando, comprando, decorando y encargándote de todo para hacer feliz a tu familia, no te olvides de un gran detalle: ¡llevar Coca-Cola para compartirla con toda tu familia! **
+
+* Asegúrate de pasar por tu {{[retailer]}} más cercano y llevar Coca-Cola para celebrar estas fiestas con alegría. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCLS230267" code="KOCLS230267" language="Spanish" length=":30" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>Casi puedes sentir el espíritu navideño en el aire. Como una fiesta donde todos están invitados. La felicidad es la esencia de las fiestas. Coca-Cola y {{[retailer]}} te invitan a celebrar la llegada de las fiestas en {{[retailer]}}, en {{[address]}}, el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[ time]}}. Donde podrás participar por increíbles premios de {{[retailer]}}. Nos vemos el {{[day]}} desde {{[time]}} hasta {{[time]}} en {{[retailer]}}, con Coca-Cola. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250268" code="KOCLS250268" language="Spanish" length=":15">
+          <text>La felicidad y las fiestas van juntas. Por eso, Coca-Cola y {{[retailer]}} te invitan a {{[retailer]}}, en {{[address]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}} donde podrás participar por grandes premios. Nos vemos ahí.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS210269" code="KOCLS210269" language="Spanish" length=":10">
+          <text>Coca-Cola te invita a {{[retailer]}}, en {{[address]}} el {{[day]}} {{[date]}} desde {{[time]}} hasta {{[time]}} para participar por grandes premios. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS260266" code="KOCLS260266 - Copy Points Only" language="Spanish" length=":60">
+          <text>* Hoy, Coca-Cola te invita a {{[retailer]}}, en {{[location]}} desde {{[time]}} hasta {{[time]}}. Ven y participa por tu oportunidad de ganar {{[asset]}}. Coca-Cola. Destapa la felicidad. **
+
+* La felicidad es la esencia de las fiestas, así que asegúrate de comprar suficiente refrescante Coca-Cola. **
+
+* Lleva a casa suficiente Coca-Cola para que disfrutes en grande estas Navidades y hacer sonreír a tu familia. **
+
+* Mientras corres por todas partes, cocinando, comprando, decorando y encargándote de todo para hacer feliz a tu familia, no te olvides de un gran detalle: ¡llevar Coca-Cola para compartirla con toda tu familia! **
+
+* Asegúrate de pasar por tu {{[retailer]}} más cercano y llevar Coca-Cola para celebrar estas fiestas con alegría. **</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Holiday Caravan-->
+    <screen title="Holiday Caravan" id="HCV" group="Radio Script Templates">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="USE DATES: 10/29/12 - 12/23/12">
+        <item kind="script" id="KOCLY130182" code="KOCLY130182" language="English" length=":30" group="Holiday Caravan Live Read">
+          <text>It’s the holidays and you and your family probably have all kinds of traditions. At Coca-Cola we do too. But our biggest tradition is bringing people together to celebrate the joy of the season. Which is why we’re sending our legendary Coca-Cola Caravan straight to you all lit up like a Christmas tree. So bring your family, friends, whoever and head on down to {{[LOCATION]}}, where you can meet Santa and even get a picture with him. After all, when it comes to all the joy of the season, nothing lifts spirits like Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY120183" code="KOCLY120183" language="English" length=":20">
+          <text>It’s the holidays and your family probably has all kinds of traditions. At Coca-Cola we do too. But our biggest is bringing people together to celebrate the joy of the season. Which is why we’re sending our legendary Coca-Cola Caravan straight to you. So bring your family, friends, whoever and head on down to {{[LOCATION]}}, where you can meet Santa and even get a picture with him. For holiday cheer, nothing lifts spirits like Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY150184" code="KOCLY150184" language="English" length=":15">
+          <text>It’s the holidays and your family probably has lots of traditions. At Coca-Cola ours is bringing people together to share joy. So we’re sending the Coca-Cola Caravan to you. Bring the people you love and head down to {{[LOCATION]}} to meet Santa and get a picture with him. For holiday cheer, nothing lifts spirits like Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY110185" code="KOCLY110185" language="English" length=":10">
+          <text>The Coca-Cola Holiday Caravan is bringing people together to celebrate the joy of the holiday season.  Brought to you by Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY100186" code="KOCLY100186" language="English" length=":05">
+          <text>Enjoy this holiday season with the Coca-Cola Holiday Caravan. Brought to you by Coca-Cola. Open Happiness.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="USE DATES: 10/29/12 - 12/23/12">
+        <item kind="script" id="KOCLS230190" code="KOCLS230190" language="Spanish" length=":30" group="Holiday Caravan Live Read">
+          <text>Es época de Navidad y seguramente tú y tu familia tienen todo tipo de tradiciones. En Coca-Cola también las tenemos. Y nuestra tradición mas grande es la  de reunir a la gente y celebrar. Es por esto que  enviaremos nuestra legendaria caravana  Coca-Cola para encender juntos el árbol de Navidad. Así que trae a tu familia y amigos a {{[LOCATION]}}, donde podrán conocer a Santa y tomarse una foto con él.   Después de todo, cuando se trata de disfrutar la Navidad, nada como una Coca-Cola para levantar tu espíritu navideño.   Coca-Cola.  Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS220191" code="KOCLS220191" language="Spanish" length=":20">
+          <text>Es época de Navidad y seguramente tú y tu familia tienen todo tipo de tradiciones. En Coca-Cola también las tenemos. Y nuestra tradición más grande es la de reunir a la gente y celebrar. Es por esto que  enviaremos nuestra legendaria caravana Coca-Cola para celebrar con ustedes. Trae a tu familia y amigos, a {{[LOCATION]}}, donde podrán conocer a Santa y tomarse una foto con él.   En esta  temporada, nada levanta más el espíritu navideño que una Coca-Cola.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250198" code="KOCLS250198" language="Spanish" length=":15">
+          <text>Es época de Navidad y seguramente tú y tu familia tienen todo tipo de tradiciones. La nuestra es reunir a le gente y celebrar. Es por esto que  enviaremos nuestra legendaria caravana  Coca-Cola para encender juntos el árbol de Navidad. Trae tus seres queridos a {{[LOCATION]}}, donde podrán conocer a Santa y tomarse una foto con él. En esta  temporada, nada levanta el espíritu navideño como una Coca-Cola.  Coca-Cola.  Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS210192" code="KOCLS210192" language="Spanish" length=":10">
+          <text>La caravana Coca-Cola está reuniendo a todos para celebrar la alegría de las fiestas.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS200193" code="KOCLS200193" language="Spanish" length=":05">
+          <text>Disfruta estas épocas decembrinas con la Caravana Coca-Cola. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Toys for Tots-->
+    <screen title="Toys for Tots" id="TFT" group="Radio Script Templates">
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="USE DATES: 10/29/12 - 12/23/12">
+        <item kind="script" id="KOCLY230188" code="KOCLY230188" language="English" length=":30" group="Toys for Tots / Holiday Retailer Live Read">
+          <text>If you’d like to help open some happiness for a boy or girl during the holidays, head to a participating {{[RETAILER]}}. Because at {{[RETAILER]}}, you can donate some fun by putting a new unwrapped toy in the Toys for Tots donation bin, now through {{[END DATE]}}. It’s located next to the Coca-Cola display. You see, we have a simple formula for opening happiness: doing good and helping others equals instant joy. Toys for Tots at {{[RETAILER]}} and Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220187" code="KOCLY220187" language="English" length=":20">
+          <text>Open some happiness for a boy or girl during the holidays by heading to a participating {{[RETAILER]}}. There you can put a new unwrapped toy in the Toys for Tots donation bin next to the Coca-Cola display, now through {{[END DATE]}}.  You see, we have a simple formula for opening happiness: doing good and helping others equals instant joy. Toys for Tots at {{[RETAILER]}} and Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250186" code="KOCLY250186" language="English" length=":15">
+          <text>Open some happiness for a child this holiday. Head to a participating {{[RETAILER]}} and put a new, unwrapped toy in the Toys for Tots donation bin next to the Coca-Cola display, now through {{[END DATE]}}. Toys for Tots at {{[RETAILER]}} and  Coca-Cola. Open happiness.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="USE DATES: 10/29/12 - 12/23/12">
+        <item kind="script" id="KOCLS230194" code="KOCLS230194" language="Spanish" length=":30" group="Toys for Tots / Holiday Retailer Live Read">
+          <text>Si esta temporada  quieres ayudar, hazlo destapando la felicidad para un niño o una niña. Ve a  uno de los {{[RETAILER]}} participantes . Porque en {{[RETAILER]}}  podrás  donar alegría depositando un juguete sin envolver.  Desde hoy hasta {{[END DATE]}} encuentra el contenedor de juguetes junto al letrero de Coca-Cola. Como verás, ésta es una fórmula muy simple para destapar la felicidad: Hacer el bien y ayudar a otros es igual a felicidad. El Contenedor de Juguetes y Coca-Cola estarán en {{[RETAILER]}}. Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS220195" code="KOCLS220195" language="Spanish" length=":20">
+          <text>Destapa la felicidad para un niño o una niña durante esta temporada. Desde hoy hasta {{[END DATE]}}, ve a uno de los {{[RETAILER]}} participantes y deposita un juguete nuevo sin envolver en el contenedor de Juguetes junto al letrero de Coca-Cola.  Como verás, tenemos una fórmula muy simple para  destapar la felicidad: Hacer el bien y ayudar a otros es igual a felicidad. El Contenedor de Juguetes y Coca-Cola estarán en {{[RETAILER]}}.   Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLS250197" code="KOCLS250197" language="Spanish" length=":15">
+          <text>Destapa la felicidad para un niño en esta temporada. Dirígete a un {{[RETAILER]}} participante y deposita un juguete sin envolver en el contenedor que se encuentra junto al letrero de Coca-Cola. Desde hoy hasta {{[END DATE]}}. El Contenedor de Juguetes  y Coca-Cola están en {{[RETAILER]}}.   Coca-Cola. Destapa la felicidad.</text>
+        </item>
+      </card>
+      <card title="TRAFFIC INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--SOCIAL MEDIA-->
+    <!--Arctic Home-->
+    <screen title="Arctic Home" id="AHF" group="Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/social-media_facebook_arctic.swf" />
+      </card>
+      <card title="SCRIPTS" kind="scripts">
+        <!--Facebook-->
+        <item kind="script" id="facebook_donate" code="Script" language="English" length="Donate $10" group="Facebook">
+          <text>You give. Coke matches. Donate $10 to the polar bears. Donate $10 by visiting ArcticHome.com. Coke will match it, up to $1MM thru 2/15/13. Together, we can help protect the polar bear.  ArcticHome.com</text>
+        </item>
+        <item kind="script" id="facebook_cause" code="Script" language="English" length="Join the Cause" group="Facebook">
+          <text>Have you seen the mama bear &amp; her cubs on Coke products in {{[INSERT LOCATION OR RETAILER]}}? Visit ArcticHome.com to join the cause!</text>
+        </item>
+        <!--Twitter-->
+        <item kind="script" id="twitter_awareness" code="Script" language="English" length="WWF - Raise Awareness" group="Twitter">
+          <text>Our friends @CocaCola are working with #WWF to raise awareness and funds to protect the polar bear’s home.  Check out ArcticHome.com to join the cause! </text>
+        </item>
+        <item kind="script" id="twitter_forces" code="Script" language="English" length="WWF - Joined Forces" group="Twitter">
+          <text>@CocaCola and @World_Wildlife joined forces AGAIN to help protect the polar bear’s Arctic home. Visit ArcticHome.com to help! #ArcticHome</text>
+        </item>
+        <item kind="script" id="twitter_protect" code="Script" language="English" length="WWF - Protect the Polar Bear" group="Twitter">
+          <text>If you haven’t yet, help @CocaCola and @World_Wildlife protect the polar bear! Visit ArcticHome.com to get involved. #ArcticHome</text>
+        </item>
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;Embedded image of the Coca-Cola Arctic Home visual that can be downloaded from a host website to fan Facebook pages and shared within personal social networks.&lt;/textBody&gt;
+
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;KO AH icon file is shared with host web administrator to upload as a downloadable image from the host website&lt;/li&gt;
+
+&lt;li&gt;Fans visiting the host website can click on the icon and download the image to their facebook page to display as a profile picture or to share among personal networks&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Holiday-->
+    <screen title="Holiday" id="HOF" group="Social Media">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/social-media_facebook_holiday.swf" />
+      </card>
+      <card title="SCRIPTS" kind="scripts">
+        <!--Facebook-->
+        <item kind="script" id="facebook_join" code="Script" language="English" length="Join Us" group="Facebook">
+          <text>Join us and Coca-Cola in celebrating the joy of the season with Coca-Cola Merry Minutes of Winning! Pick up Coca-Cola products at your local {{[INSERT RETAILER]}} and visit mcr.com/holiday to play for your chance to take home one of 1400+ daily gifts up for grabs!</text>
+        </item>
+        <item kind="script" id="facebook_rewards" code="Script" language="English" length="Rewards" group="Facebook">
+          <text>Rewards to leave you merry and bright… that’s what we like to see! Coca-Cola Merry Minutes of Winning has 1400+ daily rewards up for grabs all holiday season long, so be sure to pick up Coca-Cola products at your local {{[INSERT RETAILER]}} and visit mcr.com/holiday to play for your chance to win.</text>
+        </item>
+        <item kind="script" id="facebook_gift" code="Script" language="English" length="Holiday Gift" group="Facebook">
+          <text>Need a great holiday gift? Here’s one – Pick up Coca-Cola products at {{[INSERT RETAILER]}} and visit mcr.com/holiday to play for your chance to take home one of 1400+ gifts up for grabs every day this holiday season!</text>
+        </item>
+        <!--Twitter-->
+        <item kind="script" id="twitter_gift" code="Script" language="English" length="Holiday Gift" group="Twitter">
+          <text>Here’s a great holiday gift: the chance to win one of 1400+ prizes daily with Coca-Cola Merry Minutes of Winning at mcr.com/holiday!</text>
+        </item>
+        <item kind="script" id="twitter_magical" code="Script" language="English" length="Something Magical" group="Twitter" subgroup="For customers participating in 12 Days of Rewards program:">
+          <text>Something magical is happening on mcr.com/holiday today and all holiday season long. Find out!</text>
+        </item>
+      </card>
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IT IS&lt;/textHeader&gt;
+&lt;textBody&gt;Embedded image of the Coca-Cola Holiday visual that can be downloaded from a host website to fan Facebook pages and shared within personal social networks.&lt;/textBody&gt;
+
+&lt;textHeader&gt;HOW IT WORKS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;KO Holiday icon file is shared with host web administrator to upload as a downloadable image from the host website&lt;/li&gt;
+
+&lt;li&gt;Fans visiting the host website can click on the icon and download the image to their facebook page to display as a profile picture or to share among personal networks&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+Sharon Brimer  //  404-355-7902
+&lt;a href="event:email|finished-art3_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--RETAIL ELEMENTS-->
+    <!--Family Togetherness-->
+    <screen title="Family Togetherness" id="FAM" group="Retail Elements">
+      <card title="MEDIA - ENGLISH/BILINGUAL" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_family_english-bilingual.swf" />
+      </card>
+      <card title="MEDIA - ENGLISH ONLY" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_family_english-only.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order through:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_holiday" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Santa-->
+    <screen title="Santa" id="SAN" group="Retail Elements">
+      <card title="MEDIA - ENGLISH/BILINGUAL" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_santa_english-bilingual.swf" />
+      </card>
+      <card title="MEDIA - NO CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_santa.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order through:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_holiday" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Arctic Home-->
+    <screen title="Arctic Home" id="ARC" group="Retail Elements">
+      <card title="MEDIA - NO CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_arctic-home.swf" />
+      </card>
+      <card title="MEDIA - ENGLISH/BILINGUAL" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_arctic-home_english-bilingual.swf" />
+      </card>
+      <card title="MEDIA - PRICING CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_arctic-home_pricing.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order through:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_holiday" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Arctic Home - WWF-->
+    <screen title="Arctic Home - WWF" id="WWF" group="Retail Elements">
+      <card title="MEDIA - NO CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_arctic-home_wwf.swf" />
+      </card>
+      <card title="MEDIA - PRICING CUSTOMIZATION" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/holiday/retail_arctic-home_wwf_pricing.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order through:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_holiday" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

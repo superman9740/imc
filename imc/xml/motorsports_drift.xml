@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--UNDER CONSTRUCTION-->
+    <screen title="UNDER CONSTRUCTION" id="OVW">
+      <card title="UNDER CONSTRUCTION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;UNDER CONSTRUCTION&lt;/textHeader&gt;
+</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

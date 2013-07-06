@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;This Creative Toolkit contains approved creative assets that can be utilized to support NBA (Professional Basketball) events.  It is segmented by medium and includes visuals for available creative assets along with complete information including where to obtain, usage dates, and key contacts.&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Creative assets developed to generate Brand awareness and drive volume during Professional Basketball events.&lt;/textBody&gt;
+&lt;textHeader&gt;BRAND GUIDELINES FOR NBA (PROFESSIONAL TEAMS):&lt;/textHeader&gt;
+&lt;textBody&gt;Lead Brand: Sprite&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Program Ads-->
+    <screen title="Program Ads" id="PRA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="image" title="Hoop Customizable " file="media/assets/basketball/program-ad_hoop.jpg" />
+        <item kind="image" title="Street Ball Non-Customizable " file="media/assets/basketball/program-ad_street-ball.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order through Design Machine:
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|design_machine_guide" &gt;/ User Guide&lt;/a&gt;
+
+Sizes currently available: 
+&lt;li&gt;8.5” x 11”&lt;/li&gt;
+&lt;li&gt;5.5” x 8.5”&lt;/li&gt;
+&lt;li&gt;7” x 10”&lt;/li&gt;
+
+Customize with:
+&lt;li&gt;Team logo&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Television Ads (Broadcast Only)-->
+    <screen title="TV Ads (Broadcast Only)" id="TVA" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="2011 Sprite Basketball" code="KOSPT132614" length=":30" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/basketball/KOSPT132614.flv" />
+        <item kind="video" title="2011 Sprite Basketball HD" code="KOSPT132614H" length=":30" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/basketball/KOSPT132614.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These TV ads can be used to run during live games or when broadcast on individual stations and can be used until creative changes.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|broadcast_form" &gt;/ Broadcast Use&lt;/a&gt;
+
+Limited to 1 copy of each spot per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge 
+that your department is fully responsible for any 
+talent fees, licensing fees, or other charges incurred 
+as a result of any use outside the permitted scope or 
+time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Sponsorship Billboards-->
+    <screen title="Sponsorship Billboards" id="SBB" group="Media Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="Sprite Bottle Animated BB " code="KOSPT052550" length=":05" copy="true" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/basketball/KOSPT052550.flv">
+          <copy id="ENG_PA_Sprite_Sponsorship">
+            <text>Sprite Live Read Script
+
+The :05 Live Read Copy is: “Brought to you by Sprite.”</text>
+          </copy>
+        </item>
+        <item kind="video" title="2010 Sprite Static BB" code="KOSPT002613" length=":05" copy="true" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/basketball/KOSPT002613.flv">
+          <copy id="ENG_PA_Sprite_Sponsorship">
+            <text>Sprite Live Read Script
+
+The :05 Live Read Copy is: “Brought to you by Sprite.”</text>
+          </copy>
+        </item>
+        <item kind="video" title="2010 Sprite Static BB HD" code="KOSPT002613H" length=":05" copy="true" exp_broadcast="N/A" exp_in_venue="N/A" exp_internet="N/A" file="media/assets/basketball/KOSPT002613.flv">
+          <copy id="ENG_PA_Sprite_Sponsorship">
+            <text>Sprite Live Read Script
+
+The :05 Live Read Copy is: “Brought to you by Sprite.”</text>
+          </copy>
+        </item>
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+These TV Billboards are approved to run on live broadcasts during games.   Scripts are not to be recorded, but only to be used as live reads.
+
+Rotation should be equal depending on number of spots chosen to run.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Submit orders for TV spots
+&lt;a href="event:link|broadcast_form" &gt;/ Billboards for Broadcast&lt;/a&gt;
+
+Limited to 1 copy per location.</text>
+        </item>
+      </card>
+      <card title="LEGAL" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;LEGAL NOTICE&lt;/textHeader&gt;
+By requesting delivery of this spot, you acknowledge that your department is fully responsible for any talent fees, licensing fees, or other charges incurred as a result of any use outside the permitted scope or time period set forth here.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Ads-->
+    <!--Radio Script Templates-->
+    <!--Web Banners-->
+    <screen title="Web Banners" id="WEB" group="Media Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Web Banners" file="media/assets/basketball/pro_web-banners.swf"></item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING &amp; CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Sprite Web Banners are available for Sports partner logo customization. 
+
+Options include:
+&lt;li&gt;Sustaining or Customizable with Team logo&lt;/li&gt; 
+&lt;li&gt;Animated or Static&lt;/li&gt; 
+
+If a custom size creative is needed, login to the Online Ordering Tool. First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards - Magnetic Inserts-->
+    <screen title="Menu Boards - Magnetic Inserts" id="MEN" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_concession_menu-board.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Menu board layout.
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;
+
+For printing and installation, contact:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+OR
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+For additional information on the suppliers, click the SUPPLIERS tab.</text>
+        </item>
+      </card>
+      <card title="SUPPLIERS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;THE HOWARD COMPANY&lt;/textHeader&gt;
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 6 main menu boards (sizes &amp; types) and illuminated boards along with numerous specialty/custom boards for unique applications and locations.  Variations include: &lt;i&gt;with/without panel header, with/without acrylic cover, with digital LCD display&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;All menu boards use the same size strips and numbers although colors and font styles can be changed. Menu items and numbers are all separate&lt;/li&gt;
+&lt;li&gt;Magnets can be ordered &lt;a href="event:link|look_of_success_site" &gt;online&lt;/a&gt;.  All strips and numbers are direct printed on magnetic material&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as banners and adhesive graphics (floor and wall)&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;WEAVER MEDIA&lt;/textHeader&gt;
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 10 main menu boards including illuminated boards&lt;/li&gt;
+&lt;li&gt;All menu boards use magnetic strips (one strip that included menu items and prices)&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as adhesive graphics (floor and wall), concession stand graphics, banners&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards - Printed Piece-->
+    <screen title="Menu Boards - Printed Piece" id="MPP" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_concession_menu-board-printed.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Obtain pre-approved templates:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cups-->
+    <screen title="Cups" id="CUP" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_concession_cups.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Visuals are reference only.
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+
+&lt;li&gt;It is the requestor's responsibility to ensure logos are partner approved&lt;/li&gt;
+
+
+Obtain approved cups and/or templates as listed below:
+
+&lt;li&gt;PRIORITY #1  - Approved Red Coca-Cola Iconic Cups are available at the                 &lt;a href="event:link|coke-catalog_site" &gt;Coke Catalog&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;PRIORITY #2 – Approved Compostable &amp; Environmentally Sustainable Cups can be found at &lt;a href="event:link|spread_the_red_site" &gt;Spread the Red&lt;/a&gt;. To be used ONLY in venues that have a composting program.&lt;textNote&gt;  (* Search Key Words “Green cupware”)&lt;/textNote&gt;&lt;/li&gt;
+&lt;li&gt;PRIORITY #3 - Approved Asset Specific Cup Templates can be ordered and customized by Finished Art. Contact Daphne Brown via &lt;a href="event:email|finished-art2_email_contact" &gt;email&lt;/a&gt;.&lt;/li&gt;
+
+&lt;li&gt;PRIORITY #4 – Approved artwork for Partner can be ordered by Finished Art.  Contact Daphne Brown via &lt;a href="event:email|finished-art2_email_contact" &gt;email&lt;/a&gt;.&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Backs, Static-->
+    <screen title="Fountain Backs, Static" id="FBS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_concession_fountain_static.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Cards-->
+    <screen title="Counter Cards" id="CCS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_concession_counter-cards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Crew Uniforms / Hawking Trays-->
+    <screen title="Crew Uniforms / Hawking Trays" id="CUH" group="In-Venue Elements" zone="1">
+      <card title="CREW UNIFORMS" kind="image_left">
+        <item kind="image" file="media/assets/_common/concession_uniforms.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;CREW UNIFORMS&lt;/textHeader&gt;
+&lt;textBody&gt;For brand-specific items:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="HAWKING TRAYS" kind="image_right">
+        <item kind="image" file="media/assets/_common/concession_hawking-tray.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;HAWKING TRAYS&lt;/textHeader&gt;
+&lt;textBody&gt;Refer to the Merchandising Idea Book or go to:
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Concession Signage-->
+    <screen title="Exterior Concession Signage" id="ECS" group="In-Venue Elements" zone="1">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_concession_exterior-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Mobile Merchandising Equipment-->
+    <screen title="Mobile Merchandising Equipment" id="MME" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_mobile-messaging.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts for Mobile Merchandising Equipment.
+
+To Produce:
+
+IRP
+Contact Brent Storhoff
+(563) 380-5832
+&lt;a href="event:email|irp_email_contact" &gt;/ email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Barrel Coolers-->
+    <screen title="Barrel Coolers" id="BCS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_barrel_coolers.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order approved layouts:
+
+Finished Art
+Daphne Brown
+(404) 355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;
+
+
+To Produce:
+
+Display Industries
+Contact Rena Thomas 
+(404) 350-4807
+&lt;a href="event:email|display-ind_email_contact" &gt;/ Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Recycling Bins-->
+    <screen title="Recycling Bins" id="RBS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/_common/concourse_recycling-bins.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order Recycling Bins:
+
+Coke Bins
+&lt;a href="event:link|coke-bins_site" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Horizontal Signage-->
+    <screen title="Horizontal Signage" id="HOZ" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/basketball/pro_horizontal-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Vertical Signage-->
+    <screen title="Vertical Signage" id="VER" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Banners" file="media/assets/basketball/pro_vertical-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Directional Signage-->
+    <screen title="Directional Signage" id="DIS" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_directional-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;
+
+
+For printing and installation of 3M Adhesive Wraps:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+OR
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Public Announcements-->
+    <screen title="Public Announcements" id="PAN" group="In-Venue Elements">
+      <card title="PUBLIC ANNOUNCEMENTS" kind="scripts" approved="TO BE READ DURING LIVE GAMES ON PA SYSTEMS">
+        <item kind="script" id="ENG_PA_15_basket-pro" code="PA" language="English" length=":15">
+          <text>VO: Sprite. The Spark. Crack open an ice cold Sprite for a crisp, refreshing splash of lemon-lime. The perfect sip before, during or after the game. Official sponsor of refreshment. Proud partner of basketball.
+</text>
+        </item>
+        <item kind="script" id="ENG_PA_10_basket-pro" code="PA" language="English" length=":10">
+          <text>VO: Sprite. The Spark. Crack open an ice cold Sprite for a crisp, refreshing splash of lemon-lime. Official sponsor of refreshment. Proud partner of basketball.
+</text>
+        </item>
+        <item kind="script" id="ENG_PA_05_basket-pro" code="PA" language="English" length=":05">
+          <text>VO: Sprite. The Spark. Official sponsor of refreshment. Proud partner of basketball.
+</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Signage Order Instructions-->
+    <screen title="Static Signage Order Instructions" id="STS" group="In-Venue Elements">
+      <card title="SUPPLIERS / ORDER INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;STATIC SIGNAGE ORDER INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+This creative is approved to be used In-Venue on Static  Vinyl and digital boards.
+
+Static Signs (LED back-lit/non back-lit, Dioramas, Rotational signs, Pillars, Billboards, etc., Out-door boards, Stand-alone, Scoreboards, Billboards etc.)
+
+&lt;li&gt;All Brand graphics and artwork for Static signage used in stadiums, arena and other venues can be accessed &lt;a href="event:link|coke-in-venue_deep" &gt;online&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;The brand signage graphics have been created in a wide variety of proportions and styles&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Video Signage - Jumbo-Tron-->
+    <screen title="Video Signage - Jumbo-Tron" id="VJT" group="In-Venue Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="“Sprite 2009 Iconic” Jumbo-Tron Creative (Product)" code="KOSPV952466" length=":15" sizes="1920x1440, 640x480, 480x720, 112x352" file="media/assets/basketball/KOSPV952466.flv"></item>
+        <item kind="video" title="“Sprite 2009/2010 Basketball&quot; In-Stadium Jumbo-Tron Creative" code="KOSPT952472" length=":15" sizes="120x72, 144x224, 160x96, 160x165, 372x112, 384x224, 720x486" file="media/assets/basketball/KOSPT952472.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative is approved to use In-Venue on video screens.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Sizes have already been created which are listed below each design and are available for download on the Cinema Concepts website.  Should you require a different size you will need to fill out an order form.  Note there is a charge for customized sizes.
+
+&lt;textBody&gt;Submit orders for In Venue Video Signage via &lt;a href="event:email|cinema-concepts_email_contact" &gt;email&lt;/a&gt; or 770.956.7460.
+
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ cokeinvenue.com User Guide&lt;/a&gt; 
+
+The website link will bring you into the signage site.  Once in the site you can view all of the available graphics for Jumbo-Trons and fascia rings.  Click on the image and Windows Media Play will display the animation. There are two order forms in Word and PDF formats.  The PDF allows you to directly submit the order form.
+
+All requests should include the following information:
+
+&lt;li&gt;Type of Venue:  In Arena, In Concession, Vending, In-Store, In Restaurant&lt;/li&gt;
+&lt;li&gt;Video Type:  Jumbotron, Fascia, Video Menu Board, and u-Vending Video&lt;/li&gt;
+&lt;li&gt;Creative Code (found on site under creative visual)&lt;/li&gt;
+&lt;li&gt;Brand&lt;/li&gt;
+&lt;li&gt;Format:  .avi, .mov, .swf&lt;/li&gt;
+&lt;li&gt;Size in pixels (width and height)&lt;/li&gt;
+&lt;li&gt;Method of Delivery:  FTP Download or Overnight shipment (DVD or Digital Beta Tape)&lt;/li&gt;
+
+There is a $250 charge per size for orders filled within 4 business days.  
+For rush orders additional fees, as listed on the form, will apply.
+
+Billing information for CCNA requestors as well as CCE/Field Managers and Customers is explained on the order form.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Video Signage - Fascia-->
+    <screen title="Video Signage - Fascia" id="VSF" group="In-Venue Elements">
+      <card title="PREVIEW" kind="media_clips">
+        <item kind="video" title="2011 Sprite Basketball Fascia" code="KOSPV152620" length=":15" sizes="144x32, 192x24, 192x27, 231x32, 272x40, 288x64, 368x40, 960x32, 1000x48, 1408x44, 1456x32, 1456x48, 1472x24, 1536x44, 1728x32, 1728x112, 1792x72, 2028x64, 2048x48, 2064x48, 2272x24, 2272x64, 2656x48, 2816x72, 3456x64, 3480x180, 3712x48, 3744x32, 3840x180, 4155x24, 4992x24, 5472x24, 8864x24, 11184x32, 11232x27, 11520x27, 12528x32, 13120x32, 14335x40, 15984x32" file="media/assets/basketball/KOSPV152620.flv" />
+        <item kind="video" title="“Sprite 2009 Iconic” Fascia Signage  " code="KOSPV952467 " length=":15" sizes="192x27, 5120x180, 11232x27&#xD;&#xA;" file="media/assets/basketball/KOSPV952467.flv" />
+      </card>
+      <card title="USAGE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;USAGE&lt;/textHeader&gt;
+This creative is approved to use In-Venue on video screens.</text>
+        </item>
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Sizes have already been created which are listed below each design and are available for download on the Cinema Concepts website.  Should you require a different size you will need to fill out an order form.  Note there is a charge for customized sizes.
+
+&lt;textBody&gt;Submit orders for In Venue Video Signage via &lt;a href="event:email|cinema-concepts_email_contact" &gt;email&lt;/a&gt; or 770.956.7460.
+
+&lt;a href="event:link|coke-in-venue_site" &gt;/ Website&lt;/a&gt; 
+&lt;a href="event:link|coke-in-venue_guide" &gt;/ cokeinvenue.com User Guide&lt;/a&gt; 
+
+The website link will bring you into the signage site.  Once in the site you can view all of the available graphics for Jumbo-Trons and fascia rings.  Click on the image and Windows Media Play will display the animation. There are two order forms in word and pdf formats.  The pdf allows you to directly submit the order form.
+
+All requests should include the following information:
+
+&lt;li&gt;Type of Venue:  In Arena, In Concession, Vending, In-Store, In Restaurant&lt;/li&gt;
+&lt;li&gt;Video Type:  Jumbotron, Fascia, Video Menu Board, and u-Vending Video&lt;/li&gt;
+&lt;li&gt;Creative Code (found on site under creative visual)&lt;/li&gt;
+&lt;li&gt;Brand&lt;/li&gt;
+&lt;li&gt;Format:  .avi, .mov, .swf&lt;/li&gt;
+&lt;li&gt;Size in pixels (width and height)&lt;/li&gt;
+&lt;li&gt;Method of Delivery:  FTP Download or Overnight shipment (DVD or Digital Beta Tape)&lt;/li&gt;
+
+There is a $250 charge, per size for orders filled within 4 business days.  
+For rush orders additional fees, listed on the form, will apply.
+
+Billing information for CCNA requestors as well as CCE/Field Managers, and Customers is explained on the order form.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Dasher-board Elements-->
+    <screen title="Dasher-board Elements" id="DBE" group="In-Venue Elements" zone="2">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_dasher-boards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Include in your email:
+
+&lt;li&gt;Size needed&lt;/li&gt;
+&lt;li&gt;File Format needed&lt;/li&gt;
+&lt;li&gt;Ship to information&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Logo Elements-->
+    <screen title="Logo Elements" id="LOE" group="In-Venue Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_logo-elements.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get Approved Artwork:
+
+Finished Art
+&lt;a href="event:link|finished-art_site" &gt;/ Website&lt;/a&gt;
+
+Daphne Brown
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+Include in your email:
+
+&lt;li&gt;Size needed&lt;/li&gt;
+&lt;li&gt;File Format needed&lt;/li&gt;
+&lt;li&gt;Ship to information&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Exterior Signage-->
+    <screen title="Exterior Signage" id="ESI" group="In-Venue Elements" zone="3">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Exterior Signage" file="media/assets/basketball/pro_exterior-signage.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved layouts can be obtained:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--RETAIL ELEMENTS-->
+    <!--POS-->
+    <screen title="POS" id="POS" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_retail_pos.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get approved artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--POS - Humanity-->
+    <screen title="POS - Humanity" id="PSH" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_retail_pos-humanity.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get approved artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Truck Backs-->
+    <screen title="Truck Backs" id="TRU" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/basketball/pro_retail_truck-backs.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To get approved artwork for Logo Only Customization:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_basketball_pro" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="ADDITIONAL CUSTOMIZATION" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ADDITIONAL CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;Pricing for Customization of Logo &amp; Custom Copy Template:
+
+&lt;li&gt;$95 per truck back layout (Requestor will receive back from Finished Art a customized layout that has been approved by IMC)&lt;/li&gt;
+
+&lt;li&gt;$50 for each copy and/or logo revision&lt;/li&gt;
+
+REGION IS RESPONSIBLE FOR COVERING CUSTOMIZATION COSTS.
+
+
+When logo and supportive copy are required, please contact Finished Art to order and customize template within the approved ‘white space’:
+
+Finished Art
+Daphne Brown // 404-355-7902
+&lt;a href="event:email|finished-art2_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

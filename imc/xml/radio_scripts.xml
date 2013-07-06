@@ -1,0 +1,1535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;WHAT IS IT?&lt;/textHeader&gt;
+&lt;textBody&gt;This Creative Toolkit contains pre-approved radio script templates, written in a season-neutral brand voice, that can be utilized to fulfill media commitments as part of TCCC  &lt;bold&gt;contractual&lt;/bold&gt;  agreements with asset partners.   It is categorized by brand and segmented by script type.   Custom script requests can be order via the toolkit.  See Custom Request instructions for details.&lt;/textBody&gt;
+&lt;textHeader&gt;PLEASE NOTE:&lt;/textHeader&gt;
+&lt;textBody&gt;Templates are pre-approved by Brand/Legal however, it is the responsibility of requestor to obtain the appropriate legal approval for Contests, Games of Chance, Sweepstakes, and other initiatives that include  game rules  and participant restrictions.
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;
+&lt;textHeader&gt;OBJECTIVE&lt;/textHeader&gt;
+&lt;textBody&gt;Season-neutral scripts developed to generate Brand awareness and drive volume throughout the year and across different initiatives.&lt;/textBody&gt;
+&lt;textHeader&gt;BRANDS&lt;/textHeader&gt;
+&lt;li&gt;Coca-Cola&lt;/li&gt;
+&lt;li&gt;Coke Zero&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Radio Traffic Process-->
+    <screen title="Radio Traffic Process" id="RTP">
+      <card title="RADIO TRAFFIC PROCESS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/radio_scripts/radio-traffic-process.swf" />
+      </card>
+    </screen>
+    <!--ISCI Code Requests-->
+    <screen title="User Instructions/Access" id="UIA" group="ISCI Code Requests">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textBody&gt;
+All creative assets produced for The Coca-Cola Company require a 
+Creative Code, which is a unique ID used to identify each asset. 
+The Creative Code must conform to The Coca-Cola Company's formatting 
+and coding conventions. The Creative Code Assignment Resource (CCAR) 
+has been developed to simplify the process of generating Creative Codes within 
+The Coca-Cola Company's guidelines.
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textBody&gt;
+&lt;textHeader&gt;REQUESTING A USER ACCOUNT&lt;/textHeader&gt;
+
+If you are a first-time user of the CCAR, you will need to request 
+that an account be created for you.  Go to the &lt;a href="event:link|spotlight_site"&gt;CCAR Login page&lt;/a&gt;.  
+Click the link to request a new user account and fill out the form 
+with your name, email address, and agency.
+
+&lt;bold&gt;Check the box to indicate that you will be requesting 
+codes for Radio Scripts only.&lt;/bold&gt;
+
+&lt;img src="media/assets/radio_scripts/01_new-user-request.jpg"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+During normal business hours (9:00AM to 5:00PM Central), 
+within 30 minutes you will receive an account confirmation 
+message with your login credentials.
+
+
+&lt;textHeader&gt;LOGGING IN&lt;/textHeader&gt;
+
+To log into the CCAR, go to the &lt;a href="event:link|spotlight_site"&gt;Login page&lt;/a&gt;.  
+
+Enter your Username and Password, then click the ‘Login' button.
+
+
+&lt;textHeader&gt;REQUESTING A CODE&lt;/textHeader&gt;
+
+Once you have logged in, CCAR will guide you through making the selections necessary to accurately assign Creative Codes for your project. Generally, you will move forward through the process by clicking the ‘Continue' button.  If you need to go back and make changes, you can click the ‘Previous' button.
+
+To request a new Radio Script code, click the ‘Request Code’ button from the CCAR Main Menu.  Then, enter details regarding the Radio Script.
+
+&lt;img src="media/assets/radio_scripts/02_customized-radio-script.jpg"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On the Distribution screen, enter the email addresses of recipients to receive the code.
+
+&lt;img src="media/assets/radio_scripts/03_distribution.jpg"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alternatively, you can select contacts from your Address Book by clicking on the magnifying glass icon to the right of the box.  You may also create new contacts in your Address Book.
+
+&lt;img src="media/assets/radio_scripts/04_address-book.jpg"&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You will be given the opportunity to review  the information you entered before generating the code.  Use the ‘Previous’ button to return to an earlier screen to make corrections.
+
+The final screen shows you the code(s) that have been assigned.  In addition, an email is  sent to your email address with this information.  Using the button on  the bottom of the screen you may also ‘Print' the list of codes, ‘Email Copy' to additional email addresses, ‘Exit' the CCAR software, or click ‘More' to get additional codes.
+
+
+&lt;textHeader&gt;SUPPORT&lt;/textHeader&gt;
+
+If you run into problems accessing or using the Creative Code Assignment Resource, you may contact Spotlight's technical support.
+
+&lt;a href="event:email|ccar_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coca-Cola Radio Scripts-->
+    <screen title="Radio Scripts" id="CCS" group="Coca-Cola Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Customer Sell-In Tag & Live Read Templates-->
+        <!--* IC Season Neutral with Generic Retailer-->
+        <item kind="script" id="KOCLY220071" code="KOCLY220071" language="English" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Season Neutral with Generic Retailer">
+          <text>AVO:  Here’s one of the awesome things about refreshing Coca-Cola: your friends can always agree on it. So the picky friend and the wishy-washy friend are both more than happy to head on over to a convenience store, and grab a Coke. So, who wants to get totally refreshed with an ice-cold Coke? Yeah, looks like that would be everybody. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250072" code="KOCLY250072" language="English" length=":15" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Season Neutral with Generic Retailer">
+          <text>AVO: Here’s one of the awesome things about refreshing Coca-Cola: your friends can always agree on it. So the picky friend and the wishy-washy friend will both happily head on over to a convenience store, and grab an ice-cold Coke. Refreshing Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210073" code="KOCLY210073" language="English" length=":10" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Season Neutral with Generic Retailer">
+          <text>AVO: One of the awesome things about Coca-Cola: your friends all agree on it. So they will happily head to a convenience store for an ice-cold Coke. Refreshing Coca-Cola. Open happiness.</text>
+        </item>
+        <!--* IC Season Neutral with Package, Price Point and Retailer-->
+        <item kind="script" id="KOCLY220077" code="KOCLY220077" language="English" length=":20" subgroup="IC Season Neutral with Package, Price Point and Retailer">
+          <text>AVO:  Here’s one of the awesome things about refreshing Coca-Cola: your friends can always agree on it. So the picky friend and the wishy-washy friend are both more than happy to head on over to {{[RETAILER]}}, and grab an ice-cold {{[PACKAGE]}} Coke for just {{[$X]}}. So, who wants a refreshing Coke? Yeah, that would be everybody. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250078" code="KOCLY250078" language="English" length=":15">
+          <text>AVO: One awesome thing about refreshing Coca-Cola: your friends always agree on it. So the picky friend and the wishy-washy friend will both happily head to {{[RETAILER]}}, and grab an ice-cold {{[PACKAGE]}} Coke for just {{[$X]}}. Refreshing Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210079" code="KOCLY210079" language="English" length=":10">
+          <text>AVO: One thing about Coca-Cola: your friends all agree on it. So they will happily head to {{[RETAILER]}}, and grab a {{[PACKAGE]}} Coke for just {{[$X]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--* IC Stop By with Retailer, Price, and Package-->
+        <item kind="script" id="KOCLY230084" code="KOCLY230084" language="English" length=":30" subgroup="IC Stop By with Retailer, Price, and Package">
+          <text>Let’s be simple about this. You like Coca-Cola. And nothing beats ice-cold Coca-Cola. Except Coca-Cola for a really sweet price. So stop by a participating {{[RETAILER]}} and pick up a {{[PACKAGE SIZE]}} for only {{[PRICE]}}. That’s right, we said {{[PRICE]}}. And it's happening now. But it’s not forever. This special deal is good {{[DATE]}} through {{[DATE]}} and only at participating {{[RETAILER]}} locations. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220083" code="KOCLY220083" language="English" length=":20">
+          <text>Let’s be simple about this. You like Coca-Cola. And nothing beats ice-cold Coca-Cola. Except Coca-Cola for a really sweet price. So stop by a participating {{[RETAILER]}} and pick up a {{[PACKAGE SIZE]}} for only {{[PRICE]}}. This special deal is good {{[DATE]}} through {{[DATE]}} and only at participating {{[RETAILER]}} locations. Coca-Cola. Open Happiness.</text>
+        </item>
+        <!--* FC Season Neutral with Generic Retailer   -->
+        <item kind="script" id="KOCLY220074" code="KOCLY220074" language="English" length=":20" subgroup="FC Season Neutral with Generic Retailer   ">
+          <text>AVO:  When it comes to getting dinner on the table and making the family happy, we all turn to shortcuts now and then. And my favorite---opening up some refreshing Coca-Cola from my local grocery store, and sharing a little happiness all around. With ice-cold Coca-Cola, a great meal CAN be a snap. And a twist. And a pour. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250075" code="KOCLY250075" language="English" length=":15">
+          <text>AVO:  When it comes to serving up a great meal, we all rely on shortcuts now and then. And my favorite---opening up some refreshing Coca-Cola from my local grocery store. With ice-cold Coke, a great meal CAN be a snap. And a twist. And a pour. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210076" code="KOCLY210076" language="English" length=":10">
+          <text>AVO:  Great meals call for shortcuts---like opening some Coca-Cola from my local grocery. With Coke, great meals CAN be a snap. And a twist. And a pour. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--* FC Season Neutral with Package, Price Point and Retailer-->
+        <item kind="script" id="KOCLY220080" code="KOCLY220080" language="English" length=":20" subgroup="FC Season Neutral with Package, Price Point and Retailer">
+          <text>AVO:  When it comes to getting dinner on the table and making the family happy, we all turn to shortcuts now and then. And my favorite shortcut---opening up a {{[PACKAGE]}} of refreshing Coca-Cola---just {{[$X]}} at your local {{[RETAILER]}}. With ice-cold Coca-Cola, a great meal CAN be a snap. And a twist. And a pour. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY250081" code="KOCLY250081" language="English" length=":15">
+          <text>AVO:  When it comes to serving up a great meal, we rely on shortcuts. And my favorite---opening up a {{[PACKAGE]}} of refreshing Coca-Cola---just {{[$X]}} at {{[RETAILER]}}. With Coke, a great meal CAN be a snap. And a twist. And a pour. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY210082" code="KOCLY210082" language="English" length=":10">
+          <text>AVO:  Open a {{[PACKAGE]}} of Coca-Cola—just {{[$X]}} at {{[RETAILER]}}. You’ll see that serving up a great meal CAN be a snap. And a twist. And a pour. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--* FC General Stock Up / Moms with Retailer, Price, and Package-->
+        <item kind="script" id="KOCLY230088" code="KOCLY230088" language="English" length=":30" subgroup="FC General Stock Up / Moms with Retailer, Price, and Package">
+          <text>And now a message for Mom, since no one works harder. Mom, we are cordially inviting you to visit {{[RETAILER]}}. Because {{[RETAILER]}} makes it easy for you to stock up on Coca-Cola. For your family, friends, other moms, even others who simply appreciate moms. What’s important here is what makes everyone happy, especially Mom. So stock up on Coke now through {{[END DATE]}}, by looking for {{[PACKAGE]}} at your nearest {{[RETAILER]}} for {{[PRICE]}}. Thanks, Mom. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220087" code="KOCLY220087" language="English" length=":20">
+          <text>And now a message for Mom. Mom, we are cordially inviting you to visit {{[RETAILER]}}.  Because {{[RETAILER]}} makes it easy for you to stock up on Coca-Cola. For your family, friends, or even other moms. So stock up, now through {{[END DATE]}}, on Coke by looking for {{[PACKAGE]}} at your nearest {{[RETAILER]}} for {{[PRICE]}}. Thanks, Mom. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--* FC General Stock Up / Moms with Package and Season-->
+        <item kind="script" id="KOCLY230092" code="KOCLY230092" language="English" length=":30" subgroup="FC General Stock Up / Moms with Package and Season">
+          <text>And now a message for Mom, since no one works harder. Mom, we are cordially inviting you to stock up on {{[PACKAGE SIZE]}} of Coca-Cola. For your family, friends, other moms, even others who simply appreciate moms. It’s all to help everyone enjoy Coca-Cola during the {{[SEASON]}}. So stock up on Coke {{[PACKAGE SIZE]}} by looking for displays of Coca-Cola at your grocery store. Thanks, Mom. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220091" code="KOCLY220091" language="English" length=":20">
+          <text>And now a message for Mom. Mom, we are cordially inviting you to stock up on {{[PACKAGE SIZE]}} of Coca-Cola. For your family, friends, or even other moms. It’s all to help everyone enjoy Coca-Cola during the {{[SEASON]}}. So stock up on Coke {{[PACKAGE SIZE]}} by looking for displays of Coca-Cola at your grocery store. Thanks, Mom. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--* Grill/Stock Up Live Reads with Retailer, Package, and Price-->
+        <item kind="script" id="KOCLY130112" code="KOCLY130112" language="English" length=":30" subgroup="Grill/Stock Up Live Reads with Retailer, Package, and Price">
+          <text>AVO:  Burgers and dogs hot off the grill. All of the family’s favorite sides. And all your favorite people. Now head to your local {{[RETAILER]}} for a king-size cooler full of ice-cold Coke. No matter what you’re serving up, you can be sure that Coca-Cola will be the drink everyone reaches for. Before you fire up the grill, get to your local {{[RETAILER]}}. And pick up a {{[PACKAGE]}} of Coca-Cola for {{[PRICE]}}. If cooking out, catching up and kicking back had an official drink, it would be refreshing Coke. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY120113" code="KOCLY120113" language="English" length=":20">
+          <text>AVO:  Burgers and dogs hot off the grill. All of the family’s favorite sides. And all your favorite people. Now, all you need is plenty of ice-cold Coke. No matter what you’re serving up, you can bet that Coca-Cola will be the drink everyone reaches for. So get to your local {{[RETAILER]}}, and pick up a {{[PACKAGE]}} of refreshing Coke for {{[PRICE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY150114" code="KOCLY150114" language="English" length=":15">
+          <text>AVO:  No matter what you’re serving up, you can bet that Coca-Cola will be the drink everyone reaches for. So before you fire up the grill, get to your local {{[RETAILER]}}. And pick up a {{[PACKAGE]}} of refreshing Coke for {{[PRICE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--* Family Time Live Reads with Retailer, Package, and Price-->
+        <item kind="script" id="KOCLY130115" code="KOCLY130115" language="English" length=":30" subgroup="Family Time Live Reads with Retailer, Package, and Price">
+          <text>AVO:  Family time. Time for reunions. Parties. And just coming together for the sheer joy of it.   Wherever your family gathers ice-cold Coke can keep the good times flowing.  Before your next get-together, head on over to your neighborhood {{[RETAILER]}}.  And pick up a {{[PACKAGE]}} of Coca-Cola for {{[PRICE]}}. Here’s to family time. And to sharing the best moments of our lives with another great tradition:  refreshing Coke from your local {{[RETAILER]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY120116" code="KOCLY120116" language="English" length=":20">
+          <text>AVO: Family time. Time for reunions. Parties.  And just coming together for the sheer joy of it. Wherever your family gathers make sure the ice-cold Coke is there to keep the good times flowing. Before your next get-together, get to your local {{[RETAILER]}}. And pick up a {{[PACKAGE]}} of refreshing Coca-Cola for {{[PRICE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY150117" code="KOCLY150117" language="English" length=":15">
+          <text>AVO: Wherever your family gathers make sure the ice-cold Coke is there to keep the good times flowing. Before your next get-together, get to your local {{[RETAILER]}}. And pick up a {{[PACKAGE]}} of refreshing Coke for {{[PRICE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY110118" code="KOCLY110118" language="English" length=":10">
+          <text>AVO: No matter what fun you’ve got planned, there’s no better way to enjoy it than with some ice-cold Coke. Brought to you by Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY100119" code="KOCLY100119" language="English" length=":05">
+          <text>AVO: Family fun and ice-cold refreshment. Brought to you by Coca-Cola. Open Happiness.</text>
+        </item>
+        <!--* Upcoming Customer Events (General) Templates - With Location Details-->
+        <item kind="script" id="KOCLY130122" code="KOCLY130122" language="English" length=":30" subgroup="Upcoming Customer Events (General) Templates - With Location Details">
+          <text>What better way to celebrate than to have a party?  Throughout {{[MONTH]}}, {{[RETAILER]}} will be hosting Coca-Cola {{[INSERT EVENT NAME]}} to celebrate {{[INSERT DETAIL]}}.  Visit your {{[LOCATION/RETAILER]}} on {{[DATE]}} for music, food, and beverages and the chance to win Coke prizes.  Come out and celebrate with Coca-Cola and {{[RETAILER]}}.  Coca-Cola.  Open Happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY150120" code="KOCLY150120" language="English" length=":15">
+          <text>Throughout {{[MONTH]}}, {{[RETAILER]}} will be hosting Coca-Cola {{[INSERT EVENT NAME]}} to celebrate {{[INSERT DETAIL]}}.  Visit your {{[LOCATION/RETAILER]}} on {{[DATE]}} for music, food, and beverages.  Coca-Cola.  Open Happiness.</text>
+        </item>
+        <!--* Upcoming Customer Events (General) Templates - Without Location Details-->
+        <item kind="script" id="KOCLY150121" code="KOCLY150121" language="English" length=":15" subgroup="Upcoming Customer Events (General) Templates - Without Location Details">
+          <text>Throughout {{[MONTH]}}, {{[RETAILER]}} and Coca-Cola  are bringing you the {{[INSERT EVENT NAME]}} to celebrate {{[INSERT DETAIL]}}.  Visit your local {{[RETAILER]}} to see when {{[INSERT EVENT NAME]}} will be in your area.  Coca-Cola.  Open Happiness.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Customer Sell-In Tag & Live Read Templates-->
+        <!--* IC Season Neutral with Generic Retailer-->
+        <item kind="script" id="KOCLY120141" code="KOCLY120141" language="Spanish" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Season Neutral with Generic Retailer">
+          <text>LOC: Aquí te presentamos otra razón por la cual Coca-Cola es tan refrescante: Todos tus amigos están de acuerdo. Desde tu amigo el quisquilloso, hasta tu amigo el relajado están de acuerdo en ir a la tienda por una Coca-Cola. Así que, ¿quién quiere refrescarse con una Coca-Cola bien fría? Sí, parece que a todos les gustaría. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY150142" code="KOCLY150142" language="Spanish" length=":15" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Season Neutral with Generic Retailer">
+          <text>LOC: Aquí te presentamos otra razón por la cual Coca-Cola es tan refrescante: Todos tus amigos están de acuerdo. Desde tu amigo el quisquilloso, hasta tu amigo el relajado son más que felices de ir a la tienda por una Coca-Cola bien fría. Coca-Cola refresca, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY110143" code="KOCLY110143" language="Spanish" length=":10" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Season Neutral with Generic Retailer">
+          <text>LOC: Aquí te presentamos otra razón por la cual Coca-Cola es tan refrescante: Todos tus amigos están de acuerdo. Entonces, ¿qué esperan para ir a la tienda por una Coca-Cola bien fría? Coca-Cola refresca. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--* IC Season Neutral with Package, Price Point and Retailer-->
+        <item kind="script" id="KOCLY120144" code="KOCLY120144" language="Spanish" length=":20" subgroup="IC Season Neutral with Package, Price Point and Retailer">
+          <text>LOC: Aquí te presentamos otra razón por la cual Coca-Cola es tan refrescante: Todos tus amigos están de acuerdo. Desde tu amigo el quisquilloso, hasta tu amigo el relajado están de acuerdo en ir a {{[RETAILER]}} por una {{[PACKAGE]}} de Coca-Cola por solo {{[$X]}}. Así que, ¿quién quiere refrescarse con una Coca-Cola bien fría? Sí, parece que a todos les gustaría. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY150145" code="KOCLY150145" language="Spanish" length=":15">
+          <text>LOC: Aquí te presentamos otra razón por la cual Coca-Cola es tan refrescante: Todos tus amigos están de acuerdo. Desde tu amigo el quisquilloso, hasta tu amigo el relajado son más que felices en ir a {{[RETAILER]}} por un {{[PACKAGE]}} de Coca-Cola por solo {{[$X]}}. Coca-Cola refresca. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY110146" code="KOCLY110146" language="Spanish" length=":10">
+          <text>LOC: Aquí te presentamos otra razón por la cual Coca-Cola es tan refrescante: Todos tus amigos están de acuerdo. Entonces ve a {{[RETAILER]}} por un {{[PACKAGE]}} de Coca-Cola por solo {{[$X]}}. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--* IC Stop By with Retailer, Price, and Package-->
+        <item kind="script" id="KOCLY230086" code="KOCLY230086" language="Spanish" length=":30" subgroup="IC Stop By with Retailer, Price, and Package">
+          <text>Seamos sinceros. A usted le gusta Coca-Cola. Y nada supera a una Coca-Cola bien helada. Excepto Coca-Cola a un precio realmente bueno. Así que pase por una tienda {{[RETAILER]}} participante y compre una {{[PACKAGE SIZE]}} a tan sólo {{[PRICE]}}. Escuchó bien, a tan sólo {{[PRICE]}}. Y está ocurriendo ahora mismo. Pero no es para siempre. Esta oferta especial es válida desde el {{[DATE]}} hasta el {{[DATE]}}, sólo en tiendas {{[RETAILER]}} participantes. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY220085" code="KOCLY220085" language="Spanish" length=":20">
+          <text>Seamos sinceros. A usted le gusta Coca-Cola. Y nada supera a una Coca-Cola bien helada. Excepto Coca-Cola a un precio realmente bueno. Así que pase por una tienda {{[RETAILER]}} participante y compre una {{[PACKAGE SIZE]}} a tan sólo {{[PRICE]}}. Esta oferta especial es válida desde el {{[DATE]}} hasta el {{[DATE]}}, sólo en tiendas {{[RETAILER]}} participantes. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <!--* FC Season Neutral with Generic Retailer   -->
+        <item kind="script" id="KOCLY120147" code="KOCLY120147" language="Spanish" length=":20" subgroup="FC Season Neutral with Generic Retailer   ">
+          <text>LOC: Cuando se trata de comer y de hacer feliz a la familia, todos preferimos hacerlo rápido de vez en cuando. Mi manera favorita: ir a la tienda por una Coca-Cola refrescante y compartirla con los míos. Con Coca-Cola, tener una comida increible puede ser sencillo, rápido y divertido. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY150148" code="KOCLY150148" language="Spanish" length=":15">
+          <text>LOC: Cuando se trata de servir la comida, todos lo hacemos lo más rápido posible. Mi manera favorita: ir a la tienda por una Coca-Cola bien fría. Con Coca-Cola, tener una comida increible puede ser sencillo, rápido y divertido. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY110149" code="KOCLY110149" language="Spanish" length=":10">
+          <text>LOC: Cuando organizas una gran comida, es necesario tomar atajos, como ir a la tienda por Coca-Cola refrescante. Con Coca-Cola, las grandes comidas pueden ser rápidas y memorables. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--* FC Season Neutral with Package, Price Point and Retailer-->
+        <item kind="script" id="KOCLY120150" code="KOCLY120150" language="Spanish" length=":20" subgroup="FC Season Neutral with Package, Price Point and Retailer">
+          <text>LOC: Cuando se trata de comer y de hacer feliz a la familia, todos preferimos hacerlo rápido de vez en cuando. Mi manera favorita: ir a {{[RETAILER]}} por {{[PACKAGE]}}  Coca-Cola refrescante por tan sólo {{[$X]}}  y compartirla con los míos. Con Coca-Cola, tener una comida increible puede ser sencillo, rápido y divertido. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY150151" code="KOCLY150151" language="Spanish" length=":15">
+          <text>LOC: Cuando se trata de servir la comida, todos lo hacemos lo más rápido posible. Mi manera favorita: ir a la {{[RETAILER]}} por {{[PACKAGE]}} Coca-Cola bien fría por {{[$X]}}. Con Coca-Cola, tener una comida increible puede ser sencillo, rápido y divertido. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY110152" code="KOCLY110152" language="Spanish" length=":10">
+          <text>LOC: Ve por {{[PACKAGE]}} Coca-Cola por sólo {{[$X]}} en tu {{[RETAILER]}} de preferencia. Verás que una gran comida puedes ser fácil, rápido y divertido. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--* FC General Stock Up / Moms with Retailer, Price, and Package-->
+        <item kind="script" id="KOCLY230090" code="KOCLY230090" language="Spanish" length=":30" subgroup="FC General Stock Up / Moms with Retailer, Price, and Package">
+          <text>Y ahora un mensaje para mamá, que es la más trabajadora de todos. Mamá, la invitamos cordialmente a visitar {{[RETAILER]}}. Porque {{[RETAILER]}} hace que sea sencillo abastecerse de Coca-Cola. Para su familia, amigos, otras mamás, incluso otras personas que simplemente aprecian a las mamás. Lo importante aquí es lo que hace feliz a todos, especialmente a mamá. Así que, desde ahora hasta el {{[END DATE]}}, podrá abastecerse de Coca Cola al buscar {{[PACKAGE]}} en su tienda {{[RETAILER]}} más cercana a {{[PRICE]}}. Gracias, mamá. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY220089" code="KOCLY220089" language="Spanish" length=":20">
+          <text>Y ahora un mensaje para mamá. Mamá, la invitamos cordialmente a visitar {{[RETAILER]}}. Porque {{[RETAILER]}} hace que sea sencillo abastecerse de Coca-Cola. Para su familia, amigos o incluso otras mamás. Así que, desde ahora hasta el {{[END DATE]}}, podrá abastecerse de Coca Cola al buscar {{[PACKAGE]}} en su {{[RETAILER]}} más cercana a {{[PRICE]}}. Gracias, mamá. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <!--* FC General Stock Up / Moms with Package and Season-->
+        <item kind="script" id="KOCLY230094" code="KOCLY230094" language="Spanish" length=":30" subgroup="FC General Stock Up / Moms with Package and Season">
+          <text>Y ahora un mensaje para mamá, que es la más trabajadora de todos. Mamá, la invitamos cordialmente a abastecerse de Coca-Cola de {{[PACKAGE SIZE]}}. Para su familia, amigos, otras mamás, incluso otras personas que simplemente aprecian a las mamás. El objetivo es ayudar a que todos disfruten de Coca-Cola durante el {{[SEASON]}}. Así que consiga suficiente Coca Cola de {{[PACKAGE SIZE]}} en los exhibidores de Coca-Cola en su tienda de alimentos. Gracias, mamá. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY220093" code="KOCLY220093" language="Spanish" length=":20">
+          <text>Y ahora un mensaje para mamá. Mamá, la invitamos cordialmente a abastecerse de Coca-Cola de {{[PACKAGE SIZE]}}. Para su familia, amigos o incluso otras mamás. El objetivo es ayudar a que todos disfruten de Coca-Cola durante el {{[SEASON]}}. Así que consiga suficiente Coca Cola de {{[PACKAGE SIZE]}} en los exhibidores de Coca-Cola en su tienda de alimentos. Gracias, mamá. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <!--* Grill/Stock Up Live Reads with Retailer, Package, and Price-->
+        <item kind="script" id="KOCLY130153" code="KOCLY130153" language="Spanish" length=":30" subgroup="Grill/Stock Up Live Reads with Retailer, Package, and Price">
+          <text>LOC: Las hamburguesas y los hot dogs están en la parrilla. Tu comida favorita y tus mejores amigos están presentes. Ahora ve a tu {{[RETAILER]}} por una hielera Coca-Cola King Size. No importa lo que estés sirviendo, ten la seguridad de que será Coca-Cola lo que todos tus amigos tomen.  Antes de prender la parrilla, ve a tu {{[RETAILER]}} y toma un {{[PACKAGE]}} de Coca-Cola bien fría por sólo {{[$X]}}. Si cocinar, platicar y reír tuviera una bebida oficial, esa sería Coca-Cola. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY120154" code="KOCLY120154" language="Spanish" length=":20">
+          <text>LOC: Las hamburguesas y los hot dogs están en la parrilla. Tu comida favorita y tus mejores amigos están presentes. Ahora lo único que falta es la Coca-Cola bien fría. No importa lo que estés sirviendo, ten la seguridad de que sera Coca-Cola lo que todos tus amigos tomen. Así que ve a tu {{[RETAILER]}} y toma un {{[PACKAGE]}} de Coca-Cola bien fría por sólo {{[$X]}}. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY150155" code="KOCLY150155" language="Spanish" length=":15">
+          <text>LOC: No importa lo que estés sirviendo, ten la seguridad de que será Coca-Cola lo que todos tus amigos tomen. Así que, antes de prender la parrilla, ve a tu {{[RETAILER]}} y toma un {{[PACKAGE]}} de Coca-Cola bien fría por sólo {{[$X]}}. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--* Family Time Live Reads with Retailer, Package, and Price-->
+        <item kind="script" id="KOCLY130156" code="KOCLY130156" language="Spanish" length=":30" subgroup="Family Time Live Reads with Retailer, Package, and Price">
+          <text>AVO:  Tiempo de familia. Tiempo de reuniones, fiestas. Sólo tener a los tuyos cerca y pasar un buen rato. Sea donde sea que la familia se reuna, una Coca-Cola puede hacer que los buenos tiempos sigan fluyendo. Antes de tu siguiente fiesta, ve a tu {{[RETAILER]}} y toma un {{[PACKAGE]}} de Coca-Cola por sólo {{[$X]}}. Brindemos por los tiempos familiares. Brindemos por compartir los mejores momentos de nuestras vidas con una nueva gran tradición: Coca-Cola de tu {{[RETAILER]}} más cercano. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY120157" code="KOCLY120157" language="Spanish" length=":20">
+          <text>AVO:  Tiempo de familia. Tiempo de reuniones, fiestas. Sólo tener a los tuyos cerca y pasar un buen rato. Sea donde sea que la familia se reuna, que haya Coca-Cola para que los buenos tiempos siempre fluyan. Antes de tu siguiente fiesta, ve a tu {{[RETAILER]}} y toma un {{[PACKAGE]}} de Coca-Cola por sólo {{[$X]}}. Coca-Cola, destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="KOCLY150158" code="KOCLY150158" language="Spanish" length=":15">
+          <text>LOC: Cuando se reuna la familia, asegurate de que haya Coca-Cola para que los buenos tiempos siempre fluyan. Antes de tu siguiente fiesta, ve a tu {{[RETAILER]}} y toma un {{[PACKAGE]}} de Coca-Cola por sólo {{[$X]}}. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY110159" code="KOCLY110159" language="Spanish" length=":10">
+          <text>LOC: No importa el plan divertido que tengas, no hay mejor manera de pasarla que con una Coca-Cola. Traído para ti por Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY100160" code="KOCLY100160" language="Spanish" length=":05">
+          <text>LOC: Familia, diversión y Coca-Cola fría. Traído para ti por Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--* Upcoming Customer Events (General) Templates - With Location Details-->
+        <item kind="script" id="KOCLY130163" code="KOCLY130163" language="Spanish" length=":30" subgroup="Upcoming Customer Events (General) Templates - With Location Details">
+          <text>¿Qué mejor manera de celebrar que en una fiesta? Durante {{[MONTH]}}, {{[RETAILER]}} estará patrocinando el Coca-Cola {{[INSERT EVENT NAME]}} para celebrar {{[INSERT DETAIL]}}. Ve a tu {{[LOCATION/RETAILER]}} más cercana el {{[DATE]}} por música, comida y Coca-Cola y la oportunidad de ganar premios Coca-Cola. Ven a celebrar con Coca-Cola y {{[RETAILER]}}. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY150161" code="KOCLY150161" language="Spanish" length=":15">
+          <text>Durante {{[MONTH]}}, {{[RETAILER]}} estará patrocinando el Coca-Cola {{[INSERT EVENT NAME]}} para celebrar {{[INSERT DETAIL]}}. Ve a tu {{[LOCATION/RETAILER]}} más cercana el {{[DATE]}} por música, comida y Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--* Upcoming Customer Events (General) Templates - Without Location Details-->
+        <item kind="script" id="KOCLY150162" code="KOCLY150162" language="Spanish" length=":15" subgroup="Upcoming Customer Events (General) Templates - Without Location Details">
+          <text>Durante {{[MONTH]}}, {{[RETAILER]}} estará patrocinando el Coca-Cola {{[INSERT EVENT NAME]}} para celebrar {{[INSERT DETAIL]}}. Ve a tu {{[RETAILER]}} para ver cuándo será {{[INSERT EVENT NAME]}} en tu localidad. Coca-Cola, destapa la felicidad.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coca-Cola Remote Events, Van Hits, Copy Points-->
+    <screen title="Remote Events &amp; Van Hits" id="CRV" group="Coca-Cola Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates and copy points provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  Please contact your station rep specific to this event for exact giveaway/package/pricing.
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="TEMPLATES AND COPY POINTS">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="ENG_AVO_day-of_no-special_30" code="AVO" language="English" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Two reasons to love a grand opening – Refreshing Coke and cool prizes.  Coca-Cola, {{[station]}} and {{[retailer]}} want you to be a part of the celebration.  Join us at {{[retailer]}} grand opening {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  And while you’re there, enter for a chance to win {{[asset]}} at {{[retailer]}} and stock up on Coca-Cola ---the one drink that goes with everything.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}, with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="ENG_AVO_day-of_no-special_15" code="AVO" language="English" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola, {{[station]}} and {{[retailer]}} want you to be a part of a celebration.  Join us at {{[retailer]}} grand opening {{[address]}} {{[day]}} {{[date]}} at {{[time to time]}}.  And while you’re there, enter for a chance to win {{[asset]}} at {{[retailer]}} {{[day]}} from {{[time to time]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_day-of_no-special_10" code="AVO" language="English" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>{{[Station]}} and Coca-Cola will be at {{[retailer]}}  grand opening, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us for all the fun.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_CP_day-of_no-special_60" code="Copy Points" language="English" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* We’re at {{[retailer]}} grand opening {{[address]}} today from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}} during {{[retailer’s]}} Grand Opening.  Coca-Cola.  Open Happiness. **
+
+* Two reasons to love grand openings – refreshing Coke and cool prizes.  Coca-Cola. Open Happiness. **
+
+* Be sure to get to your local {{[retailer]}}, and stock up on Coca-Cola --- the one drink that goes with everything you can cook up.  Coca-Cola.  Open Happiness. **
+
+* Stock up on Coca-Cola --- the one drink that goes with everything you can cook up. Coca-Cola. Open Happiness. **
+* Enjoy an ice-cold Coke. Coca-Cola. Open Happiness. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing-->
+        <item kind="script" id="ENG_AVO_at-retailer_giveaways_30" code="AVO" language="English" length=":30" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>Two reasons to join the party  – Refreshing Coke and cool prizes.  Coca-Cola, {{[station]}} and {{[retailer]}} want you to be a part of the fun.  Join us at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  And while you’re there, enter for a chance to win {{[asset]}}.   Stock up on ice cold Coke {{[package]}} for {{[price]}}.  Coca-Cola ---the one drink that goes with everything.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}, with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-retailer_giveaways_15" code="AVO" language="English" length=":15" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>Coca-Cola, {{[station]}} and {{[retailer]}} want you to be a part of the fun.  Join us at {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} at {{[time to time]}}.  And while you’re there, enter for a chance to win {{[asset]}} at {{[retailer]}} {{[day]}}.  And stock up on Coca-Cola {{[package]}} {{[price]}}.  Coca-Cola.  Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-retailer_giveaways_10" code="AVO" language="English" length=":10" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>{{[Station]}} and Coca-Cola will be at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us for all the fun.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_CP_at-retailer_giveaways_60" code="Copy Points" language="English" length=":60" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>* We’re at {{[retailer]}}, {{[address]}} today from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}} at {{[retailer]}} and stock up on {{[product]}} {{[price]}}.  Coca-Cola. Open Happiness. **
+
+* Be sure to get to your local {{[retailer]}}, and stock up on Coca-Cola --- the one drink that goes with everything you can cook up.  Coca-Cola.  Open Happiness. **
+
+* Stock up on Coca-Cola --- the one drink that goes with everything you can cook up. Coca-Cola. Open Happiness. **
+
+* Enjoy an ice-cold Coke. Coca-Cola. Open Happiness. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Event Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="ENG_AVO_at-event_giveaways_30" code="AVO" language="English" length=":30" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>Two reasons to love a party – refreshing Coke and cool prizes.  Coca-Cola and {{[station]}} want you to be a part of the fun.  Join us for {{[event]}} at {{[location]}} {{[day]}} {{[date]}} from {{[time to time]}}.  And while you’re there, enter for a chance to win {{[asset]}}.  And don’t forget to enjoy an ice-cold Coke.  Coca-Cola ---the one drink that goes with everything.  See you at {{[Event]}}, {{[day]}} from {{[time to time]}} with Coca-Cola and {{[Station]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-event_giveaways_15" code="AVO" language="English" length=":15" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola, and {{[station]}} want you to be a part of the fun.  Join us for {{[event]}} at {{[location]}} {{[day]}} {{[date]}} from {{[time to time]}}. And while you’re there, enter for a chance to win {{[asset]}} at the {{[station location]}} at {{[event]}}.  And don’t forget to enjoy an ice cold Coke.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-event_giveaways_10" code="AVO" language="English" length=":10" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>{{[Station]}} and Coca-Cola will be at {{[Event]}} at {{[location]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us at {{[Event]}} for all the fun.   Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_CP_at-event_giveaways_60" code="Copy Points" language="English" length=":60" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>* We’re at {{[event]}}, {{[location]}} today from {{[time]}} to {{[time]}}. Stop by and enter for a chance to win {{[asset]}}.  Coca-Cola. Open Happiness. **
+
+* Be sure to get to your local {{[retailer]}}, and stock up on Coca-Cola --- the one drink that goes with everything you can cook up.  Coca-Cola.  Open Happiness. **
+
+* Stock up on Coca-Cola --- the one drink that goes with everything you can cook up. Coca-Cola. Open Happiness. **
+
+* Enjoy an ice-cold Coke. Coca-Cola. Open Happiness. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Bottler Celebration – Featuring Asset Giveaways - No Special Offer-->
+        <item kind="script" id="ENG_AVO_at-bottler_giveaways_30" code="AVO" language="English" length=":30" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>This year the Coca-Cola {{[bottler name]}} is celebrating its {{[number]}} anniversary.  Join Coca-Cola {{[bottler name]}}  and {{[station]}} at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time]}} to {{[time]}}.  And While you’re there enter for a chance to win {{[asset]}}. Coca-Cola {{[bottler name]}} also invites you to  enjoy a refreshing ice-cold Coke.  See you {{[day]}} from {{[time]}} to {{[time]}}.  The Coca-Cola {{[bottler name]}} celebrates {{[number]}} years .  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-bottler_giveaways_15" code="AVO" language="English" length=":15" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>Join Coca-Cola and {{[station]}} at {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} at {{[time]}} to {{[time]}}.  Celebrate {{[number]}} years of Coca-Cola {{[bottler name]}} and enter for a chance to win {{[asset]}} from {{[station]}}.  The Coca-Cola Bottling Company of {{[bottler name]}} invites you to enjoy an ice cold Coke.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_at-bottler_giveaways_10" code="AVO" language="English" length=":10" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>Coca-Cola Bottling Company {{[bottler name]}} is celebrating its {{[number]}} anniversary at {{[retail location]}},  {{[day]}} {{[date]}} from {{[time]}} to {{[time]}}.  Join {{[station]}}  and celebrate {{[number]}} years of the Coca-Cola Bottling Company {{[bottler name]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_CP_at-bottler_giveaways_60" code="Copy Points" language="English" length=":60" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>* We’re at {{[event]}}, {{[location]}} today from {{[time]}} to {{[time]}}.  Stop by and enter for a chance to win {{[asset]}}. **
+
+* Stock up on Coca-Cola --- the one drink that goes with everything you can cook up. Coca-Cola. Open Happiness. **
+
+* Enjoy an ice-cold Coke.  Coca-Cola. Open Happiness. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* No Giveaways – No Special Offer-->
+        <item kind="script" id="ENG_AVO_no-giveaways_30" code="AVO" language="English" length=":30" subgroup="No Giveaways – No Special Offer">
+          <text>No matter what fun you’ve got planned, there’s no better way to stay refreshed than with ice-cold Coke. Join Coca-Cola, and {{[station]}} at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time]}} to {{[time]}}.  And while you’re there be sure to stock up on Coca-Cola ---the one drink that goes with everything.  See you {{[day]}}, {{[date]}} from {{[time]}} to {{[time]}} at {{[Retailer]}}.  Coca-Cola, {{[Station]}}, and {{[retailer]}} want you to be a part of the fun.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_no-giveaways_15" code="AVO" language="English" length=":15" subgroup="No Giveaways – No Special Offer">
+          <text>Coca-Cola, {{[station]}} and {{[retailer]}} want you to be a part of the fun.  Join us at {{[retailer]}} {{[address]}}, {{[day]}} {{[date]}} from {{[time]}} to {{[time]}}.   And while you’re there pick up lots of ice cold Coca-Cola at {{[retailer]}} and enjoy the celebration.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_AVO_no-giveaways_10" code="AVO" language="English" length=":10" subgroup="No Giveaways – No Special Offer">
+          <text>{{[Station]}} and Coca-Cola will be at {{[retailer]}}, {{[address]}}, {{[day]}} {{[date]}} {{[time to time]}}.  Join us for all the fun.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_CP_no-giveaways_60" code="Copy Points" language="English" length=":60" subgroup="No Giveaways – No Special Offer">
+          <text>* We’re at {{[retailer]}}, {{[address]}} today from {{[time]}} to {{[time]}}. Come join us.  Coca-Cola. Open Happiness. **
+
+* Stock up on Coca-Cola --- the one drink that goes with everything you can cook up.  Coca-Cola. Open Happiness. **
+
+* Enjoy an ice-cold Coke. Coca-Cola. Open Happiness. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="ENG_AVO_van_giveaways_15" code="AVO" language="English" length=":15" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>Two reasons to love a party – refreshing Coke and cool prizes.  Coca–Cola and {{[station promotion team]}} want you to be a part of the fun.  Join us at {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} at {{[time]}}.  The first {{[X#]}} listeners could win {{[asset/prize]}}.   Join Coca-Cola for all of the fun.  Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="ENG_AVO_van_giveaways_10" code="AVO" language="English" length=":10">
+          <text>{{[Station promotion team]}} and Coca-Cola will be at {{[location]}}, {{[day/date or today]}} at {{[time]}}.  The first {{[X#]}} listeners could win {{[asset/prize]}}.  Join Coca-Cola for all of the fun.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <item kind="script" id="ENG_CP_van_giveaways_60" code="Copy Points" language="English" length=":60">
+          <text>* Coca-Cola, and {{[station]}} want you to be a part of the fun.  Coca-Cola. Open Happiness. **
+
+* Stock up on Coca-Cola --- the one drink that goes with everything you can cook up. Coca-Cola. Open Happiness. **
+
+* Enjoy an ice-cold Coke. Coca-Cola. Open Happiness. **
+</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="TEMPLATES AND COPY POINTS">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPA_LOC_day-of_no-special_30" code="LOC" language="Spanish" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Hay 2 razones para que te gusten las inauguraciones – Coca-Cola y premios.  Coca-Cola, {{[station]}} y {{[retailer]}} quieren que seas parte de la celebración.  Ven a la inauguración de {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} de {{[time to time]}}.  Y ya que estas ahí, participa para ganar {{[asset]}} en {{[retailer]}} y compra Coca-Cola --- la única bebida que va con todo.  Nos vemos el {{[day]}} de {{[time to time]}} en{{[retailer]}}, con Coca-Cola y {{[Station]}}.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_day-of_no-special_15" code="LOC" language="Spanish" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola, {{[station]}} y {{[retailer]}} queremos que seas parte de la celebración.  Ven con nosotros la inauguración de {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} at {{[time to time]}}.  Y ya que estás ahí, participa para ganar {{[asset]}} en {{[retailer]}} {{[day]}} de {{[time to time]}}.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_day-of_no-special_10" code="LOC" language="Spanish" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>{{[Station]}} y Coca-Cola estarán en la inauguración de {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Ven y divirtámonos juntos.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_CP_day-of_no-special_60" code="Copy Points" language="Spanish" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* Estamos en la gran abertura de {{[retailer]}}  en {{[address]}}  desde hoy {{[time to time]}}. Ven con nosotros y participa para ganar {{[asset]}} durante la abertura de {{[retailer’s]}}. Coca-Cola, destapa la felicidad. **
+
+* 2 razones para querer ir a las aberturas: Premios y Coca-Cola bien fría. Coca-Cola, destapa la felicidad. **
+
+* No perdas la oportunidad de ir a {{[retailer]}}, y comprar Coca-Cola --- la única que va con todo lo que puedas cocinar. Coca-Cola, destapa la felicidad. **
+
+* Compra Coca-Cola --- la única que va con todo lo que puedas cocinar. Coca-Cola, destapa la felicidad. **
+
+* Disfruta una Coca-Cola bien fría. Coca-Cola, destapa la felicidad. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing-->
+        <item kind="script" id="SPA_LOC_at-retailer_giveaways_30" code="LOC" language="Spanish" length=":30" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>2 razones para unirse a la fiesta: Coca-Cola bien fría y premios. Coca-Cola, {{[station]}} y {{[retailer]}}, quieren que te unas a la diversion. Ven a {{[address]}} {{[day]}} {{[date]}} desde {{[time to time]}}. Mientras estés ahí, participa para ganar {{[asset]}}.  Compra un {{[package]}} de Coca-Cola por sólo {{[price]}}.Coca-Cola --- la única que va con todo lo que puedas cocinar. Nos vemos el {{[day]}} de {{[time to time]}} en tu {{[retailer]}}, con Coca-Cola y {{[Station]}}.  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_at-retailer_giveaways_15" code="LOC" language="Spanish" length=":15" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>Coca-Cola, {{[station]}} y {{[retailer]}} quieren que te unas a la diversión. Ven a {{[address]}} {{[day]}} {{[date]}} desde {{[time to time]}}. Mientras estés ahí, participa para ganar {{[asset]}} en {{[retailer]}} el {{[day]}}. Compra un {{[package]}} de Coca-Cola por sólo {{[price]}}. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_at-retailer_giveaways_10" code="LOC" language="Spanish" length=":10" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>{{[Station]}} y Coca-Cola estarán en {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Ven y únete a la diversión. Coca-Cola, destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="SPA_CP_at-retailer_giveaways_60" code="Copy Points" language="Spanish" length=":60" subgroup="At Retailer Featuring Asset Giveaways and Day of Special Offer Pricing">
+          <text>* Estamos en {{[retailer]}}, {{[address]}} hoy desde {{[time to time]}}. Ven y entra para poder ganar {{[asset]}} en {{[retailer]}} y llévate tus {{[product]}} por sólo {{[price]}}. Coca-Cola, destapa la felicidad. **
+
+* Date una vuelta por tu {{[retailer]}}, llévate tu Coca-Cola --- la única bebida que va con todo. Coca-Cola, destapa la felicidad. **
+
+* Llévate tu Coca-Cola --- la única bebida que va con todo. Coca-Cola, destapa la felicidad. **
+
+* Disfruta una Coca-Cola bien fría. Coca-Cola, destapa la felicidad. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Event Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPA_LOC_at-event_giveaways_30" code="LOC" language="Spanish" length=":30" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>Hay 2 razones para querer ir a una fiesta: Coca-Cola y premios. Coca-Cola y {{[station]}} queremos que seas parte de la diversión. Ven y únete en {{[Event]}} ubicado en {{[location]}} {{[day]}} {{[date]}} de {{[time to time]}}.  Y ya que estás ahí, participa para poder ganar un {{[asset]}}. No olvides disfrutar una Coca-Cola, la bebida que va con todo. Nos vemos en {{[Event]}}, {{[day]}} de {{[time to time]}} con Coca-Cola y {{[Station]}}. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_at-event_giveaways_15" code="LOC" language="Spanish" length=":15" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola y {{[station]}} queremos que seas parte de la diversión. Ven y únete en {{[Event]}} ubicado en {{[location]}} {{[day]}} {{[date]}} de {{[time to time]}}.  Y ya que estás ahí, participa para poder ganar un {{[asset]}} en {{[station location]}} en {{[event]}}.  Y claro, no olvides disfrutar una Coca-Cola fría. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_at-event_giveaways_10" code="LOC" language="Spanish" length=":10" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>{{[Station]}} y Coca-Cola estarán en {{[Event]}} ubicado en {{[location]}} {{[day]}} {{[date]}} {{[time to time]}}. Ven con nosotros en {{[Event]}} y diviértete. Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_CP_at-event_giveaways_60" code="Copy Points" language="Spanish" length=":60" subgroup="At Event Featuring Asset Giveaways – No Special Offer">
+          <text>* Aquí estamos en {{[event]}}, {{[location]}} desde {{[time]}} to {{[time]}}. Ven y participa para ganar un {{[asset]}}.  Coca-Cola, destapa la felicidad. **
+
+* No olvides ir a tu {{[retailer]}}, y comprar Coca-Cola --- la bebida que va con todo.  Coca-Cola, destapa la felicidad. **
+
+* Compra Coca-Cola --- la bebida que va con todo.  Coca-Cola, destapa la felicidad. **
+
+* Disfruta una Coca-Cola bien fría. Coca-Cola, destapa la felicidad. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Bottler Celebration – Featuring Asset Giveaways - No Special Offer-->
+        <item kind="script" id="SPA_LOC_at-bottler_giveaways_30" code="LOC" language="Spanish" length=":30" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>Este año, Coca-Cola {{[bottler name]}} celebra su {{[number]}} aniversario.  Acompaña a Coca-Cola {{[bottler name]}} y {{[station]}} en {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}.  Y mientras estás ahí, participa para poder ganar un {{[asset]}}. Coca-Cola {{[bottler name]}} también te invita a disfrutar una Coca-Cola bien fría.  Nos vemos el {{[day]}} de {{[time]}} a {{[time]}}. Coca-Cola {{[bottler name]}} celebra {{[number]}} años .  Coca-Cola, destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="SPA_LOC_at-bottler_giveaways_15" code="LOC" language="Spanish" length=":15" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>Acompaña a Coca-Cola y {{[station]}} en {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}.  Celebra {{[number]}} años de Coca-Cola {{[bottler name]}} y participa para poder ganar {{[asset]}} de {{[station]}}. Coca-Cola {{[bottler name]}} te invita a seguir disfrutando Coca-Cola refrescante.  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_at-bottler_giveaways_10" code="LOC" language="Spanish" length=":10" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>Coca-Cola {{[bottler name]}} celebra su {{[number]}} aniversario en {{[retail location]}},  {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}.  Acompáñanos {{[station]}}  y celebra {{[number]}} años de Coca-Cola {{[bottler name]}}.  Coca-Cola, destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="SPA_CP_at-bottler_giveaways_60" code="Copy Points" language="Spanish" length=":60" subgroup="At Bottler Celebration – Featuring Asset Giveaways - No Special Offer">
+          <text>* Hoy estamos en {{[event]}}, {{[location]}} de {{[time]}} a {{[time]}}.  Ven y participa para poder ganar un {{[asset]}}. **  
+
+* Compra Coca-Cola --- la única bebida que va con todo. Coca-Cola, destapa la felicidad. **
+
+* Disfruta una Coca-Cola refrescante.  Coca-Cola, destapa la felicidad. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* No Giveaways – No Special Offer-->
+        <item kind="script" id="SPA_LOC_no-giveaways_30" code="LOC" language="Spanish" length=":30" subgroup="No Giveaways – No Special Offer">
+          <text>No importa qué tan divertido sea tu plan, no hay mejor manera de refrescarte que con una Coca-Cola bien fría. Acompaña a Coca-Cola y {{[station]}} en {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}.  Y ya que estás ahí, compra Coca-Cola --- la única bebida que va con todo.  Nos vemos el {{[day]}}, {{[date]}} de {{[time]}} a {{[time]}} en {{[Retailer]}}.  Coca-Cola, {{[Station]}}, y {{[retailer]}} queremos que seas parte de la celebraciónn.  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_no-giveaways_15" code="LOC" language="Spanish" length=":15" subgroup="No Giveaways – No Special Offer">
+          <text>Coca-Cola, {{[station]}} y {{[retailer]}} queremos que seas parte de la diversión.  Acompañanos en {{[retailer]}} {{[address]}}, {{[day]}} {{[date]}} de {{[time]}} a {{[time]}}.   Y ya que estás ahí, compra Coca-Cola en {{[retailer]}} y disfruta la celebración.  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_no-giveaways_10" code="LOC" language="Spanish" length=":10" subgroup="No Giveaways – No Special Offer">
+          <text>{{[Station]}} y Coca-Cola estaran en {{[retailer]}}, {{[address]}}, {{[day]}} {{[date]}} {{[time to time]}}.  Ven y divirtámonos juntos.  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_CP_no-giveaways_60" code="Copy Points" language="Spanish" length=":60" subgroup="No Giveaways – No Special Offer">
+          <text>* Aquí estamos en {{[retailer]}},  {{[address]}} hoy, desde {{[time]}} a {{[time]}}. Ven y acompáñanos.  Coca-Cola, destapa la felicidad. **
+
+* Compra Coca-Cola --- La única bebida que va con todo.  Coca-Cola, destapa la felicidad. **
+
+* Disfruta una Coca-Cola. Coca-Cola, destapa la felicidad. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPA_LOC_van_giveaways_15" code="LOC" language="Spanish" length=":15" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>2 razones para querer fiesta – Coca-Cola y premios. Coca–Cola y {{[station promotion team]}} queremos que te diviertas con nosotros. Acompañanos en {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} a las {{[time]}}.  Los primeros {{[X#]}} radioescuchas podrán ganar {{[asset/prize]}}.   Ven y diviértete con nosotros.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_LOC_van_giveaways_10" code="LOC" language="Spanish" length=":10">
+          <text>{{[Station promotion team]}} y Coca-Cola estarán en {{[location]}}, {{[day/date or today]}} a las {{[time]}}.  Los primeros {{[X#]}} radioescuchas podrán ganar {{[asset/prize]}}.  Ven y diviértete con nosotros.  Coca-Cola. Destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="SPA_CP_van_giveaways_60" code="Copy Points" language="Spanish" length=":60">
+          <text>* Coca-Cola, y {{[station]}} queremos que seas parte de la diversión.  Coca-Cola. Destapa la felicidad. **
+
+* Compra Coca-Cola --- La única bebida que va con todo. Coca-Cola. Destapa la felicidad. **
+
+* Disfruta Coca-Cola fría.  Coca-Cola. Destapa la felicidad. **</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coca-Cola Asset Partner Scripts-->
+    <screen title="Asset Partner Scripts" id="APS" group="Coca-Cola Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+
+NOTE: Initiative Owners are responsible for securing legal approval.
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Visit Asset/Partner with Reduced Admission with Can-->
+        <item kind="script" id="KOCLY230108" code="KOCLY230108" language="English" length=":30" group="Visit Asset/Partner with Reduced Admission with Can">
+          <text>Coca-Cola has been around for quite a while, and we're pretty sure about one thing.  Nothing beats the taste of an ice-cold Coca-Cola.  Unless that ice-cold Coca-Cola also gets you a discount to {{[EVENT]}}. Now through {{[DATE]}}, you get reduced admission when you bring in a specially marked can of Coca-Cola. Saving money can make you thirsty, too, so grab an ice-cold Coke while you're there. For more info, visit {{[WEBSITE]}}. Or call {{[PHONE NUMBER]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220107" code="KOCLY220107" language="English" length=":20" group="Visit Asset/Partner with Reduced Admission with Can">
+          <text>Nothing beats the taste of an ice-cold Coca-Cola. Unless that ice-cold Coca-Cola also gets you a discount to {{[EVENT]}}. Now through {{[DATE]}}, you get reduced admission when you bring in a specially marked can of Coca-Cola. For more info, visit {{[WEBSITE]}}. Or call {{[PHONE NUMBER]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--Visit Asset/Partner with Specific Discount with Can-->
+        <item kind="script" id="KOCLY230112" code="KOCLY230112" language="English" length=":30" group="Visit Asset/Partner with Specific Discount with Can">
+          <text>Coca-Cola has been around for quite a while, and we’re pretty sure about one thing.  Nothing beats the taste of an ice-cold Coca-Cola.  Unless that ice-cold Coca-Cola also gets you a discount to {{[EVENT]}}. Now through {{[DATE]}}, you can get {{[DOLLAR AMOUNT]}} off the cost of regular admission when you bring in a specially marked can of Coca-Cola. Saving money can make you thirsty, too, so grab an ice-cold Coke while you're there. For more info, visit {{[WEBSITE]}}. Or call {{[PHONE NUMBER]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220111" code="KOCLY220111" language="English" length=":20" group="Visit Asset/Partner with Specific Discount with Can">
+          <text>Nothing beats the taste of an ice-cold Coca-Cola.  Unless that ice-cold Coca-Cola also gets you a discount to {{[EVENT]}}. Now through {{[DATE]}}, you can get {{[DOLLAR AMOUNT]}} off the cost of regular admission when you bring in a specially marked can of Coca-Cola. For more info, visit {{[WEBSITE]}}.  Or call {{[PHONE NUMBER]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <!--Asset/Partner: Discount Offer with Can-->
+        <item kind="script" id="KOCLY160125" code="KOCLY160125" language="English" length=":60" group="Asset/Partner: Discount Offer with Can">
+          <text>If you want to open some fun, grab an ice-cold Coke and head over to {{[PARTNER NAME]}}.  Now through {{[DATE]}}, enjoy any Coca-Cola product and then bring the can or bottle to {{[PARTNER NAME]}} for {{[$XX]}} off regular admission.  While there, experience the {{[PARTNER CHOSEN CALL OUTS (approx.  :20)]}}.  Grab your family and some refreshing Coke and head to {{[PARTNER NAME]}} to save {{[$XX]}} on regular admission.  Coca-Cola.  Open Happiness.  LEGAL TO BE READ FASTER:  Offer expires {{[XX-XX-XXXX]}}.  Restrictions apply.  See details at {{[xxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY130124" code="KOCLY130124" language="English" length=":30" group="Asset/Partner: Discount Offer with Can">
+          <text>If you want to open some fun, grab an ice-cold Coke and head over to {{[PARTNER NAME]}}.  Now through {{[DATE]}}, enjoy any Coca-Cola product and then bring the can or bottle to {{[PARTNER NAME]}} for {{[$XX]}} off regular admission.  While there, experience the {{[PARTNER CHOSEN CALL OUT WITH SHORT, ONE-LINE DESCRIPTION]}}.  Grab your family and some refreshing Coke and head to {{[PARTNER NAME]}} to save {{[$XX]}} on regular admission.  Coca-Cola.  Open Happiness.   LEGAL TO BE READ FASTER:  Offer expires {{[XX-XX-XXXX]}}.  Restrictions apply.  See details at {{[xxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY150123" code="KOCLY150123" language="English" length=":15" group="Asset/Partner: Discount Offer with Can">
+          <text>If you want to open some fun, grab an ice-cold Coke and head over to {{[PARTNER NAME]}}.  Now through {{[DATE]}}, enjoy any Coca-Cola product and then bring the can or bottle to {{[PARTNER NAME]}} for {{[$XX]}} off regular admission.  Coca-Cola.  Open Happiness.  LEGAL TO BE READ FASTER:  Offer expires {{[XX-XX-XXXX]}}.  Restrictions apply.  See details at {{[xxxxxxx.com]}}.</text>
+        </item>
+        <!--Asset/Partner Event: Discount Offer with Can-->
+        <item kind="script" id="KOCLY150126" code="KOCLY150126" language="English" length=":15" group="Asset/Partner Event: Discount Offer with Can">
+          <text>Grab an ice-cold Coke and open some fun on {{[EVENT DATE]}} with {{[EVENT NAME]}} at {{[PARTNER NAME]}}.   Bring a can of any Coca-Cola product and save {{[$XX]}} off admission.   Coca-Cola.  Open Happiness.   LEGAL TO BE READ FASTER:  Restrictions apply. See details at {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <!--Asset/Partner with Coke Mention Only – No Offer-->
+        <item kind="script" id="KOCLY160131" code="KOCLY160131" language="English" length=":60" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>If you want to open some fun, grab an ice-cold Coke and head to {{[PARTNER NAME]}}. While there, experience the {{[PARTNER CHOSEN CALL OUTS (approx.  :20)]}}. Grab some friends, some refreshing Coca-Cola, and make some plans to head over to  {{[PARTNER NAME]}} today.  For more information, visit {{[PARTNER WEBSITE]}}.  Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY130130" code="KOCLY130130" language="English" length=":30" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>If you want to open some fun, grab an ice-cold Coke and head over to {{[PARTNER NAME]}}. {{[PARTNER TO PROVIDE 2 LINES OF CALL OUT COPY]}}.  Grab some friends, some refreshing Coca-Cola and make some plans.  Head out to {{[PARTNER NAME]}} today.   For more information, visit {{[PARTNER WEBSITE]}}.  Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY120129" code="KOCLY120129" language="English" length=":20" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>If you want to open some fun, grab an ice-cold Coke and head over to {{[PARTNER NAME]}}. While you’re there, be sure to visit {{[DESCRIPTION OF EVENT/EXHIBIT]}}.  Grab some friends, some refreshing Coca-Cola and make some plans.  Head out to {{[PARTNER NAME]}} today (ALT – for more information, visit {{[PARTNER WEBSITE]}}).  Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY150128" code="KOCLY150128" language="English" length=":15" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>If you want to open some fun, grab an ice-cold Coke and head over to {{[PARTNER NAME]}}.  {{[PARTNER TO PROVIDE ONE LINE OF CALL OUT COPY]}}.  Grab some friends, some refreshing Coca-Cola and head out to {{[PARTNER NAME]}}.   Coca-Cola. Open Happiness. </text>
+        </item>
+        <item kind="script" id="KOCLY110127" code="KOCLY110127" language="English" length=":10" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>If you want to open some fun, grab an ice-cold Coke and head over to {{[PARTNER NAME]}}.  {{[PARTNER TO PROVIDE SINGLE DETAIL MENTION/CALL OUT]}}.  Coca-Cola. Open Happiness.</text>
+        </item>
+        <!--Asset/Partner Public Announcement-->
+        <item kind="script" id="ENG_PA_open-fun" code="PA" language="English" length=":10" group="Asset/Partner Public Announcement">
+          <text>If you want to open some fun, grab an ice-cold Coca-Cola here at {{[PARTNER NAME]}}.  Enjoy all of this excitement through {{[DATE]}}.  Coca-Cola. Open Happiness. </text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Visit Asset/Partner with Reduced Admission with Can-->
+        <item kind="script" id="KOCLY230110" code="KOCLY230110" language="Spanish" length=":30" group="Visit Asset/Partner with Reduced Admission with Can">
+          <text>Coca-Cola existe hace bastante tiempo, y estamos convencidos de una cosa. Nada supera el sabor de una Coca-Cola bien helada. A menos que con esa Coca-Cola bien helada también obtenga un descuento para {{[EVENT]}}. Desde ahora hasta el {{[DATE]}}, obtenga una entrada con descuento si lleva una lata de Coca-Cola especialmente marcada. Ahorrar dinero también le puede dar sed, por eso tome una Coca Cola bien helada mientas esté allí. Para obtener más información, visite {{[WEBSITE]}}. O llame al {{[PHONE NUMBER]}}. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY220109" code="KOCLY220109" language="Spanish" length=":20" group="Visit Asset/Partner with Reduced Admission with Can">
+          <text>Nada supera el sabor de una Coca-Cola bien helada. A menos que con esa Coca-Cola bien helada también obtenga un descuento para {{[EVENT]}}. Desde ahora hasta el {{[DATE]}}, obtenga una entrada con descuento si lleva una lata de Coca-Cola especialmente marcada. Para obtener más información, visite {{[WEBSITE]}}. O llame al {{[PHONE NUMBER]}}. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <!--Visit Asset/Partner with Specific Discount with Can-->
+        <item kind="script" id="KOCLY230114" code="KOCLY230114" language="Spanish" length=":30" group="Visit Asset/Partner with Specific Discount with Can">
+          <text>Coca-Cola existe hace bastante tiempo, y estamos convencidos de una cosa. Nada supera el sabor de una Coca-Cola bien helada. A menos que con esa Coca-Cola bien helada también obtenga un descuento para {{[EVENT]}}. Desde ahora hasta el {{[DATE]}}, podrá obtener {{[DOLLAR AMOUNT]}} de descuento en el costo de la entrada general si lleva una lata de Coca-Cola especialmente marcada. Ahorrar dinero también le puede dar sed, por eso tome una Coca Cola bien helada mientas esté allí. Para obtener más información, visite {{[WEBSITE]}}. O llame al {{[PHONE NUMBER]}}. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY220113" code="KOCLY220113" language="Spanish" length=":20" group="Visit Asset/Partner with Specific Discount with Can">
+          <text>Nada supera el sabor de una Coca-Cola bien helada. A menos que con esa Coca-Cola bien helada también obtenga un descuento para {{[EVENT]}}. Desde ahora hasta el {{[DATE]}}, podrá obtener {{[DOLLAR AMOUNT]}} de descuento en el costo de la entrada general si lleva una lata de Coca-Cola especialmente marcada. Para obtener más información, visite {{[WEBSITE]}}.  O llame al {{[PHONE NUMBER]}}. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <!--Asset/Partner: Discount Offer with Can-->
+        <item kind="script" id="KOCLY160166" code="KOCLY160166" language="Spanish" length=":60" group="Asset/Partner: Discount Offer with Can">
+          <text>Si deseas abrir felicidad, toma una Coca-Cola y ve a {{[PARTNER NAME]}}.  Ahora desde {{[DATE]}}, disfruta Coca-Cola y trae tu envase a {{[PARTNER NAME]}} por {{[$XX]}} de descuento en la admisión. Ya que estás ahí, disfruta de {{[PARTNER CHOSEN CALL OUTS (approx.  :20)]}}. Ven tú y tu familia con una Coca-Cola a  {{[PARTNER NAME]}} y ahorra {{[$XX]}} en la admisión.  Coca-Cola, destapa la felicidad. LEGAL TO BE READ FASTER:  Válido de {{[XX-XX-XXXX]}}.  Aplican restricciones.  Para mayores informes, ve a {{[xxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY130165" code="KOCLY130165" language="Spanish" length=":30" group="Asset/Partner: Discount Offer with Can">
+          <text>Si deseas abrir felicidad, toma una Coca-Cola y ve a {{[PARTNER NAME]}}. Ahora desde {{[DATE]}}, disfruta Coca-Cola y trae tu envase a {{[PARTNER NAME]}} por {{[$XX]}} de descuento en la admisión. Ya que estás ahí, disfruta de {{[PARTNER CHOSEN CALL OUT WITH SHORT, ONE-LINE DESCRIPTION]}}.  Ven tú y tu familia con una Coca-Cola a  {{[PARTNER NAME]}} y ahorra {{[$XX]}} en la admisión.  Coca-Cola, destapa la felicidad. LEGAL TO BE READ FASTER:  Válido de {{[XX-XX-XXXX]}}.  Aplican restricciones.  Para mayores informes, ve a {{[xxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY150164" code="KOCLY150164" language="Spanish" length=":15" group="Asset/Partner: Discount Offer with Can">
+          <text>Si deseas abrir felicidad, toma una Coca-Cola y ve a {{[PARTNER NAME]}}.  Ahora desde {{[DATE]}}, disfruta Coca-Cola y trae tu envase a {{[PARTNER NAME]}} por {{[$XX]}} de descuento en la admisión.  Coca-Cola, destapa la felicidad  LEGAL TO BE READ FASTER:  Válido de {{[XX-XX-XXXX]}}.  Aplican restricciones.  Para mayores informes, ve a {{[xxxxxxx.com]}}.</text>
+        </item>
+        <!--Asset/Partner Event: Discount Offer with Can-->
+        <item kind="script" id="KOCLY150167" code="KOCLY150167" language="Spanish" length=":15" group="Asset/Partner Event: Discount Offer with Can">
+          <text>Toma una Coca-Cola y abre la diversion en {{[EVENT DATE]}} con {{[EVENT NAME]}} en {{[PARTNER NAME]}}.   Trae un envase de cualquier producto Coca-Cola y recibe un {{[$XX]}} de descuento en admisión.   Coca-Cola, destapa la felicidad. LEGAL TO BE READ FASTER:  Aplican restricciones, mayores informes en {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <!--Asset/Partner with Coke Mention Only – No Offer-->
+        <item kind="script" id="KOCLY160172" code="KOCLY160172" language="Spanish" length=":60" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>Si quieres abrir la diversión, abre una Coca-Cola fría y ve a {{[PARTNER NAME]}}. Mientras estés ahí, no olvides {{[PARTNER CHOSEN CALL OUTS (approx.  :20)]}}. Avísale a tus amigos, tomen una Coca-Cola y organicen algo divertido y vayan a  {{[PARTNER NAME]}} hoy.  Para más información, visita {{[PARTNER WEBSITE]}}.  Coca-Cola, destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="KOCLY130171" code="KOCLY130171" language="Spanish" length=":30" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>Si quieres abrir la diversión, abre una Coca-Cola fría y ve a {{[PARTNER NAME]}}. {{[PARTNER TO PROVIDE 2 LINES OF CALL OUT COPY]}}. Avísale a tus amigos, tomen una Coca-Cola y organicen algo divertido.  Vayan a {{[PARTNER NAME]}} hoy. Para más información, visita {{[PARTNER WEBSITE]}}.  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY120170" code="KOCLY120170" language="Spanish" length=":20" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>Si quieres abrir la diversión, abre una Coca-Cola fría y ve a {{[PARTNER NAME]}}. Mientras estés ahí, visita el {{[DESCRIPTION OF EVENT/EXHIBIT]}}. Avísale a tus amigos, tomen una Coca-Cola y organicen algo divertido.  Vayan a {{[PARTNER NAME]}} hoy (ALT – for more information, visit {{[PARTNER WEBSITE]}}).  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY150169" code="KOCLY150169" language="Spanish" length=":15" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>Si quieres abrir la diversion, abre una Coca-Cola fría y ve a {{[PARTNER NAME]}}.  {{[PARTNER TO PROVIDE ONE LINE OF CALL OUT COPY]}}. Avísale a tus amigos, tomen una Coca-Cola y vayan a {{[PARTNER NAME]}}.   Coca-Cola, destapa la felicidad. </text>
+        </item>
+        <item kind="script" id="KOCLY110168" code="KOCLY110168" language="Spanish" length=":10" group="Asset/Partner with Coke Mention Only – No Offer">
+          <text>Si quieres abrir la diversión, toma una Coca-Cola fría y ve a {{[PARTNER NAME]}}.  {{[PARTNER TO PROVIDE SINGLE DETAIL MENTION/CALL OUT]}}.  Coca-Cola, destapa la felicidad.</text>
+        </item>
+        <!--Asset/Partner Public Announcement-->
+        <item kind="script" id="SPA_PA_open-fun" code="PA" language="Spanish" length=":10" group="Asset/Partner Public Announcement">
+          <text>Si quieres abrir la diversión, abre una Coca-Cola aquí en {{[PARTNER NAME]}}.  Disfruta la diversión hasta el {{[DATE]}}.  Coca-Cola, destapa la felicidad. </text>
+        </item>
+      </card>
+    </screen>
+    <!--Coca-Cola Bundle Offer Templates-->
+    <screen title="Bundle Offer Templates" id="BOT" group="Coca-Cola Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--FC Bundle Offer with Retailer, Product and Price-->
+        <item kind="script" id="KOCLY220115_Option-1" code="KOCLY220115 - Option 1: Price" language="English" length=":20" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Here’s a double deal. For a limited time, when you buy {{[PRODUCT]}}, you can get an ice-cold {{[SIZE/BOTTLE/CAN]}} of Coca-Cola all for {{[PRICE]}}. This offer is good only at {{[RETAILER]}} through {{[END DATE]}}. Coke and {{[BUNDLE PRODUCT]}} at {{[RETAILER]}}. That’s twice the good. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY220116_Option-2" code="KOCLY220116 - Option 2: Amount Off" language="English" length=":20" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Here’s a double deal. For a limited time, you can get {{[AMOUNT]}} off, when you buy {{[PRODUCT]}}, and an  ice-cold {{[SIZE/BOTTLE/CAN]}} of Coca-Cola. This offer is good only at {{[RETAILER]}} through {{[END DATE]}}. Coke and {{[BUNDLE PRODUCT]}} at {{[RETAILER]}}. That’s twice the good. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230117_Option-1" code="KOCLY230117 - Option 1: Price" language="English" length=":30" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Here’s a great double deal, when you buy {{[BUNDLE PRODUCT]}}, you can get an ice-cold {{[SIZE/BOTTLE/CAN]}} of Coca-Cola all for {{[PRICE]}}. This offer is good only at {{[RETAILER]}} through {{[END DATE]}}. So you can enjoy both at a more enjoyable price. Coke and {{[BUNDLE PRODUCT]}}. That’s twice the good, only at {{[RETAILER]}} through {{[END DATE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+        <item kind="script" id="KOCLY230118_Option-2" code="KOCLY230118 - Option 2: Amount Off" language="English" length=":30" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Here’s a great double deal, you can get {{[AMOUNT]}} off, when you buy {{[BUNDLE PRODUCT]}} and an ice-cold {{[SIZE/BOTTLE/CAN]}} of Coca-Cola.  This offer is good only at {{[RETAILER]}} through {{[END DATE]}}. So you can enjoy both at a more enjoyable price. Coke and {{[BUNDLE PRODUCT]}}. That’s twice the good, only at {{[RETAILER]}} through {{[END DATE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--FC Bundle Offer with Retailer, Product and Price-->
+        <item kind="script" id="KOCLY220119_Option-1" code="KOCLY220119 - Opción 1: Price " language="Spanish" length=":20" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Éste es un trato doble. Por tiempo limitado, cuando compre {{[PRODUCT]}}, podrá obtener una {{[SIZE/BOTTLE/CAN]}} de Coca-Cola bien helada, todo por {{[PRICE]}}. Esta oferta es válida sólo en {{[RETAILER]}} hasta el {{[END DATE]}}). Coca Cola y {{[BUNDLE PRODUCT]}} en {{[RETAILER]}}. Eso es doblemente bueno. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY220120_Option-2" code="KOCLY220120 - Opción 2: Amount Off " language="Spanish" length=":20" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Éste es un trato doble. Por tiempo limitado, podrá obtener {{[AMOUNT]}} de descuento, cuando compre {{[PRODUCT]}} y una {{[SIZE/BOTTLE/CAN]}} de Coca-Cola bien helada. Esta oferta es válida sólo en {{[RETAILER]}} hasta el {{[END DATE]}}. Coca Cola y {{[BUNDLE PRODUCT]}} en {{[RETAILER]}}. Eso es doblemente bueno. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY230121_Option-1" code="KOCLY230121 - Opción 1: Price " language="Spanish" length=":30" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Éste es un gran trato: cuando compre un {{[BUNDLE PRODUCT]}}, podrá obtener una {{[SIZE/BOTTLE/CAN]}} de Coca-Cola bien helada, todo por {{[PRICE]}}. Esta oferta es válida sólo en {{[RETAILER]}} hasta el {{[END DATE]}}. Y así podrá disfrutar de ambos productos a un precio más conveniente. Coca Cola y {{[BUNDLE PRODUCT]}}. Eso es doblemente bueno, sólo en {{[RETAILER]}} hasta el {{[END DATE]}}. Coca-Cola. Destape felicidad.</text>
+        </item>
+        <item kind="script" id="KOCLY230122_Option-2" code="KOCLY230122 - Opción 2: Amount Off" language="Spanish" length=":30" group="FC Bundle Offer with Retailer, Product and Price">
+          <text>Éste es un gran trato: podrá obtener {{[AMOUNT]}} de descuento cuando compre {{[BUNDLE PRODUCT]}} y una {{[SIZE/BOTTLE/CAN]}} de Coca-Cola bien helada. Esta oferta es válida sólo en {{[RETAILER]}} hasta el {{[END DATE]}}. Y así podrá disfrutar de ambos productos a un precio más conveniente. Coca Cola y {{[BUNDLE PRODUCT]}}. Eso es doblemente bueno, sólo en {{[RETAILER]}} hasta el {{[END DATE]}}. Coca-Cola. Destape felicidad.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coca-Cola Sweeps/Contest Templates-->
+    <screen title="Sweeps/Contest Templates" id="SCT" group="Coca-Cola Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+
+NOTE: Initiative Owners are responsible for securing legal approval.
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Station Contest - Listen to Win-->
+        <item kind="script" id="KOCLY150132" code="KOCLY150132" language="English" length=":15" group="Station Contest - Listen to Win">
+          <text>Coca-Cola is giving you the chance to win {{[PRIZE]}}.  Keep listening to {{[STATION]}} or visit {{[STATION WEBSITE]}} for details.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.   See rules at {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY150133" code="KOCLY150133 - Ticket Giveaway" language="English" length=":15" group="Station Contest - Listen to Win">
+          <text>You could win {{[X]}} tickets to the {{[TEAM]}} game on {{[DATE]}}, and {{[ADDITIONAL PRIZE INFO, IF APPLICABLE]}}  - all from Coca-Cola.  Listen to {{[STATION]}} for details.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY110134" code="KOCLY110134 - Partner/Asset Sweeps with Station Tie-In" language="English" length=":10" group="Station Contest - Listen to Win">
+          <text>Coca-Cola is a proud sponsor of the {{[ASSET]}}.  Keep listening to {{[STATION]}} for details on how you can win {{[PRIZE DETAILS]}} brought to you by Coca-Cola.</text>
+        </item>
+        <!--Station Contest with Retailer Mention - Listen to Win -->
+        <item kind="script" id="KOCLY130135" code="KOCLY130135 - Event Tickets Giveaway with Customer Tie-In" language="English" length=":30" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>You could win a trip to the {{[EVENT]}} on {{[DATE &amp; LOCATION]}}, and {{[ADDITIONAL PRIZE INFO, IF APPLICABLE]}} - all brought to you by Coca-Cola, {{[RETAILER]}} and {{[STATION]}}.  So stop by your local {{[RETAILER]}} and listen to {{[STATION]}} for your chance to win (ALT: and log on to {{[STATION SITE]}} to enter for your chance to win).  Coca-Cola.  Open Happiness.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY130136" code="KOCLY130136 - Event Tickets Giveaway" language="English" length=":30" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Coca-Cola, {{[RETAILER]}} and {{[STATION]}} are teaming up to give you the chance to win {{[PRIZE/TICKETS]}} to {{[CHANNEL PARTNER]}}.  Every day from {{[DATE]}} to {{[DATE]}},  just be the {{[#]}} caller to {{[STATION PHONE NUMBER]}}.  And be sure to visit your local  {{[RETAILER]}} and pick up a {{[PACKAGE]}} of Coke for {{[PRICE]}}.  Coca-Cola. Open Happiness. LEGAL TO BE READ FASTER: Provided by station.</text>
+        </item>
+        <item kind="script" id="KOCLY120137" code="KOCLY120137 - Generic" language="English" length=":20" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Stay tuned to {{[STATION]}} to find out how you could enter to win {{[PRIZE]}}, brought to you by Coca-Cola.  And remember to stock up on refreshing Coca-Cola at your local {{[RETAILER]}}.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}</text>
+        </item>
+        <item kind="script" id="KOCLY150138" code="KOCLY150138 - Event/Asset Giveaway with Customer Tie-In" language="English" length=":15" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Coca-Cola and {{[RETAILER]}} invite you to listen to {{[STATION]}} for your chance to win {{[ASSET PRIZE DETAILS]}}.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}</text>
+        </item>
+        <item kind="script" id="KOCLY110139" code="KOCLY110139 - Event/Asset Giveaway with Customer Tie-In" language="English" length=":10" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Grab a refreshing Coca-Cola and keep listening to {{[STATION]}} for details on the {{[EVENT]}} experience sweepstakes, brought to you by Coca-Cola and {{[RETAILER]}}. </text>
+        </item>
+        <!--Retailer Sweeps with Asset/Partner Prize Mention-->
+        <item kind="script" id="KOCLY150140" code="KOCLY150140" language="English" length=":15" group="Retailer Sweeps with Asset/Partner Prize Mention">
+          <text>Visit the Coca-Cola display at {{[RETAILER]}} for details on how you could win {{[ASSET PRIZE DETAILS]}}.  
+LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Station Contest - Listen to Win-->
+        <item kind="script" id="KOCLY150173" code="KOCLY150173" language="Spanish" length=":15" group="Station Contest - Listen to Win">
+          <text>Coca-Cola te está dando la oportunidad de ganar {{[PRIZE]}}.  Sigue escuchando {{[STATION]}} o visita {{[STATION WEBSITE]}} para más detalles.  LEGAL TO BE READ FASTER:  “No hay necesidad de compra”.  Aplican restricciones.  El juego termina el {{[XX-XX-XXXX]}}. Checa las bases en {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY150174" code="KOCLY150174 - Ticket Giveaway" language="Spanish" length=":15" group="Station Contest - Listen to Win">
+          <text>Podrías ganar {{[X]}} boletos para ver a {{[TEAM]}} jugar el {{[DATE]}}, y {{[ADDITIONAL PRIZE INFO, IF APPLICABLE]}}  - todo gracias a Coca-Cola.  Escucha {{[STATION]}} para más detalles.  LEGAL TO BE READ FASTER: “No hay necesidad de compra”.  Aplican restricciones.  El juego termina el {{[XX-XX-XXXX]}}. Checa las bases en {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY110175" code="KOCLY110175 - Partner/Asset Sweeps with Station Tie-In" language="Spanish" length=":10" group="Station Contest - Listen to Win">
+          <text>Coca-Cola, orgulloso patrocinador de {{[ASSET]}}.  Sigue escuchando {{[STATION]}} para más detalles y poder ganar {{[PRIZE DETAILS]}} traído para ti por Coca-Cola.</text>
+        </item>
+        <!--Station Contest with Retailer Mention - Listen to Win -->
+        <item kind="script" id="KOCLY130176" code="KOCLY130176 - Event Tickets Giveaway with Customer Tie-In" language="Spanish" length=":30" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Podrías ganar un viaje a {{[EVENT]}} el {{[DATE &amp; LOCATION]}}, y {{[ADDITIONAL PRIZE INFO, IF APPLICABLE]}} – todo traído para ti por Coca-Cola, {{[RETAILER]}} y {{[STATION]}}.  Ve a tu {{[RETAILER]}} y escucha {{[STATION]}} y participa para ganar (ALT: and log on to {{[STATION SITE]}} to enter for your chance to win).  Coca-Cola, destapa la felicidad.  LEGAL TO BE READ FASTER:  “No hay necesidad de compra”.  Aplican restricciones.  El juego termina {{[XX-XX-XXXX]}}.  Checa las bases en: {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY130177" code="KOCLY130177 - Event Tickets Giveaway" language="Spanish" length=":30" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Coca-Cola, {{[RETAILER]}} y {{[STATION]}} se reúnen para darte la oportunidad de ganar {{[PRIZE/TICKETS]}} para {{[CHANNEL PARTNER]}}.  Todos los días desde {{[DATE]}} hasta {{[DATE]}}, sólo sé el {{[#]}} llamador {{[STATION PHONE NUMBER]}} y asegúrate de ir a tu  {{[RETAILER]}} llevarte un {{[PACKAGE]}} de Coca-Cola por sólo  {{[PRICE]}}.  Coca-Cola, destapa la felicidad. LEGAL TO BE READ FASTER: Provided by station. </text>
+        </item>
+        <item kind="script" id="KOCLY120178" code="KOCLY120178 - Generic" language="Spanish" length=":20" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Sigue escuchando {{[STATION]}} para averiguar cómo ganar {{[PRIZE]}}, traído para ti por Coca-Cola.  Y recuerda llevar Coca-Cola de {{[RETAILER]}}.  LEGAL TO BE READ FASTER:  “No hay necesidad de compra”.  Aplican restricciones.  El juego termina {{[XX-XX-XXXX]}}.  Checa las bases en {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY150179" code="KOCLY150179 - Event/Asset Giveaway with Customer Tie-In" language="Spanish" length=":15" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Coca-Cola y {{[RETAILER]}} te invitan a seguir escuchando {{[STATION]}} para darte la oportunidad de ganar {{[ASSET PRIZE DETAILS]}}.  LEGAL TO BE READ FASTER:  No hay necesidad de compra.  Aplican restricciones.  El juego termina {{[XX-XX-XXXX]}}.  Checa las bases en {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <item kind="script" id="KOCLY110180" code="KOCLY110180 - Event/Asset Giveaway with Customer Tie-In" language="Spanish" length=":10" group="Station Contest with Retailer Mention - Listen to Win ">
+          <text>Toma una Coca-Cola y sigue escuchando {{[STATION]}} Para más detalles del {{[EVENT]}} experience sweepstakes, traído para ti por Coca-Cola y {{[RETAILER]}}.</text>
+        </item>
+        <!--Retailer Sweeps with Asset/Partner Prize Mention-->
+        <item kind="script" id="KOCLY150181" code="KOCLY150181" language="Spanish" length=":15" group="Retailer Sweeps with Asset/Partner Prize Mention">
+          <text>Ve por un display de Coca-Cola en {{[RETAILER]}} por los detalles para ganar {{[ASSET PRIZE DETAILS]}}.  LEGAL TO BE READ FASTER:  No hay necesidad de compra.  Aplican restricciones.  El juego termina el {{[XX-XX-XXXX]}}.  Checa les bases en {{[xxxxxxxx.com]}}.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coca-Cola Miscellaneous Templates-->
+    <screen title="Miscellaneous Templates" id="MIT" group="Coca-Cola Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval. 
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Bottler or Brand Sponsorships:  Charity or Cause-->
+        <item kind="script" id="KOCLY210123" code="KOCLY210123" language="English" length=":10" group="Bottler or Brand Sponsorships:  Charity or Cause">
+          <text>You’re invited to help {{[BOTTLER or COCA-COLA]}} in opening happiness for a great cause with {{[EVENT]}}, along with getting to enjoy {{[ACTIVITY]}}. For details, log on to {{[WEBSITE]}}. Coca-Cola. Open happiness.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Bottler or Brand Sponsorships:  Charity or Cause-->
+        <item kind="script" id="KOCLY210124" code="KOCLY210124" language="Spanish" length=":10" group="Bottler or Brand Sponsorships:  Charity or Cause">
+          <text>Lo invitamos a ayudar a {{[BOTTLER or COCA-COLA]}} a destapar felicidad por una gran causa con {{[EVENT]}}, además de disfrutar de {{[ACTIVITY]}}. Para obtener detalles, ingrese a {{[WEBSITE]}}. Coca-Cola. Destape felicidad.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coke Zero Radio Scripts-->
+    <screen title="Radio Scripts" id="CZS" group="Coke Zero Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Customer Sell-In Tag & Live Read Templates-->
+        <!--* IC Stop by with Retailer, Price and Package-->
+        <item kind="script" id="KOCZY220160" code="KOCZY220160 - “Monumental Deal”" language="English" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  If you’re like us, you probably think it’d be sweet if there were a place that housed endless rows of Coke Zero. Floor to ceiling. Wall to wall. Crawl space to outer space. One giant bubbly shrine to pay homage to Coke Zero that has real Coke taste and zero calories. Well, select {{[Retailer]}} are as close as you’re gonna get. They’ve got lots. And if you stop by between {{[Date]}} to {{[Date]}}, they’re letting {{[Product Size]}} go for {{[Price]}}.  Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220161" code="KOCZY220161 - “Time Trick”" language="English" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  For a limited time, you can get {{[Product Size]}} of Coke Zero at participating {{[Retailer]}} for just {{[Price]}}. But after {{[Date]}}, all Coke Zero goes back to its regular price. I mean, I guess you could try to trick us by moving all the clocks forward at {{[Retailer]}}. But that’d take way more time than just going there and buying it. But you better go now, not later. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220162" code="KOCZY220162 - “Stock to the Future”" language="English" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  Between {{[Date]}} and {{[Date]}}, you can visit participating {{[Retailer]}} and stock up on {{[Product Size]}} of Coke Zero for only {{[Price]}}.  But that means you have to go NOW. Wait, and you’ll miss the deal. Unless by {{[Date]}} time travel is a valid means of conveyance in our society. Otherwise, you won’t get another opportunity to score so much Coke Zero for so little money. So just head over to {{[Retailer]}} before {{[Date]}} and stock up ... for the future. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220163" code="KOCZY220163 - “Invisible Coupon”" language="English" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  Coke Zero advanced the beverage world by combining real Coke taste and zero calories. Now they’re advancing coupon clipping. So put down your favorite orange-handled, coupon-clipping scissors and head over to {{[Retailer]}} between {{[Date]}} and {{[Date]}}. You can get {{[Product Size]}} of Coke Zero for only {{[Price]}}. No coupons. No cutting. Just a great deal on Coke Zero. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <!--* Enjoy Everything Radio - GENERIC RETAILER-->
+        <item kind="script" id="KOCZY230010" code="KOCZY230010" language="English" length=":30" subgroup="Enjoy Everything Radio - GENERIC RETAILER">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Just head over to your local retailer and pick up some ice cold Coke Zero.   See what they did there?  Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible? Coke Zero.  Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220009" code="KOCZY220009" language="English" length=":20" subgroup="Enjoy Everything Radio - GENERIC RETAILER">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your local retailer and pick up some ice cold Coke Zero.   Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible? Coke Zero. Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250011" code="KOCZY250011" language="English" length=":15" subgroup="Enjoy Everything Radio - GENERIC RETAILER">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your neighborhood local retailer and pick up some ice cold Coke Zero.  Coke Zero. Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <!--* Enjoy Everything Radio - RETAILER ONLY-->
+        <item kind="script" id="KOCZY230012" code="KOCZY230012" language="English" length=":30" subgroup="Enjoy Everything Radio - RETAILER ONLY">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Just head over to your neighborhood {{[RETAILER]}} and pick up some ice cold Coke Zero.   See what they did there?  Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible? Coke Zero and {{[RETAILER]}}: Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220014" code="KOCZY220014" language="English" length=":20" subgroup="Enjoy Everything Radio - RETAILER ONLY">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your neighborhood {{[RETAILER]}} and pick up some ice cold Coke Zero.   Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible? Coke Zero and {{[RETAILER]}}: Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250013" code="KOCZY250013" language="English" length=":15" subgroup="Enjoy Everything Radio - RETAILER ONLY">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your neighborhood {{[RETAILER]}} and pick up some ice cold Coke Zero.  Coke Zero and {{[RETAILER]}} Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <!--* Enjoy Everything Radio - RETAILER & PACKAGE-->
+        <item kind="script" id="KOCZY230017" code="KOCZY230017" language="English" length=":30" subgroup="Enjoy Everything Radio - RETAILER &amp; PACKAGE">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Just head over to your neighborhood {{[RETAILER]}} and pick up an ice cold {{[PACKAGE]}} of Coke Zero.   See what they did there?  Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible? Coke Zero and {{[RETAILER]}}: Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220016" code="KOCZY220016" language="English" length=":20" subgroup="Enjoy Everything Radio - RETAILER &amp; PACKAGE">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your neighborhood {{[RETAILER]}} and pick up an ice cold {{[PACKAGE]}} of Coke Zero. Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible?  Coke Zero and {{[RETAILER]}}: Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250015" code="KOCZY250015" language="English" length=":15" subgroup="Enjoy Everything Radio - RETAILER &amp; PACKAGE">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your neighborhood {{[RETAILER]}} and pick up an ice cold {{[PACKAGE]}} of Coke Zero.  Coke Zero and {{[RETAILER]}} Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <!--* Enjoy Everything Radio - RETAILER, PACKAGE, & PRICE-->
+        <item kind="script" id="KOCZY230018" code="KOCZY230018" language="English" length=":30" subgroup="Enjoy Everything Radio - RETAILER, PACKAGE, &amp; PRICE">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Just head over to your neighborhood {{[RETAILER]}} and pick up an ice cold {{[PACKAGE]}} of Coke Zero for {{[PRICE]}}.  See what they did there?  Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible?  Coke Zero and {{[RETAILER]}}: Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220019" code="KOCZY220019" language="English" length=":20" subgroup="Enjoy Everything Radio - RETAILER, PACKAGE, &amp; PRICE">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your neighborhood {{[RETAILER]}} and pick up an ice cold {{[PACKAGE]}} of Coke Zero for {{[PRICE]}}.  Real Coke taste and zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible?  Coke Zero and {{[RETAILER]}}: Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250020" code="KOCZY250020" language="English" length=":15" subgroup="Enjoy Everything Radio - RETAILER, PACKAGE, &amp; PRICE">
+          <text>AVO: Want a fail-safe way to enjoy everything this year?  Head over to your neighborhood {{[RETAILER]}} and pick up an ice cold {{[PACKAGE]}} of Coke Zero for {{[PRICE]}}.  Coke Zero and {{[RETAILER]}}: Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <!--* Enjoy Everything Radio - Brought to you by Billboards-->
+        <item kind="script" id="KOCZY210021" code="KOCZY210021" language="English" length=":10" subgroup="Enjoy Everything Radio - Brought to you by Billboards">
+          <text>AVO: Coke Zero is real Coke taste AND zero calories.  Two amazing things combined to make one super amazing thing.  If they can do that, then what else is possible?  Stock up on Coke Zero and Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY200022" code="KOCZY200022" language="English" length=":05" subgroup="Enjoy Everything Radio - Brought to you by Billboards">
+          <text>AVO: Two amazing things combined to make one super amazing thing. Brought to you by Coke Zero. Enjoy Everything.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Customer Sell-In Tag & Live Read Templates-->
+        <!--* IC Stop by with Retailer, Price and Package-->
+        <item kind="script" id="KOCZY220164" code="KOCZY220164 - “Un Negocio Monumental”" language="Spanish" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  Si eres como nosotros, seguramente pienses que sería genial un lugar con hileras infinitas de Coca-Cola Zero. Desde el piso hasta el techo y de pared a pared. Que atraviese la atmósfera y llegue al espacio exterior. Un santuario gigante y burbujeante que rinda homenaje a Coca-Cola Zero, la bebida con el sabor real de Coca-Cola y cero calorías. Bueno, lo más cercano a esa experiencia lo podrás ver en {{[Retailer]}}. Ellos tienen muchísimas. Y si te das una vuelta entre el {{[Date]}} y el {{[Date]}}, encontrarás   {{[Product Size]}} por sólo {{[Price]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220165" code="KOCZY220165 - “El Truco del Tiempo”" language="Spanish" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  Por un tiempo limitado puedes obtener {{[Product Size]}} de Coca-Cola Zero en {{[Retailer]}} participante por sólo {{[Price]}}. Pero después del {{[Date]}}, todas las Coca-Cola Zero volverán a su precio normal. Es decir, quizás podrías engañarnos y adelantar todos los relojes que haya en {{[Retailer]}}. Pero eso te tomaría más tiempo que ir hasta allí y comprarla. Es mejor que vayas ahora. ¡No lo dejes para después! Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220166" code="KOCZY220166 - “Comprar para beber en el Futuro”" language="Spanish" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  Entre el {{[Date]}} y el {{[Date]}}, pasa por {{[Retailer]}} participante y compra Coca-Cola Zero de {{[Product Size]}} por sólo {{[Price]}}. Pero tienes que ir YA MISMO. Si esperas, te perderás la oferta. A menos que para el {{[Date]}} el viaje en el tiempo ya sea un método de transporte válido en nuestra sociedad. De otro modo, no tendrás otra oportunidad de conseguir tanta Coca-Cola Zero con tan poco dinero. Así que ve a {{[Retailer]}} antes del {{[Date]}} y compra toda la que puedas, para beber en el futuro. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220167" code="KOCZY220167 - “Cupón Invisible”" language="Spanish" length=":20" group="Customer Sell-In Tag &amp; Live Read Templates" subgroup="IC Stop by with Retailer, Price and Package">
+          <text>VO:  Coca-Cola Zero mejoró la experiencia de tomar bebidas y combinó el sabor real de Coca-Cola con la ventaja de tener cero calorías. Ahora también mejoramos el recorte de cupones. Dale un descanso a tus tijeras favoritas de mango naranja para recortar cupones y ve a {{[Retailer]}} entre el {{[Date]}} y el {{[Date]}}. Puedes obtener {{[Product Size]}} de Coca-Cola Zero por sólo {{[Price]}}. Sin cupones. Sin tener que cortar. Simplemente, un muy buen precio para comprar Coca-Cola Zero. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <!--* Enjoy Everything Radio - GENERIC RETAILER-->
+        <item kind="script" id="KOCZY230109" code="KOCZY230109" language="Spanish" length=":30" subgroup="Enjoy Everything Radio - GENERIC RETAILER">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu tienda preferida y compra una deliciosa y helada Coca-Cola Zero. ¿Viste lo que ellos hicieron? Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso, entonces ¿qué más es posible?   Coca-Cola Zero. Todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <item kind="script" id="KOCZY220110" code="KOCZY220110" language="Spanish" length=":20" subgroup="Enjoy Everything Radio - GENERIC RETAILER">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu tienda preferida y compra una deliciosa y helada Coca-Cola Zero. Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso, entonces ¿qué más es posible?   Coca-Cola Zero. Todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <item kind="script" id="KOCZY250111" code="KOCZY250111" language="Spanish" length=":15" subgroup="Enjoy Everything Radio - GENERIC RETAILER">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu tienda preferida y compra una deliciosa y helada Coca-Cola Zero. Coca-Cola Zero. Todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <!--* Enjoy Everything Radio - RETAILER ONLY-->
+        <item kind="script" id="KOCZY230112" code="KOCZY230112" language="Spanish" length=":30" subgroup="Enjoy Everything Radio - RETAILER ONLY">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[RETAILER]}} local y compra una deliciosa y helada Coca-Cola Zero. ¿Viste lo que ellos hicieron?  Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso, entonces ¿qué más es posible?   Coca-Cola Zero y {{[tienda local]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <item kind="script" id="KOCZY220113" code="KOCZY220113" language="Spanish" length=":20" subgroup="Enjoy Everything Radio - RETAILER ONLY">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[RETAILER]}} local y compra una deliciosa y helada Coca-Cola Zero. Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso, entonces ¿qué más es posible?   Coca-Cola Zero y {{[tienda local]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY250114" code="KOCZY250114" language="Spanish" length=":15" subgroup="Enjoy Everything Radio - RETAILER ONLY">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[tienda]}} local y compra una deliciosa y helada Coca-Cola Zero. Coca-Cola Zero y {{[tienda local]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <!--* Enjoy Everything Radio - RETAILER & PACKAGE-->
+        <item kind="script" id="KOCZY230115" code="KOCZY230115" language="Spanish" length=":30" subgroup="Enjoy Everything Radio - RETAILER &amp; PACKAGE">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[RETAILER]}} local y compra un {{[PACKAGE]}}  de una delicioso y helado Coca-Cola Zero. ¿Pusiste atención a lo que hicieron ahí? Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble.. Si ellos pueden hacer eso ¿qué más es posible?  Coca-Cola Zero y {{[RETAILER]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <item kind="script" id="KOCZY220116" code="KOCZY220116" language="Spanish" length=":20" subgroup="Enjoy Everything Radio - RETAILER &amp; PACKAGE">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[RETAILER]}} local y compra un delicioso y helado {{[PACKAGE]}} de Coca-Cola Zero. Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso ¿qué más es posible?   Coca-Cola Zero y {{[RETAILER]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <item kind="script" id="KOCZY250117" code="KOCZY250117" language="Spanish" length=":15" subgroup="Enjoy Everything Radio - RETAILER &amp; PACKAGE">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[RETAILER]}} local y compra un {{[PACKAGE]}} de una delicioso y helado de Coca-Cola Zero. Coca-Cola Zero y {{[tienda local]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlos todo. </text>
+        </item>
+        <!--* Enjoy Everything Radio - RETAILER, PACKAGE, & PRICE-->
+        <item kind="script" id="KOCZY230118" code="KOCZY230118" language="Spanish" length=":30" subgroup="Enjoy Everything Radio - RETAILER, PACKAGE, &amp; PRICE">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[tienda]}} local y compra un delicioso y helado {{[paquete]}} de Coca-Cola Zero por solo {{[PRICE]}}. Pusiste atención a lo que hicieron ahí? Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso ¿qué más es posible?  Coca-Cola Zero y {{[RETAILER]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo. </text>
+        </item>
+        <item kind="script" id="KOCZY220119" code="KOCZY220119" language="Spanish" length=":20" subgroup="Enjoy Everything Radio - RETAILER, PACKAGE, &amp; PRICE">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[RETAILER]}} local y compra un delicioso y helado {{[PACKAGE]}} de Coca-Cola Zero por solo {{[PRICE]}}. Todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso ¿qué más es posible? Coca-Cola Zero y {{[RETAILER]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY250120" code="KOCZY250120" language="Spanish" length=":15" subgroup="Enjoy Everything Radio - RETAILER, PACKAGE, &amp; PRICE">
+          <text>¿Quieres una manera infalible de disfrutar todo lo que trae este año? Visita tu {{[RETAILER]}} local y compra un {{[PACKAGE]}} de una delicioso y helad Coca-Cola Zero por solo {{[PRICE]}}. Coca-Cola Zero y {{[RETAILER]}}. Disfruta de todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <!--* Enjoy Everything Radio - Brought to you by Billboards-->
+        <item kind="script" id="KOCZY210121" code="KOCZY210121" language="English" length=":10" subgroup="Enjoy Everything Radio - Brought to you by Billboards">
+          <text>Coca-Cola Zero tiene todo el sabor de Coca-Cola y Zero calorías. Dos cosas increíbles que combinadas hacen una sola cosa super increíble. Si ellos pueden hacer eso ¿qué más es posible? Compra Coca-Cola Zero y disfruta tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY200122" code="KOCZY200122" language="English" length=":05" subgroup="Enjoy Everything Radio - Brought to you by Billboards">
+          <text>Dos cosas increíbles se juntaron para hacer una aún. más increíble Patrocinado por Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coke Zero Remote Events, Van Hits, Copy Points-->
+    <screen title="Remote Events &amp; Van Hits" id="KRV" group="Coke Zero Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates and copy points provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  Please contact your station rep specific to this event for exact giveaway/package/pricing.
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="TEMPLATES AND COPY POINTS">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCZY230024" code="KOCZY230024" language="English" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your enjoyment to the next level with the combination of real Coke taste and Zero calories.  Join us at {{[retailer’s]}} grand opening {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}.  While you’re there, you can stock your cooler with Coke Zero--the only drink with real Coke taste and zero calories.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}.  {{[Station]}} and Coke Zero, invite you to Enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250025" code="KOCZY250025" language="English" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your enjoyment to the next level.  Join us at {{[retailer’s]}} grand opening {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}.  See you at {{[retailer]}} {{[day]}} from {{[time to time]}}.  Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY210026" code="KOCZY210026" language="English" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coke Zero and {{[station]}} will be at {{[retailer’s]}} grand opening, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us and take your enjoyment to the next level. Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY260023" code="KOCZY260023 - Copy Points Only" language="English" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* We’re at {{[retailer’s]}} grand opening {{[address]}} today from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}} during {{[retailer’s]}} Grand Opening.  Coke Zero. Enjoy Everything. **
+
+* Coke Zero and {{[station]}} are helping you enjoy everything with real Coke taste and Zero calories. **
+
+* Be sure to get to your local {{[retailer]}}, and stock up on Coke Zero --- the only drink with real Coke taste and Zero Calories.  Coke Zero.  Enjoy Everything. **
+
+* Stock up on Coke Zero -- the only drink with real Coke taste and zero calories. **
+
+* Stock your cooler with ice-cold Coke Zero. **
+
+* Two amazing things combined to make one super amazing thing. Brought to you by Coke Zero. Enjoy Everything. **
+
+* Coke Zero. Enjoy Everything. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer - No Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCZY230028" code="KOCZY230028" language="English" length=":30" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>Coke Zero and {{[station]}} are helping you take your enjoyment to the next level with the combination of real Coke taste and zero calories.  Join Coke Zero, and {{[station]}} at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  And while you’re there be sure to stock your cooler with Coke Zero--the only drink with real Coke taste and zero calories.  See you {{[day]}}, {{[date]}} from {{[time to time]}} at {{[retailer]}}.  Coke Zero, {{[station]}}, and {{[retailer]}} invite you to stock up on Coke Zero and Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250029" code="KOCZY250029" language="English" length=":15" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>Coke Zero and {{[station]}} are helping you take your enjoyment to the next level.  Join us at {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}}.  And while you’re there stock your cooler with ice-cold Coke Zero. Coke Zero Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY210030" code="KOCZY210030" language="English" length=":10" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>{{[Station]}} and Coke Zero will be at {{[retailer]}}, {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.   Join us to enjoy real Coke taste AND zero calories.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY260027" code="KOCZY260027 - Copy Points Only" language="English" length=":60" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>* We’re at {{[retailer]}}, {{[address]}} today from {{[time to time]}}. Come join us.  Coke Zero. Enjoy Everything. **
+
+* Coke Zero and {{[station]}} are helping you enjoy everything with real Coke taste and Zero calories. **
+
+* Be sure to get to your local {{[retailer]}}, and stock up on Coke Zero--- the only drink with real Coke taste and Zero Calories.  Coke Zero.  Enjoy Everything. **
+
+* Stock up on Coke Zero -- the only drink with real Coke taste and zero calories. **
+
+* Stock your cooler with ice-cold Coke Zero. **
+
+* Two amazing things combined to make one super amazing thing. Brought to you by Coke Zero. Enjoy Everything. **
+
+* Coke Zero. Enjoy Everything. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCZY230033" code="KOCZY230033" language="English" length=":30" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Coke Zero, {{[station]}} and {{[retailer]}} are helping you take your enjoyment to the next level with the combination of real Coke taste and Zero calories.  Join us at {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}.  While you’re there, you can stock your cooler with Coke Zero --the only drink with real Coke taste and zero calories.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}.  Coke Zero and {{[station]}} invite you to stock up on Coke Zero and Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250034" code="KOCZY250034" language="English" length=":15" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Coke Zero and {{[station]}} are helping you take your enjoyment to the next level with the combination of real Coke taste and Zero calories.  Join us at {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} from {{[time to time]}} and enter for a chance to win {{[asset]}}.  See you at {{[retailer]}} {{[day]}} from {{[time to time]}}.  Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY210035" code="KOCZY210035" language="English" length=":10" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Coke Zero and {{[station]}} are helping you take your enjoyment to the next level with the combination of real Coke taste and Zero calories.  Join us enter for a chance to win {{[asset]}}.   Coke Zero. Enjoy Everything. </text>
+        </item>
+        <item kind="script" id="KOCZY260031" code="KOCZY260031 - Copy Points Only" language="English" length=":60" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>* We’re at {{[retailer]}}, {{[address]}} today from {{[time to time]}}. Stop by and enter for a chance to win {{[asset]}}.  Coke Zero. Enjoy Everything. **
+
+* Coke Zero and {{[station]}} are helping you enjoy everything with real Coke taste and Zero calories. **
+
+* Stock up on Coke Zero -- the only drink with real Coke taste and zero calories. **
+
+* Stock your cooler with ice-cold Coke Zero. **
+
+* Two amazing things combined to make one super amazing thing. Brought to you by Coke Zero. Enjoy Everything. **
+
+* Coke Zero. Enjoy Everything. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="KOCZY230037" code="KOCZY230037" language="English" length=":30" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>Coke Zero, and {{[station promotional team]}} are helping you take your enjoyment to the next level with the combination of real Coke taste and Zero calories.    Join us at {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} at {{[time]}} for a chance to win {{[asset]}}.  While you’re there, you can stock your cooler with Coke Zero --the only drink with real Coke taste and zero calories.  See you {{[day]}} from {{[time to time]}} at {{[retailer]}}.  Coke Zero and {{[station]}} invite you to stock up on Coke Zero and Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY250038" code="KOCZY250038" language="English" length=":15">
+          <text>Coke Zero, and {{[station promotional team]}} are helping you take your enjoyment to the next level with the combination of real Coke taste and Zero calories.  Join us at {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} at {{[time]}}.  The first {{[X#]}} listeners could win {{[asset/prize]}}.   Coke Zero and {{[station]}} invite you to stock up on Coke Zero and Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY210039" code="KOCZY210039" language="English" length=":10">
+          <text>Coke Zero and {{[station promotion team]}} will be at {{[retailer]}} {{[address]}} {{[day]}} {{[date]}} {{[time to time]}}.  Join us and take your enjoyment to the next level. Coke Zero. Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY260036" code="KOCZY260036 - Copy Points Only" language="English" length=":60">
+          <text>* Coke Zero and {{[station promotion team]}} are helping you take your enjoyment to the next level.  Join us at {{[retailer]}}, {{[location]}} {{[day]}} {{[date]}} at {{[time]}} for a chance to win {{[asset]}}.  Coke Zero. Enjoy Everything. **
+
+* Stock up on Coke Zero -- the only drink with real Coke taste and zero calories. **
+
+* Stock your cooler with ice-cold Coke Zero. **
+
+* Two amazing things combined to make one super amazing thing. Brought to you by Coke Zero. Enjoy Everything. **
+
+* Coke Zero. Enjoy Everything. **</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="TEMPLATES AND COPY POINTS">
+        <!--2-Hour Remote Events-->
+        <!--* Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPZ_LOC_day-of_no-special_30" code="LOC" language="Spanish" length=":30" group="2-Hour Remote Events" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero, {{[estación]}} y {{[tienda]}} llevaran tu manera de disfrutar a otro nivel con la combinación del sabor de Coca-Cola y zero calorías. Solo ven a la gran inauguración de {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}} y participa para ganar {{[premio]}}. Mientras estas aquí llena tu refrigerador con Coca-Cola Zero, la única bebida con todo el sabor de Coca-Cola y Zero calorías. Nos vemos en {{[tienda, día, hora]}}.  {{[Estación]}} y Coca-Cola Zero te invitan a disfrutar del verdadero sabor de Coca-Cola y zero calorías. Puedes tenerlos todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_day-of_no-special_15" code="LOC" language="Spanish" length=":15" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero, {{[estación]}} y {{[tienda]}} llevaran tu manera de disfrutar a otro nivel. Solo ven a la gran inauguración de {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}} y participa para ganar {{[premio]}}. Nos vemos en {{[tienda, día, hora]}}.  {{[Estación]}} y Coca-Cola Zero te invitan a disfrutar del sabor de Coca-Cola y zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_day-of_no-special_10" code="LOC" language="Spanish" length=":10" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero y {{[estación]}} estarán en la gran inauguración de {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}}. Te esperamos.  Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_CP_day-of_no-special_60" code="Copy Points Only" language="Spanish" length=":60" subgroup="Day of at Retailer Grand Opening Featuring Asset Giveaways – No Special Offer">
+          <text>* Estamos en la gran inauguración de {{[retailer]}},  en {{[dirección]}} de {{[horario]}}. Te esperamos. Podrás participar para ganar un {{[premio]}} durante la gran inauguración de {{[tienda]}}. Coca-Cola Zero. Puedes tenerlos todo. **
+
+* Coca-Cola Zero y {{[estación]}} te ayudan a disfrutarlo todo con el sabor de Coca-Cola y Zero calorías. **
+
+* Asegúrate de visitar tu {{[tienda]}} local y comprar Coca-Cola Zero. La única bebida con todo el sabor de Coca-Cola y Zero calorías. Coca-Cola Zero. Pudes tenerlo todo. **
+
+* Compra Coca-Cola Zero. La única bebida con todo el sabor de Coca-Cola y Zero calorías. **
+
+* Llena tu refrigerador con Coca-Cola Zero. **
+
+* Dos cosas increíbles se juntaron para hacer una aun más increíble. Patrocinado por Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Coca-Cola Zero. Puedes tenerlo todo. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer - No Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPZ_LOC_at-retailer_giveaways_30" code="LOC" language="Spanish" length=":30" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero y {{[estación]}} llevaran tu manera de disfrutar a otro nivel con la combinación de todo el sabor de Coca-Cola y zero calorías. Únete a Coca-Cola Zero y {{[estación]}} en {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}}. Cuando estés allí llena tu refrigerador con Coca-Cola Zero, la única bebida con todo el sabor de Coca-Cola y Zero calorías. Nos vemos en {{[tienda, día, hora]}}. {{[Estación]}}, Coca-Cola Zero y {{[tienda]}} te invitan a disfrutar del sabor de Coca – Cola y zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_at-retailer_giveaways_15" code="LOC" language="Spanish" length=":15" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero y {{[estación]}} te ayudan a llevar tu manera de disfrutar a otro nivel. Únete a Coca-Cola Zero y {{[estación]}} en {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}}. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_at-retailer_giveaways_10" code="LOC" language="Spanish" length=":10" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero y {{[estación]}} estarán en {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}}. Visítanos y disfruta todo el sabor de Coca-Cola y Zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_CP_at-retailer_giveaways_60" code="Copy Points Only" language="Spanish" length=":60" subgroup="At Retailer - No Asset Giveaways – No Special Offer">
+          <text>* Estamos en {{[tienda]}} en {{[dirección]}} de {{[horario]}}. Te esperamos. Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Coca-Cola Zero y {{[estación]}} te ayudan a disfrutarlo todo con todo el sabor de Coca-Cola y Zero calorías. **
+
+* Asegúrate de visitar tu {{[tienda]}} local y comprar Coca-Cola Zero. La única bebida con todo el sabor de Coca-Cola y Zero calorías. Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Compra Coca-Cola Zero. La única bebida con todo el sabor de Coca-Cola y Zero calorías. **
+
+* Llena tu refrigerador con Coca-Cola Zero. **
+
+* Dos cosas increíbles se juntaron para hacer una aun más increíble. Patrocinado por Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Coca-Cola Zero. Puedes tenerlo todo. **</text>
+        </item>
+        <!--2-Hour Remote Events-->
+        <!--* At Retailer Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPZ_LOC_at-event_giveaways_30" code="LOC" language="Spanish" length=":30" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero, {{[estación]}} y {{[tienda]}} te ayudan a llevar tu manera de disfrutar a otro nivel con la combinación de todo el sabor de Coca-Cola y cero calorías. Solo ven a {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}} y participa para ganar {{[premio]}}. Cuando estés ahí llena tu refrigerador con Coca-Cola Zero, la única bebida con todo el sabor de Coca-Cola y Zero calorías. Nos vemos en {{[tienda, día, hora]}}. {{[Estación]}} y Coca-Cola Zero te invitan a disfrutar del verdadero sabor de Coca-Cola y zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_at-event_giveaways_15" code="LOC" language="Spanish" length=":15" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero y {{[estación]}} te ayudan a llevar tu manera de disfrutar a otro nivel. Solo ven a {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}} y participa para ganar {{[premio]}}. Nos vemos en {{[tienda, día, hora]}}. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_at-event_giveaways_10" code="LOC" language="Spanish" length=":10" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero, {{[estación]}} y {{[tienda]}} llevaran tu manera de disfrutar a otro nivel con la combinación de todo el sabor de Coca-Cola y zero calorías. Participa para ganar {{[premio]}}. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_CP_at-event_giveaways_60" code="Copy Points Only" language="Spanish" length=":60" subgroup="At Retailer Featuring Asset Giveaways – No Special Offer">
+          <text>* Estamos en {{[tienda]}} en {{[dirección]}} de {{[horario]}}. Te esperamos y podrás ganarte un {{[premio]}}. Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Coca-Cola Zero y {{[estación]}} te ayudan a disfrutarlo todo con el sabor de Coca-Cola y Zero calorías. **
+
+* Asegúrate de visitar tu {{[tienda]}} local y comprar Coca-Cola Zero. La única bebida con todo el sabor de Coca-Cola y Zero calorías. Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Compra Coca-Cola Zero. La única bebida con todo el sabor de Coca-Cola y Zero calorías. **
+
+* Llena tu refrigerador con Coca-Cola Zero. **
+
+* Dos cosas increíbles se juntaron para hacer una aun más increíble. Patrocinado por Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Coca-Cola Zero. Puedes tenerlo todo. **</text>
+        </item>
+        <!--Van Hits Promotions-->
+        <!--* Featuring Asset Giveaways – No Special Offer-->
+        <item kind="script" id="SPZ_LOC_van_giveaways_15" code="LOC" language="Spanish" length=":30" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero y {{[equipo promocional]}} llevaran tu manera de disfrutar a otro nivel con la combinación de todo el sabor de Coca-Cola y zero calorías. Solo ven a {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}} y participa para ganar {{[premio]}}. Cuando estés ahí llena tu refrigerador con Coca-Cola Zero, la única bebida con todo el sabor de Coca-Cola y Zero calorías. Nos vemos en {{[tienda, día, hora]}}. {{[Estación]}} y Coca-Cola Zero te invitan a disfrutar del verdadero sabor de Coca-Cola y zero calorías. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_van_giveaways_15" code="LOC" language="Spanish" length=":15" group="Van Hits Promotions" subgroup="Featuring Asset Giveaways – No Special Offer">
+          <text>Coca-Cola Zero y {{[equipo promocional]}} te ayudan a llevar tu manera de disfrutar a otro nivel con la combinación de todo el sabor de Coca-Cola y cero calorías. Solo ven a {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}}. Los primeros {{[#]}} oyentes podrán ganarse un {{[premio]}}. Coca-Cola Zero y {{[estación]}} te invitan a comprar Coca-Cola Zero.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_van_giveaways_10" code="LOC" language="Spanish" length=":10">
+          <text>Coca-Cola Zero y {{[equipo promocional]}} estarán en {{[tienda]}} en {{[dirección]}} el {{[fecha]}} desde las {{[hora]}} hasta las {{[hora]}}. Únete y lleva tu manera de disfrutar a otros niveles. Coca-Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="SPZ_LOC_van_giveaways_60" code="Copy Points Only" language="Spanish" length=":60">
+          <text>* Coca-Cola Zero y {{[equipo promocional]}} llevaran tu manera de disfrutar a otro nivel. Visítanos en {{[tienda]}} en {{[dirección]}} de {{[horario]}}. Te esperamos y podrás ganarte un {{[premio]}}. Coca-Cola Zero. Puedes tenerlo todo. **
+
+* Compra Coca-Cola Zero. La única bebida con todo el sabor de Coca-Cola y Zero calorías. **
+
+* Llena tu refrigerador con Coca-Cola Zero. **
+
+* Dos cosas increíbles se juntaron para hacer una aún más increíble. Patrocinado por Coca-Cola Zero Puedes tenerlo todo. **
+
+* Coca-Cola Zero. Puedes tenerlo todo. **</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coke Zero Asset Partner Scripts-->
+    <screen title="Asset Partner Scripts" id="ZAP" group="Coke Zero Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Stop By and Visit Asset/Partner-->
+        <item kind="script" id="KOCZY220168" code="KOCZY220168 - “Save Your Coke Zero”" language="English" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  You’ve probably got a fridge full of Coke Zero at home. But why deplete your own personal supply of Coke Zero when you can partake in someone else’s? Head out to {{[Event]}} at {{[Location]}}, and enjoy {{[Activities]}} ... and grab a Coke Zero or two while you’re there. Admission is {{[Price]}} from now till {{[Date]}}, which means your stash of Coke Zero should remain untouched until then. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220169" code="KOCZY220169 - “Day Off”" language="English" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  You’ve finally got the day off. You’re probably planning to do a whole bunch of nothing. Which is good. But... if you end up doing something, why not do something that has a hefty supply of Coke Zero on hand? Head over to the {{[Event]}} going on at {{[Location]}}.  Admission is {{[Price]}} from now till {{[Date]}}. There’ll be lots of {{[Activities]}} you can do. Or you can do nothing. Either way, nothing goes better with nothing than Coke Zero. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220170" code="KOCZY220170 - “Cannovation”" language="English" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  Coke Zero advanced the beverage experience by combining real Coke taste and zero calories. Now we’ve advanced the can it comes in. Bring your empty Coke Zero can to the {{[Event]}} at {{[Location]}} now through {{[Date]}} and that can will get you {{[Dollar Amount]}} off the price of admission. For more information, visit  {{[Website]}} or call {{[Phone Number]}}. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220171" code="KOCZY220171 - “You do the Math”" language="English" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  Sure, you’ve got to pay for a can of ice-cold Coke Zero. But once you finish enjoying the real Coke taste and zero calories inside that can, you can bring it to the {{[Event]}} at {{[Location]}} now through {{[Date]}} and get {{[Dollar Amount]}} off of admission. So if you do the math, it’s like we’re paying YOU to drink Coke Zero. Sorta. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220172" code="KOCZY220172 - “Can-undrum”" language="English" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  Okay, so you just polished off a can of Coke Zero, and now you’re the proud owner of an empty can. You could recycle it. Or turn it into a bird feeder, if that’s what you’re into. Or you could bring that can to {{[Event]}} at {{[Location]}} between {{[Date]}} and {{[Date]}} and get {{[Dollar Amount]}} off the price of admission. For more info, visit {{[Website]}} or call {{[Phone Number]}}. Coke Zero.  Enjoy Everything.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Stop By and Visit Asset/Partner-->
+        <item kind="script" id="KOCZY220173" code="KOCZY220173 - “Conserva tu Coca-Cola Zero”" language="Spanish" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  Es probable que tu refrigerador esté lleno de Coca-Cola Zero. ¿Pero por qué agotar tu propia reserva de Coca-Cola Zero cuando puedes beber la de otro? Ven a  {{[Event]}} en {{[Location]}}, disfruta de {{[Activities]}} y toma una o dos Coca-Cola Zero mientras estés allí. La entrada es de {{[Price]}} hoy y hasta el {{[Date]}}. Esto significa que tu stock de Coca-Cola Zero debería quedar intacto hasta ese momento. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220174" code="KOCZY220174 - “Día Libre”" language="Spanish" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  Por fin tienes un día libre. Es probable que estés planeando hacer muchas cosas. Eso es bueno. Pero... si vas a hacer algo, ¿por qué no eliges una actividad que te permita tener una buena cantidad de Coca-Cola Zero a mano? Acércate a {{[Event]}} que tendrá lugar en {{[Location]}}. La entrada es de {{[Price]}} a partir de ahora y hasta el {{[Date]}}. Habrá gran cantidad de {{[Activities]}} para hacer. O puedes no hacer nada. Como sea, nada va mejor con nada que Coca-Cola Zero. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220175" code="KOCZY220175 - “Innovación Enlatada”" language="Spanish" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  Coca-Cola Zero mejoró la experiencia de tomar bebidas y combinó el sabor real de Coca-Cola con la ventaja de tener cero calorías. Ahora también hemos mejorado lo que puedes hacer con la lata. Lleva tu lata vacía de Coca-Cola Zero a {{[Event]}} en {{[Location]}} hasta el {{[Date]}} y obtén un descuento de {{[Dollar Amount]}} en el precio de la entrada. Para más información, visita {{[Website]}} o llama al {{[Phone Number]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220176" code="KOCZY220176 - “Haz las Cuentas”" language="Spanish" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  Es cierto que tienes que pagar por una lata de Coca-Cola Zero bien fría. Pero una vez que termines de disfrutar el sabor real de Coca-Cola con cero calorías, puedes llevar la lata a {{[Event]}} en {{[Location]}} hasta el {{[Date]}} y obtener un descuento de {{[Dollar Amount]}} en el precio de la entrada. Si haces las cuentas, verás que prácticamente nosotros te estamos pagando a TI para que tomes Coca-Cola Zero. O algo así. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220177" code="KOCZY220177 - “El Problema de la Lata Vacía”" language="Spanish" length=":20" group="Stop By and Visit Asset/Partner">
+          <text>VO:  OK, acabas de beber toda tu lata de Coca-Cola Zero y ahora eres el dichoso poseedor de una lata vacía.  Podrías reciclarla. También podrías usarla para hacer un comedero para pájaros, si eso es lo que te gusta. O puedes llevar esa lata a {{[Event]}} en {{[Location]}} entre el {{[Date]}} y el {{[Date]}} y obtener un descuento de {{[Dollar Amount]}} en el precio de la entrada. Para más información, visita {{[Website]}} o llama al {{[Phone Number]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coke Zero Bundle Offer Templates-->
+    <screen title="Bundle Offer Templates" id="ZBO" group="Coke Zero Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--IC Product Bundling with Retailer, Partner Product, and Price-->
+        <item kind="script" id="KOCZY220178" code="KOCZY220178 - “Pull Over”" language="English" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  If you’re hearing this, you’re probably in a car. And you’re likely stuck in traffic, bored out of your mind. Good news, the chances are good that you’re close to a Coke Zero. Like, really close. In fact, you can pull over to {{[Retailer]}} and get a Coke Zero, and a {{[Product]}} for just {{[Price]}}, not to mention a chance to do something other than stare at the bumper in front of you. It’ll be a win-win-win situation. Offer ends {{[dates]}}. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220179" code="KOCZY220179 - “Face It”" language="English" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  So, you’re sitting there. Listening to me on the radio. And you’re probably thirsty. Sure, you might try to deny the fact that you’re parched. And deep down you want a drink with real Coke taste and zero calories, but admit it, an ice-cold Coke Zero and a {{[Product]}} would go great right about now. Even better, from now until {{[Date]}}, you can go to {{[Retailer]}} and get a Coke Zero AND a {{[Product]}}, for only {{[Price]}}. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220180" code="KOCZY220180 - “Buddies”" language="English" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  Putting Coke Zero and {{[Product]}} together is like one of those cop flicks. You know, where an old cop gets teamed up with a loose cannon to solve a series of crimes. What follows is a montage of car explosions, cheesy one-liners and, in the end, a winning partnership. Well, that’s exactly what you can expect when you pick up a Coke Zero and {{[Product]}} by {{[Expiration Date]}} for just {{[Price]}}. Well, except for all the car explosions. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220181" code="KOCZY220181 - “Fraternal Twins”" language="English" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  Sure, Coke Zero might be the taste twin to Coke, but when you combine the real Coke taste and zero calories of Coke Zero with {{[Product]}} well, that’s like fraternal twins who were separated at birth only to be reunited as adults. And once together, they find out they’re like super heroes or something. So why not pick up a Coke Zero and {{[Product]}} and unite these two for yourself? For a limited time, they're only {{[Price]}}. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220182" code="KOCZY220182 - “Anthropomorphize”" language="English" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  If Coke Zero were a person, it'd be like one of those really popular guys. But not like those pompous guys who’s all full of himself and everyone secretly doesn’t like him. More like one of those easygoing guys who get along with pretty much everyone. Don’t believe us? Just look how well Coke Zero goes with {{[Product]}}. They get along so well, that for a limited time, you can pick up a Coke Zero and get {{[Product]}} for just {{[Price]}}. Coke Zero.  Enjoy Everything. </text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--IC Product Bundling with Retailer, Partner Product, and Price-->
+        <item kind="script" id="KOCZY220183" code="KOCZY220183 - “Al Costado del Camino”" language="Spanish" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  Si estás escuchando esto es porque probablemente estés en tu automóvil. Y posiblemente estés atorado en el tráfico, aburrido de escuchar tus propios pensamientos. Tenemos buenas noticias. Es posible que estés cerca de una Coca-Cola Zero. Pero muy muy cerca. De hecho, puedes detenerte al costado del camino, bajar en {{[Retailer]}} para comprar una Coca-Cola Zero y {{[Product]}} por sólo {{[Price]}}... ni hablar de que podrás hacer algo más que mirar la defensa del auto que tienes enfrente. ¡Sólo puedes salir ganando! La oferta finaliza el {{[dates]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220184" code="KOCZY220184 - “Hazte Cargo”" language="Spanish" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  Estás sentado allí, escuchándome por la radio y probablemente tengas mucha sed. Sí. Puedes tratar de negar el hecho de que estás realmente sediento. Y de que en realidad quieres tomar algo que tenga el sabor real de Coca-Cola, con cero calorías. ¡Admítelo entonces! En este momento necesitas una Coca-Cola Zero bien helada y {{[Product]}}. Y lo mejor de todo es que hasta el {{[Date]}}, puedes ir a {{[Retailer]}} y comprar una Coca-Cola Zero Y {{[Product]}}, por sólo {{[Price]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220185" code="KOCZY220185 - “Buenos Amigos”" language="Spanish" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  Combinar una Coca-Cola Zero con {{[Product]}} es como ver una de esas películas de policías. Ya sabes, esas donde el policía viejo trabaja con una bala perdida para resolver una serie de crímenes. No faltan las explosiones de automóvil, las deliciosas frases hechas y, al final, una sociedad exitosa. Bueno, eso es exactamente lo que puedes esperar si compras una Coca-Cola Zero y {{[Product]}} antes del {{[Expiration Date]}} por sólo {{[Price]}}. Claro, sin las explosiones de automóvil. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220186" code="KOCZY220186 - “Gemelos Fraternos”" language="Spanish" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  Sí, el sabor de una Coca-Cola Zero puede ser idéntico al de Coca-Cola, pero cuando combinas el sabor real de Coca-Cola y las cero calorías de la Coca-Cola Zero con {{[Product]}}, bueno..., eso ya es como tener gemelos fraternos que fueron separados al nacer y se reúnen de grandes. Y una vez que se juntan, se dan cuenta de que son como superhéroes o algo así. Entonces, ¿por qué no comprar una Coca-Cola Zero y {{[Product]}} y unirlos tú mismo? Por un tiempo limitado, los consigues a {{[Price]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220187" code="KOCZY220187 - “Antropomorfizar”" language="Spanish" length=":20" group="IC Product Bundling with Retailer, Partner Product, and Price">
+          <text>VO:  Si la Coca-Cola Zero fuera una persona, sería uno de esos sujetos muy populares. Pero no de esos que son presumidos, egocéntricos y que todos odian en secreto. Sino como esos sujetos amigables que se llevan bien con casi todos. ¿No nos crees? Mira cómo congenian la Coca-Cola Zero y {{[Product]}}. Se llevan tan bien que, por un tiempo limitado, puedes comprar una Coca-Cola Zero y {{[Product]}} por sólo {{[Price]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coke Zero Sweeps/Contest Templates-->
+    <screen title="Sweeps/Contest Templates" id="ZSC" group="Coke Zero Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+
+NOTE: Initiative Owners are responsible for securing legal approval.
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Station Sweeps Tied to Asset/Partner-->
+        <item kind="script" id="KOCZY120045" code="KOCZY120045 - With Station Tie-In" language="English" length=":20" group="Station Sweeps Tied to Asset/Partner">
+          <text>Coke Zero, official partner of {{[ASSET/PARTNER]}}, could send you to {{[PRIZE]}}.  For details visit {{[STATION WEBSITE]}}.  Coke Zero.  Enjoy Everything.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}.</text>
+        </item>
+        <!--Station & Retailer Sweeps-->
+        <item kind="script" id="KOCZY230040" code="KOCZY230040" language="English" length=":30" group="Station &amp; Retailer Sweeps">
+          <text>Coke Zero, {{[retailer]}} and {{[station]}} are helping you take your enjoyment to the next level.  Every day from {{[date]}} to {{[date]}}, {{[station]}} will give away {{[prize/tickets]}}.  {{[Insert how to participate, i.e., call in text to win, etc.]}}.  And be sure to visit your local {{[retailer]}} and stock your cooler with a {{[package]}} of Coke Zero for {{[price]}}.  Coke Zero. Enjoy Everything.  (Legal copy to be read faster and provided by station).</text>
+        </item>
+        <item kind="script" id="KOCZY250041" code="KOCZY250041" language="English" length=":15" group="Station &amp; Retailer Sweeps">
+          <text>Coke Zero, {{[retailer]}} and {{[station]}} are helping you take your enjoyment to the next level. {{[Insert how to participate, i.e., call in text to win, etc.]}}. Coke Zero. Enjoy Everything.  (Legal copy to be read faster and provided by station).</text>
+        </item>
+        <!--Asset/Partner Sweeps with Station Tie-in-->
+        <item kind="script" id="KOCZY230042" code="KOCZY230042" language="English" length=":30" group="Asset/Partner Sweeps with Station Tie-in">
+          <text>Real Coke taste and zero calories.  See what they did there?  Two amazing things combined to make one super amazing thing.  This year, real Coke taste and zero calories can help take your enjoyment to the next level. Coke Zero, official partner of {{[ASSET/PARTNER]}}, could send you to {{[PRIZE]}}.  For details visit {{[STATION WEBSITE]}}.  Coke Zero.  Enjoy Everything.  LEGAL TO BE READ FASTER:  No purchase necessary.  Residency and other restrictions apply.  Game ends {{[XX-XX-XXXX]}}.  See rules at {{[xxxxxxxx.com]}}.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Station & Retailer Sweeps-->
+        <item kind="script" id="KOCZY230125" code="KOCZY230125" language="Spanish" length=":30" group="Station &amp; Retailer Sweeps">
+          <text>Coca-Cola Zero, {{[tienda y estación]}} llevaran tu manera de disfrutar a otro nivel. Todos los días desde {{[día a día]}}, {{[estación]}} regalará {{[premio/boletos]}}. {{[Mecánica (insert how to participate, i.e., call in text to win, etc.)]}}. Visita tu {{[tienda]}} local y llena tu refrigerador con un Coca-Cola Zero de {{[empaque]}} por solo {{[precio]}}. Coca-Cola Zero. Puedes tenerlo todo. (Legal copy to be read faster and provided by station).</text>
+        </item>
+        <item kind="script" id="KOCZY250124" code="KOCZY250124" language="Spanish" length=":15" group="Station &amp; Retailer Sweeps">
+          <text>Coca-Cola Zero, {{[tienda y estación]}} te ayudan a llevar tu manera de disfrutar a otro nivel. {{[Mecánica (Insert how to participate, i.e., call in text to win, etc)]}}. Coca-Cola Zero. Puedes tenerlo todo. (Legal copy to be read faster and provided by station).</text>
+        </item>
+        <!--Asset/Partner Sweeps with Station Tie-in-->
+        <item kind="script" id="KOCZY230123" code="KOCZY230123" language="Spanish" length=":30" group="Asset/Partner Sweeps with Station Tie-in">
+          <text>Todo el sabor de Coca-Cola y Zero calorías. ¿Te diste cuenta de lo que hicieron? Combinaron dos cosas increíbles para crear una aún más increíble. Este año, el sabor de Coca-Cola y Zero calorías llevaran tu manera de disfrutar a otro nivel. Coca-Cola Zero, socio oficial de {{[asset/partner]}} podrían enviarte a {{[premio]}}. Para más detalles visita {{[sitio de la estación]}}. Coca-Cola Zero. Puedes tenerlo todo.   LEGAL TO BE READ FASTER:  Compra no necesaria. Aplican restricciones. Válido de {{[fecha]}} a {{[fecha]}}. Ver bases en {{[xxxxx.com].</text>
+        </item>
+      </card>
+    </screen>
+    <!--Coke Zero Miscellaneous Templates-->
+    <screen title="Miscellaneous Templates" id="ZMT" group="Coke Zero Media Elements">
+      <card title="TRAFFIC / CUSTOMIZATION INSTRUCTIONS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;
+TRAFFIC INSTRUCTIONS&lt;/textHeader&gt;
+&lt;textBody&gt;
+Please use templates provided by The Coca-Cola Company.  Any revisions made to the provided scripts, other than where indicated by [BRACKETS], must be submitted for approval.  
+&lt;/textBody&gt;
+&lt;textHeader&gt;
+CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;
+If a custom radio script is needed, please click on the order link below to submit your request.  
+
+ISCI Codes for all current templates are provided within the toolkit.   If custom scripts are ordered, it is the requestor’s responsibility to obtain an ISCI Code for the custom script.  Instructions for obtaining an ISCI code are also included within this toolkit.
+
+&lt;a href="event:link|radio-brief_form" &gt;/ Order Custom Radio Scripts&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="ENGLISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Bottler or Brand Sponsorship with Event Details-->
+        <item kind="script" id="KOCZY220188" code="KOCZY220188 - “Proud to Partake”" language="English" length=":20" group="Bottler or Brand Sponsorship with Event Details">
+          <text>VO:  We at Coke Zero are proud to support {{[Event]}}.  Like, really proud. We’re talking so proud, we’re telling everyone who’s listening to this radio spot right now how proud we are. Not only that, but we want you to join us in {{[Activity]}} on {{[Dates]}}, and that way we can feel proud together. Just visit {{[Website]}} or call {{[Phone Number]}} and we’re proud to give you the details. Wait, that last part didn’t make sense. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220189" code="KOCZY220189 - “Stereotypical Guy”" language="English" length=":20" group="Bottler or Brand Sponsorship with Event Details">
+          <text>VO:  We all know a nice guy. He’s the guy who holds doors open for the entire group. The guy who’ll take you to the airport to catch the redeye. Or help you move even when the game is on. Well Coke Zero is calling on all these guys to join us on {{[Dates]}} for {{[Event]}} and {{[Activities]}} and prove your stereotypical nice-guyness. For more information, visit {{[Website]}} or call {{[Phone Number]}}. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <item kind="script" id="KOCZY220190" code="KOCZY220190 - “Hugs for Charity”" language="English" length=":20" group="Bottler or Brand Sponsorship with Event Details">
+          <text>VO:  Some guys are great at giving hugs. But other guys feel more comfortable giving their time and means rather than a warm embrace to a complete stranger. If that’s you, you’d probably enjoy coming to {{[Event]}} on {{[Dates]}}. Just call {{[Phone Number]}} or visit {{[Website]}} to figure out how you can help. We promise, we won’t hug you, unless you’re cool with it. Coke Zero.  Enjoy Everything.</text>
+        </item>
+        <!--Thank You/Congratulations Message (SPORTS)-->
+        <item kind="script" id="KOCZY220191" code="KOCZY220191 - “Our Tireless Efforts”" language="English" length=":20" group="Thank You/Congratulations Message (SPORTS)">
+          <text>VO:  Coke Zero is proud to support {{[Sports Team]}}. Your tireless efforts have allowed you to rise above the crowd. Something that we, the only drink to combine real Coke taste and zero calories, can relate to. But this isn’t about us. It’s about you. And we think what you’ve done is pretty great. Nay, we think it’s unbelievably awesome. Coke Zero.  Enjoy Everything. </text>
+        </item>
+        <item kind="script" id="KOCZY220192" code="KOCZY220192 - “Toast”" language="English" length=":20" group="Thank You/Congratulations Message (SPORTS)">
+          <text>VO:  Coke Zero would like to thank {{[Sports Team]}} for another great season. We may not have seen you play. Or been able to make it to any of your games. But we like to think that we were there, riding the bench next to you the whole way.  Even though we weren’t. And if at some point this season you toasted a win with an ice-cold Coke Zero, well, we couldn’t be more proud to be a part of your victory. If not, well, it’s just a thought. Real Coke taste and zero calories toasts really well.  Coke Zero.  Enjoy Everything.</text>
+        </item>
+      </card>
+      <card title="SPANISH SCRIPTS" kind="scripts" approved="APPROVED FOR LIVE READS ONLY">
+        <!--Bottler or Brand Sponsorship with Event Details-->
+        <item kind="script" id="KOCZY220193" code="KOCZY220193 - “Orgullosos de Participar”" language="Spanish" length=":20" group="Bottler or Brand Sponsorship with Event Details">
+          <text>VO:  En Coca-Cola Zero estamos orgullosos de apoyar {{[Event]}}.  Pero orgullosos en serio. Tan orgullosos que les estamos diciendo a todos los que están escuchando este aviso en este momento cuán orgullosos estamos. No sólo eso, sino que queremos que te unas a nosotros en {{[Activity]}} el {{[Dates]}}, para sentirnos orgullosos juntos. Sólo visita {{[Website]}} o llama al {{[Phone Number]}} y, con orgullo, te daremos los detalles. Espera, esa última parte no tiene sentido. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220194" code="KOCZY220194 - “Típico Sujeto”" language="Spanish" length=":20" group="Bottler or Brand Sponsorship with Event Details">
+          <text>VO:  Todos conocemos a un sujeto bueno. Él es el sujeto que mantiene la puerta abierta para que todos pasen. El que te lleva al aeropuerto para que tomes el vuelo nocturno. O te ayuda con la mudanza, incluso cuando están pasando el juego. Bueno, Coca-Cola Zero está convocando a todos estos sujetos para que se unan a nosotros el {{[Dates]}} para {{[Event]}} y {{[Activities]}}, y así poder demostrar esa bondad típica. Para más información, visita {{[Website]}} o llama al {{[Phone Number]}}. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220195" code="KOCZY220195 - “Abrazos por Caridad”" language="Spanish" length=":20" group="Bottler or Brand Sponsorship with Event Details">
+          <text>VO:  Algunos sujetos son buenos para dar abrazos. Pero otros se sienten más cómodos dando su tiempo y sus recursos en lugar de un abrazo cálido a un total desconocido. Si tú eres uno de ellos, probablemente te gustará venir a {{[Event]}} el {{[Dates]}}. Sólo llama al {{[Phone Number]}} o visita {{[Website]}} para averiguar cómo puedes ayudar. Lo prometemos, no te abrazaremos, a menos que tú lo quieras. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <!--Thank You/Congratulations Message (SPORTS)-->
+        <item kind="script" id="KOCZY220196" code="KOCZY220196 - “Nuestros Incansables Esfuerzos”" language="Spanish" length=":20" group="Thank You/Congratulations Message (SPORTS)">
+          <text>VO:  Coca-Cola Zero se enorgullece en apoyar a {{[Sports Team]}}. Sus incansables esfuerzos les han permitido destacarse del resto. Algo con lo que nosotros, la única bebida que combina el sabor real de Coca-Cola con la ventaja de tener cero calorías, podemos identificarnos. Pero esto no tiene que ver con nosotros. Sino con ustedes. Y creemos que lo que ustedes han hecho es muy bueno. Es más, creemos que es increíblemente asombroso. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+        <item kind="script" id="KOCZY220197" code="KOCZY220197 - “Brindis”" language="Spanish" length=":20" group="Thank You/Congratulations Message (SPORTS)">
+          <text>VO:  Coca-Cola Zero quiere agradecer a {{[Sports Team]}} por otra genial temporada. Es posible que no te hayamos visto jugar, o que no hayamos ido a ninguno de tus partidos. Pero sentimos que estuvimos ahí, que compartimos contigo todo el tiempo que estuviste en la banca, aunque no hayamos estado. Y si en algún momento de esta temporada brindaste por un triunfo con una Coca-Cola Zero bien helada, bueno, no podríamos estar más orgullosos de ser parte de tu victoria. Si no fue así, es sólo un deseo. El sabor real de Coca-Cola y la ventaja de tener cero calorías son la combinación perfecta para un brindis genial. Coca–Cola Zero. Puedes tenerlo todo.</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>

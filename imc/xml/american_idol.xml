@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Overview-->
+    <screen title="Overview" id="OVW">
+      <card title="OVERVIEW" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;2013 SEASON 12 ACTIVATION BASICS&lt;/textHeader&gt;
+&lt;textBody&gt;In-Market: Late January through May 2013 (will vary by customer)
+
+Target: Modern Moms with Teens 12-18 (inclusive of all ethnicities)
+
+Objective: Drive Volume; Encourage Mom to purchase Coca-Cola for fun family time
+
+Strategy: Make Coca-Cola a key part of marking the moment of American Idol Night
+
+&lt;a href="event:link|guide_activation_american_idol" &gt;/ American Idol Activation Guide&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="FOCUS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/overview_focus.swf" />
+      </card>
+      <card title="ACTIVATION HIGHLIGHTS" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/activation-highlights.swf" />
+      </card>
+    </screen>
+    <!--RETAIL ELEMENTS-->
+    <!--Large Store POS-->
+    <screen title="Large Store POS" id="LSP" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/large-store_pos.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING VOLUME DRIVING CTA&lt;/textHeader&gt;
+Features CTA to Buy to get MCR codes for chances to win instantly at mcr.com.
+
+To get approved artwork:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_american_idol" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--FSOP POS-->
+    <screen title="FSOP POS" id="FSO" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/fsop_pos.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING VOLUME DRIVING CTA&lt;/textHeader&gt;
+&lt;textBody&gt;Channels:
+&lt;li&gt;Lodging&lt;/li&gt;
+&lt;li&gt;Workplace&lt;/li&gt;
+&lt;li&gt;Health/Hospitals&lt;/li&gt;
+
+Features CTA to Buy to get MCR codes for chances to win instantly at mcr.com.
+
+
+To get approved artwork:
+Design Machine
+&lt;a href="event:link|design_machine_deep_american_idol" &gt;/ Website&lt;/a&gt;
+
+NOTE:  Need to insert a CUP as packaging?
+&lt;a href="event:email|cse_email_contact" &gt;/ Email CSE&lt;/a&gt;
+&lt;textNote&gt;* This capability for CUPS is not on DM.&lt;/textNote&gt;&lt;/textBody&gt;
+</text>
+        </item>
+      </card>
+    </screen>
+    <!--Enhanced POS-->
+    <screen title="Enhanced POS" id="ENP" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/enhanced_pos.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Featuring Host RYAN SEACREST
+
+
+To special order:
+
+OPE
+Karen Daniels
+(404) 676-2887
+&lt;a href="event:email|ope_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;&lt;/textBody&gt;
+</text>
+        </item>
+      </card>
+    </screen>
+    <!--Prism & Standee Order Info-->
+    <screen title="Prism &amp; Standee Order Info" id="PRS" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/order_prism-standee.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order on Coke Catalog
+&lt;li&gt;COD:  11/16/12&lt;/li&gt;
+&lt;li&gt;In-Plant:  1/14/13&lt;/li&gt;
+&lt;li&gt;In-Mkt:  1/28/13&lt;/li&gt;
+
+
+&lt;textNote&gt;* If you cannot confirm your order by 11/16, please contact Karen Daniels for assistance on your customer order directly. She can coordinate your in-plant date based on your needs. &lt;/textNote&gt;
+
+OPE
+Karen Daniels
+(404) 676-2887
+&lt;a href="event:email|ope_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Premiums-->
+    <screen title="Premiums" id="PRE" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/retail_premiums.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;To order:
+
+OPE
+Karen Daniels
+(404) 676-2887
+&lt;a href="event:email|ope_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Premiums Order Info-->
+    <screen title="Premiums Order Info" id="POI" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/order_premiums.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;Order on Coke Catalog
+&lt;li&gt;COD:  12/7/12&lt;/li&gt;
+&lt;li&gt;In-Plant:  1/28/13&lt;/li&gt;
+&lt;li&gt;In-Mkt:  2/7/13&lt;/li&gt;
+
+
+&lt;textNote&gt;* If you cannot confirm your order by 12/7, please contact Karen Daniels for assistance on your customer order directly. She can coordinate your in-plant date based on your needs. &lt;/textNote&gt;
+
+OPE
+Karen Daniels
+(404) 676-2887
+&lt;a href="event:email|ope_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Logo & Style Guide-->
+    <screen title="Logo &amp; Style Guide" id="LOG" group="Retail Elements">
+      <card title="LOGO" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/logo.jpg" />
+      </card>
+      <card title="STYLE GUIDE" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;STYLE GUIDE &amp; LEGAL LINES&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;a href="event:link|american-idol_style-guide" &gt;/ American Idol Style Guide&lt;/a&gt;
+				
+&lt;textNote&gt;* The Style Guide is not changing for 2013.&lt;/textNote&gt;
+
+&lt;textHeader&gt;ASSET LEGAL LINES&lt;/textHeader&gt;
+For creative without “IDOL” on its own: 
+©The Coca-Cola Company, American Idol: ®/©19 TV Ltd. and FremantleMedia North America 2013. All Rights Reserved. www.americanidol.com. FOX ™Fox and its related entities. All Rights Reserved.
+
+For creative  without “IDOL” on its own (e.g. Make Tonight Idol Night headline):  
+©The Coca-Cola Company, AMERICAN IDOL and all related indicia: ®/©19 TV Ltd. and FremantleMedia North America 2013. All Rights Reserved. www.americanidol.com. FOX ™Fox and its related entities. All Rights Reserved.
+
+&lt;textNote&gt;* All creative is still subject to review by our asset partners.&lt;/textNote&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--New Customer Program Pathways-->
+    <screen title="New Customer Program Pathways" id="NCP" group="Retail Elements">
+      <card title="PROGRAM PATHWAYS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;PRIZE IDEAS&lt;/textHeader&gt;
+&lt;textBody&gt;Branded Merchandise (See page 21) 
+
+Photos autographed by the Top 12 American Idol Season 12 contestants 
+
+At incremental cost/contract:
+&lt;li&gt;American Idol officially-licensed merchandise &lt;/li&gt;
+&lt;li&gt;Former American Idol endorsements/performances &lt;/li&gt;
+&lt;li&gt;Access to judges via Producer for endorsement/marketing programs&lt;/li&gt;
+
+&lt;textHeader&gt;PROMOTION IDEAS*&lt;/textHeader&gt;
+Concept: “Live Like an American Idol”
+Enter for a chance to walk in their shoes. Coca-Cola will fly a lucky winner and friends to Hollywood for a weekend – stay in a mansion in the Hollywood Hills, take a limo to the set, get a makeover by stylists to the stars, go on a shopping spree, sit in the audience at one of the American Idol tapings!
+
+Concept: “American Idol Home Experience”
+Enter to win the chance to give your family room a complete re-do – home entertainment system, karaoke system, and an actual red couch from the American Idol set! 
+
+Concept: “Meet a past American Idol!”  
+Text in STEFANO and you could win a trip to LA to meet Stefano, an Idol from Season 10.  (See the next page for info Stefano &amp; additional prize opportunities tied to him).
+
+&lt;textNote&gt;* All concepts will need to be developed more fully and funded by the account team.&lt;/textNote&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Customer Program Pathway: Stefano-->
+    <screen title="Customer Program: Stefano" id="CPS" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/stefano.jpg" />
+      </card>
+      <card title="PROGRAM PATHWAYS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;STEFANO BASICS&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;2011 Season 10 "American Idol" Top 10 finalist　&lt;/li&gt;
+&lt;li&gt;Teamed up with Rock Mafia to release first single, “I’m On a Roll”&lt;/li&gt;
+&lt;li&gt;New 2012 album due this Fall&lt;/li&gt;
+&lt;li&gt;Appeals to both the Hispanic teen and the general market with his &lt;/li&gt;
+&lt;li&gt;Half-Italian/ half-Hispanic heritage&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;STEFANO OPPORTUNITIES&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Appearance&lt;/li&gt;
+&lt;li&gt;Dinner with Stefano&lt;/li&gt;
+&lt;li&gt;Be on the set of the filming of his next music video&lt;/li&gt;
+&lt;li&gt;VIP concert backstage experience &lt;/li&gt;
+&lt;li&gt;VIP concert viewing: watch his performance from side stage&lt;/li&gt;&lt;/textBody&gt;
+&lt;textNote&gt;* Each of these are Disney-approved concepts but will require additional funding to secure.&lt;/textNote&gt;
+
+&lt;textHeader&gt;INTERESTED?&lt;/textHeader&gt;
+&lt;textBody&gt;To confirm Stefano details &amp; negotiations:
+
+Ellen Gutierrez
+(404) 676-4931
+&lt;a href="event:email|ccna14_email_contact" &gt;/ Email&lt;/a&gt;
+
+Please then submit the final concept to Melanie Gates for approval by Fox/FM/19.
+&lt;a href="event:email|ccna15_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Perfect Harmony Concept-->
+    <screen title="Perfect Harmony Concept" id="PHC" group="Retail Elements">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/program-objective.swf" />
+      </card>
+      <card title="PERFECT HARMONY" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;SEASON 12 COKE / TEEN PERFECT HARMONY CONCEPT &lt;/textHeader&gt;
+&lt;textBody&gt;This year, we are going to give teens the opportunity to once again help the PH artist write a hit song, but also impact every aspect of the finale performance. Consumers will not only be able to vote on the lyrics of a new song, but they will get to vote on things like set design, wardrobe and choreography. 
+
+They will work together to help mold and shape what will ultimately become the artist’s overall performance during the American Idol finale.&lt;/textBody&gt;
+
+&lt;textNote&gt;* Concept pending final Legal &amp; Partner approvals.
+&lt;/textNote&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--CUSTOMIZATION & APPROVALS GUIDELINES-->
+    <!--Rights-->
+    <screen title="Rights" id="RGT" group="Customization &amp; Approvals Guidelines">
+      <card title="RIGHTS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;SEASON 12 CUSTOMER &amp; CHANNEL RIGHTS&lt;/textHeader&gt;
+&lt;textBody&gt;CCNA will also have the right to use American Idol marks on a customer’s website for the purposes of promoting approved American Idol Season 12 marketing activity.
+
+CCNA’s customer-use rights will apply to its customers in the following ‘Protected Channels’ of trade:
+&lt;li&gt;Grocery stores&lt;/li&gt;
+&lt;li&gt;Mass merchandise stores&lt;/li&gt;
+&lt;li&gt;Convenience stores&lt;/li&gt;
+&lt;li&gt;Oil and gas/petroleum stores&lt;/li&gt;
+&lt;li&gt;Drug stores&lt;/li&gt;
+&lt;li&gt;Movie theaters&lt;/li&gt;
+&lt;li&gt;Shopping malls&lt;/li&gt;
+&lt;li&gt;Dollar stores&lt;/li&gt;
+&lt;li&gt;Club stores&lt;/li&gt;
+&lt;li&gt;Education &amp; College channels&lt;/li&gt;
+&lt;li&gt;Airlines&lt;/li&gt;
+&lt;li&gt;Hotels&lt;/li&gt;
+&lt;li&gt;Workplace&lt;/li&gt;
+&lt;li&gt;Hospitals&lt;/li&gt;
+
+If there is another Channel you are interested in activating, please contact Jasmin Hodge &amp; Jen Kanter to address this PRIOR to presenting to these customers so we can confirm if this is an opportunity.
+
+FOODSERVICE:   If a QSR or FSR customer is interested in pursuing, a fee will be required to add FS rights for this season. 
+
+
+If you are interested, please contact: 
+
+Jen Kanter // 404-676-0555
+&lt;a href="event:email|ccna12_email_contact" &gt;/ Email&lt;/a&gt;
+
+OR
+
+Jasmin Hodge // (404) 676-3043 
+&lt;a href="event:email|ccna16_email_contact" &gt;/ Email&lt;/a&gt;
+
+
+CCNA promotions will not use services or marks in such a way as to infringe upon other American Idol partners’ exclusive rights in the Health and Beauty, Retail Apparel, Telephone, Mobile Handset, MP3/Digital Video Hardware and Online Digital Music/Video Download Provider, Automotive, Video Game, and internet service channels.
+
+CCNA will have the right to partner with one or more off-air American Idol Season 12 marketing partners simultaneously to create multi-product promotions.
+
+The customer’s name, title, and/or mark/logo will be 33% of the size of the Coca-Cola or American Idol Logo (whichever is smaller) or name of CCNA or American Idol Season 11, and will receive subordinate placement.
+
+CCNA will have no third-party pass-through rights, meaning the customer’s name, title, and/or mark/logo may be used only in conjunction with the Coca-Cola marks and for informational purposes (such as where the promotion is being conducted).
+
+CCNA will have the right to hold promotional American Idol-related events within the Education &amp; College channels; such events subject to Producers’ (Fremantle &amp; 19) reasonable approval. CCNA will have the right to lead these promotions with any CCNA brand based on regulations restricting the promotion of certain beverages in schools.
+
+CCNA will have the right to create American Idol-themed locations within customer outlets (including but not limited to Walmart, Target, etc.); such executions subject to Producers’ (FM &amp; 19) approval.
+
+CCNA will adhere to the Official American Idol style guide provided by FOX and Producers (FM &amp; 19).
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Creative Mandatories-->
+    <screen title="Creative Mandatories" id="CMA" group="Customization &amp; Approvals Guidelines">
+      <card title="CREATIVE MANDATORIES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;SEASON 12 CREATIVE MANDATORIES
+&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Feature Coca-Cola products as lead brand / promotion driver&lt;/li&gt;
+
+&lt;li&gt;Coca-Cola trademarks should be more prominent and in closer proximity to American Idol logo than the customer trademarks&lt;/li&gt;
+
+&lt;li&gt;The customer’s name, title, and/or mark/logo will be 33% of the area of the smaller mark or name of CCNA Brand or American Idol Season 11 and will receive subordinate placement&lt;/li&gt;
+
+&lt;li&gt;Utilize approved creative/POS templates wherever possible&lt;/li&gt;
+
+&lt;li&gt;Red color palette is ALWAYS preferable to blue; avoid using blue as primary color palette&lt;/li&gt;
+
+&lt;li&gt;Feature food bundle/offer “available at customer outlet” (customer logo or banner name) as tertiary message&lt;/li&gt;
+
+&lt;li&gt;Use differentiated color background or borders to create clear separation between the Coca-Cola / American Idol trademarks (brand equity message) and the retail offer&lt;/li&gt;
+
+&lt;li&gt;Include American Idol Tune-In message&lt;/li&gt;
+
+&lt;li&gt;CCNA will adhere to the Official American Idol style guide provided by FOX and Producers (FM &amp; 19)&lt;/li&gt;
+
+&lt;li&gt;Obtain Coca-Cola Entertainment Marketing and FOX/Fremantle/19 approval for creative PRIOR to customer sell-in/creative production&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Food Bundling Guidelines-->
+    <screen title="Food Bundling Guidelines" id="FBG" group="Customization &amp; Approvals Guidelines">
+      <card title="DO’S" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;FOOD BUNDLING GUIDELINES – DO’S&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Obtain approval from FOX/Fremantle/19 for bundle partner prior to customer sell-in/creative production (thru Melanie Gates &lt;a href="event:email|ccna15_email_contact" &gt;/ email&lt;/a&gt;)&lt;/li&gt;
+
+&lt;li&gt;Use approved Coca-Cola/American Idol Toolkit POS imagery and headlines&lt;/li&gt;
+
+&lt;li&gt;Highlight Coca-Cola products as lead brand&lt;/li&gt;
+
+&lt;li&gt;Utilize/Prioritize healthy food bundle options&lt;/li&gt;
+
+&lt;li&gt;Focus on PL/Regional Brands vs. National Brands&lt;/li&gt;
+
+&lt;li&gt;Feature food bundle/offer available at customer outlet (banner name) as tertiary message&lt;/li&gt;
+
+&lt;li&gt;Use differentiated color background or borders to create clear separation between the Coca-Cola/American Idol trademarks (brand equity message) and the retail offer&lt;/li&gt;
+
+&lt;li&gt;Include American Idol Tune-In message&lt;/li&gt;
+
+&lt;li&gt;Leverage promotion to secure incremental displays/racks, promotional weeks, or availability&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="DONT’S" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;FOOD BUNDLING GUIDELINES – DONT’S&lt;/textHeader&gt;
+&lt;textBody&gt;&lt;li&gt;Feature Ryan Seacrest on the same plane/background as food items&lt;/li&gt;
+
+&lt;li&gt;Feature customer banner or food bundle partner in primary or first position in a way that would depict them as lead/sponsor&lt;/li&gt;
+
+&lt;li&gt;Feature Coca-Cola products or trademarks as secondary positioning&lt;/li&gt;
+
+&lt;li&gt;Feature customer trademarks or food partner trademarks larger than Coca-Cola or American Idol trademarks&lt;/li&gt;
+
+&lt;li&gt;Use customer tagline or food partner name/category in association with American Idol trademarks&lt;/li&gt;
+
+&lt;li&gt;Use too many products that are considered unhealthy / junk food&lt;/li&gt;
+
+&lt;li&gt;Activate bundle with snack partner without prior American Idol approval (some snacks are an issue)&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+      <card title="EXAMPLE" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/food-bundling_dont.swf" />
+      </card>
+    </screen>
+    <!--Approvals-->
+    <screen title="Approvals" id="APP" group="Customization &amp; Approvals Guidelines">
+      <card title="APPROVAL PROCESS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMER PROGRAM APPROVAL PROCESS&lt;/textHeader&gt;
+&lt;textBody&gt;ALL program concepts must be approved prior to creative development.
+
+Request program concept form from Melanie Gates:
+
+&lt;li&gt;When submitting files/creative please insert the customer name and what the file is&lt;/li&gt;
+
+&lt;li&gt;Do not send generic names and #'s as files such as those you receive from agencies&lt;/li&gt;
+
+&lt;li&gt;Use the following example when naming files: AI12 2013 Starwood microsite or AI12 2013 Ralphs shelf talker&lt;/li&gt;
+
+
+Submit Customer Program concept forms to:
+
+Melanie Gates - Entertainment Marketing
+&lt;a href="event:email|ccna15_email_contact" &gt;/ Email&lt;/a&gt;
+
+Jen Kanter – Entertainment Marketing Activation
+&lt;a href="event:email|ccna12_email_contact" &gt;/ Email&lt;/a&gt;
+
+
+Brand and Entertainment Marketing will review materials within 3 business days, and provide initial comments to program manager and/or submit for FOX/Fremantle/19 approval.
+
+Allow a minimum of six business days for feedback from FOX/Fremantle/19.
+
+Melanie Gates forwards approval and/or comments to the program manager.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Ticket Requests-->
+    <screen title="Ticket Requests" id="TIC" group="Customization &amp; Approvals Guidelines">
+      <card title="TICKET REQUESTS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;AMERICAN IDOL TICKET REQUESTS&lt;/textHeader&gt;
+&lt;textBody&gt;Ticket requests (both consumer promotion and customer hospitality) should be referenced in the Customer Program concept form submitted to Melanie Gates for approval.
+
+For Hospitality packages (tickets, hotel, ground transportation) please request via&lt;a href="event:email|ccna17_email_contact" &gt; email&lt;/a&gt;.
+&lt;textNote&gt;* Hospitality tickets are ONLY for use as hospitality, and are not approvable for use in promotions, charity auctions, etc.&lt;/textNote&gt;
+Ticket allocations will be based on the level of execution and incremental volume projections for the activation.
+
+ALL TICKETS ARE CONSIDERED COMPANY ASSETS AND WILL BE UPLOADED ON TRAMS (COMPANY POLICY) TO RESERVE.
+
+TICKETS WILL NOT BE RELEASED UNTIL RESERVED ON TRAMS.&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Miscellaneous-->
+    <screen title="Miscellaneous" id="MIS" group="Customization &amp; Approvals Guidelines">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/american_idol/miscellaneous.swf" />
+      </card>
+    </screen>
+  </screens>
+</data>

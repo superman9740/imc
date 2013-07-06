@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <screens>
+    <!--Image and Graphic Library-->
+    <screen title="Image and Graphic Library" id="IGL">
+      <card title="IMAGES" kind="image_full">
+        <item kind="image" title="Images" file="media/assets/beaches_boardwalks/images.jpg" />
+      </card>
+      <card title="GRAPHICS" kind="image_full">
+        <item kind="image" title="Graphics" file="media/assets/beaches_boardwalks/graphics.jpg" />
+      </card>
+    </screen>
+    <!--OUTSIDE / BOARDWALK-->
+    <!--Truck Backs-->
+    <screen title="Truck Backs" id="TRB" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/beaches_boardwalks/outside_truck-backs.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="CUSTOM SIZES" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;CUSTOMIZATION&lt;/textHeader&gt;
+&lt;textBody&gt;If a custom size creative is needed, login to the &lt;a href="event:link|finished-art-dashboard_site" &gt;Online Ordering Tool&lt;/a&gt;.
+
+First time Users must request user set up access.
+
+Finished Art
+&lt;a href="event:link|finished-art-dashboard_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:link|finished-art_guide" &gt;/ User Guide&lt;/a&gt;
+&lt;a href="event:email|finished-art-access_email_contact" &gt;/ Request Access&lt;/a&gt;
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Contact via Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--A-Frame-->
+    <screen title="A-Frame" id="AFR" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/outside_a-frame.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Street Pole Banners/Flags-->
+    <screen title="Street Pole Banners/Flags" id="SPB" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/outside_street-pole-banners.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Window Clings-->
+    <screen title="Window Clings" id="WIN" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/outside_window-clings.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Menu Boards-->
+    <screen title="Menu Boards" id="MEN" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="Retail Elements" file="media/assets/beaches_boardwalks/outside_menu-boards.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Menu board layout.
+
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;
+
+For printing and installation, contact:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+OR
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+For additional information on the suppliers, click the SUPPLIERS tab.</text>
+        </item>
+      </card>
+      <card title="SUPPLIERS" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;THE HOWARD COMPANY&lt;/textHeader&gt;
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 6 main menu boards (sizes &amp; types) and illuminated boards along with numerous specialty/custom boards for unique applications and locations.  Variations include: &lt;i&gt;with/without panel header, with/without acrylic cover, with digital LCD display&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;All menu boards use the same size strips and numbers although colors and font styles can be changed. Menu items and numbers are all separate&lt;/li&gt;
+&lt;li&gt;Magnets can be ordered &lt;a href="event:link|look_of_success_site" &gt;online&lt;/a&gt;.  All strips and numbers are direct printed on magnetic material&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as banners and adhesive graphics (floor and wall)&lt;/li&gt;&lt;/textBody&gt;
+
+&lt;textHeader&gt;WEAVER MEDIA&lt;/textHeader&gt;
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email&lt;/a&gt;
+
+&lt;textBody&gt;&lt;li&gt;Offers 10 main menu boards including illuminated boards&lt;/li&gt;
+&lt;li&gt;All menu boards use magnetic strips (one strip that included menu items and prices)&lt;/li&gt;
+&lt;li&gt;Can provide other graphic applications such as adhesive graphics (floor and wall), concession stand graphics, banners&lt;/li&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Branded Umbrellas-->
+    <screen title="Branded Umbrellas" id="BUM" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/outside_branded-umbrellas.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;textBody&gt;To order, contact:
+
+Coke Custom
+&lt;a href="event:link|cokecustom_site" &gt;/ Website&lt;/a&gt;
+
+OR
+
+Spread the Red
+&lt;a href="event:link|spread_the_red_site" &gt;/ Website&lt;/a&gt;
+&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Kick Plates-->
+    <screen title="Kick Plates" id="KIC" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/outside_kick-plates.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+To order, contact:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+OR
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+
+&lt;textHeader&gt;SPECS&lt;/textHeader&gt;
+Dimensions vary based on location.
+
+Common sizes include: 
+&lt;li&gt;4x34&lt;/li&gt;
+&lt;li&gt;6x34&lt;/li&gt;
+&lt;li&gt;8x34&lt;/li&gt;
+&lt;li&gt;10x34&lt;/li&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Wall Graphics-->
+    <screen title="Wall Graphics" id="WAL" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/outside_wall-graphics.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Cabanas-->
+    <screen title="Cabanas" id="CAB" group="Outside / Boardwalk">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/outside_cabanas.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Cabana layout.
+
+For printing and installation, contact:
+
+The Howard Company
+&lt;a href="event:link|howard-co_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|howard_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+
+OR
+
+Weaver Media
+&lt;a href="event:link|weaver-media_site" &gt;/ Website&lt;/a&gt;
+&lt;a href="event:email|weaver_email_contact" &gt;/ Contact via Email to Order&lt;/a&gt;
+</text>
+        </item>
+      </card>
+    </screen>
+    <!--EQUIPMENT / COOLERS-->
+    <!--Cooler Wrap / Header-->
+    <screen title="Cooler Wrap / Header" id="CWH" group="Equipment / Coolers">
+      <card title="COOLER WRAP" kind="image_left">
+        <item kind="image" file="media/assets/beaches_boardwalks/equipment_coolers.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;BARREL COOLER WRAP&lt;/textHeader&gt;
+To order approved layouts:
+
+Finished Art
+Contact Daphne Brown
+(404) 355-7902
+&lt;a href="event:email|finished-art1_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;
+
+
+To Produce:
+
+Display Industries
+Contact Rena Thomas 
+(404) 350-4807
+&lt;a href="event:email|display-ind_email_contact" &gt;/ Email&lt;/a&gt;</text>
+        </item>
+      </card>
+      <card title="COOLER HEADER" kind="image_right">
+        <item kind="image" file="media/assets/beaches_boardwalks/equipment_cooler-header.jpg" />
+        <item kind="text">
+          <text>&lt;textHeader&gt;COOLER HEADER&lt;/textHeader&gt;
+To order:
+
+Dalb
+Contact Dave Boggs 
+(304) 725-0300
+&lt;a href="event:email|Cooler/Fountain1_email_contact" &gt;/ Email&lt;/a&gt;&lt;/textBody&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Channel Strips-->
+    <screen title="Channel Strips" id="CHS" group="Equipment / Coolers">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/equipment_channel-strips.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Fountain Back-->
+    <screen title="Fountain Back" id="FNT" group="Equipment / Coolers">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/equipment_fountain-back.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+&lt;li&gt;Customizable parameters – team logo upload and proportional re-sizing&lt;/li&gt;
+&lt;li&gt;It is the requestors responsibility to ensure logos are partner approved&lt;/li&gt;
+
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--PRIMARY POS-->
+    <!--Pole Sign-->
+    <screen title="Pole Sign" id="POL" group="Primary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_pole-sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Shelf Talker-->
+    <screen title="Shelf Talker" id="SHE" group="Primary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_shelf-talker.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Lampshade Pole Sign-->
+    <screen title="Lampshade Pole Sign" id="LPS" group="Primary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_lampshade-pole-sign.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Static Cling-->
+    <screen title="Static Cling" id="STC" group="Primary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_static-cling.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--SECONDARY POS-->
+    <!--20oz Barrel Cooler Lid Cling-->
+    <screen title="20oz Barrel Cooler Lid Cling" id="BCL" group="Secondary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_barrel-cooler-lid-cling.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Neckringers-->
+    <screen title="Neckringers" id="NEC" group="Secondary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_neckringers.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Totem-->
+    <screen title="Totem" id="TOT" group="Secondary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_totem.jpg" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+    <!--Counter Mat-->
+    <screen title="Counter Mat" id="COM" group="Secondary POS">
+      <card title="MEDIA" kind="image_full">
+        <item kind="image" title="A Frame" file="media/assets/beaches_boardwalks/pos_counter-mat.swf" />
+      </card>
+      <card title="ORDER" kind="text_only">
+        <item kind="text">
+          <text>&lt;textHeader&gt;ORDERING&lt;/textHeader&gt;
+Approved Templates can be obtained and customized:
+
+Design Machine
+&lt;a href="event:link|design_machine_deep_beaches" &gt;/ Website&lt;/a&gt;</text>
+        </item>
+      </card>
+    </screen>
+  </screens>
+</data>
