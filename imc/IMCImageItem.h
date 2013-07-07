@@ -11,9 +11,10 @@
 
 @interface IMCImageItem : UIView {
     IMCAutoLoadableImageView* thumbnailImage;
-    UILabel* thumbnailLabel;
     UIButton* clickButton;
 }
+
+@property (nonatomic, strong) UILabel* thumbnailLabel;
 
 - (id)initWithItemDictionary:(NSDictionary*)dictionary showLabel:(BOOL) bShowLabel;
 -(void) addShadow;

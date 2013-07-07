@@ -32,12 +32,21 @@
         [self addSubview:thumbnailImage];
         
         if (bShowLabel) {
-            thumbnailLabel = [[UILabel alloc] initWithFrame:CGRectZero];
-            [thumbnailLabel setShadowColor:[UIColor clearColor]];
-            [thumbnailLabel setBackgroundColor:[UIColor clearColor]];
-            [thumbnailLabel setText:[dictionary xmlGetNodeAttribute:@"title"]];
-            [thumbnailLabel setTextAlignment:NSTextAlignmentCenter];
-            [self addSubview:thumbnailLabel];
+            _thumbnailLabel = [[UILabel alloc] initWithFrame:CGRectZero];
+            [_thumbnailLabel setShadowColor:[UIColor clearColor]];
+            [_thumbnailLabel setBackgroundColor:[UIColor clearColor]];
+            
+            [_thumbnailLabel setText:[dictionary xmlGetNodeAttribute:@"title"]];
+            [_thumbnailLabel setTextAlignment:NSTextAlignmentCenter];
+            //Detect if the label text is going to be truncated
+            CGSize maxSize = CGSizeMake(400.0f, CGFLOAT_MAX);
+            CGSize requiredSize = [_thumbnailLabel sizeThatFits:maxSize];
+            
+            CGRect frame = _thumbnailLabel.frame;
+            frame.size.width = requiredSize.width;
+            _thumbnailLabel.frame = frame;
+            
+            [self addSubview:_thumbnailLabel];
         }
         
         clickButton = [UIButton buttonWithType:UIButtonTypeCustom];
@@ -56,9 +65,9 @@
 }
 
 -(void) layoutSubviews {
-    if (thumbnailLabel) {
+    if (_thumbnailLabel) {
         [thumbnailImage setFrame:CGRectMake(0, 0, self.frame.size.width, 2*self.frame.size.height/3)];
-        [thumbnailLabel setFrame:CGRectMake(0, 2*self.frame.size.height/3,
+        [_thumbnailLabel setFrame:CGRectMake(0, 2*self.frame.size.height/3 + 20,
                                             self.frame.size.width, 20)];
     }else {
         [thumbnailImage setFrame:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height)];

@@ -65,14 +65,20 @@
     
     int cnt = [views count];
     
-    float itemWidth = self.frame.size.width;
+    float itemWidth = self.frame.size.width + 220;
     itemWidth = (cnt>2)?itemWidth/2.5:itemWidth/cnt;
     
     for (int i = 0; i < cnt; i++) {
         
         IMCImageItem* imageView = [views objectAtIndex:i];
+        
+        //Detect if the label text is going to be truncated
+        CGSize maxSize = CGSizeMake(400.0f, CGFLOAT_MAX);
+        CGSize requiredSize = [imageView.thumbnailLabel sizeThatFits:maxSize];
+       
+        
         [imageView setFrame:CGRectMake(itemWidth*i+15, 10,
-                                       itemWidth-30, self.frame.size.height-20)];
+                                       itemWidth-10, self.frame.size.height-20)];
         
     }
     

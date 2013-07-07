@@ -20,13 +20,13 @@
          shouldBeEnabled = "Yes"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
-         filePath = "imc/IMCContentLoader.m"
-         timestampString = "394842442.880071"
+         filePath = "imc/IMCImageOnlyCard.m"
+         timestampString = "394911011.426623"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "113"
-         endingLineNumber = "113"
-         landmarkName = "-setCredentialsWithName:andPassword:rememberMe:"
+         startingLineNumber = "19"
+         endingLineNumber = "19"
+         landmarkName = "-initWithCardDictionary:"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>
