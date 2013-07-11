@@ -67,6 +67,7 @@
         [webView loadHTMLString:html baseURL:[[IMCContentLoader instance] getBaseUrl]];
         [webView setBackgroundColor: [UIColor clearColor]];
         [webView setOpaque:NO];
+        [webView setScalesPageToFit:YES];
         
         [self addSubview:webView];
         [webView scrollView].scrollEnabled = NO;

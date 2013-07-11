@@ -72,10 +72,8 @@
         
         IMCImageItem* imageView = [views objectAtIndex:i];
         
-        //Detect if the label text is going to be truncated
-        CGSize maxSize = CGSizeMake(400.0f, CGFLOAT_MAX);
-        CGSize requiredSize = [imageView.thumbnailLabel sizeThatFits:maxSize];
        
+             
         
         [imageView setFrame:CGRectMake(itemWidth*i+15, 10,
                                        itemWidth-10, self.frame.size.height-20)];
