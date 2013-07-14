@@ -20,8 +20,12 @@
         scripts = [NSMutableArray array];
         scriptTexts = [NSMutableArray array];
         headerItemIds = [NSMutableSet set];
-        NSArray* items = [dictionary xmlGetAllChildNodes:@"item"];
+        subheaderItems = [[NSMutableDictionary alloc] initWithCapacity:10];
+        subheaderItemIDs = [[NSMutableArray alloc] initWithCapacity:10];
         
+        NSArray* items = [dictionary xmlGetAllChildNodes:@"item"];
+        int subHeaderCounter = 0;
+        NSString* currentSubHeaderStr;
         for (NSDictionary* itemDict in items) {
             if ([[itemDict xmlGetNodeAttribute:@"kind"] isEqualToString:@"script"]) {
                 
@@ -35,6 +39,30 @@
                 
                 
                 [scripts addObject:itemDict];
+                //subgroup
+                NSString* subgroup = [itemDict xmlGetNodeAttribute:@"subgroup"];
+                subgroup = [subgroup stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]];
+                
+                if (![subgroup length]) {
+                    subgroup = @"";
+                } else
+                {
+                    
+                   
+                }
+                
+                if([subgroup isEqualToString:currentSubHeaderStr])
+                {
+                    
+                }
+                else
+                {
+                    currentSubHeaderStr = subgroup;
+                    [subheaderItemIDs addObject:[NSNumber numberWithInt:subHeaderCounter]];
+                    subHeaderCounter++;
+                    
+                    
+                }
                 NSString* text = [[itemDict xmlGetLastChildNode:@"text"] xmlGetNodeText];
                 text = [text stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]];
                 
@@ -51,10 +79,10 @@
 
         }
         
-        scriptsTable = [[UITableView alloc] initWithFrame:CGRectZero];
+        scriptsTable = [[UITableView alloc] initWithFrame:CGRectZero style:UITableViewStylePlain];
+        
         
         [scriptsTable setSeparatorStyle:UITableViewCellSeparatorStyleNone];
-        
         [self addSubview:scriptsTable];
         [scriptsTable setDataSource:self];
         [scriptsTable setDelegate:self];
@@ -72,9 +100,14 @@
     
     return self;
 }
-
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
+{
+    return subheaderItemIDs.count;
+    
+}
 -(int) tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return [scripts count];
+    int count = scripts.count;
+    return count;
 }
 
 
@@ -82,7 +115,8 @@
     
     UITableViewCell* cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"scriptsCell"];
     
-    if ([headerItemIds containsObject:[NSNumber numberWithInt:[indexPath row]]]) {
+    if ([headerItemIds containsObject:[NSNumber numberWithInt:[indexPath row]]])
+    {
         cell.selectionStyle = UITableViewCellEditingStyleNone;
         
         NSString* groupName = [scriptTexts objectAtIndex: [indexPath row]];
@@ -96,14 +130,30 @@
         
         [cell addSubview:lbl];
         
-    } else {
+    }
+    else if ([subheaderItemIDs containsObject:[NSNumber numberWithInt:[indexPath row]]])
+    {
+        cell.selectionStyle = UITableViewCellEditingStyleNone;
         
+        NSString* subgroupName = [scriptTexts objectAtIndex: [indexPath row]];
         
+        UILabel* lbl = [[UILabel alloc] initWithFrame:CGRectMake(10, 10, 400, 22)];
+        
+        [lbl setFont:[UIFont systemFontOfSize:16.f]];
+        
+        [lbl setText: subgroupName];
+        [lbl setNumberOfLines:0];
+        
+        [cell addSubview:lbl];
+        
+    }
+  else
+  {
         NSDictionary* item = [scripts objectAtIndex: [indexPath row]];
         
         NSString* length = [item xmlGetNodeAttribute:@"length"];
         NSString* code = [item xmlGetNodeAttribute:@"code"];
-        
+      
         
         UIFont *boldFont = [UIFont systemFontOfSize:16.f];
         UIFont *regularFont = [UIFont systemFontOfSize:12.f];
@@ -133,7 +183,8 @@
         // Set it in our UILabel and we are done!
         [[cell textLabel] setAttributedText:attributedText];
 
-    }
+   }
+   
     
     return cell;
 }
@@ -152,6 +203,20 @@
 -(CGFloat) tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
     return 30.f;
 }
+
+
+- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
+{
+    
+    NSString* tempStr = @"subheader";
+    
+    return tempStr;
+    
+
+}
+
+
+
 
 -(void) layoutSubviews {
     

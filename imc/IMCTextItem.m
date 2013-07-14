@@ -50,6 +50,10 @@
                                           @"</second>\\s*</li>" options:0 error:nil];
             [regex3 replaceMatchesInString:str options:0 range:NSMakeRange(0, [str length]) withTemplate:@"</li>"];
             
+            NSRegularExpression* regex4 = [NSRegularExpression regularExpressionWithPattern:
+                                          @"(<br>){5}" options:0 error:nil];
+            
+            [regex4 replaceMatchesInString:str options:0 range:NSMakeRange(0, [str length]) withTemplate:@"<br>"];
             
             html = str;
             

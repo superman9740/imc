@@ -16,6 +16,8 @@
     
     NSMutableArray* scriptTexts;
     NSMutableSet* headerItemIds;
+    NSMutableDictionary* subheaderItems;
+    NSMutableArray* subheaderItemIDs;
     
 }
 
