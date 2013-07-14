@@ -199,16 +199,96 @@
 
     [thumbnailImage setFrame:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height/2)];
     [clickButton setFrame:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height/2)];
-    int i = 1;
+    int i = 0;
+    if ([ [ UIScreen mainScreen ] bounds ].size.height < 568)
+    {
+        i = .9;
+    }
+    else
+    {
+        i = 1;
+        
+    }
+    
     
     if ([thumbnailLabels count] == 9) {
         [scriptButton setFrame:CGRectMake(0, self.frame.size.height/2+13*3,
                                           self.frame.size.width, 52)];
     }
-    
-    for (UILabel* thumbnailLabel in thumbnailLabels) {
-        [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i,
-                                            self.frame.size.width, 26)];
+    for (UILabel* thumbnailLabel in thumbnailLabels)
+    {
+        NSString* text = [thumbnailLabel.text stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]];
+        
+        if([text isEqualToString:@""])
+        {
+     
+           // [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i + 20,
+           //                                     self.frame.size.width, 26)];
+            
+            
+        }
+        else
+        {
+        
+            NSString* tempStr = thumbnailLabel.text;
+            NSLog(@"label:  %@", tempStr);
+            
+            if([tempStr isEqualToString:@"EXPIRATION DATES: \n"])
+            {
+                if ([ [ UIScreen mainScreen ] bounds ].size.height < 568)
+                {
+                    [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i - 13,
+                                                    self.frame.size.width, 26)];
+                }
+                else
+                {
+                    
+                    [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i,
+                                                        self.frame.size.width, 26)];
+                    
+                }
+            }
+            else if([tempStr  rangeOfString:@"In-Venue:"].location != NSNotFound)
+            {
+            
+                if ([ [ UIScreen mainScreen ] bounds ].size.height < 568)
+                {
+                    [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i - 13,
+                                                    self.frame.size.width, 26)];
+                }
+                else
+                {
+               
+                    [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i,
+                                                        self.frame.size.width, 26)];
+                    
+                }
+            }
+            else if([tempStr  rangeOfString:@"Internet:"].location != NSNotFound)
+            {
+                if ([ [ UIScreen mainScreen ] bounds ].size.height < 568)
+                {
+                    [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i - 13,
+                                                    self.frame.size.width, 26)];
+                }
+                else
+                {
+                    
+                    [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i,
+                                                        self.frame.size.width, 26)];
+                    
+                }
+            }
+            else
+            {
+              
+                [thumbnailLabel setFrame:CGRectMake(0, self.frame.size.height/2+13*i,
+                                                    self.frame.size.width, 26)];
+                
+            }
+        
+        }
+        
         i++;
     }
 
