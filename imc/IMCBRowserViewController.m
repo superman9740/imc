@@ -27,9 +27,7 @@
     [backBtn setEnabled:NO];
     [forwardBtn setEnabled:NO];
     
-    [loaderView setHidden:YES];
-    loaderView.layer.cornerRadius = 9.f;
-
+    
     [webView setDelegate:self];
 
     [webView loadRequest:[NSURLRequest requestWithURL:[NSURL URLWithString:url]]];
@@ -37,14 +35,25 @@
 }
 
 -(void) webViewDidStartLoad:(UIWebView *)webView {
-    [loaderView setHidden:NO];
+    
+    loaderView = [[UIView alloc] initWithFrame:webView.frame];
+    loaderView.backgroundColor = [UIColor blackColor];
+    loaderView.alpha = .6;
+    spinnerView = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleWhite];
+    spinnerView.center = CGPointMake(self.view.frame.size.width / 2.0, self.view.frame.size.height / 2.0);
+    [spinnerView startAnimating];
+    [loaderView addSubview:spinnerView];
+    [self.view addSubview:loaderView];
+    
 }
 
 -(void) webViewDidFinishLoad:(UIWebView *)_webView {
     [backBtn setEnabled:[webView canGoBack]];
     [forwardBtn setEnabled:[webView canGoForward]];
-    [loaderView setHidden:YES];
-
+    [loaderView removeFromSuperview];
+    [spinnerView stopAnimating];
+    [spinnerView setHidden:YES];
+    
 
 }
 

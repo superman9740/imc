@@ -15,7 +15,9 @@
     IBOutlet UIButton* backBtn;
     IBOutlet UIButton* forwardBtn;
     
-    IBOutlet UIView* loaderView;
+    UIView* loaderView;
+    UIActivityIndicatorView* spinnerView;
+    
 }
 
 -(void) appearWithUrl:(NSString*)_url ;
