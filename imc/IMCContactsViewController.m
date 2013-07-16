@@ -202,7 +202,7 @@
         
         [[catCell name] setText: [menuItem contactName]];
         [[catCell group] setText: [menuItem contactGroup]];
-        NSString* tempStr = [NSString stringWithFormat:@"<!DOCTYPE html><html><body><a href=\"\%@" style="color: red">%@</a>",menuItem.contactPhone];
+        NSString* tempStr = [NSString stringWithFormat:@"<!DOCTYPE html><html><body><a href=\"tel://%@\" style=\"color: red;\">%@</a>",menuItem.contactPhone, menuItem.contactPhone];
         
         [[catCell phone] loadHTMLString:tempStr baseURL:nil];
         
