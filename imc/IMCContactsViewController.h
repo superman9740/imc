@@ -41,7 +41,7 @@
 
 @property IBOutlet UILabel* name;
 @property IBOutlet UILabel* group;
-@property IBOutlet UIWebView* phone;
+@property IBOutlet UILabel* phone;
 @property IBOutlet UILabel* email;
 
 -(IBAction)sendEmail;
