@@ -75,8 +75,16 @@
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {
         [[btn titleLabel] setFont:[UIFont boldSystemFontOfSize:22.]];
     } else {
-        [[btn titleLabel] setFont:[UIFont boldSystemFontOfSize:18.]];
+        [[btn titleLabel] setFont:[UIFont boldSystemFontOfSize:18]];
     }
+     
+        NSMutableAttributedString* str = [[NSMutableAttributedString alloc] initWithString:itm.title];
+        NSInteger strLength = [itm.title length];
+        NSMutableParagraphStyle *style = [[NSMutableParagraphStyle alloc] init];
+        [style setLineSpacing:2];
+        [str addAttribute:NSParagraphStyleAttributeName   value:style  range:NSMakeRange(0, strLength)];
+       
+        btn.titleLabel.attributedText = str;
         
         CGSize size = [[itm title] sizeWithFont:[[btn titleLabel] font]];
         
