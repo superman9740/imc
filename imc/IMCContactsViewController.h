@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LabelWithLinks.h"
 
 @interface IMCContactListItem : NSObject {
     
@@ -41,7 +42,7 @@
 
 @property IBOutlet UILabel* name;
 @property IBOutlet UILabel* group;
-@property IBOutlet UILabel* phone;
+@property IBOutlet LabelWithLinks* phone;
 @property IBOutlet UILabel* email;
 
 -(IBAction)sendEmail;
@@ -62,5 +63,6 @@
 -(id)initWithContactItems:(NSArray*)items;
 
 -(IBAction)closePopup;
+-(IBAction)handleLinkClick:(id)sender;
 
 @end

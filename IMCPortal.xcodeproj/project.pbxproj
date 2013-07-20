@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C6D71CE179ADFDC007348C9 /* LabelWithLinks.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C6D71CD179ADFDC007348C9 /* LabelWithLinks.m */; };
 		3C7E94821788BC8200510EF7 /* CopyLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C7E94811788BC8200510EF7 /* CopyLabel.m */; };
 		FF02FD2416ECA362007B887F /* IMCNotificationsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF02FD2216ECA362007B887F /* IMCNotificationsViewController.m */; };
 		FF02FD2516ECA362007B887F /* IMCNotificationsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FF02FD2316ECA362007B887F /* IMCNotificationsViewController.xib */; };
@@ -139,6 +140,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C6D71CC179ADFDC007348C9 /* LabelWithLinks.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LabelWithLinks.h; sourceTree = "<group>"; };
+		3C6D71CD179ADFDC007348C9 /* LabelWithLinks.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LabelWithLinks.m; sourceTree = "<group>"; };
 		3C7E94801788BC8200510EF7 /* CopyLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CopyLabel.h; sourceTree = "<group>"; };
 		3C7E94811788BC8200510EF7 /* CopyLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CopyLabel.m; sourceTree = "<group>"; };
 		5ECF0E411785DA0A006BE487 /* imc.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = imc.entitlements; sourceTree = "<group>"; };
@@ -335,6 +338,8 @@
 			children = (
 				3C7E94801788BC8200510EF7 /* CopyLabel.h */,
 				3C7E94811788BC8200510EF7 /* CopyLabel.m */,
+				3C6D71CC179ADFDC007348C9 /* LabelWithLinks.h */,
+				3C6D71CD179ADFDC007348C9 /* LabelWithLinks.m */,
 			);
 			name = CustomClasses;
 			sourceTree = "<group>";
@@ -866,6 +871,7 @@
 				FFEF2B32170EDB5000F44EA2 /* IMCGradientImageView.m in Sources */,
 				FF7A9B60171383EA000D68D3 /* IMCBRowserViewController.m in Sources */,
 				3C7E94821788BC8200510EF7 /* CopyLabel.m in Sources */,
+				3C6D71CE179ADFDC007348C9 /* LabelWithLinks.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

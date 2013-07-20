@@ -59,26 +59,13 @@
          shouldBeEnabled = "Yes"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
-         filePath = "imc/IMCTextItem.m"
-         timestampString = "395872232.571705"
+         filePath = "imc/IMCAccordeonView.m"
+         timestampString = "395888928.990147"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "65"
-         endingLineNumber = "65"
-         landmarkName = "-initWithCardItemDict:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "imc/IMCNotificationsViewController.m"
-         timestampString = "395947758.952543"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "59"
-         endingLineNumber = "59"
-         landmarkName = "-tableView:numberOfRowsInSection:"
+         startingLineNumber = "126"
+         endingLineNumber = "126"
+         landmarkName = "-updateCardLayoutHorizontal"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>

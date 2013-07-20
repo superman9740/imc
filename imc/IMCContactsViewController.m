@@ -203,8 +203,10 @@
         [[catCell name] setText: [menuItem contactName]];
         [[catCell group] setText: [menuItem contactGroup]];
         [[catCell phone] setText: [menuItem contactPhone]];
-         
-            
+        [catCell.phone setUserInteractionEnabled:YES];
+        UITapGestureRecognizer* tapGesture = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(handleLinkClick:)];
+        [catCell.phone addGestureRecognizer:tapGesture];
+        
             
         
       //  NSString* tempStr = [NSString stringWithFormat:@"<!DOCTYPE html><html><body><a href=\"tel://%@\" style=\"color: red;\">%@</a>",menuItem.contactPhone, menuItem.contactPhone];
@@ -220,7 +222,32 @@
     
     return cell;
 }
+-(IBAction)handleLinkClick:(id)sender
+{
+    UIGestureRecognizer* gesture = (UIGestureRecognizer*)sender;
+    LabelWithLinks* label = (LabelWithLinks*)gesture.view;
 
+    NSString* alertStr = [NSString stringWithFormat:@"Call phone number %@?", label.text];
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Call Number" message:alertStr delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
+    // optional - add more buttons:
+    [alert addButtonWithTitle:@"Call"];
+    [alert show];
+
+}
+- (void)alertView:(UIAlertView *)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex {
+    if (buttonIndex == 1) {
+        NSString* url = [NSString stringWithFormat:@"tel://%@",alertView.message];
+        url = [url stringByReplacingOccurrencesOfString:@"Call phone number " withString:@""];
+        url = [url stringByReplacingOccurrencesOfString:@"(" withString:@""];
+        url = [url stringByReplacingOccurrencesOfString:@")" withString:@""];
+        url = [url stringByReplacingOccurrencesOfString:@" " withString:@""];
+        url = [url stringByReplacingOccurrencesOfString:@"?" withString:@""];
+        
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:url]];
+        
+
+    }
+}
 
 - (void)viewDidLoad
 {
