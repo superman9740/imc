@@ -168,8 +168,105 @@ static IMCContentLoader* _instance = nil;
 #endif
 
     
+   
+    
     NSString* url = [NSString stringWithFormat:SERVER_BASE_URL_TEMPLATE, MAIN_XML_PATH];
-    return [self performRequestForURL:[NSURL URLWithString:url]];
+    //Content caching
+    
+    NSString* documentsPath = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
+    NSString* file = [documentsPath stringByAppendingPathComponent:@"data.xml"];
+    BOOL fileExists = [[NSFileManager defaultManager] fileExistsAtPath:file];
+    
+    if(fileExists)
+    {
+        
+        //Check to see if the cache is 24 hours old or older.  If it is, flush it out.
+        
+        NSFileManager* fm = [NSFileManager defaultManager];
+        NSDictionary* attrs = [fm attributesOfItemAtPath:file error:nil];
+        
+        if (attrs != nil)
+        {
+            NSDate *date = (NSDate*)[attrs objectForKey: NSFileCreationDate];
+            
+            NSCalendar *gregorianCalendar = [[NSCalendar alloc] initWithCalendarIdentifier:NSGregorianCalendar];
+            NSDateComponents *components = [gregorianCalendar components:NSHourCalendarUnit
+                                                                fromDate:date
+                                                                  toDate:[NSDate date]
+                                                                 options:0];
+            
+            
+            
+            if(components.hour > 24)
+            {
+                NSError* error = nil;
+                NSArray *directoryContents = [fm contentsOfDirectoryAtPath:documentsPath
+                                                                              error:&error];
+                NSString *match = @"*.xml";
+                NSPredicate *predicate = [NSPredicate predicateWithFormat:@"SELF like %@", match];
+                NSArray *results = [directoryContents filteredArrayUsingPredicate:predicate];
+                
+                for (NSString* fileName in results)
+                {
+                    
+                    NSString* filePath = [documentsPath stringByAppendingPathComponent:fileName];
+                    
+                    if ([fm removeItemAtPath:filePath error:&error] != YES)
+                        NSLog(@"Unable to delete file: %@", [error localizedDescription]);
+                }
+                
+                
+                
+                
+                
+                match = @"*.jpg";
+                predicate = [NSPredicate predicateWithFormat:@"SELF like %@", match];
+                results = [directoryContents filteredArrayUsingPredicate:predicate];
+                
+                for (NSString* fileName in results)
+                {
+                    
+                    NSString* filePath = [documentsPath stringByAppendingPathComponent:fileName];
+                    
+                    if ([fm removeItemAtPath:filePath error:&error] != YES)
+                        NSLog(@"Unable to delete file: %@", [error localizedDescription]);
+                }
+                
+                NSData* newData = [self performRequestForURL:[NSURL URLWithString:url]];
+                [newData writeToFile:file atomically:NO];
+                return newData;
+                
+                
+            }
+            else
+            {
+                NSData* data = [NSData dataWithContentsOfFile:file];
+                return data;
+                
+            }
+            
+            
+        }
+        else
+        {
+            NSLog(@"Not found");
+        }
+        
+        
+        
+        
+        
+    }
+    else
+    {
+    
+        NSData* newData = [self performRequestForURL:[NSURL URLWithString:url]];
+        [newData writeToFile:file atomically:NO];
+        return newData;
+    
+    }
+    
+    
 }
 
 -(NSData*) getUpdateXML {
@@ -180,7 +277,30 @@ static IMCContentLoader* _instance = nil;
 
     
     NSString* url = [NSString stringWithFormat:SERVER_BASE_URL_TEMPLATE, UPDATE_XML_PATH];
-    return [self performRequestForURL:[NSURL URLWithString:url]];    
+    
+    
+    
+    
+    NSString* documentsPath = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
+    NSString* file = [documentsPath stringByAppendingPathComponent:@"updates.xml"];
+    BOOL fileExists = [[NSFileManager defaultManager] fileExistsAtPath:file];
+    
+    if(fileExists)
+    {
+        NSData* data = [NSData dataWithContentsOfFile:file];
+        return data;
+        
+    }
+    else
+    {
+        
+        NSData* newData = [self performRequestForURL:[NSURL URLWithString:url]];
+        [newData writeToFile:file atomically:NO];
+        return newData;
+        
+    }
+    
+    
 }
 
 -(NSData*) getToolkitXML:(NSString*)fileName {
@@ -192,7 +312,28 @@ static IMCContentLoader* _instance = nil;
     NSString* urlEnding = [NSString stringWithFormat:TOOLKIT_XML_PATH_TEMPLATE, fileName];
     
     NSString* url = [NSString stringWithFormat:SERVER_BASE_URL_TEMPLATE, urlEnding];
-    return [self performRequestForURL:[NSURL URLWithString:url]];
+   
+    NSString* documentsPath = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
+    NSString* file = [documentsPath stringByAppendingPathComponent:[NSString stringWithFormat:@"%@.xml",fileName]];
+    
+    BOOL fileExists = [[NSFileManager defaultManager] fileExistsAtPath:file];
+    
+    if(fileExists)
+    {
+        NSData* data = [NSData dataWithContentsOfFile:file];
+        return data;
+        
+    }
+    else
+    {
+        
+        NSData* newData = [self performRequestForURL:[NSURL URLWithString:url]];
+        [newData writeToFile:file atomically:NO];
+        return newData;
+        
+    }
+    
+    
     
 }
 

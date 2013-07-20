@@ -7,19 +7,6 @@
          shouldBeEnabled = "Yes"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
-         filePath = "imc/IMCImageOnlyCard.m"
-         timestampString = "394911011.426623"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "19"
-         endingLineNumber = "19"
-         landmarkName = "-initWithCardDictionary:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
          filePath = "imc/IMCScriptsCard.m"
          timestampString = "395523009.923045"
          startingColumnNumber = "9223372036854775807"
@@ -66,6 +53,19 @@
          startingLineNumber = "126"
          endingLineNumber = "126"
          landmarkName = "-updateCardLayoutHorizontal"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "imc/IMCContentLoader.m"
+         timestampString = "396042147.030943"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "235"
+         endingLineNumber = "235"
+         landmarkName = "-getMainXML"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>
