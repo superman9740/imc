@@ -167,7 +167,7 @@ static IMCContentLoader* _instance = nil;
     return [NSData dataWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"data" ofType:@"xml"]];
 #endif
 
-    
+    NSData* returnData = nil;
    
     
     NSString* url = [NSString stringWithFormat:SERVER_BASE_URL_TEMPLATE, MAIN_XML_PATH];
@@ -234,14 +234,15 @@ static IMCContentLoader* _instance = nil;
                 
                 NSData* newData = [self performRequestForURL:[NSURL URLWithString:url]];
                 [newData writeToFile:file atomically:NO];
-                return newData;
+                returnData =  newData;
                 
                 
             }
             else
             {
                 NSData* data = [NSData dataWithContentsOfFile:file];
-                return data;
+                returnData = data;
+                
                 
             }
             
@@ -262,11 +263,13 @@ static IMCContentLoader* _instance = nil;
     
         NSData* newData = [self performRequestForURL:[NSURL URLWithString:url]];
         [newData writeToFile:file atomically:NO];
-        return newData;
-    
+        returnData = newData;
+        
+        
     }
     
-    
+return returnData;
+
 }
 
 -(NSData*) getUpdateXML {

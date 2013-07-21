@@ -88,7 +88,7 @@
         
         CGSize size = [[itm title] sizeWithFont:[[btn titleLabel] font]];
         
-        if (offset && offset+size.width+20 > self.frame.size.width) {
+        if (offset && offset+size.width+10 > self.frame.size.width) {
             offset = 0;
             offsetY += rowHeight;
             if (size.width+20 > self.frame.size.width) {
@@ -96,7 +96,7 @@
             }
         }
         
-        [btn.titleLabel setLineBreakMode:NSLineBreakByTruncatingTail];
+       // [btn.titleLabel setLineBreakMode:NSLine];
         
 //        UILabel* lbl = [[UILabel alloc] initWithFrame:CGRectMake(offset, offsetY, 8, rowHeight)];
 //        [lbl setText:@"/"];

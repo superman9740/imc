@@ -45,6 +45,8 @@
 		<string>HelveticaNeueLTStd-Md.otf</string>
 		<string>HelveticaNeueLTStd-Th.otf</string>
 	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
 	<key>UIPrerenderedIcon</key>
 	<true/>
 	<key>UIRequiredDeviceCapabilities</key>

@@ -62,6 +62,12 @@
             [regex5 replaceMatchesInString:str options:0 range:NSMakeRange(0, [str length]) withTemplate:@"<img style=\"width:100%\"  src="];
             
             
+            if([str rangeOfString:@"bull"].location != NSNotFound)
+            {
+                int x = 5;
+                x = 1;
+                
+            }
             html = str;
             
             ///
