@@ -52,9 +52,26 @@
             
             
             NSRegularExpression* regex4 = [NSRegularExpression regularExpressionWithPattern:
-                                          @"(<br>){5}" options:0 error:nil];
+                                          @"<br><br>" options:0 error:nil];
+            
             
             [regex4 replaceMatchesInString:str options:0 range:NSMakeRange(0, [str length]) withTemplate:@"<br>"];
+            
+            
+            regex4 = [NSRegularExpression regularExpressionWithPattern:
+                                           @"<br><br><br>" options:0 error:nil];
+            
+            
+            [regex4 replaceMatchesInString:str options:0 range:NSMakeRange(0, [str length]) withTemplate:@"<br>"];
+            
+            
+            
+            regex4 = [NSRegularExpression regularExpressionWithPattern:
+                      @"<br><br><br><br>" options:0 error:nil];
+            
+            
+            [regex4 replaceMatchesInString:str options:0 range:NSMakeRange(0, [str length]) withTemplate:@"<br>"];
+            
             
             NSRegularExpression* regex5 = [NSRegularExpression regularExpressionWithPattern:
                                            @"<img src=" options:0 error:nil];
@@ -70,9 +87,9 @@
             }
             html = str;
             
-            ///
             
-            //NSLog(@"%@", html);
+            
+            NSLog(@"%@", html);
         
         
             html = [NSString stringWithFormat:template, html];
