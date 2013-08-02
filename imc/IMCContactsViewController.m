@@ -142,7 +142,7 @@
     int height;
     
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {
-        height = 40;
+        height = 50;
     } else {
         height = 100;
     }
