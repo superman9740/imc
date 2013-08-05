@@ -14,7 +14,7 @@
     UIButton* clickButton;
 }
 
-@property (nonatomic, strong) UILabel* thumbnailLabel;
+@property (nonatomic, strong) UITextView* thumbnailLabel;
 
 - (id)initWithItemDictionary:(NSDictionary*)dictionary showLabel:(BOOL) bShowLabel;
 -(void) addShadow;

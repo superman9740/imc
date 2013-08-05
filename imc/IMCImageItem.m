@@ -32,9 +32,11 @@
         [self addSubview:thumbnailImage];
         
         if (bShowLabel) {
-            _thumbnailLabel = [[UILabel alloc] initWithFrame:CGRectZero];
-            [_thumbnailLabel setShadowColor:[UIColor clearColor]];
+            _thumbnailLabel = [[UITextView alloc] initWithFrame:CGRectZero];
+           // [_thumbnailLabel setShadowColor:[UIColor clearColor]];
             [_thumbnailLabel setBackgroundColor:[UIColor clearColor]];
+            NSString* tempText = [dictionary xmlGetNodeAttribute:@"title"];
+            tempText = [tempText stringByReplacingOccurrencesOfString:@"\n" withString:@"\\n"];
             
             [_thumbnailLabel setText:[dictionary xmlGetNodeAttribute:@"title"]];
             [_thumbnailLabel setTextAlignment:NSTextAlignmentCenter];
@@ -44,6 +46,8 @@
             
             CGRect frame = _thumbnailLabel.frame;
             frame.size.width = requiredSize.width;
+            frame.size.height += 10;
+            
             _thumbnailLabel.frame = frame;
             
             [self addSubview:_thumbnailLabel];
@@ -67,8 +71,8 @@
 -(void) layoutSubviews {
     if (_thumbnailLabel) {
         [thumbnailImage setFrame:CGRectMake(0, 0, self.frame.size.width, 2*self.frame.size.height/3)];
-        [_thumbnailLabel setFrame:CGRectMake(0, 2*self.frame.size.height/3 + 20,
-                                            self.frame.size.width, 20)];
+        [_thumbnailLabel setFrame:CGRectMake(0, 2*self.frame.size.height/3 + 10,
+                                            self.frame.size.width, 60)];
     }else {
         [thumbnailImage setFrame:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height)];
     }
