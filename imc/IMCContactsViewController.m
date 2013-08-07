@@ -227,12 +227,28 @@
     UIGestureRecognizer* gesture = (UIGestureRecognizer*)sender;
     LabelWithLinks* label = (LabelWithLinks*)gesture.view;
 
-    NSString* alertStr = [NSString stringWithFormat:@"Call phone number %@?", label.text];
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Call Number" message:alertStr delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
-    // optional - add more buttons:
-    [alert addButtonWithTitle:@"Call"];
-    [alert show];
+    if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad)
+    {
+        NSString* alertStr = [NSString stringWithFormat:@"add %@ to contacts?", label.text];
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Add to Contacts" message:alertStr delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
+        // optional - add more buttons:
+        [alert addButtonWithTitle:@"Add to Contacts"];
+        
+        [alert show];
 
+        
+    }
+    else
+    {
+    
+        NSString* alertStr = [NSString stringWithFormat:@"Call phone number %@?", label.text];
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Call Number" message:alertStr delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
+        // optional - add more buttons:
+        [alert addButtonWithTitle:@"Call"];
+        [alert show];
+
+    }
+    
 }
 - (void)alertView:(UIAlertView *)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex {
     if (buttonIndex == 1) {

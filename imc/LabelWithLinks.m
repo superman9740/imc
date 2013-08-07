@@ -29,7 +29,7 @@
     CGContextRef ctx = UIGraphicsGetCurrentContext();
     const CGFloat* colors = CGColorGetComponents(self.textColor.CGColor);
     
-    CGContextSetRGBStrokeColor(ctx, colors[0], colors[1], colors[2], 1.0); // RGBA
+    CGContextSetRGBStrokeColor(ctx, colors[204], colors[0], colors[0], 1.0); // RGBA
     
     CGContextSetLineWidth(ctx, 1.0f);
     
@@ -38,7 +38,7 @@
     CGContextMoveToPoint(ctx, 0, self.bounds.size.height);
     CGContextAddLineToPoint(ctx, tmpSize.width, self.bounds.size.height);
     
-    CGContextStrokePath(ctx);
+    //CGContextStrokePath(ctx);
     
     [super drawRect:rect];
 }
